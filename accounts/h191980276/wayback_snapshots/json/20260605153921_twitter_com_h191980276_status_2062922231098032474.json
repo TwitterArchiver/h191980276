@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062849498271916149",
+    "created_at": "2026-06-05T15:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062922231098032474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062922231098032474",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062849498271916149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 恁反跨人都开始招童子军拿小孩当挡箭牌了，我觉得还是恁比较法西斯一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062849498271916149",
+        "created_at": "2026-06-05T15:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062922231098032474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062922231098032474",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062849498271916149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 恁反跨人都开始招童子军拿小孩当挡箭牌了，我觉得还是恁比较法西斯一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "2062849498271916149",
+        "created_at": "2026-06-05T10:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062849498271916149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2062751701636133265",
+              "start": 149,
+              "url": "https://t.co/eTqGAf87rt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062849498271916149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2372,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062751701636133265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Amber别闹，多大点事啊，我们是把它社交媒体里，其中一个账号ban了，它要是有小号，还要继续叫，我们也禁止而不了。\n\n况且那位当事人，做的坏事那可多了去了。\n\n好比大街上有人发疯，一会儿掏出一把匕首，一会一把玩具枪，一会儿掏出个搬砖\n\nBan人纯粹是“我不想看到这人在我首页狗叫”，一脚油门远离 https://t.co/eTqGAf87rt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 514,
+          "like_count": 4395,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1891
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31935,
+          "following_count": 3676,
+          "like_count": 189609,
+          "listed_count": 107,
+          "media_count": 3971,
+          "tweet_count": 69361
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

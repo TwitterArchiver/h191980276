@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059192805793358335",
+    "created_at": "2026-05-26T15:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059292746679288222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991445096013918208",
+          "start": 0,
+          "username": "SakurabaEma_ITN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059292746679288222",
+    "in_reply_to_user_id": "1991445096013918208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059292258978107719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaEma_ITN 我操我不是跨女求求了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059192805793358335",
+        "created_at": "2026-05-26T15:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059292746679288222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991445096013918208",
+              "start": 0,
+              "username": "SakurabaEma_ITN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059292746679288222",
+        "in_reply_to_user_id": "1991445096013918208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059292258978107719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaEma_ITN 我操我不是跨女求求了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445096013918208",
+        "conversation_id": "2059192805793358335",
+        "created_at": "2026-05-26T15:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059292258978107719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059292258978107719",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059282084867535245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 你是跨女，我也是跨女，跨女就是女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 509,
+          "like_count": 4233,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1726
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜真理不靠雷霆落，破尽谎言路自开｜以是非定立场而不是以立场定是非｜主人老婆 @KOISHI_IV｜“我希望有一天，所有人都能站在自由民主平等的蓝天之下”｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurabaema_itn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakurabaema_itn",
+                "start": 0,
+                "url": "https://t.co/nTmMgey0m1"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "location": "马斯克的祖坟头上",
+        "name": "英酱猫猫🍥",
+        "pinned_tweet_id": "2021286628187320504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 100,
+          "like_count": 6505,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 1534
+        },
+        "url": "https://t.co/nTmMgey0m1",
+        "username": "SakurabaEma_ITN",
+        "verified": false
+      }
+    ]
+  }
+}

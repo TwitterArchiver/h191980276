@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2064593908462768346",
+    "created_at": "2026-06-10T06:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064596501595295760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046283772455485440",
+          "start": 0,
+          "username": "AubreyCamilleuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064596501595295760",
+    "in_reply_to_user_id": "2046283772455485440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064593908462768346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AubreyCamilleuu “我是阉了的去害了的好男人”😅，那些会炫耀的不是跟他一样都是把跨女使用当成不好的不该做的坏事才会炫耀吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2064593908462768346",
+        "created_at": "2026-06-10T06:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064596501595295760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046283772455485440",
+              "start": 0,
+              "username": "AubreyCamilleuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064596501595295760",
+        "in_reply_to_user_id": "2046283772455485440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064593908462768346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AubreyCamilleuu “我是阉了的去害了的好男人”😅，那些会炫耀的不是跟他一样都是把跨女使用当成不好的不该做的坏事才会炫耀吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046283772455485440",
+        "conversation_id": "2064593908462768346",
+        "created_at": "2026-06-10T06:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064593908462768346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Naotan_Persona…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Naotan_Personal/status/2064291572066500758",
+              "start": 52,
+              "url": "https://t.co/oPMCUwhO96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064593908462768346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064291572066500758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“炫耀”固然不是什么好事，自己让渡权利还要骂一嘴其他跨女显然也不是好事。你想让渡权利就有让不完的权利。 https://t.co/oPMCUwhO96"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 518,
+          "like_count": 4467,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1944
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "💜🤍💚/💛🤍💜🖤/🩵🤍🩷",
+        "id": "2046283772455485440",
+        "name": "沅子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058491039305084928/dJpjJwl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 145,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 220
+        },
+        "username": "AubreyCamilleuu",
+        "verified": false
+      }
+    ]
+  }
+}

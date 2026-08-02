@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2049242626088636799",
+    "created_at": "2026-04-28T21:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T22:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049242626088636799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaominz_film/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/xiaominz_film/status/2049010883649765680",
+          "start": 21,
+          "url": "https://t.co/EUeBQROLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049242626088636799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049010883649765680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帅ftm帅，这睾酮也挺猛直接给干那么秃顶 https://t.co/EUeBQROLiu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 135113,
+        "height": 1570,
+        "media_key": "13_2049010778645417984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049010778645417984/img/_09FT1Sbnlwsyfav.jpg",
+        "public_metrics": {
+          "view_count": 22497
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/886x1570/3pfq46PYbbwZwVTD.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/320x566/cAQKRvCxQfQR1aRa.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/480x850/UO0RpnTo1eeaxiZI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/pl/R98BixEImkEMWVmA.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049010778645417984/vid/avc1/720x1274/1lcS9Wk6mVJg0Rf1.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2049242626088636799",
+        "created_at": "2026-04-28T21:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049242626088636799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaominz_film/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/xiaominz_film/status/2049010883649765680",
+              "start": 21,
+              "url": "https://t.co/EUeBQROLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049242626088636799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049010883649765680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帅ftm帅，这睾酮也挺猛直接给干那么秃顶 https://t.co/EUeBQROLiu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049010778645417984"
+          ]
+        },
+        "author_id": "1582899597323939841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2049010883649765680",
+        "created_at": "2026-04-28T06:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049010883649765680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJ1LEAxmr9",
+              "end": 108,
+              "expanded_url": "https://x.com/xiaominz_film/status/2049010883649765680/video/1",
+              "media_key": "13_2049010778645417984",
+              "start": 85,
+              "url": "https://t.co/cJ1LEAxmr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049010883649765680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 50846,
+          "like_count": 479,
+          "quote_count": 17,
+          "reply_count": 182,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "这位留胡子的跨性别男性是牛津大学的讲师。\n\n牛津大学一直被评为世界排名第一的大学。\n\n这就是“教育”下一代领导者的人。😡\n\n如果世界不能回归常识，那就只能奔向穷途末路！ https://t.co/cJ1LEAxmr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 496,
+          "like_count": 4072,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1530
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T01:01:05.000Z",
+        "description": "电影让人生如此美丽｜百花奖｜国内外影展多次获奖者｜演员｜导演｜制片人｜电影投资制作发行｜油管https://t.co/li3gcUvh4c\n电报：https://t.co/Z0pAC9rL4c\n工作邮箱cftiteam@hotmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ZXMFILM",
+                "end": 69,
+                "expanded_url": "http://youtube.com/@ZXMFILM",
+                "start": 46,
+                "url": "https://t.co/li3gcUvh4c"
+              },
+              {
+                "display_url": "t.me/+N5v_boxNvGk1N…",
+                "end": 96,
+                "expanded_url": "https://t.me/+N5v_boxNvGk1NTIx",
+                "start": 73,
+                "url": "https://t.co/Z0pAC9rL4c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@zhima.sima?_t…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@zhima.sima?_t=ZM-8sJL7wRcUGj&_r=1",
+                "start": 0,
+                "url": "https://t.co/urFkrAP7B8"
+              }
+            ]
+          }
+        },
+        "id": "1582899597323939841",
+        "name": "张晓敏电影人",
+        "pinned_tweet_id": "2048335642463969289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841590887253737472/-aZ3p3Ht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16737,
+          "following_count": 40,
+          "like_count": 119598,
+          "listed_count": 35,
+          "media_count": 1280,
+          "tweet_count": 25088
+        },
+        "url": "https://t.co/urFkrAP7B8",
+        "username": "xiaominz_film",
+        "verified": true
+      }
+    ]
+  }
+}

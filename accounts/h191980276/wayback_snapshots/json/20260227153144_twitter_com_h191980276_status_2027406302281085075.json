@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2027406302281085075",
+    "created_at": "2026-02-27T15:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027406302281085075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/h191980276/status/2027400997367353825",
+          "start": 122,
+          "url": "https://t.co/yBDSCLP4Os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027406302281085075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027400997367353825",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我搞不清底下那么多跨性别自己都猎自己的奇的，整几个窥私欲的小故事，最后得出来的结论的是推上的跨性别戾气重，要造反，仇恨是跨性别制造的，墙内捂嘴是因为跨性别自己不“友好”。只有推上的会捧这种人臭脚，这言论放墙内只会有顺直点赞，性少数早把你妈死了 https://t.co/yBDSCLP4Os"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2027406302281085075",
+        "created_at": "2026-02-27T15:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027406302281085075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/h191980276/status/2027400997367353825",
+              "start": 122,
+              "url": "https://t.co/yBDSCLP4Os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027406302281085075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027400997367353825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我搞不清底下那么多跨性别自己都猎自己的奇的，整几个窥私欲的小故事，最后得出来的结论的是推上的跨性别戾气重，要造反，仇恨是跨性别制造的，墙内捂嘴是因为跨性别自己不“友好”。只有推上的会捧这种人臭脚，这言论放墙内只会有顺直点赞，性少数早把你妈死了 https://t.co/yBDSCLP4Os"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2027400997367353825",
+        "created_at": "2026-02-27T15:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027400997367353825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fiona02390687/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Fiona02390687/status/2027289159220732350",
+              "start": 55,
+              "url": "https://t.co/v88rCUtdiB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027400997367353825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027289159220732350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特恨b又搁这搞回音壁呢，打着“墙内”的旗号开始宣传的是自己那一套，人家墙内的比你们这帮玩推的pride多了 https://t.co/v88rCUtdiB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 233,
+          "like_count": 2027,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 643
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

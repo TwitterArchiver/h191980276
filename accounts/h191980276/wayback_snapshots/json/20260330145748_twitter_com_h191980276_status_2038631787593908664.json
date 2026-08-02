@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038630039387095440",
+    "created_at": "2026-03-30T14:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T15:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038631787593908664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504387273919401987",
+          "start": 0,
+          "username": "KamiyaSara8972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038631787593908664",
+    "in_reply_to_user_id": "1504387273919401987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038630039387095440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamiyaSara8972 大部分“目的证明手段正当”，都会变成“借口证明手段正当”，只要找到借口是对的那手段就是对的，只要我声称自己是好心，我就能理直气壮干坏事\n比如打击lgbt保护儿童免受侵害\n\n反正人会用脚投票，想干坏事的会一直装，人也不是傻子，搞久了人不信任你照样会走"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038630039387095440].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038630039387095440",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2038630039387095440"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038630039387095440",
+        "created_at": "2026-03-30T14:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038631787593908664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504387273919401987",
+              "start": 0,
+              "username": "KamiyaSara8972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038631787593908664",
+        "in_reply_to_user_id": "1504387273919401987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038630039387095440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamiyaSara8972 大部分“目的证明手段正当”，都会变成“借口证明手段正当”，只要找到借口是对的那手段就是对的，只要我声称自己是好心，我就能理直气壮干坏事\n比如打击lgbt保护儿童免受侵害\n\n反正人会用脚投票，想干坏事的会一直装，人也不是傻子，搞久了人不信任你照样会走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 339,
+          "like_count": 2959,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1038
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "",
+        "id": "1504387273919401987",
+        "name": "神谷纱良",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016644862515269634/gxJx3Rjv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 390,
+          "like_count": 26820,
+          "listed_count": 4,
+          "media_count": 934,
+          "tweet_count": 33770
+        },
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}

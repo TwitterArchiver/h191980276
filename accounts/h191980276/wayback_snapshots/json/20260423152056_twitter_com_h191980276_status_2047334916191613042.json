@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047334916191613042",
+    "created_at": "2026-04-23T15:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047334916191613042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1736265610911428608",
+          "start": 3,
+          "username": "noname2095_"
+        },
+        {
+          "end": 32,
+          "id": "1489468526826082312",
+          "start": 17,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 43,
+          "id": "1150753335881826305",
+          "start": 33,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047334916191613042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047332129139531949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noname2095_: @Diamond_Kokoro @acacia038 可视化的目的是让跨性别者站着否定顺性别者的傲慢凝视，而不是作为小白鼠的可视化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047334916191613042",
+        "created_at": "2026-04-23T15:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047334916191613042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1736265610911428608",
+              "start": 3,
+              "username": "noname2095_"
+            },
+            {
+              "end": 32,
+              "id": "1489468526826082312",
+              "start": 17,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 43,
+              "id": "1150753335881826305",
+              "start": 33,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047334916191613042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047332129139531949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noname2095_: @Diamond_Kokoro @acacia038 可视化的目的是让跨性别者站着否定顺性别者的傲慢凝视，而不是作为小白鼠的可视化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2047261371411427573",
+        "created_at": "2026-04-23T15:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047332129139531949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 26,
+              "id": "1150753335881826305",
+              "start": 16,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047332129139531949",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047330682578633144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro @acacia038 可视化的目的是让跨性别者站着否定顺性别者的傲慢凝视，而不是作为小白鼠的可视化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 488,
+          "like_count": 3860,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1419
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 311,
+          "like_count": 4006,
+          "listed_count": 6,
+          "media_count": 295,
+          "tweet_count": 10259
+        },
+        "username": "noname2095_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity：Non-Male\n谁让你流下不幸福的眼泪，谁就是我的敌人。\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 72,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 49,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2042093453010665597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046817058214858752/aQHeEwPZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 66,
+          "like_count": 3229,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 2066
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "嫌われ",
+        "id": "1150753335881826305",
+        "name": "Charlotte F.",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046258494253273088/2leeLfOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 259,
+          "like_count": 2160,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 997
+        },
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

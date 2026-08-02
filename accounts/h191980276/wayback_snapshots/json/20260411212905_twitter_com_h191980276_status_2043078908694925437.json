@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042978025487147010",
+    "created_at": "2026-04-11T21:29:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T22:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043078908694925437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015157273849466880",
+          "start": 0,
+          "username": "SuzukishiMizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043078908694925437",
+    "in_reply_to_user_id": "2015157273849466880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043077900715332006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukishiMizuki 我同意你的观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042978025487147010",
+        "created_at": "2026-04-11T21:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043078908694925437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015157273849466880",
+              "start": 0,
+              "username": "SuzukishiMizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043078908694925437",
+        "in_reply_to_user_id": "2015157273849466880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043077900715332006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukishiMizuki 我同意你的观点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015157273849466880",
+        "conversation_id": "2042978025487147010",
+        "created_at": "2026-04-11T21:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043077900715332006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043077900715332006",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042987946832466232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 肯定有例外的，但我不會賭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 403,
+          "like_count": 3372,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1266
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T20:18:51.000Z",
+        "description": "偽娘／跨性別移民出國問題研究者\n已移居歐盟\n致力於訊息分享  諮詢   線下互助\n            男娘大帳篷互助主義 （且ftm友好）",
+        "id": "2015157273849466880",
+        "location": "Europe",
+        "name": "深月official🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2017734189961941133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015171116738740224/iqJYco_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 118,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 225
+        },
+        "username": "SuzukishiMizuki",
+        "verified": false
+      }
+    ]
+  }
+}

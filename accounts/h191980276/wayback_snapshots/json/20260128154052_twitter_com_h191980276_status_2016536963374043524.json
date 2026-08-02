@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2016536963374043524",
+    "created_at": "2026-01-28T15:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T16:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016536963374043524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Amadeus2259072…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Amadeus22590723/status/2016147625704358111",
+          "start": 39,
+          "url": "https://t.co/CZu4ICr2H2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016536963374043524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016147625704358111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性化自己的群体但是又把自己抽出来，“是她们mtf干的我是正经人”“我只是玩” https://t.co/CZu4ICr2H2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2016536963374043524",
+        "created_at": "2026-01-28T15:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016536963374043524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amadeus2259072…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Amadeus22590723/status/2016147625704358111",
+              "start": 39,
+              "url": "https://t.co/CZu4ICr2H2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016536963374043524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016147625704358111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性化自己的群体但是又把自己抽出来，“是她们mtf干的我是正经人”“我只是玩” https://t.co/CZu4ICr2H2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712408820574793728",
+        "conversation_id": "2016030272886608244",
+        "created_at": "2026-01-27T13:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T14:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016147625704358111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831127108791529473",
+              "start": 0,
+              "username": "Meuuuu_kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016147625704358111",
+        "in_reply_to_user_id": "1831127108791529473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016030272886608244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meuuuu_kk 所以对这些mtf的一些严肃科普是必要的啊，很多mtf就是喜欢性化自己，不，倒不如说是喜欢性化自己这个群体，但是应当更严肃，要有关于自己的LGBTQ＋身份认同以及身份意识，否则只能作为古代男宠在今天的新型表现形式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 194,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 497
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T10:04:57.000Z",
+        "description": "进步主义者",
+        "id": "1712408820574793728",
+        "name": "Amadeus",
+        "pinned_tweet_id": "1883983627740164501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003492664403197955/6tRS2Rua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 169,
+          "like_count": 14779,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 3434
+        },
+        "username": "Amadeus22590723",
+        "verified": false
+      }
+    ]
+  }
+}

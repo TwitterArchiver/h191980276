@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043276245623079059",
+    "created_at": "2026-04-12T17:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043379062153113756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "yoyobewild"
+        },
+        {
+          "end": 24,
+          "id": "1978032792383709184",
+          "start": 12,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043379062153113756",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043369414561812893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobewild @Sabrina8964 那协议不就是情趣用品增加带入感的道具嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043276245623079059",
+        "created_at": "2026-04-12T17:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043379062153113756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            },
+            {
+              "end": 24,
+              "id": "1978032792383709184",
+              "start": 12,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043379062153113756",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043369414561812893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild @Sabrina8964 那协议不就是情趣用品增加带入感的道具嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2043276245623079059",
+        "created_at": "2026-04-12T16:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043369414561812893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043369414561812893",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043276245623079059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 SM里面签的协议基本没用……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 416,
+          "like_count": 3399,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1291
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4717,
+          "following_count": 189,
+          "like_count": 36859,
+          "listed_count": 18,
+          "media_count": 382,
+          "tweet_count": 7975
+        },
+        "username": "yoyobewild",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "百家黑呀，主要属性是理智雷母猪迷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/neworder55249",
+                "end": 23,
+                "expanded_url": "https://ngl.link/neworder55249",
+                "start": 0,
+                "url": "https://t.co/lr5yq0C3Yf"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "California, USA",
+        "name": "霉娇娇推特反黑站",
+        "pinned_tweet_id": "2040397447449760065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041904595488927750/Vwi2RBwX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 233,
+          "like_count": 10805,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/lr5yq0C3Yf",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

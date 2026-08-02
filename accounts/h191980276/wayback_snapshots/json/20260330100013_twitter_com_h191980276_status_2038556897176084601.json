@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038480753139544446",
+    "created_at": "2026-03-30T10:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038556897176084601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "3He2_Ka1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038556897176084601",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038553920147272129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 从一开始就搁着分你们我们，你现在就是一直在你们我们，我可以分但你不能觉得是吧，怎么没见你跟顺人分你们我们，顺性别小孩都是我救的，顺人就该怎么怎么样，怎么好意思说柿子挑软的捏的，搁这就“敢叽叽歪歪”，搁下边回复又说“挑软柿子捏”，要点脸行不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038480753139544446",
+        "created_at": "2026-03-30T10:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038556897176084601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038556897176084601",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038553920147272129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 从一开始就搁着分你们我们，你现在就是一直在你们我们，我可以分但你不能觉得是吧，怎么没见你跟顺人分你们我们，顺性别小孩都是我救的，顺人就该怎么怎么样，怎么好意思说柿子挑软的捏的，搁这就“敢叽叽歪歪”，搁下边回复又说“挑软柿子捏”，要点脸行不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "2038480753139544446",
+        "created_at": "2026-03-30T09:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038553920147272129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038553920147272129",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038534825955786828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 你要觉得你们跨性别是反戒网瘾的棋子，那我无话可说，你们要这么认为我也没办法，挨教官打骂体罚的是你们，政府对跨性别的压迫你们是不敢反抗的，救助者的表述为了迎合大众你们就敢叽叽歪歪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 338,
+          "like_count": 2919,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1008
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  哈莫林镇的吹笛人/ 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "location": "第六病室",
+        "name": "伊万",
+        "pinned_tweet_id": "2035371382541062404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 447,
+          "like_count": 94850,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 4260
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

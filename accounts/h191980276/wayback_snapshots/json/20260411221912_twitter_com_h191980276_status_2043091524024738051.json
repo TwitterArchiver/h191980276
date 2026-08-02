@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043091521684279296"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043091524024738051",
+    "created_at": "2026-04-11T22:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T23:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043091524024738051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/47HkDd0d3E",
+          "end": 93,
+          "expanded_url": "https://x.com/h191980276/status/2043091524024738051/photo/1",
+          "media_key": "3_2043091521684279296",
+          "start": 70,
+          "url": "https://t.co/47HkDd0d3E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043091524024738051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那那些男性认同者就没有那么看不起男娘的人家都男娘了又怎么了，连跨男娘都能男娘了，就女性认同的还那么多看不起药娘还嫌人脏要划清界限多高贵似的 https://t.co/47HkDd0d3E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2043091521684279296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFqE6gmakAAyz4e.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043091521684279296"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043091524024738051",
+        "created_at": "2026-04-11T22:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T23:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043091524024738051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47HkDd0d3E",
+              "end": 93,
+              "expanded_url": "https://x.com/h191980276/status/2043091524024738051/photo/1",
+              "media_key": "3_2043091521684279296",
+              "start": 70,
+              "url": "https://t.co/47HkDd0d3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043091524024738051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那那些男性认同者就没有那么看不起男娘的人家都男娘了又怎么了，连跨男娘都能男娘了，就女性认同的还那么多看不起药娘还嫌人脏要划清界限多高贵似的 https://t.co/47HkDd0d3E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 403,
+          "like_count": 3374,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1273
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

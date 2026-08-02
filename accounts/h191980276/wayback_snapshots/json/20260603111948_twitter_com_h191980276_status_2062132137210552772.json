@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Caricature & Portrait",
+          "id": "1037077233070821376",
+          "name": "Caricature and portrait"
+        }
+      }
+    ],
+    "conversation_id": "2062132137210552772",
+    "created_at": "2026-06-03T11:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062132137210552772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thinkiamsad/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/thinkiamsad/status/2060959752234897422",
+          "start": 3,
+          "url": "https://t.co/6fZpuf68uL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062132137210552772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060959752234897422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实 https://t.co/6fZpuf68uL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "2062132137210552772",
+        "created_at": "2026-06-03T11:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062132137210552772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thinkiamsad/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/thinkiamsad/status/2060959752234897422",
+              "start": 3,
+              "url": "https://t.co/6fZpuf68uL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062132137210552772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060959752234897422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实 https://t.co/6fZpuf68uL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "901544704147423232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "2060959752234897422",
+        "created_at": "2026-05-31T05:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060959752234897422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SmplTruth/stat…",
+              "end": 234,
+              "expanded_url": "https://twitter.com/SmplTruth/status/2060817603556159954",
+              "start": 211,
+              "url": "https://t.co/vwGCUX6iJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060959752234897422",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2775,
+          "impression_count": 886784,
+          "like_count": 63877,
+          "quote_count": 29,
+          "reply_count": 120,
+          "retweet_count": 3369
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060817603556159954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sorry to put a hateful caricature on your TL but there's something almost profound in a Baudrillardian sense about seeing someone describe an actual photograph as a deluded fiction and a drawing as true reality https://t.co/vwGCUX6iJP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 513,
+          "like_count": 4339,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1827
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-26T20:39:42.000Z",
+        "description": "thorny: he/him, cis, bi, 23 y/o, anarchist, communist. i promise that i'm at least as cool and smart as i am embarrassing. https://t.co/9EU1s48XuY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ithinkiplaygames.bsky.social",
+                "end": 146,
+                "expanded_url": "http://ithinkiplaygames.bsky.social",
+                "start": 123,
+                "url": "https://t.co/9EU1s48XuY"
+              }
+            ]
+          }
+        },
+        "id": "901544704147423232",
+        "location": "Mos Iceland Container Store",
+        "name": "thorny (ithinkiplaygames.bsky.social)",
+        "pinned_tweet_id": "1600004048324730880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856366838587826176/9TDu6ZOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 7458,
+          "like_count": 1042599,
+          "listed_count": 13,
+          "media_count": 7004,
+          "tweet_count": 568179
+        },
+        "username": "thinkiamsad",
+        "verified": false
+      }
+    ]
+  }
+}

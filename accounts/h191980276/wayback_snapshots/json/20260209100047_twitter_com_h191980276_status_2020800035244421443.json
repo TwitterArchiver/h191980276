@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2020756609291730982",
+    "created_at": "2026-02-09T10:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T11:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020800035244421443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1666070178134896642",
+          "start": 0,
+          "username": "headlesssoygirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020800035244421443",
+    "in_reply_to_user_id": "1666070178134896642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020756609291730982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@headlesssoygirl 光是把跨女当成“怎么样怎么样的男性”就很不不非二元了，那他是什么？搞非二元的男性？还是搞非二元的女性？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2020756609291730982",
+        "created_at": "2026-02-09T10:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020800035244421443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1666070178134896642",
+              "start": 0,
+              "username": "headlesssoygirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020800035244421443",
+        "in_reply_to_user_id": "1666070178134896642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020756609291730982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@headlesssoygirl 光是把跨女当成“怎么样怎么样的男性”就很不不非二元了，那他是什么？搞非二元的男性？还是搞非二元的女性？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666070178134896642",
+        "conversation_id": "2020756609291730982",
+        "created_at": "2026-02-09T07:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020756609291730982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020756609291730982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各路非二元人士，我完全尊重你们的性别认同和代词等等，但是能不能请不要对我们跨女进行各种奇怪的大思考了，谢谢🙏🙏🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 204,
+          "like_count": 1612,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 526
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T13:11:09.000Z",
+        "description": "But I was there",
+        "id": "1666070178134896642",
+        "name": "headlesssoygirl",
+        "pinned_tweet_id": "2020504244223398218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995870503857520641/lQljI4aC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 284,
+          "like_count": 8485,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 198
+        },
+        "username": "headlesssoygirl",
+        "verified": false
+      }
+    ]
+  }
+}

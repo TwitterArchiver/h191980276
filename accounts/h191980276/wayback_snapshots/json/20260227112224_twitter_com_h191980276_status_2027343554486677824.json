@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2027341320201949301",
+    "created_at": "2026-02-27T11:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027343554486677824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027343554486677824",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027341320201949301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你这种货色跟ill不是一种玩意😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_2027340955783933952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKP26QaMAAoWGC.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2027341320201949301",
+        "created_at": "2026-02-27T11:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027343554486677824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027343554486677824",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027341320201949301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这种货色跟ill不是一种玩意😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027340955783933952"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2027341320201949301",
+        "created_at": "2026-02-27T11:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027341320201949301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFcy7NbH2H",
+              "end": 44,
+              "expanded_url": "https://x.com/h191980276/status/2027341320201949301/photo/1",
+              "media_key": "3_2027340955783933952",
+              "start": 21,
+              "url": "https://t.co/jFcy7NbH2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027341320201949301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反跨碰瓷圈的又开始搁着自导自演炒作碰瓷了 https://t.co/jFcy7NbH2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 234,
+          "like_count": 2014,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 637
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

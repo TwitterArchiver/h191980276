@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2013341890368938307",
+    "created_at": "2026-01-19T20:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T21:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013341890368938307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662723831533027329",
+          "start": 3,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013341890368938307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012969463516123543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loong001116: 我骄傲我是酷儿≠我认为酷儿高人一等\n我骄傲我是酷儿，仅仅因为我全然接纳我自己，我骄傲我出柜的勇气，我骄傲“我爱自己，哪怕全世界有很多人恨我的本质”这件事，我做到了很多顺直一生都做不到的自洽，我的骄傲完全来自我的思想和灵魂。\n而顺直的骄傲是比较，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2013341890368938307",
+        "created_at": "2026-01-19T20:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T21:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013341890368938307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662723831533027329",
+              "start": 3,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013341890368938307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012969463516123543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loong001116: 我骄傲我是酷儿≠我认为酷儿高人一等\n我骄傲我是酷儿，仅仅因为我全然接纳我自己，我骄傲我出柜的勇气，我骄傲“我爱自己，哪怕全世界有很多人恨我的本质”这件事，我做到了很多顺直一生都做不到的自洽，我的骄傲完全来自我的思想和灵魂。\n而顺直的骄傲是比较，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "2012969463516123543",
+        "created_at": "2026-01-18T19:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012969463516123543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012969463516123543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 581,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我骄傲我是酷儿≠我认为酷儿高人一等\n我骄傲我是酷儿，仅仅因为我全然接纳我自己，我骄傲我出柜的勇气，我骄傲“我爱自己，哪怕全世界有很多人恨我的本质”这件事，我做到了很多顺直一生都做不到的自洽，我的骄傲完全来自我的思想和灵魂。\n而顺直的骄傲是比较，是压人一头，是无尽的霸凌，是虚张声势"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 179,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 454
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "仅仅只是激进酷儿主义，亲酷儿的女权和男权我都会关注，介意可block",
+        "id": "1662723831533027329",
+        "location": "Mars",
+        "name": "8骟顺✂️9图直🔪6劳荣枝4(🏳️‍🌈🏳️‍⚧互fo)",
+        "pinned_tweet_id": "2011815268020830292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008924596767260672/WIx1CBN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1110,
+          "like_count": 3695,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2720
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

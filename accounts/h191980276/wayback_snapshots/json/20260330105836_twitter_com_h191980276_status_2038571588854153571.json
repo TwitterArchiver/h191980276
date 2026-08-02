@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038571588854153571",
+    "created_at": "2026-03-30T10:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038571588854153571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913084413942145024",
+          "start": 3,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038571588854153571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038458936685404189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_aini: 香港一对女同被仇恨杀害、郑州公园事件…针对性少数群体仇恨暴力，这些事件的共同点都是他们的身份认同是性少数，假如所有的针对性少数群体的仇恨暴力需要被曝光出来都必须「刻意抹去」当事人的身份认同，这无疑是对当事人的二次伤害，假如抹去认同才能给事件曝光，那么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038571588854153571",
+        "created_at": "2026-03-30T10:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038571588854153571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913084413942145024",
+              "start": 3,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038571588854153571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038458936685404189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_aini: 香港一对女同被仇恨杀害、郑州公园事件…针对性少数群体仇恨暴力，这些事件的共同点都是他们的身份认同是性少数，假如所有的针对性少数群体的仇恨暴力需要被曝光出来都必须「刻意抹去」当事人的身份认同，这无疑是对当事人的二次伤害，假如抹去认同才能给事件曝光，那么…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2038458936685404189",
+        "created_at": "2026-03-30T03:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038458936685404189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038458936685404189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2231,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "香港一对女同被仇恨杀害、郑州公园事件…针对性少数群体仇恨暴力，这些事件的共同点都是他们的身份认同是性少数，假如所有的针对性少数群体的仇恨暴力需要被曝光出来都必须「刻意抹去」当事人的身份认同，这无疑是对当事人的二次伤害，假如抹去认同才能给事件曝光，那么一开始就不要曝光了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 337,
+          "like_count": 2928,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1015
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 643,
+          "like_count": 4007,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 3259
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

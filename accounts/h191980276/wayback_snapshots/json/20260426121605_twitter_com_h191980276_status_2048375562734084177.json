@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2048375562734084177",
+    "created_at": "2026-04-26T12:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T13:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048375562734084177"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048375562734084177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要是跨女伪装成顺女侵犯我空间怎么，\n\n要是顺直男伪装成跨女强奸我怎么办\n\n要是男同伪装成顺直男骗我找不到顺直男老公怎么办\n\n要是有人伪装成男同抢我亲亲老公怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2048375562734084177",
+        "created_at": "2026-04-26T12:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048375562734084177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048375562734084177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是跨女伪装成顺女侵犯我空间怎么，\n\n要是顺直男伪装成跨女强奸我怎么办\n\n要是男同伪装成顺直男骗我找不到顺直男老公怎么办\n\n要是有人伪装成男同抢我亲亲老公怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 489,
+          "like_count": 3981,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1483
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

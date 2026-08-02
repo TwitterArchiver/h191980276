@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038276223810605130",
+    "created_at": "2026-03-29T15:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038276223810605130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ValeriaEulabei…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/ValeriaEulabeia/status/2038260219227365878",
+          "start": 30,
+          "url": "https://t.co/LAwA9Ch1Oh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038276223810605130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038260219227365878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你奶奶个逼的“保护性歧视”“善意歧视”“善意捂嘴”我操你妈 https://t.co/LAwA9Ch1Oh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038276223810605130",
+        "created_at": "2026-03-29T15:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038276223810605130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ValeriaEulabei…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/2038260219227365878",
+              "start": 30,
+              "url": "https://t.co/LAwA9Ch1Oh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038276223810605130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038260219227365878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你奶奶个逼的“保护性歧视”“善意歧视”“善意捂嘴”我操你妈 https://t.co/LAwA9Ch1Oh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313383273079345152",
+        "conversation_id": "2038260219227365878",
+        "created_at": "2026-03-29T14:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038260219227365878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Linyue7523/sta…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/Linyue7523/status/2038223745291297049",
+              "start": 94,
+              "url": "https://t.co/505d9eN7TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038260219227365878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038223745291297049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么叫“外界的客观视角”？你是觉得跨性别这个概念是一群人主观自嗨的产物？\n\n如果多数人错了，那就意味着多数人错了，而不是意味着少数人应该闭嘴，更不意味着少数人有义务附和多数人的错误，懂？ https://t.co/505d9eN7TS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 337,
+          "like_count": 2840,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 952
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Col pugnale nella mano,\ncon la fede dentro il cuore,\nessa avanza, va lontano,\ncon la gloria e di valor!",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6923,
+          "following_count": 3770,
+          "like_count": 152186,
+          "listed_count": 18,
+          "media_count": 2604,
+          "tweet_count": 23911
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

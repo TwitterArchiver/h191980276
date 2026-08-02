@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2007011347058573735",
+    "created_at": "2026-01-02T10:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T11:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007037013200134518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007037013200134518",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007011347058573735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 我跟一般顺性别异性恋讲这个故事他们都是同情的给反性少数势力扣一分的，都没有听了觉得性少数扣一分的，“我怎么没被铁拳”这样的话是人能说出来的吗，这也能借机炒作宣传，人血馒头也太好吃了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2007011347058573735",
+        "created_at": "2026-01-02T10:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007037013200134518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007037013200134518",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007011347058573735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 我跟一般顺性别异性恋讲这个故事他们都是同情的给反性少数势力扣一分的，都没有听了觉得性少数扣一分的，“我怎么没被铁拳”这样的话是人能说出来的吗，这也能借机炒作宣传，人血馒头也太好吃了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2007011347058573735",
+        "created_at": "2026-01-02T08:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007011347058573735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/siyu060910/status/2006802940900634796",
+              "start": 15,
+              "url": "https://t.co/pscmBsRXSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007011347058573735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006802940900634796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "sis以为中国真的是法治社会 https://t.co/pscmBsRXSQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 168,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 422
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/HRT 2022.7🍥/Fullstack/LLM/Blogger      #odtwt💊#drugtwt💉",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 55,
+                "tag": "odtwt"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4985,
+          "following_count": 1695,
+          "like_count": 23045,
+          "listed_count": 14,
+          "media_count": 932,
+          "tweet_count": 7829
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

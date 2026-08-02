@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2027279382432317604",
+    "created_at": "2026-02-27T07:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027282644187361569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986828541930119168",
+          "start": 0,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027282644187361569",
+    "in_reply_to_user_id": "1986828541930119168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027279382432317604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigure07288 意思是只要揭露了二元指派性别的真相，人们就不会服从他的指派了😁所谓“变性”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2027279359648911360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJX1ixa0AAEavI.jpg",
+        "width": 527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2027279382432317604",
+        "created_at": "2026-02-27T07:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027282644187361569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027282644187361569",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027279382432317604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 意思是只要揭露了二元指派性别的真相，人们就不会服从他的指派了😁所谓“变性”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027279359648911360"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2027279382432317604",
+        "created_at": "2026-02-27T07:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027279382432317604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/locm8pZiu1",
+              "end": 58,
+              "expanded_url": "https://x.com/shigure07288/status/2027279382432317604/photo/1",
+              "media_key": "3_2027279359648911360",
+              "start": 35,
+              "url": "https://t.co/locm8pZiu1"
+            },
+            {
+              "display_url": "x.com/fidjmk/status/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/fidjmk/status/2027278992638894308",
+              "start": 59,
+              "url": "https://t.co/aOwSsb2M9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027279382432317604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027278992638894308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以哪来的变性知识呢，你觉得只要区分gender和sex就要变性了？ https://t.co/locm8pZiu1 https://t.co/aOwSsb2M9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 232,
+          "like_count": 1990,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 630
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|毛主义|左翼共产主义|民主社会主义|左翼民粹主义|反资本主义|平权主义|反激进女权|友跨",
+        "id": "1986828541930119168",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🇻🇪🏳️‍🌈",
+        "pinned_tweet_id": "2004470065887117362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872933650059266/LBQYDyhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 533,
+          "like_count": 2085,
+          "listed_count": 6,
+          "media_count": 243,
+          "tweet_count": 3036
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

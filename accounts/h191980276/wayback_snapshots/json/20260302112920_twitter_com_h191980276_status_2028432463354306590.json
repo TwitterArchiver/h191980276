@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2028049776768594225",
+    "created_at": "2026-03-02T11:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T12:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028432463354306590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028432463354306590",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028049776768594225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl 你有这种想法说明你没有女心，是男跨，只有学计算机的男娘，男跨才会有这种想法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2028049776768594225",
+        "created_at": "2026-03-02T11:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028432463354306590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028432463354306590",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028049776768594225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl 你有这种想法说明你没有女心，是男跨，只有学计算机的男娘，男跨才会有这种想法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2028049776768594225",
+        "created_at": "2026-03-01T10:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028049776768594225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028049776768594225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 32102,
+          "like_count": 199,
+          "quote_count": 7,
+          "reply_count": 38,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最近一两年，男娘/ts跨性别女性/MTF和想做变性手术的越来越多，根本原因就在于中国从上到下歧视男性的风气，女性作为上层阶级，拥有诈骗和诬告男性的自由。大部分男性从小被家庭培育当力工，在学校被当作力工搬书做重活，在社会上被各种打压，最后被榨干早死。清醒的人不愿做奴隶，宁愿做人妖！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 233,
+          "like_count": 2046,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 648
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "985本QS/US news/THE50硕在读|I'm a Good girl. Please don't hurt me.👧|洪水将至🌈|女诬退散！|喜阴冷潮湿|AI计算机理工MTF永远是男人公跨 |男娘拯救世界| 我必须找回我自己，每个未曾起舞的日子，都是对人生的辜负| 我的处女膜哪里去了，把处女膜还给我！！！",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 734,
+          "like_count": 11186,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 5741
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      }
+    ]
+  }
+}

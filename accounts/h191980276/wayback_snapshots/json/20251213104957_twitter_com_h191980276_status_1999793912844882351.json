@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "1999793912844882351",
+    "created_at": "2025-12-13T10:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T11:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999793912844882351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Windy_Skyline/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Windy_Skyline/status/1999791094704546198",
+          "start": 29,
+          "url": "https://t.co/yYbxiaQPGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999793912844882351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999791094704546198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“上边压力”“上级领导要求”说不定是克里姆林宫的领导呢🤭 https://t.co/yYbxiaQPGz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "1999793912844882351",
+        "created_at": "2025-12-13T10:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999793912844882351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Windy_Skyline/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Windy_Skyline/status/1999791094704546198",
+              "start": 29,
+              "url": "https://t.co/yYbxiaQPGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999793912844882351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999791094704546198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“上边压力”“上级领导要求”说不定是克里姆林宫的领导呢🤭 https://t.co/yYbxiaQPGz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "1999791094704546198",
+        "created_at": "2025-12-13T10:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999791094704546198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/windy_skyline/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/windy_skyline/status/1999621223291191449",
+              "start": 144,
+              "url": "https://t.co/Ty039Z8wms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999791094704546198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999621223291191449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "状态性、素质性、稳定性同性恋这种上世纪美国极端右翼群体搞出来的垃圾也能在他这发扬光大，搞一套“这人还有没有救，能不能当顺直”的理论，\n如果你只是状态性，那我们用心理干预可以让你回归‘正常’”\n如果你是素质性，那我们让家庭、学校来联合围剿你\n如果你是稳定性，那就来我这挂号我来对你家人狗叫 https://t.co/Ty039Z8wms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 140,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 281
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 225,
+          "like_count": 2380,
+          "listed_count": 9,
+          "media_count": 3515,
+          "tweet_count": 12092
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

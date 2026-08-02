@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047285724928790966",
+    "created_at": "2026-04-23T16:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047347778335232127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20473…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2047339035451101425",
+          "start": 0,
+          "url": "https://t.co/djMLHx58TS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047347778335232127",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047339035451101425",
+        "type": "quoted"
+      },
+      {
+        "id": "2047285724928790966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/djMLHx58TS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047285724928790966",
+        "created_at": "2026-04-23T16:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047347778335232127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20473…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2047339035451101425",
+              "start": 0,
+              "url": "https://t.co/djMLHx58TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047347778335232127",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047339035451101425",
+            "type": "quoted"
+          },
+          {
+            "id": "2047285724928790966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/djMLHx58TS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165831053241569280",
+        "conversation_id": "2047285724928790966",
+        "created_at": "2026-04-23T15:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047339035451101425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            },
+            {
+              "end": 21,
+              "id": "1737012216355033088",
+              "start": 12,
+              "username": "doasroot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "en.wikipedia.org/wiki/The_%22br…",
+              "end": 67,
+              "expanded_url": "https://en.wikipedia.org/wiki/The_%22brain_matures_at_25%22_myth",
+              "images": [
+                {
+                  "height": 1280,
+                  "url": "https://pbs.twimg.com/news_img/2047339086994923520/g1dpaURH?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047339086994923520/g1dpaURH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "The \"brain matures at 25\" myth - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/The_%22brain_matures_at_25%22_myth",
+              "url": "https://t.co/q65Q5l2x7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047339035451101425",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047335196824158465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 @doasroot 英語維基百科就這個都市傳說，專門開了一頁\n\nhttps://t.co/q65Q5l2x7X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047285724928790966",
+        "created_at": "2026-04-23T12:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047285724928790966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047285724928790966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 818,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "众所周知，人在25岁大脑发育完全之前没有能力资格判读自己的性别认同，搞不清楚自己是男是女，但是随便一个十几岁小孩都有资格在搞不清楚自己是男是女的情况下指点别人的性别认同是真是假"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 488,
+          "like_count": 3868,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1430
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-26T03:39:33.000Z",
+        "description": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也。」——《論語・泰伯》",
+        "id": "1165831053241569280",
+        "location": "Hong Kong",
+        "name": "Billy Wong",
+        "pinned_tweet_id": "1804342083114930390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165845202398896128/Edqdd0FK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 213,
+          "like_count": 9102,
+          "listed_count": 3,
+          "media_count": 602,
+          "tweet_count": 12556
+        },
+        "username": "billyswong",
+        "verified": false
+      }
+    ]
+  }
+}

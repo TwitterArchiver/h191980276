@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998794735876792321"
+      ],
+      "media_source_tweet_id": [
+        "1998794742830899634"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2002367837374234761",
+    "created_at": "2025-12-20T13:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T14:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002367837374234761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987739556159094785",
+          "start": 3,
+          "username": "Zew18210"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EgfuDxCfwb",
+          "end": 135,
+          "expanded_url": "https://x.com/Zew18210/status/1998794742830899634/photo/1",
+          "media_key": "3_1998794735876792321",
+          "start": 112,
+          "url": "https://t.co/EgfuDxCfwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002367837374234761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998794742830899634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zew18210: 为什么有这么多想和跨在一起的顺性别者却压根没有尊重感？\n😓\n顺男搭讪跨男但却从不承认自己不是直男，顺女喜欢跨男确认为 ftx是男 mtx是女\n\n拜托，我不是歧视顺直，而是打扰我的顺直智力都很低… https://t.co/EgfuDxCfwb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 508,
+        "media_key": "3_1998794735876792321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70lOOLbYAEfQRe.jpg",
+        "width": 1110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998794735876792321"
+          ],
+          "media_source_tweet_id": [
+            "1998794742830899634"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002367837374234761",
+        "created_at": "2025-12-20T13:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002367837374234761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987739556159094785",
+              "start": 3,
+              "username": "Zew18210"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgfuDxCfwb",
+              "end": 135,
+              "expanded_url": "https://x.com/Zew18210/status/1998794742830899634/photo/1",
+              "media_key": "3_1998794735876792321",
+              "start": 112,
+              "url": "https://t.co/EgfuDxCfwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002367837374234761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998794742830899634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zew18210: 为什么有这么多想和跨在一起的顺性别者却压根没有尊重感？\n😓\n顺男搭讪跨男但却从不承认自己不是直男，顺女喜欢跨男确认为 ftx是男 mtx是女\n\n拜托，我不是歧视顺直，而是打扰我的顺直智力都很低… https://t.co/EgfuDxCfwb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998794735876792321"
+          ]
+        },
+        "author_id": "1987739556159094785",
+        "conversation_id": "1998794742830899634",
+        "created_at": "2025-12-10T16:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998794742830899634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgfuDxCfwb",
+              "end": 121,
+              "expanded_url": "https://x.com/Zew18210/status/1998794742830899634/photo/1",
+              "media_key": "3_1998794735876792321",
+              "start": 98,
+              "url": "https://t.co/EgfuDxCfwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998794742830899634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5444,
+          "like_count": 73,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有这么多想和跨在一起的顺性别者却压根没有尊重感？\n😓\n顺男搭讪跨男但却从不承认自己不是直男，顺女喜欢跨男确认为 ftx是男 mtx是女\n\n拜托，我不是歧视顺直，而是打扰我的顺直智力都很低… https://t.co/EgfuDxCfwb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 149,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 343
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T04:31:00.000Z",
+        "description": "ftm /he him 我爱你们也爱我自己 我有点自卑所以账号记录我的生活",
+        "id": "1987739556159094785",
+        "location": "Singapore",
+        "name": "Zew",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987739895788605440/o1A2mRPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 8,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 118
+        },
+        "username": "Zew18210",
+        "verified": false
+      }
+    ]
+  }
+}

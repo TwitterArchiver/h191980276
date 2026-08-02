@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2045834206614610324",
+    "created_at": "2026-04-20T05:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T06:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046099559051563038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1655492206076256256",
+          "start": 0,
+          "username": "occult_explain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046099559051563038",
+    "in_reply_to_user_id": "1655492206076256256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045834206614610324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@occult_explain 什么傻逼玩意想骂西方虚伪可以直接骂，别拿中国性少数当枪使行不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2045834206614610324",
+        "created_at": "2026-04-20T05:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046099559051563038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1655492206076256256",
+              "start": 0,
+              "username": "occult_explain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046099559051563038",
+        "in_reply_to_user_id": "1655492206076256256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045834206614610324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@occult_explain 什么傻逼玩意想骂西方虚伪可以直接骂，别拿中国性少数当枪使行不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655492206076256256",
+        "conversation_id": "2045834206614610324",
+        "created_at": "2026-04-19T11:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045834206614610324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045834206614610324",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3072,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "물론 중국은 퀴어를 탄압한다. 그것을 부정하는 사람은 없다. 그러나 과연 중국의 탄압이 다른 소위 \"인권선진국\"들보다 심한지는 재검토해봐야 하지 않을까?\n\n당장 남한을 보자. 중국은 말뿐이더라도 당 차원에서 혐오선동을 금지하지만, 남한에선 정치인들이 대놓고 동성애 독재 따위의 망언을 한다."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 473,
+          "like_count": 3724,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1373
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T08:38:00.000Z",
+        "description": "🧊⛏️",
+        "id": "1655492206076256256",
+        "location": "아가르타 왕국 샴발라 시",
+        "name": "이페아스",
+        "pinned_tweet_id": "2040025675730690052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040024670259531776/9OlnX218_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 107,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 191
+        },
+        "username": "occult_explain",
+        "verified": false
+      }
+    ]
+  }
+}

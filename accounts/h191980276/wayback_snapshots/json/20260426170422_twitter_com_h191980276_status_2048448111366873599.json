@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2048448111366873599",
+    "created_at": "2026-04-26T17:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048448111366873599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2949868909",
+          "start": 3,
+          "username": "akikozono"
+        },
+        {
+          "end": 24,
+          "id": "1459391643988082701",
+          "start": 15,
+          "username": "umi_hoxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048448111366873599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048414406380585037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akikozono: @umi_hoxi 我曾经也抱怨上帝不公，但后来才发现跨性别是上帝给我最好的礼物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2048448111366873599",
+        "created_at": "2026-04-26T17:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048448111366873599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2949868909",
+              "start": 3,
+              "username": "akikozono"
+            },
+            {
+              "end": 24,
+              "id": "1459391643988082701",
+              "start": 15,
+              "username": "umi_hoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048448111366873599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048414406380585037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akikozono: @umi_hoxi 我曾经也抱怨上帝不公，但后来才发现跨性别是上帝给我最好的礼物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2949868909",
+        "conversation_id": "2048324654826459223",
+        "created_at": "2026-04-26T14:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048414406380585037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459391643988082701",
+              "start": 0,
+              "username": "umi_hoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048414406380585037",
+        "in_reply_to_user_id": "1459391643988082701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048324654826459223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umi_hoxi 我曾经也抱怨上帝不公，但后来才发现跨性别是上帝给我最好的礼物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 491,
+          "like_count": 3988,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1489
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-29T10:13:10.000Z",
+        "description": "日本好きな中国人女性🏳️‍⚧️🏳️‍🌈\nLGBTQ｜サッカー｜日中関係と民間交流\nサッカー日本代表応援歴16年🇯🇵\n中国SNSで日本代表応援アカ運営（15万+） | BBC・NHK取材歴あり | Middlesbrough FC China Supporters Club Founder | UTB🔴⚪️",
+        "id": "2949868909",
+        "name": "Akikozono",
+        "pinned_tweet_id": "2041133906288910586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046148227712659456/EQ15Dcyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6421,
+          "following_count": 1995,
+          "like_count": 15057,
+          "listed_count": 20,
+          "media_count": 1715,
+          "tweet_count": 4966
+        },
+        "username": "akikozono",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-13T05:25:12.000Z",
+        "description": "坐标鄭州/僮苗文化彝族/電波系/樂觀又陰鬱的樂子人/业余coser 165/55  /vx🚪50/qq🚪88/跨女/想srs沒錢/支持非二元/ ENTJ /双性戀/大一汉語言在讀\nChinese / English\n，架空世界/科幻/東方，MC老玩家,      \n老婆：@D0ntTox1c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "D0ntTox1c"
+              }
+            ]
+          }
+        },
+        "id": "1459391643988082701",
+        "location": "索拉里斯星",
+        "name": "太陽海星🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047192748084858880/gHveIg2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 421,
+          "like_count": 36796,
+          "listed_count": 2,
+          "media_count": 828,
+          "tweet_count": 7597
+        },
+        "username": "umi_hoxi",
+        "verified": false
+      }
+    ]
+  }
+}

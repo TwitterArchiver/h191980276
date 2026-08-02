@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038480753139544446",
+    "created_at": "2026-03-30T08:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038534825955786828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "3He2_Ka1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038534825955786828",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038480753139544446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 好你妈了个大头鬼，是不是就是一开始就是好人们拿着枪乱指人啊，捏造出一堆理由必须得按好人的做，要不然就多十恶不赦，什么罪名都套上来了，啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038480753139544446",
+        "created_at": "2026-03-30T08:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038534825955786828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038534825955786828",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038480753139544446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 好你妈了个大头鬼，是不是就是一开始就是好人们拿着枪乱指人啊，捏造出一堆理由必须得按好人的做，要不然就多十恶不赦，什么罪名都套上来了，啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "2038480753139544446",
+        "created_at": "2026-03-30T04:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T05:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038480753139544446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/h191980276/status/2038129587981582758",
+              "start": 59,
+              "url": "https://t.co/33gDQTsPYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038480753139544446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038129587981582758",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味，好人就该被枪指着吗，好人犯了你们嘴里的一点错就变得十恶不赦了？坏人把你们囚禁起来，打罚虐待电击就可以接受了？ https://t.co/33gDQTsPYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 338,
+          "like_count": 2896,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 999
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  哈莫林镇的吹笛人/ 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "location": "第六病室",
+        "name": "伊万",
+        "pinned_tweet_id": "2035371382541062404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 447,
+          "like_count": 94845,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 4254
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

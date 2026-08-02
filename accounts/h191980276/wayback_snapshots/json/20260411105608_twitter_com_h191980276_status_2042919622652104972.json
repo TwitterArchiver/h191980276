@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042776265065955610",
+    "created_at": "2026-04-11T10:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042919622652104972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714897821537808384",
+          "start": 0,
+          "username": "LimeInvited"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042919622652104972",
+    "in_reply_to_user_id": "1714897821537808384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042776265065955610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimeInvited 被女顺直腌入味这辈子就完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042776265065955610",
+        "created_at": "2026-04-11T10:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042919622652104972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714897821537808384",
+              "start": 0,
+              "username": "LimeInvited"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042919622652104972",
+        "in_reply_to_user_id": "1714897821537808384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042776265065955610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimeInvited 被女顺直腌入味这辈子就完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714897821537808384",
+        "conversation_id": "2042776265065955610",
+        "created_at": "2026-04-11T01:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042776265065955610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042776265065955610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个好朋友跟我说自己的问题还是跟顺女社交太少了\n我感觉自己又隐隐地被歧视了 跟我一起出去玩的再多我也是虚假的低级的是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 385,
+          "like_count": 3331,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1247
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:54:49.000Z",
+        "description": "🏳️‍⚧️ | 经皮蜕却，由音疗愈，仅在受邀时有害。",
+        "id": "1714897821537808384",
+        "location": "Maywood, CA",
+        "name": "覆皮蒙邀果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024512857304653824/isWCnczY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 49,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "LimeInvited",
+        "verified": false
+      }
+    ]
+  }
+}

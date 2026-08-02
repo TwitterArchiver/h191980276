@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047790253671624755",
+    "created_at": "2026-04-24T21:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T22:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047790253671624755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengming0918/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/mengming0918/status/2047642952219176979",
+          "start": 2,
+          "url": "https://t.co/bez48keEs7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047790253671624755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047642952219176979",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/bez48keEs7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047790253671624755",
+        "created_at": "2026-04-24T21:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047790253671624755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengming0918/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/mengming0918/status/2047642952219176979",
+              "start": 2,
+              "url": "https://t.co/bez48keEs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047790253671624755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047642952219176979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/bez48keEs7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958558736794230785",
+        "conversation_id": "2047611384935154165",
+        "created_at": "2026-04-24T11:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047642952219176979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047642952219176979",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047611384935154165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 每個中國強奸犯的背後有一個強大的祖國🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 491,
+          "like_count": 3925,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1458
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T15:56:15.000Z",
+        "description": "以前的賬號因故障棄用，這是新的帳號。對此帶來的不便我很抱歉🙏🏻\n以前のソーシャルプラットフォームのアカウントが故障したので新しいアカウントを交換しました。不便をおかけしたら申し訳ありません🙏",
+        "id": "1958558736794230785",
+        "location": "Japan",
+        "name": "あかね🍹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992303341788086272/qCWDrRri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 117,
+          "like_count": 6948,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 964
+        },
+        "username": "mengming0918",
+        "verified": false
+      }
+    ]
+  }
+}

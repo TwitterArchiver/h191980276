@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "1999184651131240907",
+    "created_at": "2025-12-11T18:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T19:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999184651131240907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999184651131240907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999172497263198563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: 我提醒你们一下，陆峥的嘴脸在跨性别群体面前显露出来之前，就已经针对其他性少数进行了长久的迫害。\n陆峥一直以来擅长的领域之一是：治疗性心理疾病，扭转治疗同性恋\n我说了这么多年也说累了，你们谁给过它五百块钱，起到的作用不是什么让他吃饱喝足了有能…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "1999184651131240907",
+        "created_at": "2025-12-11T18:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T19:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999184651131240907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999184651131240907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999172497263198563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: 我提醒你们一下，陆峥的嘴脸在跨性别群体面前显露出来之前，就已经针对其他性少数进行了长久的迫害。\n陆峥一直以来擅长的领域之一是：治疗性心理疾病，扭转治疗同性恋\n我说了这么多年也说累了，你们谁给过它五百块钱，起到的作用不是什么让他吃饱喝足了有能…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "1999172497263198563",
+        "created_at": "2025-12-11T17:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999172497263198563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/windy_skyline/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/windy_skyline/status/1999168252325560646",
+              "start": 141,
+              "url": "https://t.co/ZJnojUh68c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999172497263198563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999168252325560646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我提醒你们一下，陆峥的嘴脸在跨性别群体面前显露出来之前，就已经针对其他性少数进行了长久的迫害。\n陆峥一直以来擅长的领域之一是：治疗性心理疾病，扭转治疗同性恋\n我说了这么多年也说累了，你们谁给过它五百块钱，起到的作用不是什么让他吃饱喝足了有能力找茬，而是真的在真金白银资助屠杀性少数 https://t.co/ZJnojUh68c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 140,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 269
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 224,
+          "like_count": 2381,
+          "listed_count": 9,
+          "media_count": 3508,
+          "tweet_count": 12061
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

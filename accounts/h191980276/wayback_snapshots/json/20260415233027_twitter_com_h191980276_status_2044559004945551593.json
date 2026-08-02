@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2044559004945551593",
+    "created_at": "2026-04-15T23:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T00:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044559004945551593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/starlightcaesa…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/starlightcaesar/status/2044238537307107409",
+          "start": 5,
+          "url": "https://t.co/GQzFGDu2Ky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044559004945551593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044238537307107409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苹果性别 https://t.co/GQzFGDu2Ky"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2044226760557125632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6NaG9a4AAamUg.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2044559004945551593",
+        "created_at": "2026-04-15T23:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044559004945551593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/starlightcaesa…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/starlightcaesar/status/2044238537307107409",
+              "start": 5,
+              "url": "https://t.co/GQzFGDu2Ky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044559004945551593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044238537307107409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苹果性别 https://t.co/GQzFGDu2Ky"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044226760557125632"
+          ]
+        },
+        "author_id": "733016836552437761",
+        "conversation_id": "2044238537307107409",
+        "created_at": "2026-04-15T02:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:30:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044226771026112843",
+          "2044238537307107409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UH7aMWk8vE",
+              "end": 101,
+              "expanded_url": "https://x.com/starlightcaesar/status/2044238537307107409/photo/1",
+              "media_key": "3_2044226760557125632",
+              "start": 78,
+              "url": "https://t.co/UH7aMWk8vE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044238537307107409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7282,
+          "like_count": 230,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "既然都社达了，就不该按男女划分性别，应该按苹果人安卓人划分性别。我支持剥夺安卓人的受教育权、工作权和财产权，一切资源优先分配给苹果人，这样效率最高。🤪🤪🤪 https://t.co/UH7aMWk8vE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 452,
+          "like_count": 3540,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1332
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-18T19:30:07.000Z",
+        "description": "I'm fearless. YouTube:安争鸣/小鸣说 【人在老中。每天至少发一条推文报平安。】",
+        "id": "733016836552437761",
+        "name": "小鸣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013625389138980865/wALd7rUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29995,
+          "following_count": 292,
+          "like_count": 31240,
+          "listed_count": 94,
+          "media_count": 1005,
+          "tweet_count": 2949
+        },
+        "username": "starlightcaesar",
+        "verified": true
+      }
+    ]
+  }
+}

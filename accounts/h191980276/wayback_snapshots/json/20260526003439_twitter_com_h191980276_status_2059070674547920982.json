@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059070674547920982",
+    "created_at": "2026-05-26T00:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T01:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059070674547920982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qslzy1225/stat…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/qslzy1225/status/2054928341681967603",
+          "start": 139,
+          "url": "https://t.co/MBS4qZ7E2Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059070674547920982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054928341681967603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是因为看日本动画片才想当顺直的吗，想当顺直想法持续多久了？开顺直证了吗进行顺直rle了吗经过一年观察期了吗身边的人知道吗？你家长同意你当顺直吗？你了解当顺直的影响吗，以后后悔考虑过吗你是私自进行顺性别的吗？有在正规医院专业医生指导下进行顺性别的吗？你有考虑过顺后以后怎么办吗 https://t.co/MBS4qZ7E2Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059070674547920982",
+        "created_at": "2026-05-26T00:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059070674547920982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qslzy1225/stat…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/qslzy1225/status/2054928341681967603",
+              "start": 139,
+              "url": "https://t.co/MBS4qZ7E2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059070674547920982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054928341681967603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是因为看日本动画片才想当顺直的吗，想当顺直想法持续多久了？开顺直证了吗进行顺直rle了吗经过一年观察期了吗身边的人知道吗？你家长同意你当顺直吗？你了解当顺直的影响吗，以后后悔考虑过吗你是私自进行顺性别的吗？有在正规医院专业医生指导下进行顺性别的吗？你有考虑过顺后以后怎么办吗 https://t.co/MBS4qZ7E2Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757152910683852800",
+        "conversation_id": "2054928341681967603",
+        "created_at": "2026-05-14T14:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054928341681967603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyaepheia/stat…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/nyaepheia/status/2054474695014330481",
+              "start": 82,
+              "url": "https://t.co/gbZ4NaJDJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054928341681967603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31179,
+          "like_count": 2,
+          "quote_count": 12,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054474695014330481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "LGBT不应该被反对，但LGBT是少数也是客观的，不应该被提倡。。重要的是很多人并不真正明白自己的性取向是什么，容易走上歧路。我认为这才是老中“反对”的根本原因。 https://t.co/gbZ4NaJDJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 509,
+          "like_count": 4214,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1694
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:22:07.000Z",
+        "description": "LGBTQ+ Ally｜马克思主义者｜二游玩家｜理性，包容，进步，思考｜认清形势，放弃幻想，准备斗争｜你说，我在听",
+        "id": "1757152910683852800",
+        "location": "Harbin,Heilongjiang,China",
+        "name": "青松",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757153133611171840/Bi-ESVPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 40,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "qslzy1225",
+        "verified": false
+      }
+    ]
+  }
+}

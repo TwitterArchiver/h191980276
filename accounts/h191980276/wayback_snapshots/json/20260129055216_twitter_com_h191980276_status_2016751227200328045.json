@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2016751227200328045",
+    "created_at": "2026-01-29T05:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016751227200328045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bamboorusua/st…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/Bamboorusua/status/2016547408390590657",
+          "start": 70,
+          "url": "https://t.co/vxYoLlVjCl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016751227200328045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016547408390590657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈的顺直狂欢时候不让说，说了就是lgbt急了，影响正常人玩烂梗把人当猴看，用把人当猴看论证不歧视，玩完转头就说都是lgbt玩的，真不要脸 https://t.co/vxYoLlVjCl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2016751227200328045",
+        "created_at": "2026-01-29T05:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016751227200328045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bamboorusua/st…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/Bamboorusua/status/2016547408390590657",
+              "start": 70,
+              "url": "https://t.co/vxYoLlVjCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016751227200328045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016547408390590657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈的顺直狂欢时候不让说，说了就是lgbt急了，影响正常人玩烂梗把人当猴看，用把人当猴看论证不歧视，玩完转头就说都是lgbt玩的，真不要脸 https://t.co/vxYoLlVjCl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4886512384",
+        "conversation_id": "2016547408390590657",
+        "created_at": "2026-01-28T16:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016547408390590657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016547408390590657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8902,
+          "like_count": 77,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "周宇已经是💊圈自嗨的工具了\n\n害搁那图灵呢，看看那些所谓OI高手跨，现实生活中真的有女生油腻长发+胖腿+经典JK吗？化妆都不愿意学，穿上女性衣物搞软色情+感觉巨爽难道不是精神撸管吗？\n\n能否正视现实：人缘差+找不到女朋友+向往二次元美少女-&gt;向内投射性欲。跟跨性别和计算机半毛钱关系没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 196,
+          "like_count": 1526,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 507
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-08T01:54:18.000Z",
+        "description": "Tibbers The 181st",
+        "id": "4886512384",
+        "name": "竹路沙",
+        "pinned_tweet_id": "1864207938153492716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962736760397737984/FkP0Pztl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 54,
+          "like_count": 5565,
+          "listed_count": 7,
+          "media_count": 102,
+          "tweet_count": 1570
+        },
+        "username": "Bamboorusua",
+        "verified": false
+      }
+    ]
+  }
+}

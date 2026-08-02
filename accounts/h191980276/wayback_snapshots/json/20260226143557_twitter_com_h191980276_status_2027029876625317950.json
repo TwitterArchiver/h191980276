@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2027029876625317950",
+    "created_at": "2026-02-26T14:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T15:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027029876625317950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Alantur5742677…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Alantur57426778/status/2026967978357747982",
+          "start": 5,
+          "url": "https://t.co/bMigi3CDfy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027029876625317950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026967978357747982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有义务 https://t.co/bMigi3CDfy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2027029876625317950",
+        "created_at": "2026-02-26T14:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027029876625317950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alantur5742677…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Alantur57426778/status/2026967978357747982",
+              "start": 5,
+              "url": "https://t.co/bMigi3CDfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027029876625317950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026967978357747982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有义务 https://t.co/bMigi3CDfy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549011946871336960",
+        "conversation_id": "2026967978357747982",
+        "created_at": "2026-02-26T10:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026967978357747982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026967978357747982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1076,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "性少数没有共情多数的义务，\n过去的一切都太匪夷所思了。\n地主老爷抢了佃农的情人当小妾，\n男异性恋把女人当性资源，\n而羞辱另一名男异性恋。\n这样的事却被包装为“阶级矛盾”，\n套上性别叙事跟“人民”的大旗，\n拉着男同去替被男异性恋剥削的男异性申冤？\n全世界老一辈的gay子们还甘之如饴，好古怪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 229,
+          "like_count": 1971,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 625
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "沢尔请给全体酷儿道歉！",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "咸福宫日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 165,
+          "like_count": 11822,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 1614
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

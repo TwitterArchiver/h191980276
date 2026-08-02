@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2063994598176023032",
+    "created_at": "2026-06-08T15:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064004699880407048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938969907548372992",
+          "start": 0,
+          "username": "beyondr3pairr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064004699880407048",
+    "in_reply_to_user_id": "1938969907548372992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064004194739069420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beyondr3pairr 然后还要地图炮说什么跨女圈，往跨女身上抹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2063994598176023032",
+        "created_at": "2026-06-08T15:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064004699880407048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938969907548372992",
+              "start": 0,
+              "username": "beyondr3pairr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064004699880407048",
+        "in_reply_to_user_id": "1938969907548372992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064004194739069420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beyondr3pairr 然后还要地图炮说什么跨女圈，往跨女身上抹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938969907548372992",
+        "conversation_id": "2063994598176023032",
+        "created_at": "2026-06-08T15:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064004194739069420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064004194739069420",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064003872411226256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 我觉得这个最幽默的地方在于潘老师自己三项都占了 炒作抽象 出警割席 老登愤愤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 520,
+          "like_count": 4445,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1937
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nmostly chinese, mostly vibes · YT/TikTok: @beyondr3pairr\n\nMy Forever Love: @MYBLOODY_VALENT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "beyondr3pairr"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "MYBLOODY_VALENT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7UaA"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "location": "Canada",
+        "name": "拼接碎片 - BeyondR3pairr",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062670969873862656/nmuEPpNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 134,
+          "like_count": 358,
+          "listed_count": 1,
+          "media_count": 760,
+          "tweet_count": 4358
+        },
+        "url": "https://t.co/kdPl4R7UaA",
+        "username": "beyondr3pairr",
+        "verified": true
+      }
+    ]
+  }
+}

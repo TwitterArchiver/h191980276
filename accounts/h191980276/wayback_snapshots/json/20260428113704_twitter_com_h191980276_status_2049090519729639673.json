@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049079939371298887",
+    "created_at": "2026-04-28T11:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049090519729639673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "NBabysitte65342"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049090519729639673",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049089422680117439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NBabysitte65342 如果一个反同反跨游戏被lgbt冲烂了，而且还冲的人家都改了冲赢了，那lgbt不得天天挂嘴边念叨吧，lgbt怎么自己都不知道有这茬事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049079939371298887",
+        "created_at": "2026-04-28T11:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049090519729639673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "NBabysitte65342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049090519729639673",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049089422680117439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NBabysitte65342 如果一个反同反跨游戏被lgbt冲烂了，而且还冲的人家都改了冲赢了，那lgbt不得天天挂嘴边念叨吧，lgbt怎么自己都不知道有这茬事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049079939371298887",
+        "created_at": "2026-04-28T11:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049089422680117439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "NBabysitte65342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049089422680117439",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049079939371298887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NBabysitte65342 这要是真的，这些游戏不早被支楠抵制上天了，，这要真是彩虹游戏那不lgbt得宣传上天了，lgbt自己怎么听都没听说过。反过来说，这要是反lgbt游戏，那lgbt自己不得传疯了骂疯了，lgbt自己都不知道这游戏那么坏，lgbt怎么去网暴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 495,
+          "like_count": 4039,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1508
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "一般路过stewie幸怒",
+        "pinned_tweet_id": "2048356236962488597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044690706405744640/gWgtiurn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 95,
+          "like_count": 18378,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2918
+        },
+        "username": "NBabysitte65342",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049749126758425062",
+    "created_at": "2026-04-30T11:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049808420153512233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049808420153512233",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049749126758425062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barutan8964 翻译：斩完了，接下来进行奏😃\n这小逼孩死性不改，现在开始无视是他这个又喷粪喷完又污蔑罗织罪名直接公开宣战的帖子，才引起的公愤，喷完之后继续撒泼打滚路人看着都觉得说的不是人话，岁月史书春秋笔法成性少数不知好歹先袭击他的了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049749126758425062",
+        "created_at": "2026-04-30T11:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049808420153512233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049808420153512233",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049749126758425062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 翻译：斩完了，接下来进行奏😃\n这小逼孩死性不改，现在开始无视是他这个又喷粪喷完又污蔑罗织罪名直接公开宣战的帖子，才引起的公愤，喷完之后继续撒泼打滚路人看着都觉得说的不是人话，岁月史书春秋笔法成性少数不知好歹先袭击他的了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565691463685795840",
+        "conversation_id": "2049749126758425062",
+        "created_at": "2026-04-30T07:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049749126758425062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feieyuhuo/stat…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/feieyuhuo/status/2049484616717987845",
+              "start": 79,
+              "url": "https://t.co/SGgvhh7EGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049749126758425062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049484616717987845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "lgbt特权存在是指我们不能出现在官方台面 上个厕所都要被顺处讨论来讨论去 处处充满歧视吗 满口左左右右魂斗罗大手子真的会体验社会还是只靠互联网冲浪了解社会 https://t.co/SGgvhh7EGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 508,
+          "like_count": 4176,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1585
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "喜欢术力口 术人口 小⭕ 是含糖mtf🏳️‍⚧️ 友一切🏳️‍⚧️🏳️‍🌈 不紫餐不od不鉴证 希望交朋友*⁠\\⁠0⁠/⁠*",
+        "id": "1565691463685795840",
+        "name": "巴尔坦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 301,
+          "like_count": 14196,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 2207
+        },
+        "username": "barutan8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2000054197207908604",
+    "created_at": "2025-12-14T04:04:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T05:04:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000054197207908604"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000054197207908604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "管chaser社群叫跨圈就像管妓院叫女性友好空间，你妈的真信了被人强奸了，转头跑去说女性空间害人，说女人应该跟着男人听男人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000054197207908604",
+        "created_at": "2025-12-14T04:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000054197207908604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000054197207908604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "管chaser社群叫跨圈就像管妓院叫女性友好空间，你妈的真信了被人强奸了，转头跑去说女性空间害人，说女人应该跟着男人听男人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 141,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 296
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2017572678916558950",
+    "created_at": "2026-01-31T14:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T15:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017605543171657866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413151000567771146",
+          "start": 0,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017605543171657866",
+    "in_reply_to_user_id": "1413151000567771146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017572678916558950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Windy_Skyline 省流：我马脚还没藏好呢，等我马脚藏好了，你不就是拆不穿我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2017572678916558950",
+        "created_at": "2026-01-31T14:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017605543171657866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413151000567771146",
+              "start": 0,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017605543171657866",
+        "in_reply_to_user_id": "1413151000567771146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017572678916558950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Windy_Skyline 省流：我马脚还没藏好呢，等我马脚藏好了，你不就是拆不穿我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2017572678916558950",
+        "created_at": "2026-01-31T12:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017572678916558950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yqs9311/status…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/yqs9311/status/2017567721404416443",
+              "start": 113,
+              "url": "https://t.co/owQiHoEIJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017572678916558950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你迄今为止在我相关动态下的任何互动没有一条是牛头对的上马嘴的，你既没有回应别人的真心，也没有写研究的实意，揣着明白装糊涂的话少在我这发。\n你写的所谓“聚类”，首先不符合事实，其次与水平无关任何人都能一眼看出瞎编乱造的一大堆：\n包括有些纯AI编造的，包括毫无疑问的不知道平台生态、还有拿20世纪失足少女小故事套上跨性别模板的，还明显的AI依照token概率拼凑的类人文字，你甚至能在编写2014-2018年的时候把未转型完成的小红书说成跨性别的一个聚集地这种彻底穿帮的胡编铁证，我也不知道你究竟什么年龄\n你写的所有“聚类”，基本上把顺直对于跨性别“喜欢发疯自我伤害与伤害他人”的狗哨全都融合了进去，除了两个“聚类”看上去是“人畜无害”甚至“高尚的”，其中一个是诸如Nagi、Danielle、胡桃夹子、瑶瑶这一类人，另外一个是OIer，你还非要装的一脸无辜的样子在我这回复这么多次好像非常迷茫不知所措的评论？\n你自己就是OIer，你究竟什么意思你自己觉得是很扑朔迷离的吗？\n你说的话有一次是有效回复吗？挑几个关键词然后莫名其妙开始生成一段话，你该不会连日常对话都是AI生成吧？\n我说的不清楚吗？\nOIer为什么一边莫名其妙大量的神经多样，一边又能完全没有状态失调地搞什么人体工程？OIer到底有多少跨性别足以形成一批数量足够被挑出来的人？跨性别群体到底有多少人知道什么是OI？多少OIer成为了关注过万的跨性别influencer？又有多少OIer一边成为精神图腾一边导致别的跨性别自恨？OIer出国、上top高校、常春藤、去硅谷当打工皇帝为什么是通过努力打破社会不公，而不是OIer的人出国、留学、搞研究就和OIer不一样，说了这么多次，你哪次不是来这里像机器人一样不明所以抓取几个关键词在那生成无关的废话？\n你觉得你这样在我这三天两头嗡嗡嗡一下很好玩吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017567721404416443",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你迄今为止在我相关动态下的任何互动没有一条是牛头对的上马嘴的，你既没有回应别人的真心，也没有写研究的实意，揣着明白装糊涂的话少在我这发。\n你写的所谓“聚类”，首先不符合事实，其次与水平无关任何人都能一眼看出瞎编乱造的一大堆： https://t.co/owQiHoEIJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 201,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 513
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "2006947643399065949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 228,
+          "like_count": 2388,
+          "listed_count": 9,
+          "media_count": 3640,
+          "tweet_count": 12469
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

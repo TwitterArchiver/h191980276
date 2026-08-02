@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2064272791667704187",
+    "created_at": "2026-06-09T09:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064272791667704187"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064272791667704187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不把人当人的靠迫害人靠从别人受的伤里获得快感享受的叫温和人，把人当人看的叫进步批"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2064272791667704187",
+        "created_at": "2026-06-09T09:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064272791667704187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064272791667704187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不把人当人的靠迫害人靠从别人受的伤里获得快感享受的叫温和人，把人当人看的叫进步批"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 519,
+          "like_count": 4461,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1941
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

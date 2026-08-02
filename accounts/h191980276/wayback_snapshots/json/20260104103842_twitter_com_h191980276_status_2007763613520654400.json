@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2007492241636680096",
+    "created_at": "2026-01-04T10:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T11:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007763613520654400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1625835397908680704",
+          "start": 0,
+          "username": "Timothy38524294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007763613520654400",
+    "in_reply_to_user_id": "1625835397908680704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007762142234382479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Timothy38524294 光副作用是乳房发育就很逆天，意思是只是为了堵一个变态男的嘴，但是这个男的长胸是个不好的事。其实在药物用量方面也不专业，也是跟患者现学的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2007492241636680096",
+        "created_at": "2026-01-04T10:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007763613520654400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1625835397908680704",
+              "start": 0,
+              "username": "Timothy38524294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007763613520654400",
+        "in_reply_to_user_id": "1625835397908680704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007762142234382479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Timothy38524294 光副作用是乳房发育就很逆天，意思是只是为了堵一个变态男的嘴，但是这个男的长胸是个不好的事。其实在药物用量方面也不专业，也是跟患者现学的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625835397908680704",
+        "conversation_id": "2007492241636680096",
+        "created_at": "2026-01-04T10:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007762142234382479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007762142234382479",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007757359947587986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 只是缓解焦虑的话不如吃大白兔奶糖，副作用还更小（）\n我觉得在这类事情上医生除了在药物用量方面具有专业性，在尤其是对不同人的意义系统进行评估和评价这些方面的权威性是高度可疑的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 169,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 434
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T12:32:47.000Z",
+        "description": "Narcissus et Sisyphus\n男女装混穿/友顺跨直弯/长发男\n4i/les/m\n美妆/芭蕾/摄影学习中 想当被缚\n尼康用户/古建风光机场爱好者\n #latex #leotard #zentai #jk #kig #bdsm\n碎碎念小号/欢迎私戳/no politics\n希望大家都幸福www",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "latex"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "tag": "leotard"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "tag": "zentai"
+              },
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "jk"
+              },
+              {
+                "end": 112,
+                "start": 108,
+                "tag": "kig"
+              },
+              {
+                "end": 118,
+                "start": 113,
+                "tag": "bdsm"
+              }
+            ]
+          }
+        },
+        "id": "1625835397908680704",
+        "location": "PEK，at times CTU SHA",
+        "name": "Timothy Brown",
+        "pinned_tweet_id": "1978673459178664237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955688271289495552/xmsCBL0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1055,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 133
+        },
+        "username": "Timothy38524294",
+        "verified": false
+      }
+    ]
+  }
+}

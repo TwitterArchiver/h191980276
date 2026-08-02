@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2002341570339807489",
+    "created_at": "2025-12-20T11:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002341570339807489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/h191980276/status/2002151247336644898",
+          "start": 61,
+          "url": "https://t.co/y4DLzbjHkM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002341570339807489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002151247336644898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我非常不能理解“我们国家是友跨的以后也会越来越放开”和“友跨医生很不容易给你扛下了很多上面压力”在逻辑上是怎么同时存在的 https://t.co/y4DLzbjHkM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002341570339807489",
+        "created_at": "2025-12-20T11:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002341570339807489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/h191980276/status/2002151247336644898",
+              "start": 61,
+              "url": "https://t.co/y4DLzbjHkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002341570339807489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002151247336644898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我非常不能理解“我们国家是友跨的以后也会越来越放开”和“友跨医生很不容易给你扛下了很多上面压力”在逻辑上是怎么同时存在的 https://t.co/y4DLzbjHkM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002151247336644898",
+        "created_at": "2025-12-19T22:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T23:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002151247336644898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002151247336644898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1201,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最几把畜生的是基本上每次为了多挣跨子钱私自整出什么新村规放出的什么缩紧谣言每次都是这帮医生自己放的，话里话外的就暗示也找水军给辩护给自己台阶下说是什么“上面压力”“上级领导政策”，完了反手就说什么群体里有人利用焦虑什么利用对政策的不满造谣搞事颠覆国家（又暗示自己瞎搞跨子有正当性了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 147,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 338
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

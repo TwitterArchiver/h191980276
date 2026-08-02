@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2037961187800027561",
+    "created_at": "2026-03-28T18:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T19:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037961187800027561"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037961187800027561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在跨女的穿法这个话题上，女身女心，女德教官和不服美役大女人达成惊人的战线统一了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2037961187800027561",
+        "created_at": "2026-03-28T18:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037961187800027561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037961187800027561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在跨女的穿法这个话题上，女身女心，女德教官和不服美役大女人达成惊人的战线统一了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 329,
+          "like_count": 2756,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 919
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

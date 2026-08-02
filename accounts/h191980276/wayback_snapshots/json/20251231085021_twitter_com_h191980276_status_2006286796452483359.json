@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2006286796452483359",
+    "created_at": "2025-12-31T08:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T09:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006286796452483359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lumuyuanMadoka…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/lumuyuanMadoka2/status/2006244846584115416",
+          "start": 61,
+          "url": "https://t.co/dPZdhTRbqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006286796452483359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006244846584115416",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "装你妈呢，ftm又让你吃了是吧，ftm当看不见，顺直男娘搁着硬蹭，装你妈跨性别不只有mtf，谁给你说的跨性别只有mtf了 https://t.co/dPZdhTRbqs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2006286796452483359",
+        "created_at": "2025-12-31T08:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T09:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006286796452483359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lumuyuanMadoka…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/lumuyuanMadoka2/status/2006244846584115416",
+              "start": 61,
+              "url": "https://t.co/dPZdhTRbqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006286796452483359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006244846584115416",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "装你妈呢，ftm又让你吃了是吧，ftm当看不见，顺直男娘搁着硬蹭，装你妈跨性别不只有mtf，谁给你说的跨性别只有mtf了 https://t.co/dPZdhTRbqs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825021494805581824",
+        "conversation_id": "2005948865141264890",
+        "created_at": "2025-12-31T06:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006244846584115416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "zhoynqi3"
+            },
+            {
+              "end": 23,
+              "id": "1444097362889097226",
+              "start": 10,
+              "username": "MagaJokesBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006244846584115416",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006197395827380621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoynqi3 @MagaJokesBot 男娘可能是某种意义上的直，但是绝对不是顺❗\n跨性别跨的是什么，难道是生理性别吗，大错特错\n我们常说的性别，其本质是处境，跨性别是改变自身的社会性别\n男娘显然是不符合社会期待的男性的，男娘主动改变其处境，反抗规训，怎么就不是跨性别了\n跨性别不是只有mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 171,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 407
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "高一丨百合豚丨🏳️‍🌈支持丨日本語を学ぶ丨in PRC，网左☭，爱华反修反cpc，通常不键政和对线",
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "鹿目圆○",
+        "pinned_tweet_id": "2006228962096341132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 435,
+          "like_count": 15635,
+          "listed_count": 4,
+          "media_count": 388,
+          "tweet_count": 5419
+        },
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      }
+    ]
+  }
+}

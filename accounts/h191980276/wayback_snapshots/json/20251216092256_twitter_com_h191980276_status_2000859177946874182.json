@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2000859177946874182",
+    "created_at": "2025-12-16T09:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000859177946874182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1630596839530708994",
+          "start": 3,
+          "username": "Shell_WO_Ghost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000859177946874182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000781410739871751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shell_WO_Ghost: 很早之前有一句，如果不是因为性取向，男的更愿意和男的过。所以一部分人偏好有女性外表男性爱好的所谓男娘，甚至认为开黄腔也是兄弟之间开玩笑,不用担心像对女性开黄腔被指责。我信许多男人是真怕被女人爆钱和“诬告”的，还怕被绿。但要真觉得谈男娘就能…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000859177946874182",
+        "created_at": "2025-12-16T09:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000859177946874182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1630596839530708994",
+              "start": 3,
+              "username": "Shell_WO_Ghost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000859177946874182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000781410739871751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shell_WO_Ghost: 很早之前有一句，如果不是因为性取向，男的更愿意和男的过。所以一部分人偏好有女性外表男性爱好的所谓男娘，甚至认为开黄腔也是兄弟之间开玩笑,不用担心像对女性开黄腔被指责。我信许多男人是真怕被女人爆钱和“诬告”的，还怕被绿。但要真觉得谈男娘就能…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630596839530708994",
+        "conversation_id": "2000781410739871751",
+        "created_at": "2025-12-16T04:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000781410739871751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000781410739871751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很早之前有一句，如果不是因为性取向，男的更愿意和男的过。所以一部分人偏好有女性外表男性爱好的所谓男娘，甚至认为开黄腔也是兄弟之间开玩笑,不用担心像对女性开黄腔被指责。我信许多男人是真怕被女人爆钱和“诬告”的，还怕被绿。但要真觉得谈男娘就能避免被爆钱和被绿就有些天真了。多听些例子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 144,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 315
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T15:52:53.000Z",
+        "description": "Sisters of the Moon",
+        "id": "1630596839530708994",
+        "name": "Valery Kyrie 🖤🩶🤍💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717584658559639554/eWtnF57K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 484,
+          "like_count": 2548,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 2350
+        },
+        "username": "Shell_WO_Ghost",
+        "verified": false
+      }
+    ]
+  }
+}

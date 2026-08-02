@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2002085037920170088",
+    "created_at": "2025-12-19T20:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T21:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002112674558325160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1497860307653251072",
+          "start": 0,
+          "username": "chengyiga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002112674558325160",
+    "in_reply_to_user_id": "1497860307653251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002085037920170088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengyiga 请问赵是非跨性别吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002085037920170088",
+        "created_at": "2025-12-19T20:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T21:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002112674558325160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1497860307653251072",
+              "start": 0,
+              "username": "chengyiga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002112674558325160",
+        "in_reply_to_user_id": "1497860307653251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002085037920170088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengyiga 请问赵是非跨性别吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2002085036716437504"
+          ]
+        },
+        "author_id": "1497860307653251072",
+        "conversation_id": "2002085037920170088",
+        "created_at": "2025-12-19T18:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T19:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002085037920170088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002085037920170088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 142,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想 赵 说的 “有非跨性别在假装跨性别，侮辱，质疑，挑拨我们跨性别的孩子” “也有的是我们有部分跨性别自己没有做好。”  好奇到底是谁，哪里没做好，有人知道吗\n（但无论如何，感谢赵）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 147,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 332
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T09:05:22.000Z",
+        "description": "奈昔❤️喵❤️曦月妹妹@Xiyue527sakura❤️最好的主人&姐姐洛米@chanyfgh❤️最喜欢贴贴筱琦@Xqqq0724❤️收留了汐颜妹妹@ChishioMoe❤️最可爱的玲绪@LX0505m❤️๑会一直陪着大家~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "Xiyue527sakura"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "chanyfgh"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Xqqq0724"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "ChishioMoe"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "LX0505m"
+              }
+            ]
+          }
+        },
+        "id": "1497860307653251072",
+        "name": "沈奈昔（哀悼逝者版）",
+        "pinned_tweet_id": "1630921497257848834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593263084654579712/PjNt-IHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5260,
+          "following_count": 569,
+          "like_count": 25023,
+          "listed_count": 13,
+          "media_count": 1682,
+          "tweet_count": 9092
+        },
+        "username": "chengyiga",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059091761835000262",
+    "created_at": "2026-05-26T01:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059091761835000262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shigure07288/s…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/shigure07288/status/2058782746491965456",
+          "start": 61,
+          "url": "https://t.co/uJpH1UVsr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059091761835000262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058782746491965456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国男人怎么了，天天就是对着边缘群体哈气，要不就是性别焦虑发作自己要被强制雌堕了，我看这才是最去雄的地方，一点男人样没有 https://t.co/uJpH1UVsr6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_2058780850498715648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJCRpBaQAA5acQ.jpg",
+        "width": 301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059091761835000262",
+        "created_at": "2026-05-26T01:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059091761835000262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigure07288/s…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/shigure07288/status/2058782746491965456",
+              "start": 61,
+              "url": "https://t.co/uJpH1UVsr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059091761835000262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058782746491965456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国男人怎么了，天天就是对着边缘群体哈气，要不就是性别焦虑发作自己要被强制雌堕了，我看这才是最去雄的地方，一点男人样没有 https://t.co/uJpH1UVsr6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058780850498715648"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2058782746491965456",
+        "created_at": "2026-05-25T05:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058782746491965456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oh2nXCjwMy",
+              "end": 130,
+              "expanded_url": "https://x.com/shigure07288/status/2058782746491965456/photo/1",
+              "media_key": "3_2058780850498715648",
+              "start": 107,
+              "url": "https://t.co/oh2nXCjwMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058782746491965456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4708,
+          "like_count": 168,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "看来中国反动派已经没活了，除了继续搞些阴谋论，已经整不出什么正经东西了。\n\n而且最喜欢决定别人性别的不就是老右们吗，哪怕孩子都确诊易性症了都拒绝承认现实，非得把孩子送进矫正机构、精神病院、戒网瘾学校搞非法拘禁吗？ https://t.co/oh2nXCjwMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 510,
+          "like_count": 4217,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1699
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|自由意志社会主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|无神论|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2056211247075578047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 651,
+          "like_count": 6115,
+          "listed_count": 7,
+          "media_count": 562,
+          "tweet_count": 7345
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

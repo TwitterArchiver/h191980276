@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042527022107496466",
+    "created_at": "2026-04-10T09:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042538355964154193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "858927366269157377",
+          "start": 0,
+          "username": "gzg040234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042538355964154193",
+    "in_reply_to_user_id": "858927366269157377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042535320089170204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzg040234 那好吧，加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042527022107496466",
+        "created_at": "2026-04-10T09:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042538355964154193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "858927366269157377",
+              "start": 0,
+              "username": "gzg040234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042538355964154193",
+        "in_reply_to_user_id": "858927366269157377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042535320089170204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzg040234 那好吧，加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858927366269157377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042527022107496466",
+        "created_at": "2026-04-10T09:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042535320089170204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042535320089170204",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042527022107496466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 不然呢？要我和健康的人比吗？老实说每次发觉我远比躺在家里只会磕药玩手机的同类要强的时候，我都感觉至少我还没沦落为废物，还可以继续坚持下去的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 374,
+          "like_count": 3308,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1232
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T06:13:37.000Z",
+        "description": "先天精神障碍/重度抑郁焦虑\nX号用于观察学习。机器人能不能不要私信我，不需要看片谢谢૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა",
+        "id": "858927366269157377",
+        "location": "中华人民共和国",
+        "name": "千夜一夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036844647465828352/40CiT0dD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 3960,
+          "like_count": 14399,
+          "listed_count": 15,
+          "media_count": 138,
+          "tweet_count": 661
+        },
+        "username": "gzg040234",
+        "verified": false
+      }
+    ]
+  }
+}

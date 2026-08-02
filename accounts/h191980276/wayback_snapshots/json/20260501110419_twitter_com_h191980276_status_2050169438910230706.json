@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2050167661016027256",
+    "created_at": "2026-05-01T11:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050169438910230706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1718148161515192320",
+          "start": 0,
+          "username": "Alex_mengfei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050169438910230706",
+    "in_reply_to_user_id": "1718148161515192320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050167661016027256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alex_mengfei 他删了一部分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2050167661016027256",
+        "created_at": "2026-05-01T11:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050169438910230706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1718148161515192320",
+              "start": 0,
+              "username": "Alex_mengfei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050169438910230706",
+        "in_reply_to_user_id": "1718148161515192320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050167661016027256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex_mengfei 他删了一部分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718148161515192320",
+        "conversation_id": "2050167661016027256",
+        "created_at": "2026-05-01T10:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050167661016027256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feieyuhuo/stat…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/feieyuhuo/status/2049479572362838135",
+              "start": 117,
+              "url": "https://t.co/dVtYpYRcdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050167661016027256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049479572362838135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "得了，看到这条之前还想跟你辩论，还以为你或许只是不了解，还想举例子让你感同身受。看到之后我后悔为什么不直接开始人身攻击\n\n你不是不了解性少数议题的语境，也不是情商低容易说错话，你就是搬弄是非的死畜生\n\n被挂活该，被骂受着，装你妈可怜 https://t.co/dVtYpYRcdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 511,
+          "like_count": 4231,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1616
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T06:10:43.000Z",
+        "description": "#mtf\n精神状态不良好",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "mtf"
+              }
+            ]
+          }
+        },
+        "id": "1718148161515192320",
+        "name": "Alex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911048994349780992/_lcoHHf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 49,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 211
+        },
+        "username": "Alex_mengfei",
+        "verified": false
+      }
+    ]
+  }
+}

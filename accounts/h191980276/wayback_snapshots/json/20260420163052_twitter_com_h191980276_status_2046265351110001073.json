@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2046187194440876070",
+    "created_at": "2026-04-20T16:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046265351110001073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046265351110001073",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046187194440876070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 煞笔顺直男大性压抑misgender成瘾，男同图灵被迫害了要当成娘们开涮玩烂梗，一见着药娘又开始咋呼喊叫什么就是男的了，哪怕人家压根没提一句性别认同"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2046187155215749123",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWEYGKaEAMCIXY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2046187194440876070",
+        "created_at": "2026-04-20T16:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046265351110001073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046265351110001073",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046187194440876070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 煞笔顺直男大性压抑misgender成瘾，男同图灵被迫害了要当成娘们开涮玩烂梗，一见着药娘又开始咋呼喊叫什么就是男的了，哪怕人家压根没提一句性别认同"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046187155215749123"
+          ]
+        },
+        "author_id": "1880140645454725120",
+        "conversation_id": "2046187194440876070",
+        "created_at": "2026-04-20T11:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046187194440876070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MmqNXdmVQU",
+              "end": 39,
+              "expanded_url": "https://x.com/DianJ71828/status/2046187194440876070/photo/1",
+              "media_key": "3_2046187155215749123",
+              "start": 16,
+              "url": "https://t.co/MmqNXdmVQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046187194440876070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4352,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "国内对跨性别态度be like https://t.co/MmqNXdmVQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 473,
+          "like_count": 3744,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1377
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/遣唐使😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 524,
+          "like_count": 12807,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 2468
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

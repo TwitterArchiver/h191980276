@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2003064257777406444",
+    "created_at": "2025-12-22T11:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T12:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003065196005462162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987739556159094785",
+          "start": 0,
+          "username": "Zew18210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003065196005462162",
+    "in_reply_to_user_id": "1987739556159094785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003064257777406444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zew18210 欺负你的前提不见得就是讨厌你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2003064257777406444",
+        "created_at": "2025-12-22T11:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003065196005462162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987739556159094785",
+              "start": 0,
+              "username": "Zew18210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003065196005462162",
+        "in_reply_to_user_id": "1987739556159094785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003064257777406444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zew18210 欺负你的前提不见得就是讨厌你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987739556159094785",
+        "conversation_id": "2003064257777406444",
+        "created_at": "2025-12-22T11:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003064257777406444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003064257777406444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人是不承认自己是反跨、反性少数者的，部分或许真的不是，\n但实际上他做出来的事情就是不适的\n就比如：\n顺性别女同性恋艺术创作者，她就制作了许多沃尔玛塑料袋的梗，用性别为噱头炒热度，并且贴在跨性别者的宿舍楼底。\n\n实际上她压根不恐跨，她只知道这个梗很火，但跨性别者讨厌她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 157,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 366
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T04:31:00.000Z",
+        "description": "ftm /he him 我爱你们也爱我自己 我有点自卑所以账号记录我的生活",
+        "id": "1987739556159094785",
+        "location": "Singapore",
+        "name": "Zew",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987739895788605440/o1A2mRPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 12,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 142
+        },
+        "username": "Zew18210",
+        "verified": false
+      }
+    ]
+  }
+}

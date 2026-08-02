@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060277878915465566",
+    "created_at": "2026-05-29T16:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060391517387391268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 31,
+          "id": "2053824487330852865",
+          "start": 16,
+          "username": "RusskiyCvyatoy"
+        },
+        {
+          "end": 47,
+          "id": "2015624869665456129",
+          "start": 32,
+          "username": "Oyama_Mihari01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060391517387391268",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060385215592472814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro @RusskiyCvyatoy @Oyama_Mihari01 不是，性别自决和“取消行政性别”是同一回事（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060277878915465566",
+        "created_at": "2026-05-29T16:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060391517387391268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 31,
+              "id": "2053824487330852865",
+              "start": 16,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 47,
+              "id": "2015624869665456129",
+              "start": 32,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060391517387391268",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060385215592472814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro @RusskiyCvyatoy @Oyama_Mihari01 不是，性别自决和“取消行政性别”是同一回事（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2060277878915465566",
+        "created_at": "2026-05-29T15:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060385215592472814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053824487330852865",
+              "start": 0,
+              "username": "RusskiyCvyatoy"
+            },
+            {
+              "end": 31,
+              "id": "2015624869665456129",
+              "start": 16,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060385215592472814",
+        "in_reply_to_user_id": "2053824487330852865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060384926399078486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusskiyCvyatoy @Oyama_Mihari01 我支持。對人進行性別指派本身就是強殲，如果它被納入行政系統就是利用公權力進行強殲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 510,
+          "like_count": 4307,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1768
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 和祢牽手走到 水平線的盡頭\n我是無性別人士，只是擁有被稱為「女體」的東西；參與女權和跨權運動只是順便。別因為我給跨性別說話就把我當跨性別，也別因為我給女的說話就當我是女的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2057594069967352086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060371508426592256/Gx-SAITd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 142,
+          "like_count": 7410,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 5169
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-11T13:09:44.000Z",
+        "description": "不须放屁！这面烤熟了，翻过个来，撒点孜然，再来咬上一口！\n\nAngCathy/BCP/Non-Papacy/Russkiy/Tranny/Commy/Gaddafy\n\n中俄轴心/反美反自由主义/精神俄罗斯人",
+        "id": "2053824487330852865",
+        "name": "Let's Go Bombing Tel-aviv（请使用🇲🇫共和法历！",
+        "pinned_tweet_id": "2060020055111287178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056923289625530368/7pQb9npH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 57,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 624
+        },
+        "username": "RusskiyCvyatoy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "女子力の高い女の子🌊| 写真家 📸| クリア系🌈| 音楽と日常 🎼| Pansexuality💕 \n• JP / EN / 中文 OK!\n• LGBTQフレンドリー\n• 気軽にフォローしてください！ ˗ˏˋ♥︎︎ˎˊ˗\n~ Thanks for the love₊⁺♡₊⁺~\n^ ̳- ‧̫ • ̳^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kingyosama?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kingyosama?igsh=MWc5Z3JoNTA3ampmeQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gQ3LtlxQgH"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🍥🌈",
+        "pinned_tweet_id": "2059980733041795579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 274,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/gQ3LtlxQgH",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

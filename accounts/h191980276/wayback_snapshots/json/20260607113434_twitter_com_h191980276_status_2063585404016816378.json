@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2050950132993339759",
+    "created_at": "2026-06-07T11:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063585404016816378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20632…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2063225842231280012",
+          "start": 0,
+          "url": "https://t.co/5ISPmtwri8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063585404016816378",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063225842231280012",
+        "type": "quoted"
+      },
+      {
+        "id": "2050950132993339759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/5ISPmtwri8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2050950132993339759",
+        "created_at": "2026-06-07T11:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063585404016816378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20632…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2063225842231280012",
+              "start": 0,
+              "url": "https://t.co/5ISPmtwri8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063585404016816378",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063225842231280012",
+            "type": "quoted"
+          },
+          {
+            "id": "2050950132993339759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/5ISPmtwri8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2063225842231280012",
+        "created_at": "2026-06-06T11:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063225842231280012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/h191980276/status/2063221401868550563",
+              "start": 141,
+              "url": "https://t.co/aHRl60y4qF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063225842231280012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2703,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063221401868550563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不一直都是这一招么，一通害人敲骨吸髓加敲诈勒索跨得给我磕头感谢我帮助跨性别，演不下去了变成人家多坏多坏我搞他罪有应得，还是说不通又开始人有反跨自由没有义务把你当人看，最后不得不承认是放在哪都是站不住脚的劣等行为，就一转开屎盆子往跨圈头上扣了，说这是跨圈烂事乱象，你们烂，你们的烂事 https://t.co/aHRl60y4qF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2050950132993339759",
+        "created_at": "2026-05-03T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050950132993339759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050950132993339759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3704,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 520,
+          "like_count": 4431,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1920
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

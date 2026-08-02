@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2058331654196801569",
+    "created_at": "2026-05-26T00:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T01:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059063458843496477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "JusqLeLunaEtRet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059063458843496477",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058331654196801569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JusqLeLunaEtRet 你不说明白是谁你就是在给你骂的装点门面找理由找借口找原因找台阶下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2058331654196801569",
+        "created_at": "2026-05-26T00:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059063458843496477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "JusqLeLunaEtRet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059063458843496477",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058331654196801569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JusqLeLunaEtRet 你不说明白是谁你就是在给你骂的装点门面找理由找借口找原因找台阶下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2058331654196801569",
+        "created_at": "2026-05-23T23:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T00:03:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058323029759848871",
+          "2058331654196801569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058331654196801569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "事實上我也想要生育力。但我不會因此認為順女比跨女更完整，不會認為跨女比順女更不女、更殘次。我不會在關於生育的一切壓迫和歧視被祓除之前說「羨慕順女有子宮、羨慕順女能生育」。如果跨女真的想要子宮，又不想讓自己的這份願望會刺痛那些受子宮相關的壓迫的人，那跨女應該比順女更積極地反對婚姻制度、反對性別壓迫。這就是我的立場，僅此而已。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1977,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事實上我也想要生育力。但我不會因此認為順女比跨女更完整，不會認為跨女比順女更不女、更殘次。我不會在關於生育的一切壓迫和歧視被祓除之前說「羨慕順女有子宮、羨慕順女能生育」。如果跨女真的想要子宮，又不想讓自己的這份願望會刺痛那些受子宮相關的壓迫的人，那跨女應該比順女更積極地反對婚姻制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 509,
+          "like_count": 4210,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1691
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 请你带我穿过秦淮的夜，然后我们一起回去。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058537217807519744/yT4R0yPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 136,
+          "like_count": 7005,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 4799
+        },
+        "username": "JusqLeLunaEtRet",
+        "verified": true
+      }
+    ]
+  }
+}

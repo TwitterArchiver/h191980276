@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047421084920955349",
+    "created_at": "2026-04-23T21:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T22:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047421084920955349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Badbean_fanx/s…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/Badbean_fanx/status/2045018315672994127",
+          "start": 83,
+          "url": "https://t.co/98dTPk0whF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047421084920955349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045018315672994127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉lgbt，不光要在性上侵犯我，还要在政治上围堵我！男同要操我屁眼！女同要抢我的老婆！跨性别要诱导我变性！！就连政治上都要阻挠我进行激烈的斗争！！lgbt太坏了！！ https://t.co/98dTPk0whF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047421084920955349",
+        "created_at": "2026-04-23T21:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047421084920955349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Badbean_fanx/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/Badbean_fanx/status/2045018315672994127",
+              "start": 83,
+              "url": "https://t.co/98dTPk0whF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047421084920955349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045018315672994127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉lgbt，不光要在性上侵犯我，还要在政治上围堵我！男同要操我屁眼！女同要抢我的老婆！跨性别要诱导我变性！！就连政治上都要阻挠我进行激烈的斗争！！lgbt太坏了！！ https://t.co/98dTPk0whF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1207871881170153473",
+        "conversation_id": "2044790217195110822",
+        "created_at": "2026-04-17T05:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045018315672994127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "846824877008994304",
+              "start": 0,
+              "username": "MikeSalter12"
+            },
+            {
+              "end": 27,
+              "id": "1298780948973133825",
+              "start": 14,
+              "username": "comrade_pabs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045018315672994127",
+        "in_reply_to_user_id": "846824877008994304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044939976861970913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikeSalter12 @comrade_pabs 既得利益者夸赞他，未得利益者辱骂他，就这么简单。顺便说一下，LGBT文化将阶级矛盾转移为无产阶级内部的性别矛盾，根本原因在于资产阶级将一切反抗的道路都堵死了，包括思想上的道路，受压迫的无产阶级只能像无头苍蝇一样乱撞，甚至自相残杀。从现象本身来说，那些性别自由主义者是对共产主义的曲解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 489,
+          "like_count": 3880,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1438
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-20T03:54:45.000Z",
+        "description": "恶心！",
+        "id": "1207871881170153473",
+        "name": "红豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234555151068717058/RxmvMTcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 387
+        },
+        "username": "Badbean_fanx",
+        "verified": false
+      }
+    ]
+  }
+}

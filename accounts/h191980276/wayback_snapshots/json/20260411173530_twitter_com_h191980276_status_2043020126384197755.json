@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043020126384197755",
+    "created_at": "2026-04-11T17:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043020126384197755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2040380205764923606",
+          "start": 5,
+          "url": "https://t.co/jycmTanMFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043020126384197755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040380205764923606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想🥺 https://t.co/jycmTanMFg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043020126384197755",
+        "created_at": "2026-04-11T17:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043020126384197755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2040380205764923606",
+              "start": 5,
+              "url": "https://t.co/jycmTanMFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043020126384197755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040380205764923606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想🥺 https://t.co/jycmTanMFg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2040380205764923606",
+        "created_at": "2026-04-04T10:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040380205764923606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040380205764923606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 84581,
+          "like_count": 574,
+          "quote_count": 7,
+          "reply_count": 64,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "好想被绑起来\n完全无法动弹只能任人玩弄\n一定很爽吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 393,
+          "like_count": 3353,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1255
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic\nMBTI: ISTP\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "45_206io"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 127,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 104,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "0.45KM",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 489,
+          "like_count": 32788,
+          "listed_count": 0,
+          "media_count": 582,
+          "tweet_count": 3650
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2058208283845149062",
+    "created_at": "2026-05-23T22:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T23:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058318000886026692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 27,
+          "id": "1401733664682102786",
+          "start": 16,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058318000886026692",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058313453354222079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro @mukdengise 私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2058208283845149062",
+        "created_at": "2026-05-23T22:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058318000886026692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 27,
+              "id": "1401733664682102786",
+              "start": 16,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058318000886026692",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058313453354222079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro @mukdengise 私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2058208283845149062",
+        "created_at": "2026-05-23T22:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058313453354222079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058313453354222079",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你没有必要但我有。我没有你那么强的宽容心，我对我自己也一样，我恨落后保守的自己，因为我觉得否则总有一天压迫的力量会吞噬我周围的人。我没法像你会跟说跨女“一看就是男的”、说跨女是“男跨女”的人玩；我没法看着我妈和我自己被家暴还去说“我要走进传统婚姻”哪怕我再爱一个男人；我没有那么强的宽容心。而且这种反感一样也是“我的体验”，并不比你获得的幸福体验更低级。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058208283845149062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 你没有必要但我有。我没有你那么强的宽容心，我对我自己也一样，我恨落后保守的自己，因为我觉得否则总有一天压迫的力量会吞噬我周围的人。我没法像你会跟说跨女“一看就是男的”、说跨女是“男跨女”的人玩；我没法看着我妈和我自己被家暴还去说“我要走进传统婚姻”哪怕我再爱一个男人；我没有那么强的宽容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 510,
+          "like_count": 4200,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1688
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "",
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058312104021475328/9JnxFTxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 125,
+          "like_count": 6875,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 4622
+        },
+        "username": "Diamond_Kokoro",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/好诡秘：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "2045520898812481725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021635233884598273/yaJUaGpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10369,
+          "following_count": 769,
+          "like_count": 140693,
+          "listed_count": 52,
+          "media_count": 1893,
+          "tweet_count": 25206
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

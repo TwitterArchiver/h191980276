@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2045195300864946294",
+    "created_at": "2026-04-17T22:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T23:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045274697001300399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20452…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2045215315362226450",
+          "start": 0,
+          "url": "https://t.co/EJwtR4LJG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045274697001300399",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045215315362226450",
+        "type": "quoted"
+      },
+      {
+        "id": "2045195300864946294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/EJwtR4LJG7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2045195300864946294",
+        "created_at": "2026-04-17T22:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045274697001300399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20452…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2045215315362226450",
+              "start": 0,
+              "url": "https://t.co/EJwtR4LJG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045274697001300399",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045215315362226450",
+            "type": "quoted"
+          },
+          {
+            "id": "2045195300864946294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/EJwtR4LJG7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2045195300864946294",
+        "created_at": "2026-04-17T18:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T19:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045215315362226450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963088360110530560",
+              "start": 0,
+              "username": "charlotte1020W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045215315362226450",
+        "in_reply_to_user_id": "1963088360110530560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045211905904538094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charlotte1020W 顺直这个群体我觉得正常人还是居多\n不过顺畜不除能行吗\n四处攻击给整个顺性别招来恶意\n我作为友顺是看不惯这种行为的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2045195300864946294",
+        "created_at": "2026-04-17T17:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045195300864946294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/charlotte1020W…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/charlotte1020W/status/2045145080441233633",
+              "start": 20,
+              "url": "https://t.co/CNJjVWXW1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045195300864946294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045145080441233633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧是我最爱的真正为跨性别群体争取权益 https://t.co/CNJjVWXW1d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 463,
+          "like_count": 3624,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1356
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

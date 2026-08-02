@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060854508327211453",
+    "created_at": "2026-05-30T22:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T23:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060854508327211453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054973996223840256",
+          "start": 3,
+          "username": "niggaashh"
+        },
+        {
+          "end": 28,
+          "id": "1928554797281513472",
+          "start": 15,
+          "username": "DaikisTattoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060854508327211453",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060625530819420189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niggaashh: @DaikisTattoo i always felt the term ally was for like the raging supporters who actually helped us fight for our rights. no…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060854508327211453",
+        "created_at": "2026-05-30T22:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060854508327211453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054973996223840256",
+              "start": 3,
+              "username": "niggaashh"
+            },
+            {
+              "end": 28,
+              "id": "1928554797281513472",
+              "start": 15,
+              "username": "DaikisTattoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060854508327211453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060625530819420189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niggaashh: @DaikisTattoo i always felt the term ally was for like the raging supporters who actually helped us fight for our rights. no…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054973996223840256",
+        "conversation_id": "2060501621180678481",
+        "created_at": "2026-05-30T07:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060625530819420189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928554797281513472",
+              "start": 0,
+              "username": "DaikisTattoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060625530819420189",
+        "in_reply_to_user_id": "1928554797281513472",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3322,
+          "like_count": 310,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060501621180678481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaikisTattoo i always felt the term ally was for like the raging supporters who actually helped us fight for our rights. nowadays ppl just say they're an ally to get goodie points"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 512,
+          "like_count": 4317,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1801
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T17:16:50.000Z",
+        "description": "im funny a swear\nprobably skephalo doomposting",
+        "id": "2054973996223840256",
+        "location": "black || alpha male",
+        "name": "jass",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058694115324239872/bsdld8mr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "niggaashh",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T20:51:33.000Z",
+        "description": "TRASH zion maga anti-feminist pro-life pro-AI isr rus DNI ❌ 22 🇻🇳🇨🇦 taken lesbian 🤤 I blocKalot😚 LOML @FaikisTattoo (17+) 💕💕 pfp @toohpaste nyuk nyuk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "FaikisTattoo"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "toohpaste"
+              }
+            ]
+          }
+        },
+        "id": "1928554797281513472",
+        "name": "Daiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060574391436525569/6WWf85hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 362,
+          "like_count": 40600,
+          "listed_count": 32,
+          "media_count": 534,
+          "tweet_count": 13082
+        },
+        "username": "DaikisTattoo",
+        "verified": false
+      }
+    ]
+  }
+}

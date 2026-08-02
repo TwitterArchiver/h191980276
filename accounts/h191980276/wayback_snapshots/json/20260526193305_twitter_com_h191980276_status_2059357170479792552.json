@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059312613142524177",
+    "created_at": "2026-05-26T19:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059357170479792552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785767615484547072",
+          "start": 0,
+          "username": "momoxieZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059357170479792552",
+    "in_reply_to_user_id": "1785767615484547072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059312613142524177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoxieZS 这不女性主体性来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059312613142524177",
+        "created_at": "2026-05-26T19:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059357170479792552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785767615484547072",
+              "start": 0,
+              "username": "momoxieZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059357170479792552",
+        "in_reply_to_user_id": "1785767615484547072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059312613142524177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoxieZS 这不女性主体性来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785767615484547072",
+        "conversation_id": "2059312613142524177",
+        "created_at": "2026-05-26T16:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059312613142524177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059312613142524177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1299,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "药娘其实比顺性别女性更女性，因为她们选择自己变成女性而不是接受自己是女性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 509,
+          "like_count": 4244,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1736
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T20:28:27.000Z",
+        "description": "会给感兴趣的人挂铃铛\nLOVER @me1su0/血图 @me1su0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "me1su0"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "username": "me1su0"
+              }
+            ]
+          }
+        },
+        "id": "1785767615484547072",
+        "location": "#shtwt",
+        "name": "栖栖Zip",
+        "pinned_tweet_id": "2051576339803840784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048396357845872640/3TIlxCI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 173,
+          "like_count": 5379,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 172
+        },
+        "username": "momoxieZS",
+        "verified": true
+      }
+    ]
+  }
+}

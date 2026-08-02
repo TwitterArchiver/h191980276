@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2029756886334198129",
+    "created_at": "2026-03-06T08:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029833114277794043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913084413942145024",
+          "start": 0,
+          "username": "Sui_aini"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Shell_WO_Ghost…",
+          "end": 36,
+          "expanded_url": "https://x.com/Shell_WO_Ghost/status/1920047988954567067",
+          "start": 13,
+          "url": "https://t.co/3WoLL9Ukrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029833114277794043",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920047988954567067",
+        "type": "quoted"
+      },
+      {
+        "id": "2029756886334198129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui_aini 哎哎哎https://t.co/3WoLL9Ukrt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2029756886334198129",
+        "created_at": "2026-03-06T08:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029833114277794043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Shell_WO_Ghost…",
+              "end": 36,
+              "expanded_url": "https://x.com/Shell_WO_Ghost/status/1920047988954567067",
+              "start": 13,
+              "url": "https://t.co/3WoLL9Ukrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029833114277794043",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920047988954567067",
+            "type": "quoted"
+          },
+          {
+            "id": "2029756886334198129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 哎哎哎https://t.co/3WoLL9Ukrt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630596839530708994",
+        "conversation_id": "1920047988954567067",
+        "created_at": "2025-05-07T09:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T10:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920047988954567067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920047988954567067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6890,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "如果能“入顺”，术前就入了用不到等术后。一天水八百个群然后说自己不混圈。又嫌弃又总凑到跨多的地方说话的唯一原因是，顺人没闲心去夸你，而自己只想获取情绪价值而丝毫不想给别人提供。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2029756886334198129",
+        "created_at": "2026-03-06T03:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029756886334198129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029756886334198129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "污名化这个词也太搞笑了，那么想保持队伍的纯洁性建议别当人了，那么在意别人对你所在群体的评价，为什么不加入他们呢?转过头批判他人多爽啊，也不用你委曲求全的和你认为的一群烂人待在同一群体里面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 235,
+          "like_count": 2101,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 664
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 586,
+          "like_count": 3667,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 3020
+        },
+        "username": "Sui_aini",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T15:52:53.000Z",
+        "description": "Sisters of the Moon",
+        "id": "1630596839530708994",
+        "name": "Valery Kyrie 🖤🩶🤍💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717584658559639554/eWtnF57K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 483,
+          "like_count": 3253,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 2738
+        },
+        "username": "Shell_WO_Ghost",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2006446382366994702",
+    "created_at": "2025-12-31T19:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T20:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006446382366994702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momo_yu_Apple/…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/momo_yu_Apple/status/2005710153723830357",
+          "start": 54,
+          "url": "https://t.co/TOaep5DSr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006446382366994702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005710153723830357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顺直老是说lgbt影响他是因为顺直没有退坑，顺直赶紧去退坑，就不会被lgbt性别问题吞噬天天嫌人这嫌人那了 https://t.co/TOaep5DSr7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2006446382366994702",
+        "created_at": "2025-12-31T19:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T20:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006446382366994702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momo_yu_Apple/…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/momo_yu_Apple/status/2005710153723830357",
+              "start": 54,
+              "url": "https://t.co/TOaep5DSr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006446382366994702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005710153723830357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺直老是说lgbt影响他是因为顺直没有退坑，顺直赶紧去退坑，就不会被lgbt性别问题吞噬天天嫌人这嫌人那了 https://t.co/TOaep5DSr7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "2005564083123503363",
+        "created_at": "2025-12-29T18:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T19:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005710153723830357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1767107094313160704",
+              "start": 0,
+              "username": "Okada_te_resa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005710153723830357",
+        "in_reply_to_user_id": "1767107094313160704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1249,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005707672369434989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okada_te_resa 我说的退坑更多是坚持自己继续做mtf，继续rle在生活中，退坑并不代表做回原来的男人，而是不要再被性别问题吞噬的一种解法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 169,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 413
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄||178/70(减肥中)/80a||终身不可srs||🚪60接线下实习圆角||部分言论不要太较真||学习化妆ing｜2026年12月18日离开地球",
+        "id": "1505851491734720515",
+        "name": "玉茉茉喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982279720688320512/fMn-1YUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 299,
+          "like_count": 507,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1117
+        },
+        "username": "momo_yu_Apple",
+        "verified": false
+      }
+    ]
+  }
+}

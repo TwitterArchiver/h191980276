@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026566852386893826",
+        "3_2026566852391096320",
+        "3_2026566852391100417",
+        "3_2026566852382769152"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2026567352641531955",
+    "created_at": "2026-02-25T07:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T08:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026567352641531955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f3bNH0Yfm4",
+          "end": 61,
+          "expanded_url": "https://x.com/h191980276/status/2026567352641531955/photo/1",
+          "media_key": "3_2026566852386893826",
+          "start": 38,
+          "url": "https://t.co/f3bNH0Yfm4"
+        },
+        {
+          "display_url": "pic.x.com/f3bNH0Yfm4",
+          "end": 61,
+          "expanded_url": "https://x.com/h191980276/status/2026567352641531955/photo/1",
+          "media_key": "3_2026566852391096320",
+          "start": 38,
+          "url": "https://t.co/f3bNH0Yfm4"
+        },
+        {
+          "display_url": "pic.x.com/f3bNH0Yfm4",
+          "end": 61,
+          "expanded_url": "https://x.com/h191980276/status/2026567352641531955/photo/1",
+          "media_key": "3_2026566852391100417",
+          "start": 38,
+          "url": "https://t.co/f3bNH0Yfm4"
+        },
+        {
+          "display_url": "pic.x.com/f3bNH0Yfm4",
+          "end": 61,
+          "expanded_url": "https://x.com/h191980276/status/2026567352641531955/photo/1",
+          "media_key": "3_2026566852382769152",
+          "start": 38,
+          "url": "https://t.co/f3bNH0Yfm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026567352641531955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前有说跨女也是男娘，跨女对男娘“切割”“内”斗，后有说跨男困境是女性的困境 https://t.co/f3bNH0Yfm4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026566852386893826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_P0KYaMAIXab8.jpg",
+        "width": 779
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026566852391096320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_P0KZaUAAFpy4.jpg",
+        "width": 1394
+      },
+      {
+        "height": 2005,
+        "media_key": "3_2026566852391100417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_P0KZaYAEI-Zj.jpg",
+        "width": 1440
+      },
+      {
+        "height": 998,
+        "media_key": "3_2026566852382769152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_P0KXbQAABCsr.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026566852386893826",
+            "3_2026566852391096320",
+            "3_2026566852391100417",
+            "3_2026566852382769152"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2026567352641531955",
+        "created_at": "2026-02-25T07:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026567352641531955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3bNH0Yfm4",
+              "end": 61,
+              "expanded_url": "https://x.com/h191980276/status/2026567352641531955/photo/1",
+              "media_key": "3_2026566852386893826",
+              "start": 38,
+              "url": "https://t.co/f3bNH0Yfm4"
+            },
+            {
+              "display_url": "pic.x.com/f3bNH0Yfm4",
+              "end": 61,
+              "expanded_url": "https://x.com/h191980276/status/2026567352641531955/photo/1",
+              "media_key": "3_2026566852391096320",
+              "start": 38,
+              "url": "https://t.co/f3bNH0Yfm4"
+            },
+            {
+              "display_url": "pic.x.com/f3bNH0Yfm4",
+              "end": 61,
+              "expanded_url": "https://x.com/h191980276/status/2026567352641531955/photo/1",
+              "media_key": "3_2026566852391100417",
+              "start": 38,
+              "url": "https://t.co/f3bNH0Yfm4"
+            },
+            {
+              "display_url": "pic.x.com/f3bNH0Yfm4",
+              "end": 61,
+              "expanded_url": "https://x.com/h191980276/status/2026567352641531955/photo/1",
+              "media_key": "3_2026566852382769152",
+              "start": 38,
+              "url": "https://t.co/f3bNH0Yfm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026567352641531955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前有说跨女也是男娘，跨女对男娘“切割”“内”斗，后有说跨男困境是女性的困境 https://t.co/f3bNH0Yfm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 226,
+          "like_count": 1928,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 616
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

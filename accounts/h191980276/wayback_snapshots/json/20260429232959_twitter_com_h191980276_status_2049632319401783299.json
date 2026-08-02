@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049632319401783299",
+    "created_at": "2026-04-29T23:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T00:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049632319401783299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/feieyuhuo/stat…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/feieyuhuo/status/2049484616717987845",
+          "start": 132,
+          "url": "https://t.co/aYxESsvRnX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049632319401783299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049484616717987845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叭叭叭叭叭叭一通泼脏水加构陷，构陷LGBT不算身份政治，说下顺直我操你搞身份政治，别人反驳下我操lgbt攻击我！连暴民政治大帽子都来了，我看这位也是扣帽子的好手，又要构陷一堆罪名，又得性少数哄着你，要不然就是极端，又要说自己支持平权，上一个这么腆着熊脸的是王宇航 https://t.co/aYxESsvRnX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049632319401783299",
+        "created_at": "2026-04-29T23:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049632319401783299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feieyuhuo/stat…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/feieyuhuo/status/2049484616717987845",
+              "start": 132,
+              "url": "https://t.co/aYxESsvRnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049632319401783299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049484616717987845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叭叭叭叭叭叭一通泼脏水加构陷，构陷LGBT不算身份政治，说下顺直我操你搞身份政治，别人反驳下我操lgbt攻击我！连暴民政治大帽子都来了，我看这位也是扣帽子的好手，又要构陷一堆罪名，又得性少数哄着你，要不然就是极端，又要说自己支持平权，上一个这么腆着熊脸的是王宇航 https://t.co/aYxESsvRnX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882051931763568643",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2049484616717987845",
+        "created_at": "2026-04-29T13:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049484616717987845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "1.LGBT",
+              "end": 47,
+              "expanded_url": "http://1.LGBT",
+              "start": 24,
+              "unwound_url": "http://1.LGBT",
+              "url": "https://t.co/8w63ZuIjox"
+            },
+            {
+              "display_url": "x.com/Rennord9407/st…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/Rennord9407/status/2049358508186107951",
+              "start": 156,
+              "url": "https://t.co/2iCc6SFDSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049484616717987845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2275,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049358508186107951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "气话说完了，实在在意我可以道歉，接下来进行分析\nhttps://t.co/8w63ZuIjox特权的确存在，参考外国政治正确。这里你忽略事实。\n2.我的意思是善意提醒你们别学右翼那套，结果你认为我把你们看成争特权的，你气我理解，但能不能认对人？\n3.最危险的一项，你划我为顺直派，假想我阴暗愤恨发起攻击，也就是 https://t.co/2iCc6SFDSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 507,
+          "like_count": 4136,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1549
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T13:05:32.000Z",
+        "description": "你好呀，这里是飞蛾～社科求学者一枚。( *ˊᵕˋ)✩︎.₊(键政号回fo100%)  历史是假的,政经是真的,没有什么是理所当然的。 \n无论如何，请让理智与信念刻骨铭心，让傲慢与偏见无处遁形。                          \n标签概括：散修毛左\n09 ENTP 劳有所得 造反有理",
+        "id": "1882051931763568643",
+        "location": "乌托邦之桥",
+        "name": "飞蛾浴火",
+        "pinned_tweet_id": "2024545803310944754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026688690211401732/PfmtK5HU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 89,
+          "like_count": 3513,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1725
+        },
+        "username": "feieyuhuo",
+        "verified": false
+      }
+    ]
+  }
+}

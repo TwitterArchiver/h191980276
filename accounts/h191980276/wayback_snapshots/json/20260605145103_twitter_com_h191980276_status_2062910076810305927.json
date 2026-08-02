@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062906812496748549",
+    "created_at": "2026-06-05T14:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062910076810305927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052592592244858880",
+          "start": 0,
+          "username": "honoka_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062910076810305927",
+    "in_reply_to_user_id": "2052592592244858880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062906812496748549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honoka_520 没有能力的最喜欢干自杀干预了，这叫趁人之危😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062906812496748549",
+        "created_at": "2026-06-05T14:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062910076810305927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052592592244858880",
+              "start": 0,
+              "username": "honoka_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062910076810305927",
+        "in_reply_to_user_id": "2052592592244858880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062906812496748549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honoka_520 没有能力的最喜欢干自杀干预了，这叫趁人之危😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052592592244858880",
+        "conversation_id": "2062906812496748549",
+        "created_at": "2026-06-05T14:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062906812496748549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062906812496748549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 76,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自杀干预，是被迫紫砂呢还是干预之后被迫紫砂呢，你们倒是干预下来了，那后续呢?后续谁来处理?还不是让当事人一个人承受，你们倒是当好人拍拍屁股走人了，后续的一切都要当事人承担，这算你麻痹的自杀干预"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 514,
+          "like_count": 4392,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1886
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T03:33:20.000Z",
+        "description": "Enby（They/Them/It）/我期待着…",
+        "id": "2052592592244858880",
+        "location": "你心里",
+        "name": "穗果🌾",
+        "pinned_tweet_id": "2061678192042324339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 271,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 466
+        },
+        "username": "honoka_520",
+        "verified": false
+      }
+    ]
+  }
+}

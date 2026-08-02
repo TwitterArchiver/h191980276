@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2045195300864946294",
+    "created_at": "2026-04-17T17:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045195509175025894"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045195509175025894",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045195300864946294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "包容顺畜不是无条件纵容顺畜😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2045195300864946294",
+        "created_at": "2026-04-17T17:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045195509175025894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045195509175025894",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045195300864946294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "包容顺畜不是无条件纵容顺畜😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2045195300864946294",
+        "created_at": "2026-04-17T17:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045195300864946294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/charlotte1020W…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/charlotte1020W/status/2045145080441233633",
+              "start": 20,
+              "url": "https://t.co/CNJjVWXW1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045195300864946294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045145080441233633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧是我最爱的真正为跨性别群体争取权益 https://t.co/CNJjVWXW1d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 462,
+          "like_count": 3618,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1353
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2050207180931112981",
+    "created_at": "2026-05-02T17:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050630621387702280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1670393070263898112",
+          "start": 0,
+          "username": "zzzr73"
+        },
+        {
+          "end": 23,
+          "id": "1489468526826082312",
+          "start": 8,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 36,
+          "id": "1736265610911428608",
+          "start": 24,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050630621387702280",
+    "in_reply_to_user_id": "1670393070263898112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050601211204981161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzr73 @Diamond_Kokoro @noname2095_ 那是因为你觉得人只有组建传统家庭这一条路可以走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2050207180931112981",
+        "created_at": "2026-05-02T17:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050630621387702280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1670393070263898112",
+              "start": 0,
+              "username": "zzzr73"
+            },
+            {
+              "end": 23,
+              "id": "1489468526826082312",
+              "start": 8,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 36,
+              "id": "1736265610911428608",
+              "start": 24,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050630621387702280",
+        "in_reply_to_user_id": "1670393070263898112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050601211204981161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzr73 @Diamond_Kokoro @noname2095_ 那是因为你觉得人只有组建传统家庭这一条路可以走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670393070263898112",
+        "conversation_id": "2050207180931112981",
+        "created_at": "2026-05-02T15:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050601211204981161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 27,
+              "id": "1920490291708243968",
+              "start": 16,
+              "username": "h191980276"
+            },
+            {
+              "end": 40,
+              "id": "1736265610911428608",
+              "start": 28,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050601211204981161",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050218806119674299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro @h191980276 @noname2095_ 激女就不可能有对象😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 512,
+          "like_count": 4255,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1663
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T11:29:10.000Z",
+        "description": "",
+        "id": "1670393070263898112",
+        "name": "zzz r",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670393214141079553/AttZ2Wbk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 65,
+          "like_count": 5769,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 656
+        },
+        "username": "zzzr73",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity: Non-Male. 我最喜欢She/her，但实际上除了“He/him”都OK，中文“他”、“它”不介意。\n我是@irisdesombres 的忠犬，祂的命令就是我的愿望。\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 66,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 130,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 107,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "但愿从今后 你我永不忘",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050387766765129728/PlDRukuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 107,
+          "like_count": 4662,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 3117
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 328,
+          "like_count": 4105,
+          "listed_count": 6,
+          "media_count": 298,
+          "tweet_count": 10496
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

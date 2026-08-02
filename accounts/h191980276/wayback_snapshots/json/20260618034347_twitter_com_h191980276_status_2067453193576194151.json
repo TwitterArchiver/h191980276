@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2067453193576194151",
+    "created_at": "2026-06-18T03:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067453193576194151"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067453193576194151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "：应该包容自恨的跨，应该包容反跨的跨。喜欢迫害跨性别那也有他自己的原因的，应该多包容多宽容\n：跨性别对顺女不尊敬就该天打雷劈。对顺女大不敬的不配做mtf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2067453193576194151",
+        "created_at": "2026-06-18T03:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067453193576194151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067453193576194151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "：应该包容自恨的跨，应该包容反跨的跨。喜欢迫害跨性别那也有他自己的原因的，应该多包容多宽容\n：跨性别对顺女不尊敬就该天打雷劈。对顺女大不敬的不配做mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 521,
+          "like_count": 4467,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1951
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2032387453064241482",
+    "created_at": "2026-03-13T09:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T10:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032393457168425368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989396735626809348",
+          "start": 0,
+          "username": "xi_qi42130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032393457168425368",
+    "in_reply_to_user_id": "1989396735626809348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032387453064241482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_qi42130 笑死了，不是你跑来撒泼打滚让别人认可你的性别认知吗😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2032387453064241482",
+        "created_at": "2026-03-13T09:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032393457168425368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989396735626809348",
+              "start": 0,
+              "username": "xi_qi42130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032393457168425368",
+        "in_reply_to_user_id": "1989396735626809348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032387453064241482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_qi42130 笑死了，不是你跑来撒泼打滚让别人认可你的性别认知吗😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989396735626809348",
+        "conversation_id": "2032387453064241482",
+        "created_at": "2026-03-13T09:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032387453064241482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nekostar114/st…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/nekostar114/status/2032385610556821921",
+              "start": 88,
+              "url": "https://t.co/RNg70zhcFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032387453064241482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032385610556821921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把话放这了，别人的性别不是由我来决定，是由他们的父母，但我的认可与否定就对你们这帮跨蛆这么重要？我凭什么要尊重你们异想天开出来的东西？全都跑过来瞎鸡巴骂我，既玻璃心脑子又蠢 https://t.co/RNg70zhcFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 263,
+          "like_count": 2298,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 746
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T18:15:28.000Z",
+        "description": "改天随机拉一波支蛆陪葬，以我烈火残躯烧死你妈",
+        "id": "1989396735626809348",
+        "location": "*",
+        "name": "久悯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025864824006348800/MJoXUrwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 446
+        },
+        "username": "xi_qi42130",
+        "verified": false
+      }
+    ]
+  }
+}

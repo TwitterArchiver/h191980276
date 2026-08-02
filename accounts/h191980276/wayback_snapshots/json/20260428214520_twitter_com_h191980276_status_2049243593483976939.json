@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049243593483976939",
+    "created_at": "2026-04-28T21:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T22:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049243593483976939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662723831533027329",
+          "start": 3,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049243593483976939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049133531624837291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loong001116: 这个安啵儿互关那么多terf，每天散播一些不食人间烟火、何不食肉糜冒犯底层酷儿的话，然后现在问别人为什么那么恨她，其实没有人恨她，她只是获得了她嘴欠之后应有的对待。甚至都没什么人真的在主动骂她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049243593483976939",
+        "created_at": "2026-04-28T21:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049243593483976939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662723831533027329",
+              "start": 3,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049243593483976939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049133531624837291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loong001116: 这个安啵儿互关那么多terf，每天散播一些不食人间烟火、何不食肉糜冒犯底层酷儿的话，然后现在问别人为什么那么恨她，其实没有人恨她，她只是获得了她嘴欠之后应有的对待。甚至都没什么人真的在主动骂她"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "2049133531624837291",
+        "created_at": "2026-04-28T14:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049133531624837291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bunbohue40037/…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Bunbohue40037/status/2049119469096628731",
+              "start": 97,
+              "url": "https://t.co/pg4H0PX8it"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049133531624837291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 757,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049119469096628731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个安啵儿互关那么多terf，每天散播一些不食人间烟火、何不食肉糜冒犯底层酷儿的话，然后现在问别人为什么那么恨她，其实没有人恨她，她只是获得了她嘴欠之后应有的对待。甚至都没什么人真的在主动骂她 https://t.co/pg4H0PX8it"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 496,
+          "like_count": 4074,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1531
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "Queer\n人称代词：他(中性)/ta\n所有观点皆来自本人，思考能力不需要绑定AI\nLGBTQ+互关",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(乙女激女顺直男转推即死)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1775,
+          "like_count": 5735,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 4796
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

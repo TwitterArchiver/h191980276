@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2058876779738309035",
+    "created_at": "2026-05-26T02:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T03:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059099020606439468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006187054334619648",
+          "start": 0,
+          "username": "QwQb119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059099020606439468",
+    "in_reply_to_user_id": "2006187054334619648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058876779738309035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQb119 在这个性少数被宣传+提倡+教唆+批量+强迫甚至通过非人的手段成顺直的时代，假装看不见去说什么顺直被提倡成性少数，要保证顺直的性向探索不能走一点弯路，如果无法保证这账就往性少数头上算，这不算血口喷人倒打一耙贼喊捉贼这算什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2058876779738309035",
+        "created_at": "2026-05-26T02:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059099020606439468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006187054334619648",
+              "start": 0,
+              "username": "QwQb119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059099020606439468",
+        "in_reply_to_user_id": "2006187054334619648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058876779738309035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQb119 在这个性少数被宣传+提倡+教唆+批量+强迫甚至通过非人的手段成顺直的时代，假装看不见去说什么顺直被提倡成性少数，要保证顺直的性向探索不能走一点弯路，如果无法保证这账就往性少数头上算，这不算血口喷人倒打一耙贼喊捉贼这算什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006187054334619648",
+        "conversation_id": "2058876779738309035",
+        "created_at": "2026-05-25T11:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058876779738309035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qslzy1225/stat…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/qslzy1225/status/2054928341681967603",
+              "start": 68,
+              "url": "https://t.co/CLtS4iQrBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058876779738309035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054928341681967603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "少数和不该提倡的关联在哪？左惯用手是少数，但大家也会和小朋友说左惯用手也很正常，而非叫你也要成为左惯用手。分清楚之间的区别再「我觉得」 https://t.co/CLtS4iQrBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 510,
+          "like_count": 4219,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1700
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T02:14:16.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍\n@QAQ_xwx\n 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "2006187054334619648",
+        "location": "30樓的地下室",
+        "name": "Θώθ!!!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006206865307578368/zceldKFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 160,
+          "like_count": 6021,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2838
+        },
+        "username": "QwQb119",
+        "verified": false
+      }
+    ]
+  }
+}

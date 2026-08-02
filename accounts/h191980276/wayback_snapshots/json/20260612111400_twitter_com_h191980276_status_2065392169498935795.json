@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2064994837963972976",
+    "created_at": "2026-06-12T11:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065392169498935795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065392169498935795",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064994837963972976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 推特上的中国人都一股味，指着x本来就很右的平台上的英文内容就开始欧美跨性别社群，指着专门炒作宣传仇恨的账号（甚至号主肉身在海外）说是中国跨圈，口气大的不得了，就搁着指派搁这扣😅，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064994827700502528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhV2uAbgAAvvRN.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064994827671158784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhV2t5bwAAHV0k.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2064994837963972976",
+        "created_at": "2026-06-12T11:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065392169498935795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065392169498935795",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064994837963972976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 推特上的中国人都一股味，指着x本来就很右的平台上的英文内容就开始欧美跨性别社群，指着专门炒作宣传仇恨的账号（甚至号主肉身在海外）说是中国跨圈，口气大的不得了，就搁着指派搁这扣😅，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064994827700502528",
+            "3_2064994827671158784"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2064994837963972976",
+        "created_at": "2026-06-11T08:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064994837963972976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXNbYoSKAQ",
+              "end": 48,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2064994837963972976/photo/1",
+              "media_key": "3_2064994827700502528",
+              "start": 25,
+              "url": "https://t.co/FXNbYoSKAQ"
+            },
+            {
+              "display_url": "pic.x.com/FXNbYoSKAQ",
+              "end": 48,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2064994837963972976/photo/1",
+              "media_key": "3_2064994827671158784",
+              "start": 25,
+              "url": "https://t.co/FXNbYoSKAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064994837963972976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "解锁一下推吧，果然我就算被骂也还是不说话就不行。\n\n欧美跨性别社群和排跨意识形态之间的一种典型争吵模式非常诡异：排跨者不停发布充满侮辱性的漫画、恶意修图和刻板印象内容，试图证明「跨女长得丑」、「不像女人」；而跨女的典型回击则是：不断展示自己的自拍、HRT前后对比照和精心经营的照片，试图证明「跨女其实很漂亮」、「跨女其实很像女人」。\n\n但这种行为背后的逻辑是什么？为什么跨女的正当性需要透过美貌来证明？如果「跨女可以长得很漂亮、很像女人，因此跨女是合法的」成立，那么它的反面也必然成立：「那些不够漂亮、不够女性化、不够符合主流审美标准的跨女，则是不合法的。」\n\n（同时，这背后有另一个逻辑，就是对易装者的污名化。这类漫画总是把跨女描述成crossdresser，而把crossdresser滑坡为强奸犯或pervert。这实际上关乎另一种预设，即男性是对女性危险的，所以跨女不能让自己看起来像男人。但这是论外了。）\n\n换句话说，在这套话语里，真正获得发言权的永远只是那些能在主流审美体系中得到高分的人。那些没有成功pass、没有得到理想HRT效果、没有足够金钱和资源改善外貌、或者只是天生不符合审美标准的跨女，实际上被排除在政治共同体之外。如果我们允许社群用「你看，我们其实很漂亮」来回应歧视，我们就默认了对方设定的前提：一个跨女是否值得被尊重，取决于足够像顺性别女性（事实上是她是否足够像「漂亮」的顺性别女性）。但任何人的人格尊严怎么应该建立在外貌评分之上呢？跨女没有义务长得惊为天人，也没有义务向公众展示自己的身体和长相来换取存在的合法性。\n\n外貌主义的核心其实和健全主义相同：一个人必须拥有某种被社会认可的身体条件，才有资格获得承认。而那些无法达到这种标准的人，他们受歧视是理所应当的，他们的失权是理所应当的。在这种情况下，跨权运动争取的就不是普遍性的「人权」，而只是漂亮（女）人的特权。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 7715,
+          "like_count": 141,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "解锁一下推吧，果然我就算被骂也还是不说话就不行。 https://t.co/FXNbYoSKAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 514,
+          "like_count": 4468,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1945
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。祢有一個我不會忘記的代詞。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "Erlösung",
+        "name": "小羽",
+        "pinned_tweet_id": "2057399428529672567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064273356262895617/yPc5vR_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 150,
+          "like_count": 9141,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 6471
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2035442471283692003",
+    "created_at": "2026-03-21T19:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T20:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035442471283692003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/h191980276/status/2032871293180334121",
+          "start": 141,
+          "url": "https://t.co/ePSzfbHogE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035442471283692003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032871293180334121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "受够这种叙事了，跨性别极端分子要造反要杀跨里有丑的逆天抹黑跨性别形象杀跨性别迎合资本主义不够解放杀诱导男娘雌堕有人骗钱杀跨不正能量要杀跨性别对顺直大不敬杀最后反跨的也在跨里也杀\n一个个的张口就说啊，我友好，我是来保护跨子权益的，进来就一顿泼脏水一顿揍一顿揍，揍完了一问全是说拉架的 https://t.co/ePSzfbHogE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2035442471283692003",
+        "created_at": "2026-03-21T19:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T20:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035442471283692003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/h191980276/status/2032871293180334121",
+              "start": 141,
+              "url": "https://t.co/ePSzfbHogE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035442471283692003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032871293180334121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受够这种叙事了，跨性别极端分子要造反要杀跨里有丑的逆天抹黑跨性别形象杀跨性别迎合资本主义不够解放杀诱导男娘雌堕有人骗钱杀跨不正能量要杀跨性别对顺直大不敬杀最后反跨的也在跨里也杀\n一个个的张口就说啊，我友好，我是来保护跨子权益的，进来就一顿泼脏水一顿揍一顿揍，揍完了一问全是说拉架的 https://t.co/ePSzfbHogE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2032871293180334121",
+        "created_at": "2026-03-14T17:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032871293180334121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032871293180334121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别者追求的是主权，而不是什么更好地被照护，这和上个世纪的女权主义者们的追求是相通的\n一些“友跨人士”在争吵谁的方案才是真的对跨好，谁的方案是“最后会害了大家”，拿着“真正为跨性别做贡献的人”的大棒勒索人的行为，和好好先生们争谁才对女士们更绅士又有何异呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 307,
+          "like_count": 2582,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 867
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

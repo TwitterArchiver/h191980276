@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062716803294633984"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062713526444007672",
+    "created_at": "2026-06-05T02:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T03:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062716805756715225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938969907548372992",
+          "start": 0,
+          "username": "beyondr3pairr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QXeoQTh9FK",
+          "end": 55,
+          "expanded_url": "https://x.com/h191980276/status/2062716805756715225/photo/1",
+          "media_key": "3_2062716803294633984",
+          "start": 32,
+          "url": "https://t.co/QXeoQTh9FK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062716805756715225",
+    "in_reply_to_user_id": "1938969907548372992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062713526444007672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beyondr3pairr 你觉得这个事情有任何讨论的余地吗 https://t.co/QXeoQTh9FK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2062716803294633984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA-APybIAAIhYQ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062716803294633984"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062713526444007672",
+        "created_at": "2026-06-05T02:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062716805756715225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938969907548372992",
+              "start": 0,
+              "username": "beyondr3pairr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXeoQTh9FK",
+              "end": 55,
+              "expanded_url": "https://x.com/h191980276/status/2062716805756715225/photo/1",
+              "media_key": "3_2062716803294633984",
+              "start": 32,
+              "url": "https://t.co/QXeoQTh9FK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062716805756715225",
+        "in_reply_to_user_id": "1938969907548372992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062713526444007672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beyondr3pairr 你觉得这个事情有任何讨论的余地吗 https://t.co/QXeoQTh9FK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938969907548372992",
+        "conversation_id": "2062713526444007672",
+        "created_at": "2026-06-05T01:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062713526444007672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/barutan8964/st…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/barutan8964/status/2062585336186957831",
+              "start": 145,
+              "url": "https://t.co/0P3YRDf2Ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062713526444007672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这件事让我毛骨悚然的地方就是这里 觉得你“无药可救”了自己“无能为力”了只能\"为了你好\"把你送进去的味道实在是太相像了 更别提还做作的要演一出“我不忍心所以让别人代劳” 想要她活下来是她的意愿还是你的意愿自己应该清楚吧\n\n当然这个问题更棘手的地方是我们到底应该如何应对身边“死意已决”的人 以及从什么时候开始我们应该试图寻求专业帮助"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062585336186957831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这件事让我毛骨悚然的地方就是这里 觉得你“无药可救”了自己“无能为力”了只能\"为了你好\"把你送进去的味道实在是太相像了 更别提还做作的要演一出“我不忍心所以让别人代劳” 想要她活下来是她的意愿还是你的意愿自己应该清楚吧\n\n当然这个问题更棘手的地方是我们到底应该如何应对身边“死意已决”的人 https://t.co/0P3YRDf2Ji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 516,
+          "like_count": 4377,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1872
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nmostly chinese, mostly vibes · YT/TikTok: @beyondr3pairr\n\nMy Forever Love: @MYBLOODY_VALENT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "beyondr3pairr"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "MYBLOODY_VALENT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7UaA"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "location": "Canada",
+        "name": "拼接碎片 - BeyondR3pairr",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062670969873862656/nmuEPpNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 133,
+          "like_count": 336,
+          "listed_count": 1,
+          "media_count": 738,
+          "tweet_count": 4199
+        },
+        "url": "https://t.co/kdPl4R7UaA",
+        "username": "beyondr3pairr",
+        "verified": true
+      }
+    ]
+  }
+}

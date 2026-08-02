@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047985785283162138",
+    "created_at": "2026-04-25T12:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048014447571358184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613892080190849024",
+          "start": 0,
+          "username": "8964iq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048014447571358184",
+    "in_reply_to_user_id": "1613892080190849024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048001344825655349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964iq 到底谁愿意跟她们住一起的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047985785283162138",
+        "created_at": "2026-04-25T12:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048014447571358184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613892080190849024",
+              "start": 0,
+              "username": "8964iq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048014447571358184",
+        "in_reply_to_user_id": "1613892080190849024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048001344825655349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964iq 到底谁愿意跟她们住一起的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613892080190849024",
+        "conversation_id": "2047985785283162138",
+        "created_at": "2026-04-25T11:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048001344825655349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048001344825655349",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047986650123587691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 不应该对terf有半点包容，包容畜生就会发现畜生蹬鼻子上脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 491,
+          "like_count": 3955,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1476
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T13:33:54.000Z",
+        "description": "🌈 le 乙妹 #小女孩重度依赖 重度抑郁症和焦虑症休学 厌男 cn萤火【萧逸 祁煜梦女】拒一切同担同嫁同梦 ⚠️雷沈星回及其粉丝 推小女孩 初音未来 散兵infp 游戏第五人格 光遇 蛋仔派对 雷的互删 厌蠢 内向 占有欲强 控制欲 疯子 恶趣味 抑郁症 焦虑症 双相情感障碍症 狂躁症 阴晴不定 忧郁",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 8,
+                "tag": "小女孩重度依赖"
+              }
+            ]
+          }
+        },
+        "id": "1613892080190849024",
+        "location": "Chiba-ken, Japan",
+        "name": "控制面板",
+        "pinned_tweet_id": "2027187095190855977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023187511590404096/A5g1uRWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5852,
+          "following_count": 93,
+          "like_count": 897,
+          "listed_count": 18,
+          "media_count": 13,
+          "tweet_count": 649
+        },
+        "username": "8964iq",
+        "verified": false
+      }
+    ]
+  }
+}

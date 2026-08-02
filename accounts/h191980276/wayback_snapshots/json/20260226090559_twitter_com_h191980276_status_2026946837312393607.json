@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2026946837312393607",
+    "created_at": "2026-02-26T09:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026946837312393607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dviolettchan/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/dviolettchan/status/2026701618247512462",
+          "start": 36,
+          "url": "https://t.co/6meAt2YgBM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026946837312393607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026701618247512462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底是谁在觉得chaser越多越利好跨的，chaser越多会越像俄罗斯 https://t.co/6meAt2YgBM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2026946837312393607",
+        "created_at": "2026-02-26T09:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026946837312393607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dviolettchan/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/dviolettchan/status/2026701618247512462",
+              "start": 36,
+              "url": "https://t.co/6meAt2YgBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026946837312393607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026701618247512462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是谁在觉得chaser越多越利好跨的，chaser越多会越像俄罗斯 https://t.co/6meAt2YgBM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298719447887872",
+        "conversation_id": "2026671518080512254",
+        "created_at": "2026-02-25T16:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026701618247512462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026701618247512462",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1360,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026671518080512254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 这些年男娘文化爆火可能某种程度上是个好事，毕竟国内整体的环境对木桶饭什么的也不怎么友好。 \n\n能让大家有个安全的外壳，用来自我保护，总比直接面对其他人的恶意要好。  \n\n类似的外壳可能还有长发男/搞艺术之类的（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 228,
+          "like_count": 1960,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 622
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 北美菜校ECE PhD Candidate | 魏晋名士 | ❤️: @xinxinUnique",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "xinxinUnique"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0dxoG"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2357,
+          "following_count": 453,
+          "like_count": 4138,
+          "listed_count": 7,
+          "media_count": 40,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/XxMPM0dxoG",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

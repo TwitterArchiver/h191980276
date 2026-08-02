@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038883437789032794",
+    "created_at": "2026-03-31T09:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038911308591145094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935176310663401472",
+          "start": 0,
+          "username": "S_Hyoscine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038911308591145094",
+    "in_reply_to_user_id": "1935176310663401472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038910351392272573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Hyoscine 如果这些跨女已经在王宇航那变成人质的性质了，那这还能说是什么跨性别逼走了自己人？还可以称得上自己人？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038883437789032794",
+        "created_at": "2026-03-31T09:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038911308591145094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038911308591145094",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038910351392272573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine 如果这些跨女已经在王宇航那变成人质的性质了，那这还能说是什么跨性别逼走了自己人？还可以称得上自己人？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935176310663401472",
+        "conversation_id": "2038883437789032794",
+        "created_at": "2026-03-31T09:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038910351392272573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038910351392272573",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038909824365441396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 没说跨性别完蛋，但是会有些跨女可能会完蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 347,
+          "like_count": 3036,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1097
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "小药娘//爱人@hood438371//陪聊门槛50喵，能给你提供情绪价值//风俗娘//重度抖M，sub//大家都可以来私信我喵//生活——是无边无际的、浮满各种漂流物的、变幻无常的、暴力的，但总是一片澄澈而湛蓝的海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "家养宠物春雪狐🍥",
+        "pinned_tweet_id": "2028922217715909008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028447229040812032/QJB4InPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 869,
+          "like_count": 22956,
+          "listed_count": 3,
+          "media_count": 438,
+          "tweet_count": 7100
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

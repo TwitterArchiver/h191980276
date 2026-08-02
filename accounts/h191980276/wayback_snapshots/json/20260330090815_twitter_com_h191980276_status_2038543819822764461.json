@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038543817209774080"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038113519179272615",
+    "created_at": "2026-03-30T09:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038543819822764461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513817865463349249",
+          "start": 0,
+          "username": "MirrorRoseAyr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pUbeaUkKXk",
+          "end": 38,
+          "expanded_url": "https://x.com/h191980276/status/2038543819822764461/photo/1",
+          "media_key": "3_2038543817209774080",
+          "start": 15,
+          "url": "https://t.co/pUbeaUkKXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038543819822764461",
+    "in_reply_to_user_id": "1513817865463349249",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038113519179272615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MirrorRoseAyr https://t.co/pUbeaUkKXk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2038543817209774080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpczRPbgAAWoTx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038543817209774080"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038113519179272615",
+        "created_at": "2026-03-30T09:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038543819822764461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513817865463349249",
+              "start": 0,
+              "username": "MirrorRoseAyr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUbeaUkKXk",
+              "end": 38,
+              "expanded_url": "https://x.com/h191980276/status/2038543819822764461/photo/1",
+              "media_key": "3_2038543817209774080",
+              "start": 15,
+              "url": "https://t.co/pUbeaUkKXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038543819822764461",
+        "in_reply_to_user_id": "1513817865463349249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038113519179272615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MirrorRoseAyr https://t.co/pUbeaUkKXk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513817865463349249",
+        "conversation_id": "2038113519179272615",
+        "created_at": "2026-03-29T04:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T05:36:29.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038113037924892678",
+          "2038113204916891908",
+          "2038113519179272615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038113519179272615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5131,
+          "like_count": 37,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一边喊“性别认同”一边靠这副“半男半女”的样子满足某些特殊癖好，还他妈半男半女明明一眼男的，你自己把性别认同当性癖满足自己变态心理就他妈算了，还天天恶心人，女装起来也是一眼男骨子里就是个臭国男，当你妈臭下体人恶心人，这种人的存在就是在抹黑MTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 338,
+          "like_count": 2910,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1005
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T09:55:09.000Z",
+        "description": "镜中玫瑰艾尔｜少年otaku的灰英雄独白，金发蓝眸在巨大ms引擎中翩跹。尼禄Umu～罗马温泉的泡泡梦，痛根化作花瓣，浪漫觉醒永恒。夜空星河，ROMA黄金，野萌眨眼。otakuおたく诗意｜嘘を破る光、君のロマンス✨(灬ºωº灬)💕”",
+        "id": "1513817865463349249",
+        "location": "社交软件只用X和QQ微信无电报，🚪100/520特殊福利",
+        "name": "MirrorRoseAyr🌹",
+        "pinned_tweet_id": "2035760989636092226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005708750087241728/NuQGx2HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37780,
+          "following_count": 1453,
+          "like_count": 9281,
+          "listed_count": 157,
+          "media_count": 84,
+          "tweet_count": 1533
+        },
+        "username": "MirrorRoseAyr",
+        "verified": true
+      }
+    ]
+  }
+}

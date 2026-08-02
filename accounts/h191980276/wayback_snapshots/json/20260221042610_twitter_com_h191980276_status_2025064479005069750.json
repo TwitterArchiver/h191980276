@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2025064479005069750",
+    "created_at": "2026-02-21T04:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025064479005069750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Frantic_agilit…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/Frantic_agility/status/2024788461736387058",
+          "start": 67,
+          "url": "https://t.co/PUiLURzFyF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025064479005069750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024788461736387058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“反正永远不要想着在顺直人顺女权和chaser那里靠说别的跨性别者坏话得到帮助 他们不管我们的死活 只会利用我们 还让自己显得难看” https://t.co/PUiLURzFyF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2025064479005069750",
+        "created_at": "2026-02-21T04:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025064479005069750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Frantic_agilit…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Frantic_agility/status/2024788461736387058",
+              "start": 67,
+              "url": "https://t.co/PUiLURzFyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025064479005069750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024788461736387058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“反正永远不要想着在顺直人顺女权和chaser那里靠说别的跨性别者坏话得到帮助 他们不管我们的死活 只会利用我们 还让自己显得难看” https://t.co/PUiLURzFyF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759179081633984512",
+        "conversation_id": "2024788456178958350",
+        "created_at": "2026-02-20T10:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024788461736387058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024788461736387058",
+        "in_reply_to_user_id": "1759179081633984512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024788456178958350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而要是跨女并不事实具备这种舆论上压制其他跨性别者能力 这样做是个什么性质就更不用多说了\n反正永远不要想着在顺直人顺女权和chaser那里靠说别的跨性别者坏话得到帮助 他们不管我们的死活 只会利用我们 还让自己显得难看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 224,
+          "like_count": 1864,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 588
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T11:32:57.000Z",
+        "description": "助我登基将包皮环切手术和异性恋一起入罪入刑",
+        "id": "1759179081633984512",
+        "location": "你非二元大逼男爹来咯💅",
+        "name": "Citrusy Sunset🔞",
+        "pinned_tweet_id": "1804297314502349145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788866909867565056/Di9VVqd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 909,
+          "like_count": 10573,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 13192
+        },
+        "username": "Frantic_agility",
+        "verified": false
+      }
+    ]
+  }
+}

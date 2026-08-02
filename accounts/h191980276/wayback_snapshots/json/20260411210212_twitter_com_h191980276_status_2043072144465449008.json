@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2040380205764923606",
+    "created_at": "2026-04-11T21:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T22:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043072144465449008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        },
+        {
+          "end": 27,
+          "id": "1751497892001685504",
+          "start": 17,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043072144465449008",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040495634843861011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia @45_206MHz 绑我，绑我，好想被玩，想被调教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2040380205764923606",
+        "created_at": "2026-04-11T21:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043072144465449008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            },
+            {
+              "end": 27,
+              "id": "1751497892001685504",
+              "start": 17,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043072144465449008",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040495634843861011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia @45_206MHz 绑我，绑我，好想被玩，想被调教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313383273079345152",
+        "conversation_id": "2040380205764923606",
+        "created_at": "2026-04-04T18:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040495634843861011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040495634843861011",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5446,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040380205764923606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 狠狠寸止+毁灭高潮，爽到你哭为止😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 402,
+          "like_count": 3372,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1265
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6888,
+          "following_count": 3775,
+          "like_count": 154237,
+          "listed_count": 19,
+          "media_count": 2634,
+          "tweet_count": 24495
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\nAMAB | gender apathetic\nMBTI: ISTP\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "45_206io"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 127,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 104,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "0.45KM",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 488,
+          "like_count": 32799,
+          "listed_count": 0,
+          "media_count": 582,
+          "tweet_count": 3650
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

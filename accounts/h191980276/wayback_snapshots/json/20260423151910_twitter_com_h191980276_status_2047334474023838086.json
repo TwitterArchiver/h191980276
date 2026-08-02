@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047334474023838086",
+    "created_at": "2026-04-23T15:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047334474023838086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/noname2095_/st…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/noname2095_/status/2047333193691680989",
+          "start": 84,
+          "url": "https://t.co/Hgd8VMlvmR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047334474023838086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047333193691680989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后偷来了反手就开始宣传跨性别都是乱吃的，“正规”的吃法都是我教的我传授的，没有我授权不准乱吃，污名化跨性别hrt，普罗米修斯从人类手里反向盗火还要敲诈勒索人类属于是 https://t.co/Hgd8VMlvmR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047334474023838086",
+        "created_at": "2026-04-23T15:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047334474023838086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/noname2095_/status/2047333193691680989",
+              "start": 84,
+              "url": "https://t.co/Hgd8VMlvmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047334474023838086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047333193691680989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后偷来了反手就开始宣传跨性别都是乱吃的，“正规”的吃法都是我教的我传授的，没有我授权不准乱吃，污名化跨性别hrt，普罗米修斯从人类手里反向盗火还要敲诈勒索人类属于是 https://t.co/Hgd8VMlvmR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2047261371411427573",
+        "created_at": "2026-04-23T15:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047333193691680989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 26,
+              "id": "1150753335881826305",
+              "start": 16,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047333193691680989",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047332658901053941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro @acacia038 那hrt的剂量是医生试出来的吗，现实是医生得倒着请求diy hrt领域大神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 488,
+          "like_count": 3860,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1418
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 311,
+          "like_count": 4006,
+          "listed_count": 6,
+          "media_count": 295,
+          "tweet_count": 10259
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

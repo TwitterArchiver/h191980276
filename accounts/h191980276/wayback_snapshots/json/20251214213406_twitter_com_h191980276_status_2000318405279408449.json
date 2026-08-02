@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2000318405279408449",
+    "created_at": "2025-12-14T21:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T22:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000318405279408449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920490291708243968",
+          "start": 3,
+          "username": "h191980276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000318405279408449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000282051820589219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h191980276: 不管怎么说内化恐跨怎么着也是从外部反跨壬那内化来的，怎么也不能该扣跨头上，反手给反跨壬当反跨的借口了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000318405279408449",
+        "created_at": "2025-12-14T21:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T22:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000318405279408449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920490291708243968",
+              "start": 3,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000318405279408449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000282051820589219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h191980276: 不管怎么说内化恐跨怎么着也是从外部反跨壬那内化来的，怎么也不能该扣跨头上，反手给反跨壬当反跨的借口了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000282051820589219",
+        "created_at": "2025-12-14T19:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T20:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000282051820589219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000282051820589219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不管怎么说内化恐跨怎么着也是从外部反跨壬那内化来的，怎么也不能该扣跨头上，反手给反跨壬当反跨的借口了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 145,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 311
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

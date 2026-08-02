@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "1999795178358665380",
+    "created_at": "2025-12-13T10:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T11:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999795493854191894"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999795493854191894",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999795178358665380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为家长闹的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "1999795178358665380",
+        "created_at": "2025-12-13T10:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999795493854191894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999795493854191894",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999795178358665380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为家长闹的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "1999795178358665380",
+        "created_at": "2025-12-13T10:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999795178358665380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/h191980276/status/1999793912844882351",
+              "start": 56,
+              "url": "https://t.co/JqQW5L5KPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999795178358665380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999793912844882351",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呀其实我们是性少数友好国家，人家友好国家也不容易，顶着上边压力，都是上级领导要求的，人家也没办法嘛，体谅一下 https://t.co/JqQW5L5KPi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 140,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 283
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

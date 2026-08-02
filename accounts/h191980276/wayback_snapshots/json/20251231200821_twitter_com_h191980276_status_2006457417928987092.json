@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2006447894526832677",
+    "created_at": "2025-12-31T20:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T21:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006457417928987092"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006457417928987092",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006447894526832677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "退坑并不代表你去死吧，而是不要再被lgbt问题吞噬的一种解法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2006447894526832677",
+        "created_at": "2025-12-31T20:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T21:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006457417928987092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006457417928987092",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006447894526832677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "退坑并不代表你去死吧，而是不要再被lgbt问题吞噬的一种解法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2006447894526832677",
+        "created_at": "2025-12-31T19:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T20:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006447894526832677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momo_yu_Apple/…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/momo_yu_Apple/status/2005710153723830357",
+              "start": 66,
+              "url": "https://t.co/TOaep5DSr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006447894526832677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005710153723830357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺直老是叫这叫那说lgbt影响他是因为顺直没有退生物坑，顺直赶紧去退生物坑，就不会被lgbt性别问题吞噬天天嫌人这嫌人那就能和解了 https://t.co/TOaep5DSr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 169,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 415
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

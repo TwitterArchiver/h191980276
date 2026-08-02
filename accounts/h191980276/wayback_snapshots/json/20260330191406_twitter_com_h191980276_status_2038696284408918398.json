@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038696284408918398",
+    "created_at": "2026-03-30T19:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T20:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038696284408918398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/juhao0721/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/juhao0721/status/2038481765992706088",
+          "start": 5,
+          "url": "https://t.co/JJL9L4pc15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038696284408918398",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038481765992706088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行，支持 https://t.co/JJL9L4pc15"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_2038481753153871872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEokWqnaIAAO5es.jpg",
+        "width": 507
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038696284408918398",
+        "created_at": "2026-03-30T19:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038696284408918398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/juhao0721/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/juhao0721/status/2038481765992706088",
+              "start": 5,
+              "url": "https://t.co/JJL9L4pc15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038696284408918398",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038481765992706088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行，支持 https://t.co/JJL9L4pc15"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038481753153871872"
+          ]
+        },
+        "author_id": "1919296206381170688",
+        "conversation_id": "2038481765992706088",
+        "created_at": "2026-03-30T05:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038481765992706088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pv2vpsonXE",
+              "end": 41,
+              "expanded_url": "https://x.com/juhao0721/status/2038481765992706088/photo/1",
+              "media_key": "3_2038481753153871872",
+              "start": 18,
+              "url": "https://t.co/Pv2vpsonXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038481765992706088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 41116,
+          "like_count": 262,
+          "quote_count": 5,
+          "reply_count": 50,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "视频里刷到的，无意挑起性别对立🙏🏻 https://t.co/Pv2vpsonXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 340,
+          "like_count": 2980,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1052
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "饱饱我和别的女生不一样，我是男的\n♥️@xldscx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "xldscx"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "东京",
+        "name": "baka_0v0",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965438456919957504/fGrs8E0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4081,
+          "following_count": 108,
+          "like_count": 2777,
+          "listed_count": 8,
+          "media_count": 285,
+          "tweet_count": 1290
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}

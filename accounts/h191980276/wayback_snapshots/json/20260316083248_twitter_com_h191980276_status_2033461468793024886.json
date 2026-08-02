@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2033461468793024886",
+    "created_at": "2026-03-16T08:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033461468793024886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Windy_Skyline/…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/Windy_Skyline/status/2033459088320049226",
+          "start": 58,
+          "url": "https://t.co/Ax6JNrgaQs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033461468793024886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033459088320049226",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我接触过的所有以跨性别友善医生自居的都对我带着一种把我当二等人看，我接触过的没标榜自己跨性别友善的对我都很平常心的 https://t.co/Ax6JNrgaQs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2033461468793024886",
+        "created_at": "2026-03-16T08:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033461468793024886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Windy_Skyline/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Windy_Skyline/status/2033459088320049226",
+              "start": 58,
+              "url": "https://t.co/Ax6JNrgaQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033461468793024886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033459088320049226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我接触过的所有以跨性别友善医生自居的都对我带着一种把我当二等人看，我接触过的没标榜自己跨性别友善的对我都很平常心的 https://t.co/Ax6JNrgaQs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2033459088320049226",
+        "created_at": "2026-03-16T08:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033459088320049226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033459088320049226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“我希望我的标签是跨性别友善医生”\n我希望没有任何人的“标签”应该是“跨性别友善医生”\n把人当人看是一件理所当然的事情，搞出些什么工人家人老板、接纳黑人白人、尊重女性男性这一类标签就没有人觉得怪异？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我希望我的标签是跨性别友善医生”\n我希望没有任何人的“标签”应该是“跨性别友善医生”\n把人当人看是一件理所当然的事情，搞出些什么工人家人老板、接纳黑人白人、尊重女性男性这一类标签就没有人觉得怪异？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 283,
+          "like_count": 2372,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 785
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 241,
+          "like_count": 2414,
+          "listed_count": 10,
+          "media_count": 3749,
+          "tweet_count": 12730
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

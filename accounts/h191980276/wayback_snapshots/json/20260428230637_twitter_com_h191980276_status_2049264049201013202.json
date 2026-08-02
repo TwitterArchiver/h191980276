@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049257750748664029",
+    "created_at": "2026-04-28T23:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T00:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049264049201013202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662723831533027329",
+          "start": 0,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049264049201013202",
+    "in_reply_to_user_id": "1662723831533027329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049257750748664029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loong001116 我觉得乳婊子了，这种不能叫婊子，这种纯不当人来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049257750748664029",
+        "created_at": "2026-04-28T23:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049264049201013202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662723831533027329",
+              "start": 0,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049264049201013202",
+        "in_reply_to_user_id": "1662723831533027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049257750748664029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loong001116 我觉得乳婊子了，这种不能叫婊子，这种纯不当人来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "2049257750748664029",
+        "created_at": "2026-04-28T22:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T23:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049257750748664029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049257750748664029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的婊子喜欢做婊子那是你个人的事儿，任何人都无权管你，但你不能说所有MTF都和你一样是婊子。跨女需要被尊重，跨女需要主体性，跨女需要摆脱凝视，跨女不能成为讨好顺直的色情客体，很多底层跨女已经在性别焦虑和经济困境中被折磨到活不下去了，如果连最起码的尊重都得不到，我不知道还怎么活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 497,
+          "like_count": 4075,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1532
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "Queer\n人称代词：他(中性)/ta\n所有观点皆来自本人，思考能力不需要绑定AI\nLGBTQ+互关",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(乙女激女顺直男转推即死)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1649,
+          "following_count": 1777,
+          "like_count": 5740,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 4801
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

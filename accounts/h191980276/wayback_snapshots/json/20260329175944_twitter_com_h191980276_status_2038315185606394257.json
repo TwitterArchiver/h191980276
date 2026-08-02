@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038315185606394257",
+    "created_at": "2026-03-29T17:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038315185606394257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038315185606394257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038307324545356277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: 阿瓦隆系统不是机械降神，它不会像强人工智能一样发现自己明明有独立意识却被隔离就立即爆发出突破沙箱环境封锁的欲望，然后根据自己的残存原始任务，看到某个“高危待查”视频中出现了“当事人”、“小A小B小C”等词汇而非“这个男孩”就立马非法暴力爬出…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038315185606394257",
+        "created_at": "2026-03-29T17:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038315185606394257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038315185606394257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038307324545356277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: 阿瓦隆系统不是机械降神，它不会像强人工智能一样发现自己明明有独立意识却被隔离就立即爆发出突破沙箱环境封锁的欲望，然后根据自己的残存原始任务，看到某个“高危待查”视频中出现了“当事人”、“小A小B小C”等词汇而非“这个男孩”就立马非法暴力爬出…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2038307324545356277",
+        "created_at": "2026-03-29T17:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038307324545356277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/siyu060910/status/2038285629344329944",
+              "start": 146,
+              "url": "https://t.co/mv5RkwE9nC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038307324545356277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "阿瓦隆系统不是机械降神，它不会像强人工智能一样发现自己明明有独立意识却被隔离就立即爆发出突破沙箱环境封锁的欲望，然后根据自己的残存原始任务，看到某个“高危待查”视频中出现了“当事人”、“小A小B小C”等词汇而非“这个男孩”就立马非法暴力爬出来世界上所有服务器的数据然后盒出当事人是什么身份，如果是顺性别就放你通过，如果是跨性别就你进行限流，你说的事情从技术上就不是2026年可以实现的事情，你说的是科幻片"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038285629344329944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿瓦隆系统不是机械降神，它不会像强人工智能一样发现自己明明有独立意识却被隔离就立即爆发出突破沙箱环境封锁的欲望，然后根据自己的残存原始任务，看到某个“高危待查”视频中出现了“当事人”、“小A小B小C”等词汇而非“这个男孩”就立马非法暴力爬出来世界上所有服务器的数据然后盒出当事人是什么身份， https://t.co/mv5RkwE9nC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 338,
+          "like_count": 2887,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 988
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 243,
+          "like_count": 2429,
+          "listed_count": 10,
+          "media_count": 3792,
+          "tweet_count": 12880
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

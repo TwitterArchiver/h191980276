@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2017687109339861480",
+    "created_at": "2026-01-31T20:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T21:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017703146353791450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662723831533027329",
+          "start": 0,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017703146353791450",
+    "in_reply_to_user_id": "1662723831533027329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017687109339861480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loong001116 目的就是这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2017687109339861480",
+        "created_at": "2026-01-31T20:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T21:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017703146353791450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662723831533027329",
+              "start": 0,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017703146353791450",
+        "in_reply_to_user_id": "1662723831533027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017687109339861480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loong001116 目的就是这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2017687109339861480",
+        "created_at": "2026-01-31T19:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T20:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017687109339861480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/520illusion/status/2017298894527598787",
+              "start": 44,
+              "url": "https://t.co/vBFuBCZ4aP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017687109339861480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017298894527598787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种发言除了给扭转机构增添合理性，增加其他跨女被监禁和虐待的风险，除此之外没有任何作用 https://t.co/vBFuBCZ4aP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 202,
+          "like_count": 1551,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 514
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "顺性别异性恋视奸=同意被我斩首",
+        "id": "1662723831533027329",
+        "location": "Mars",
+        "name": "劳荣枝(🏳️‍🌈🏳️‍⚧互fo)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 1269,
+          "like_count": 4274,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 3191
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

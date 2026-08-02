@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2023817067586347331",
+    "created_at": "2026-02-18T10:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024061832823005486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767161673566359552",
+          "start": 0,
+          "username": "willa_citrus"
+        },
+        {
+          "end": 27,
+          "id": "1677732423667445760",
+          "start": 14,
+          "username": "wuerbangbang"
+        },
+        {
+          "end": 41,
+          "id": "1424779836938022913",
+          "start": 28,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024061832823005486",
+    "in_reply_to_user_id": "1767161673566359552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024056257011724678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willa_citrus @wuerbangbang @amber_toffee 就差把吴二棒大名爆出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2023817067586347331",
+        "created_at": "2026-02-18T10:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024061832823005486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            },
+            {
+              "end": 27,
+              "id": "1677732423667445760",
+              "start": 14,
+              "username": "wuerbangbang"
+            },
+            {
+              "end": 41,
+              "id": "1424779836938022913",
+              "start": 28,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024061832823005486",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024056257011724678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus @wuerbangbang @amber_toffee 就差把吴二棒大名爆出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2023817067586347331",
+        "created_at": "2026-02-18T09:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024056257011724678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            },
+            {
+              "end": 27,
+              "id": "1424779836938022913",
+              "start": 14,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024056257011724678",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023817067586347331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang @amber_toffee chaser说的是狩猎式追求mtf的男性 一般把mtf当做猎奇景观或者性欲发泄对象而非正式长期互相支持的亲密关系 通常情况下chaser和mtf接触并进入暧昧期后 chaser会一直拖着不确认关系 也不会因为不想长期建立关系而切断关系 还有一些会拿出性别问题比如“还是想要孩子”来贬低mtf 总体而言是烂人的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 220,
+          "like_count": 1786,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 558
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 多给我点赞啊！/ 如果空下来一定要做个播客 / 甜甜同居快六年 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11906,
+          "following_count": 203,
+          "like_count": 5547,
+          "listed_count": 33,
+          "media_count": 286,
+          "tweet_count": 6872
+        },
+        "username": "willa_citrus",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、旅游手工、猫咪爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Hmong,  lover of history, heritage, art & kitty🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "United States",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2017141174021345689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6768,
+          "following_count": 909,
+          "like_count": 10357,
+          "listed_count": 24,
+          "media_count": 1889,
+          "tweet_count": 5928
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "𝑝ℎ𝑑 @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22132,
+          "following_count": 2580,
+          "like_count": 36304,
+          "listed_count": 7,
+          "media_count": 449,
+          "tweet_count": 19080
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043086779415498918",
+    "created_at": "2026-04-11T22:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T23:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043086779415498918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/h191980276/status/2041662795775930408",
+          "start": 44,
+          "url": "https://t.co/OAsbIBNXI3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043086779415498918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041662795775930408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老子就是药娘！药娘！药娘！药娘就是牛逼！你想跟药娘划清界限，我还想跟厌药娘的划清界限呢 https://t.co/OAsbIBNXI3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043086779415498918",
+        "created_at": "2026-04-11T22:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T23:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043086779415498918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/h191980276/status/2041662795775930408",
+              "start": 44,
+              "url": "https://t.co/OAsbIBNXI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043086779415498918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041662795775930408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老子就是药娘！药娘！药娘！药娘就是牛逼！你想跟药娘划清界限，我还想跟厌药娘的划清界限呢 https://t.co/OAsbIBNXI3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2041662795775930408",
+        "created_at": "2026-04-07T23:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T00:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041662795775930408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041662795775930408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我确实是药娘，我以前就是药娘，我希望厌药娘的能拉黑我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 403,
+          "like_count": 3373,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1272
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

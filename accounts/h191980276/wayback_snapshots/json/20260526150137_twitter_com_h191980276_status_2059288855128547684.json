@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059129879330017467",
+    "created_at": "2026-05-26T15:01:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:01:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059288855128547684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "873489613934927872",
+          "start": 0,
+          "username": "taro_puree"
+        },
+        {
+          "end": 26,
+          "id": "1938969907548372992",
+          "start": 12,
+          "username": "beyondr3pairr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059288855128547684",
+    "in_reply_to_user_id": "873489613934927872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059129879330017467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taro_puree @beyondr3pairr 这叫趁人之危"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059129879330017467",
+        "created_at": "2026-05-26T15:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059288855128547684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "873489613934927872",
+              "start": 0,
+              "username": "taro_puree"
+            },
+            {
+              "end": 26,
+              "id": "1938969907548372992",
+              "start": 12,
+              "username": "beyondr3pairr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059288855128547684",
+        "in_reply_to_user_id": "873489613934927872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059129879330017467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taro_puree @beyondr3pairr 这叫趁人之危"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "873489613934927872",
+        "conversation_id": "2059129879330017467",
+        "created_at": "2026-05-26T04:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059129879330017467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taro_puree/sta…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/taro_puree/status/2059124328000786837",
+              "start": 147,
+              "url": "https://t.co/FLKI154gFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059129879330017467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 806,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059124328000786837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的受不了遇到过几个所谓“救助者”就跟那个概念神似的，你说不能和救助对象谈恋爱，ta说没谈啊只是养起来了，你说任何形式亲密都不行，ta说救完了就养起来不算救助对象了，你说关系就是在救助上不平等地建立起来的，救助完了也不行，ta说不是啊相当于是网友加上的，看对方困难转成救助帮了一把....吐血 https://t.co/FLKI154gFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 509,
+          "like_count": 4233,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1725
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/autoandrophilia/深柜潜在家暴党/专业自我扭转10余年成为精神跨男/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1947368625045967299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 296,
+          "like_count": 24199,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 3865
+        },
+        "username": "taro_puree",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nmostly chinese, mostly vibes · YT/TikTok: @beyondr3pairr\n\nMy Forever Love: @MYBLOODY_VALENT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "beyondr3pairr"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "MYBLOODY_VALENT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7UaA"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "location": "Canada",
+        "name": "拼接碎片 - BeyondR3pairr",
+        "pinned_tweet_id": "2055536641561784457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035584401178775552/Y64IybTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 124,
+          "like_count": 285,
+          "listed_count": 1,
+          "media_count": 644,
+          "tweet_count": 3433
+        },
+        "url": "https://t.co/kdPl4R7UaA",
+        "username": "beyondr3pairr",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2064007353935237632",
+    "created_at": "2026-06-08T15:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064007353935237632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1542529354042712064",
+          "start": 3,
+          "username": "MEOWLITSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064007353935237632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063961616383922300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MEOWLITSU: 看清蒸的或者在那个群组/频道里的可以赶紧和我互b或者双取"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2064007353935237632",
+        "created_at": "2026-06-08T15:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064007353935237632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1542529354042712064",
+              "start": 3,
+              "username": "MEOWLITSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064007353935237632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063961616383922300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MEOWLITSU: 看清蒸的或者在那个群组/频道里的可以赶紧和我互b或者双取"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542529354042712064",
+        "conversation_id": "2063961616383922300",
+        "created_at": "2026-06-08T12:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063961616383922300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nevernessian/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Nevernessian/status/2063930159758193126",
+              "start": 29,
+              "url": "https://t.co/mXDnwY9m8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063961616383922300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063930159758193126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看清蒸的或者在那个群组/频道里的可以赶紧和我互b或者双取 https://t.co/mXDnwY9m8q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 518,
+          "like_count": 4449,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1939
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T15:23:59.000Z",
+        "description": "想生活在夏天不超过25摄氏度冬天不低于零下5度的地方/已满16岁/poly/对大姐姐没有抵抗力/摄影📷🎞️/165/60/🚪即将解放/混乱邪恶/吸毒无罪，od有理/Ⓐ🏳️‍⚧️☮️/😚😚😚气波波🥰🥰🥰",
+        "id": "1542529354042712064",
+        "location": "坎通公社",
+        "name": "喵粒子❤️🖤🏳️‍⚧️Ⓐ（胡萝卜味的🥕）",
+        "pinned_tweet_id": "1702634560578781576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009078971108085766/2bUnXeQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 3466,
+          "like_count": 45962,
+          "listed_count": 8,
+          "media_count": 206,
+          "tweet_count": 17080
+        },
+        "username": "MEOWLITSU",
+        "verified": false
+      }
+    ]
+  }
+}

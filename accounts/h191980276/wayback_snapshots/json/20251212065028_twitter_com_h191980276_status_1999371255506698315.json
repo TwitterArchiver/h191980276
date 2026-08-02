@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "1999365904426299594",
+    "created_at": "2025-12-12T06:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T07:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999371255506698315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "535028358",
+          "start": 0,
+          "username": "Beiyan_Yunyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999371255506698315",
+    "in_reply_to_user_id": "535028358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999365904426299594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beiyan_Yunyi 太谄媚了，把紫白绿旗子下了吧，丢人，有那个会以“我更受男人夸赞”沾沾自喜的顺女好意思用紫白绿的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "1999365904426299594",
+        "created_at": "2025-12-12T06:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999371255506698315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "535028358",
+              "start": 0,
+              "username": "Beiyan_Yunyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999371255506698315",
+        "in_reply_to_user_id": "535028358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999365904426299594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beiyan_Yunyi 太谄媚了，把紫白绿旗子下了吧，丢人，有那个会以“我更受男人夸赞”沾沾自喜的顺女好意思用紫白绿的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "535028358",
+        "conversation_id": "1999365904426299594",
+        "created_at": "2025-12-12T06:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999365904426299594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KamiyaSara8972…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/KamiyaSara8972/status/1999340634520584406",
+              "start": 134,
+              "url": "https://t.co/rwxGokQSB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999365904426299594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999340634520584406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“超级女孩”理论还在追我：\n排他性原则（门槛高于是更尊贵）、反功能性（证本身除了国内手术以外没什么卵用）、理想身体的再生产\n服装不是为了合身，而是为了制造“穿得起的人更高级”的幻觉。开证当然也不是为了说服家长或者别人，而是为了制造身份区隔、“开得出证的人地位更高”。 https://t.co/rwxGokQSB4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 139,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 274
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-24T03:02:07.000Z",
+        "description": "MtRF，吃雌二醇的网左，杯水主义仙人\nMothers: @artefaritaUsagi & @sauricat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "sauricat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yunyi.beiyan.us",
+                "end": 23,
+                "expanded_url": "https://blog.yunyi.beiyan.us",
+                "start": 0,
+                "url": "https://t.co/0dCxoXrhgJ"
+              }
+            ]
+          }
+        },
+        "id": "535028358",
+        "name": "北雁云依 - 21018365482@o3o.ca",
+        "pinned_tweet_id": "1848540476166885623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984845724023181312/BiHKeo6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3716,
+          "following_count": 215,
+          "like_count": 7313,
+          "listed_count": 18,
+          "media_count": 198,
+          "tweet_count": 1967
+        },
+        "url": "https://t.co/0dCxoXrhgJ",
+        "username": "Beiyan_Yunyi",
+        "verified": false
+      }
+    ]
+  }
+}

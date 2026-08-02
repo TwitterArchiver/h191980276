@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2063994598176023032",
+    "created_at": "2026-06-08T14:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063994598176023032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2063991987137605842",
+          "start": 22,
+          "url": "https://t.co/xNtQhFFEgS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063994598176023032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063991987137605842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你老母的给唐畜说好话的时候咋不是这么说的😅 https://t.co/xNtQhFFEgS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2063994598176023032",
+        "created_at": "2026-06-08T14:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063994598176023032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2063991987137605842",
+              "start": 22,
+              "url": "https://t.co/xNtQhFFEgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063994598176023032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063991987137605842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你老母的给唐畜说好话的时候咋不是这么说的😅 https://t.co/xNtQhFFEgS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2063991987137605842",
+        "created_at": "2026-06-08T14:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063991987137605842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xe1_n0n/status…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/xe1_n0n/status/2063977311691842030",
+              "start": 73,
+              "url": "https://t.co/0gAqsCoynD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063991987137605842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063977311691842030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理想中的跨女圈：姐妹同心，互帮互助，资源共享，共同进步\n\n现实中的跨女圈：小登炒作抽象恶俗，激跨四处出警割席无数，老登愤懑不平，生命如雪花般飘落 https://t.co/0gAqsCoynD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 520,
+          "like_count": 4444,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1934
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5607,
+          "following_count": 972,
+          "like_count": 4483,
+          "listed_count": 10,
+          "media_count": 136,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

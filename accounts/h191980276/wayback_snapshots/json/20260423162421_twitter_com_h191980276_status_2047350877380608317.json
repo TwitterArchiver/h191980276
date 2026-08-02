@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047330939056136192"
+      ],
+      "media_source_tweet_id": [
+        "2047330945964085269"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047350877380608317",
+    "created_at": "2026-04-23T16:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047350877380608317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313383273079345152",
+          "start": 3,
+          "username": "ValeriaEulabeia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Sr1enrL9u",
+          "end": 69,
+          "expanded_url": "https://x.com/ValeriaEulabeia/status/2047330945964085269/photo/1",
+          "media_key": "3_2047330939056136192",
+          "start": 46,
+          "url": "https://t.co/6Sr1enrL9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047350877380608317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047330945964085269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValeriaEulabeia: 如果你被我的存在恶心到了，那么我恶心的就是你🖕🏻 https://t.co/6Sr1enrL9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1685,
+        "media_key": "3_2047330939056136192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmUpFAboAA1r6t.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047330939056136192"
+          ],
+          "media_source_tweet_id": [
+            "2047330945964085269"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047350877380608317",
+        "created_at": "2026-04-23T16:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047350877380608317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313383273079345152",
+              "start": 3,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Sr1enrL9u",
+              "end": 69,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2047330945964085269/photo/1",
+              "media_key": "3_2047330939056136192",
+              "start": 46,
+              "url": "https://t.co/6Sr1enrL9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047350877380608317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047330945964085269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ValeriaEulabeia: 如果你被我的存在恶心到了，那么我恶心的就是你🖕🏻 https://t.co/6Sr1enrL9u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047330939056136192"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "conversation_id": "2047330945964085269",
+        "created_at": "2026-04-23T15:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047330945964085269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Sr1enrL9u",
+              "end": 48,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2047330945964085269/photo/1",
+              "media_key": "3_2047330939056136192",
+              "start": 25,
+              "url": "https://t.co/6Sr1enrL9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047330945964085269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 684,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "如果你被我的存在恶心到了，那么我恶心的就是你🖕🏻 https://t.co/6Sr1enrL9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 488,
+          "like_count": 3870,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1432
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6900,
+          "following_count": 3797,
+          "like_count": 155499,
+          "listed_count": 19,
+          "media_count": 2656,
+          "tweet_count": 24752
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "1999095847947219131",
+    "created_at": "2025-12-11T12:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T13:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999095847947219131"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999095847947219131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在喜弟上找Zn陪玩，让我陪他玩SM。放弃尊严，雌堕为母狗。锁链束缚、皮鞭调教，强迫学习母狗守则，陪了一夜赚了2000块钱。\n\n我在跨儿说上找小白，让我玩文革角色扮演。放弃尊严，扮演黑五类。接受派对监督批斗再教育，强制学习派对历史，陪玩了好几天，说答应给报销医保到现在都没进卡里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "1999095847947219131",
+        "created_at": "2025-12-11T12:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T13:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999095847947219131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999095847947219131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在喜弟上找Zn陪玩，让我陪他玩SM。放弃尊严，雌堕为母狗。锁链束缚、皮鞭调教，强迫学习母狗守则，陪了一夜赚了2000块钱。\n\n我在跨儿说上找小白，让我玩文革角色扮演。放弃尊严，扮演黑五类。接受派对监督批斗再教育，强制学习派对历史，陪玩了好几天，说答应给报销医保到现在都没进卡里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 139,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 266
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

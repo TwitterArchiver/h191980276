@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2020781301893341574",
+    "created_at": "2026-02-09T09:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T10:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020789178644975645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986828541930119168",
+          "start": 0,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020789178644975645",
+    "in_reply_to_user_id": "1986828541930119168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020781301893341574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigure07288 我操，左人说禁止发起运动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2020781301893341574",
+        "created_at": "2026-02-09T09:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020789178644975645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986828541930119168",
+              "start": 0,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020789178644975645",
+        "in_reply_to_user_id": "1986828541930119168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020781301893341574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigure07288 我操，左人说禁止发起运动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2020781301893341574",
+        "created_at": "2026-02-09T08:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020781301893341574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tonghua_me/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/tonghua_me/status/2020780422758851036",
+              "start": 58,
+              "url": "https://t.co/97l4guP480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020781301893341574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020780422758851036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我认识的性少数都是给资本家打工还有送外卖的这种底层打工人呢，同时lgbt不是任何运动，而是仅仅是一个群体名称 https://t.co/97l4guP480"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 203,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 523
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|毛主义|左翼共产主义|民主社会主义|左翼民粹主义|反资本主义|平权主义|反激进女权|友跨",
+        "id": "1986828541930119168",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🇻🇪🏳️‍🌈",
+        "pinned_tweet_id": "2004470065887117362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872933650059266/LBQYDyhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 493,
+          "like_count": 1603,
+          "listed_count": 4,
+          "media_count": 185,
+          "tweet_count": 2251
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

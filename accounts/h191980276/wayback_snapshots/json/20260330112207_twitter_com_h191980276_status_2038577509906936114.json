@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038577509906936114",
+    "created_at": "2026-03-30T11:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038577509906936114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1805343817966440448",
+          "start": 3,
+          "username": "HuatoF42103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038577509906936114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038547624215867767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HuatoF42103: 最看不惯这种理中客了。\n你妈的，搞清楚谁才是这件事情闹大的主使。\n最开始只是一个提议，一个询问。\n出面回应一下，确实有什么困难。这事也就过去了。\n那反戒的这群傻逼，上来就是阴阳怪气，各种攻击。\n我们说东他妈扯西。\n最后某个牲畜直接开始地图炮攻击…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2156,
+        "media_key": "3_2038547621447602177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpgQtIaEAEw4nD.jpg",
+        "width": 540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038547621741252608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpgQuOa0AAvoj0.jpg",
+        "width": 292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038577509906936114",
+        "created_at": "2026-03-30T11:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038577509906936114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1805343817966440448",
+              "start": 3,
+              "username": "HuatoF42103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038577509906936114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038547624215867767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HuatoF42103: 最看不惯这种理中客了。\n你妈的，搞清楚谁才是这件事情闹大的主使。\n最开始只是一个提议，一个询问。\n出面回应一下，确实有什么困难。这事也就过去了。\n那反戒的这群傻逼，上来就是阴阳怪气，各种攻击。\n我们说东他妈扯西。\n最后某个牲畜直接开始地图炮攻击…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038547621447602177",
+            "3_2038547621741252608"
+          ]
+        },
+        "author_id": "1805343817966440448",
+        "conversation_id": "2038547624215867767",
+        "created_at": "2026-03-30T09:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038547624215867767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cuOdceyt67",
+              "end": 153,
+              "expanded_url": "https://x.com/HuatoF42103/status/2038547624215867767/photo/1",
+              "media_key": "3_2038547621447602177",
+              "start": 130,
+              "url": "https://t.co/cuOdceyt67"
+            },
+            {
+              "display_url": "pic.x.com/cuOdceyt67",
+              "end": 153,
+              "expanded_url": "https://x.com/HuatoF42103/status/2038547624215867767/photo/1",
+              "media_key": "3_2038547621741252608",
+              "start": 130,
+              "url": "https://t.co/cuOdceyt67"
+            },
+            {
+              "display_url": "x.com/rnpgpsl/status…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/rnpgpsl/status/2038369206958170132",
+              "start": 154,
+              "url": "https://t.co/oVcx0eMaaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038547624215867767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038369206958170132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最看不惯这种理中客了。\n你妈的，搞清楚谁才是这件事情闹大的主使。\n最开始只是一个提议，一个询问。\n出面回应一下，确实有什么困难。这事也就过去了。\n那反戒的这群傻逼，上来就是阴阳怪气，各种攻击。\n我们说东他妈扯西。\n最后某个牲畜直接开始地图炮攻击，至今未道歉。 https://t.co/cuOdceyt67 https://t.co/oVcx0eMaaJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 337,
+          "like_count": 2934,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1017
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T20:54:53.000Z",
+        "description": "混合型系统，有创伤和创造行为，侧面。主要成员只有夏诺儿和夏诺语，包括一个幻想伙伴转意识体的存在，老副（小时候开始就这么叫的这可不赖我）。系统名《花海》\n主要爱好，写作，骑行，音游，diy数码，以及一些常见的数码产品。",
+        "id": "1805343817966440448",
+        "location": "浙江 宁波 慈溪",
+        "name": "花と風",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805344123525709824/8PQieLkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 53,
+          "like_count": 248,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2569
+        },
+        "username": "HuatoF42103",
+        "verified": false
+      }
+    ]
+  }
+}

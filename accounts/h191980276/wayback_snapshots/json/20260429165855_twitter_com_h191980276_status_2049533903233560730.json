@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049504514156499390",
+    "created_at": "2026-04-29T16:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049533903233560730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1690258801579175937",
+          "start": 0,
+          "username": "LEnaaaaa_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049533903233560730",
+    "in_reply_to_user_id": "1690258801579175937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049504514156499390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LEnaaaaa_114514 这人的立场就是跨性别是人（仅限amber），"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049504514156499390",
+        "created_at": "2026-04-29T16:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049533903233560730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1690258801579175937",
+              "start": 0,
+              "username": "LEnaaaaa_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049533903233560730",
+        "in_reply_to_user_id": "1690258801579175937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049504514156499390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LEnaaaaa_114514 这人的立场就是跨性别是人（仅限amber），"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690258801579175937",
+        "conversation_id": "2049504514156499390",
+        "created_at": "2026-04-29T15:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049504514156499390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bolckAshley/st…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/bolckAshley/status/2049421776086777921",
+              "start": 88,
+              "url": "https://t.co/jIVJOehAaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049504514156499390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049421776086777921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开香槟。这人关注我第二天开始在我推文的犄角旮旯揪乱七八糟的东西引用帖逼逼赖赖。说真的我看不懂她到底啥立场，自己是个酷儿还天天跟个反跨的一样，第一次见到一个跨女待在terf堆里 https://t.co/jIVJOehAaI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 501,
+          "like_count": 4111,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1541
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T07:08:18.000Z",
+        "description": "call me lena｜18↑丨🇨🇳🏳️‍🌈💛🤍💜🖤⚢丨defoko fan💜｜🥖🍙🥖/🍙🍑/🍙×all｜🚫AI｜💗 @YYYYY202135｜nsfw→@ineedutatetouta，个人→@LEnaaaaa_0809",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 60,
+                "username": "YYYYY202135"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ineedutatetouta"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "LEnaaaaa_0809"
+              }
+            ]
+          }
+        },
+        "id": "1690258801579175937",
+        "location": "SHE/THEY",
+        "name": "🍻",
+        "pinned_tweet_id": "2041166100558500342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048485735821676544/AP8CFiPr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 1273,
+          "like_count": 55092,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 19794
+        },
+        "username": "LEnaaaaa_114514",
+        "verified": false
+      }
+    ]
+  }
+}

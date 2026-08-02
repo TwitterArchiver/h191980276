@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2044058442424619454",
+    "created_at": "2026-04-15T12:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044386550860194199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044386550860194199",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044058442424619454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 你吃多少色哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2044058442424619454",
+        "created_at": "2026-04-15T12:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044386550860194199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044386550860194199",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044058442424619454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 你吃多少色哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2044058442424619454",
+        "created_at": "2026-04-14T14:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044058442424619454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044058442424619454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2514,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狠下心来用雌二醇了喵（其实原本是单吃色压不住迫不得已）性别焦虑缓解了好多喵 彻底雌堕了喵🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 439,
+          "like_count": 3516,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1327
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "生产日期2008 | mtx🏳️‍⚧️| ENTP-T | 轻度双相 | 家长党 | hrt 3.29 | 究极大m😋|🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵 | 补药攻击窝 窝外貌就是个阴暗臭顺男😭| 最最好的大姐姐@SakurakuiGekka | 最最好的天使宝宝@Rain_Antar1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 114,
+                "username": "SakurakuiGekka"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "Rain_Antar1121"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039755166614958080/PTyVGD3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 125,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 587
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

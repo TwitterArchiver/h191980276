@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2014106512772235713",
+    "created_at": "2026-01-21T22:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T23:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014107987632333155"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014107987632333155",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014106512772235713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此一类完全与事实不符的编纂演绎的叙事有必要被辟谣修证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2014106512772235713",
+        "created_at": "2026-01-21T22:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T23:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014107987632333155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014107987632333155",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014106512772235713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此一类完全与事实不符的编纂演绎的叙事有必要被辟谣修证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2014106512772235713",
+        "created_at": "2026-01-21T22:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T23:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014106512772235713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Windy_Skyline/…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/Windy_Skyline/status/2014033729338089967",
+              "start": 129,
+              "url": "https://t.co/RMOLqKCpW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014106512772235713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014033729338089967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此类问题不指出，可预见的是未来五年甚至三年内，就会有对跨性别群体完全不了解的个人和组织依据此文章编写对跨性别群体的所谓“解读”、“科普”。\n\n此所谓的“研究”完全可以看做是阴湿小众chaser社群单方面自娱自乐对跨性别群体的造谣分类以及泼脏水语料库的汇总贴 https://t.co/RMOLqKCpW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 181,
+          "like_count": 1405,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 462
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

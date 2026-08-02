@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2058770128368460273",
+    "created_at": "2026-05-26T01:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059079247483093085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "918593759121690625",
+          "start": 0,
+          "username": "hu_qin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059079247483093085",
+    "in_reply_to_user_id": "918593759121690625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058770128368460273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hu_qin_ 神经元摸人熊都不带问的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2024,
+        "media_key": "3_2058770125851906048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI4hYmW0AAt7FO.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2058770128368460273",
+        "created_at": "2026-05-26T01:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059079247483093085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "918593759121690625",
+              "start": 0,
+              "username": "hu_qin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059079247483093085",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058770128368460273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_qin_ 神经元摸人熊都不带问的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058770125851906048"
+          ]
+        },
+        "author_id": "918593759121690625",
+        "conversation_id": "2058770128368460273",
+        "created_at": "2026-05-25T04:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058770128368460273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pageWrIBaT",
+              "end": 43,
+              "expanded_url": "https://x.com/hu_qin_/status/2058770128368460273/photo/1",
+              "media_key": "3_2058770125851906048",
+              "start": 20,
+              "url": "https://t.co/pageWrIBaT"
+            },
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2058766761088934088",
+              "start": 44,
+              "url": "https://t.co/zSqrPPEMJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058770128368460273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3202,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058766761088934088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问认识几天的人能不能摸胸不算性骚扰说是 https://t.co/pageWrIBaT https://t.co/zSqrPPEMJ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 510,
+          "like_count": 4217,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1697
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2045736690673741968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 1817,
+          "like_count": 20740,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 5328
+        },
+        "username": "hu_qin_",
+        "verified": false
+      }
+    ]
+  }
+}

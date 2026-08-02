@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2034197700644860227",
+    "created_at": "2026-03-18T09:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034202746304528444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413151000567771146",
+          "start": 0,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034202746304528444",
+    "in_reply_to_user_id": "1413151000567771146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034197700644860227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Windy_Skyline 想象一下一个同性恋说我是在精神科获得证明且在专业人士指导下进行正规同性性行为的同性恋，快进到身上标倒三角"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2034197700644860227",
+        "created_at": "2026-03-18T09:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034202746304528444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413151000567771146",
+              "start": 0,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034202746304528444",
+        "in_reply_to_user_id": "1413151000567771146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034197700644860227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Windy_Skyline 想象一下一个同性恋说我是在精神科获得证明且在专业人士指导下进行正规同性性行为的同性恋，快进到身上标倒三角"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2034197700644860227",
+        "created_at": "2026-03-18T09:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034197700644860227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bluejam_8123/s…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/bluejam_8123/status/2034085951690211478",
+              "start": 147,
+              "url": "https://t.co/yBwes0Kber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034197700644860227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "内分泌科，指的是作为中国GDP第一的城市里有大量跨性别来访历史却让人一天吃1mg补佳乐的内分泌科，还是中国的行政中心城市发现你是跨性别就给你踢到专门处理跨性别的地方然后不准你和顺性别共用药房然后三天两头在医院有药的情况下给跨性别的药却库存不足的内分泌科？还是告诉顺性别每天吃8mg、16mg补佳乐有利于备孕的内分泌科？还是告诉跨性别吃4mg补佳乐会肾衰竭的内分泌科？\n以及你碰运气找到了个给你合理用药方案的内分泌科，你真就会去吗？它对看激素检查结果调整用药的方法了解有多深刻？它一次给你开几盒药？\n一个社会处境良好的有自己生活的平均人能接受这样的规律繁琐程序吗？跨性别群体比这样的平均人生活处境更好、抗压能力更强、更有精力跑程序吗？去内分泌科的收益是正的吗？\n你自己用药比它的认知就更不专业吗？你自己看激素检查结果就不如它看的懂吗？你自己开的体检项目就和它开的不一样吗？\n其次你自己就算误解用药知识服用了不合理的药量，造成的负担有亚洲人平均能接受的饮酒的量带来的负担大吗？\n此外“两畸跨性别需要医疗跟进”这一点就更是一个医疗系统造成迫害的重灾区，这点还需要讲吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034085951690211478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "内分泌科，指的是作为中国GDP第一的城市里有大量跨性别来访历史却让人一天吃1mg补佳乐的内分泌科，还是中国的行政中心城市发现你是跨性别就给你踢到专门处理跨性别的地方然后不准你和顺性别共用药房然后三天两头在医院有药的情况下给跨性别的药却库存不足的内分泌科？还是告诉顺性别每天吃8mg、16mg补 https://t.co/yBwes0Kber"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 294,
+          "like_count": 2467,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 828
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 243,
+          "like_count": 2417,
+          "listed_count": 10,
+          "media_count": 3752,
+          "tweet_count": 12744
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

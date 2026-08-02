@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2048375562734084177",
+    "created_at": "2026-04-27T04:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048627947687272899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459391643988082701",
+          "start": 0,
+          "username": "umi_hoxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048627947687272899",
+    "in_reply_to_user_id": "1459391643988082701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048573247810404764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umi_hoxi 找也不找顺直女谈，太膈应了，她要是把把你当女的那肯定不会喜欢你，她要是喜欢你肯定还是把你当男的了，找也得找同性恋谈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2048375562734084177",
+        "created_at": "2026-04-27T04:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048627947687272899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459391643988082701",
+              "start": 0,
+              "username": "umi_hoxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048627947687272899",
+        "in_reply_to_user_id": "1459391643988082701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048573247810404764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umi_hoxi 找也不找顺直女谈，太膈应了，她要是把把你当女的那肯定不会喜欢你，她要是喜欢你肯定还是把你当男的了，找也得找同性恋谈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459391643988082701",
+        "conversation_id": "2048375562734084177",
+        "created_at": "2026-04-27T01:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048573247810404764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048573247810404764",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048375562734084177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 所以我这个双性恋被迫成为跨直女，还是男人好😇，女人太可怕🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 491,
+          "like_count": 3990,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1489
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T05:25:12.000Z",
+        "description": "坐标鄭州/僮苗文化彝族/電波系/樂觀又陰鬱的樂子人/业余coser 165/55  /vx🚪50/qq🚪88/跨女/想srs沒錢/支持非二元/ ENTJ /双性戀/大一汉語言在讀\nChinese / English\n，架空世界/科幻/東方，MC老玩家,      \n老婆：@D0ntTox1c",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "D0ntTox1c"
+              }
+            ]
+          }
+        },
+        "id": "1459391643988082701",
+        "location": "索拉里斯星",
+        "name": "太陽海星🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047192748084858880/gHveIg2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 421,
+          "like_count": 36826,
+          "listed_count": 2,
+          "media_count": 828,
+          "tweet_count": 7610
+        },
+        "username": "umi_hoxi",
+        "verified": false
+      }
+    ]
+  }
+}

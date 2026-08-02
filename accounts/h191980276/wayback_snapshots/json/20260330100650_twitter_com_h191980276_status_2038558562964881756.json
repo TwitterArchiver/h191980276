@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038558562964881756",
+    "created_at": "2026-03-30T10:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038558562964881756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3He2_Ka1R0/sta…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/3He2_Ka1R0/status/2038556475623383354",
+          "start": 60,
+          "url": "https://t.co/bxKEdPjDSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038558562964881756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038556475623383354",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "犯了一点错就变得十恶不赦要被拿枪指着了吗？！\n\n趋利避害是人类本能，被跨性别恶心多了难免有坏印象，他有怨气也无可厚非， https://t.co/bxKEdPjDSG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038558562964881756",
+        "created_at": "2026-03-30T10:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038558562964881756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3He2_Ka1R0/sta…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/3He2_Ka1R0/status/2038556475623383354",
+              "start": 60,
+              "url": "https://t.co/bxKEdPjDSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038558562964881756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038556475623383354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "犯了一点错就变得十恶不赦要被拿枪指着了吗？！\n\n趋利避害是人类本能，被跨性别恶心多了难免有坏印象，他有怨气也无可厚非， https://t.co/bxKEdPjDSG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "2038480753139544446",
+        "created_at": "2026-03-30T09:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038556475623383354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            },
+            {
+              "end": 28,
+              "id": "1758709034545557504",
+              "start": 12,
+              "username": "AntoniaJea54750"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038556475623383354",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038533699588022326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 @AntoniaJea54750 我觉得他有怨气也无可厚非，毕竟趋利避害是人类本能，被跨性别恶心多了难免有坏印象，再说了戒网瘾学校是反人类组织，私人监狱。如果你们跨性别不会被抓进戒网瘾学校你们就安心了是吗，其他孩子呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 338,
+          "like_count": 2919,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1009
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  哈莫林镇的吹笛人/ 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "location": "第六病室",
+        "name": "伊万",
+        "pinned_tweet_id": "2035371382541062404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 447,
+          "like_count": 94855,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 4260
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

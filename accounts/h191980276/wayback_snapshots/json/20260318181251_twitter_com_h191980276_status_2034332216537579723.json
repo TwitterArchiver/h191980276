@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2034332216537579723",
+    "created_at": "2026-03-18T18:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034332216537579723"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034332216537579723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们不觉得简介里写持证含糖的或者写自己正规变性很色情吗，\n真的很像一些星努本子里榨奶榨精工厂给耳朵上打的标"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2034332216537579723",
+        "created_at": "2026-03-18T18:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034332216537579723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034332216537579723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们不觉得简介里写持证含糖的或者写自己正规变性很色情吗，\n真的很像一些星努本子里榨奶榨精工厂给耳朵上打的标"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 298,
+          "like_count": 2483,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 839
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

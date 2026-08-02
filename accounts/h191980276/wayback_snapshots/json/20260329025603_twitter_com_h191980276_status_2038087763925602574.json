@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038087760918331392"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038087763925602574",
+    "created_at": "2026-03-29T02:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038087763925602574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 84,
+          "id": "2035882965671215104",
+          "start": 68,
+          "username": "amber_medusozoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/juZ2AetSc9",
+          "end": 110,
+          "expanded_url": "https://x.com/h191980276/status/2038087763925602574/photo/1",
+          "media_key": "3_2038087760918331392",
+          "start": 87,
+          "url": "https://t.co/juZ2AetSc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038087763925602574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "由于我的错误理解，误将不当跨性别了理解成性别认同与指派性别已经相一致为顺性别男性，实际上是一位性别认同与指派性别不同的顺性别跨女，这里向@amber_medusozoa道歉 https://t.co/juZ2AetSc9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038087760918331392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEi-BTKbwAAFQhB.jpg",
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038087760918331392"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038087763925602574",
+        "created_at": "2026-03-29T02:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038087763925602574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 84,
+              "id": "2035882965671215104",
+              "start": 68,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/juZ2AetSc9",
+              "end": 110,
+              "expanded_url": "https://x.com/h191980276/status/2038087763925602574/photo/1",
+              "media_key": "3_2038087760918331392",
+              "start": 87,
+              "url": "https://t.co/juZ2AetSc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038087763925602574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于我的错误理解，误将不当跨性别了理解成性别认同与指派性别已经相一致为顺性别男性，实际上是一位性别认同与指派性别不同的顺性别跨女，这里向@amber_medusozoa道歉 https://t.co/juZ2AetSc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 332,
+          "like_count": 2781,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 934
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2035930875699802188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 397,
+          "like_count": 621,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 440
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

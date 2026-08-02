@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047347317800611934",
+    "created_at": "2026-04-23T16:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047355942547947956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1069931275698335744",
+          "start": 0,
+          "username": "TponyS_xiaoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047355942547947956",
+    "in_reply_to_user_id": "1069931275698335744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047353078115135931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TponyS_xiaoma 中国人觉得在认知功能障碍里会给他们单分一个性别的认知障碍（为什么没有水果认知障碍）（觉得大脑里有个分区专门用来给东西分性别），就知道中国人有多把性别“看得比生命还重要”了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047347317800611934",
+        "created_at": "2026-04-23T16:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047355942547947956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069931275698335744",
+              "start": 0,
+              "username": "TponyS_xiaoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047355942547947956",
+        "in_reply_to_user_id": "1069931275698335744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047353078115135931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TponyS_xiaoma 中国人觉得在认知功能障碍里会给他们单分一个性别的认知障碍（为什么没有水果认知障碍）（觉得大脑里有个分区专门用来给东西分性别），就知道中国人有多把性别“看得比生命还重要”了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069931275698335744",
+        "conversation_id": "2047347317800611934",
+        "created_at": "2026-04-23T16:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047353078115135931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047353078115135931",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047347317800611934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 我觉得性别认知障碍这个词的问题在于它预设了一种真实客观的自我认知在，但其实我们所有人都是自我认知障碍。\n我们认为自己应该是什么样的是我们的大脑从我们婴儿时期就开始从周围环境中获取素材创造出来的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 488,
+          "like_count": 3872,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1435
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025467292939943936/YSIaYmWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15328,
+          "following_count": 353,
+          "like_count": 5120,
+          "listed_count": 107,
+          "media_count": 701,
+          "tweet_count": 6537
+        },
+        "username": "TponyS_xiaoma",
+        "verified": false
+      }
+    ]
+  }
+}

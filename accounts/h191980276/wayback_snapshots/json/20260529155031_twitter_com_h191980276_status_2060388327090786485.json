@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060385954842747135",
+    "created_at": "2026-05-29T15:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060388327090786485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015624869665456129",
+          "start": 0,
+          "username": "Oyama_Mihari01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060388327090786485",
+    "in_reply_to_user_id": "2015624869665456129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060386497325617195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyama_Mihari01 我本人是顺女性骚扰受害者呢，线上线下都有，是不是说明顺女也是男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060385954842747135",
+        "created_at": "2026-05-29T15:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060388327090786485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015624869665456129",
+              "start": 0,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060388327090786485",
+        "in_reply_to_user_id": "2015624869665456129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060386497325617195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Mihari01 我本人是顺女性骚扰受害者呢，线上线下都有，是不是说明顺女也是男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015624869665456129",
+        "conversation_id": "2060385954842747135",
+        "created_at": "2026-05-29T15:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060386497325617195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060386497325617195",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060385954842747135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 我本人是跨女性骚扰受害者，谁跟你造谣了😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 510,
+          "like_count": 4307,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1766
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "女子力の高い女の子🌊| 写真家 📸| クリア系🌈| 音楽と日常 🎼| Pansexuality💕 \n• JP / EN / 中文 OK!\n• LGBTQフレンドリー\n• 気軽にフォローしてください！ ˗ˏˋ♥︎︎ˎˊ˗\n~ Thanks for the love₊⁺♡₊⁺~\n^ ̳- ‧̫ • ̳^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kingyosama?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kingyosama?igsh=MWc5Z3JoNTA3ampmeQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gQ3LtlxQgH"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🍥🌈",
+        "pinned_tweet_id": "2059980733041795579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 273,
+          "like_count": 384,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/gQ3LtlxQgH",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

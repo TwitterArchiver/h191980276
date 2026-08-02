@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "1999188071506694478",
+    "created_at": "2025-12-11T18:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T19:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999188071506694478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yrr0rinblues/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/yrr0rinblues/status/1999154232973459489",
+          "start": 39,
+          "url": "https://t.co/a2HVNhXEJ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999188071506694478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999154232973459489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也是希望跨妹们别出卖人格巴结友跨人士了，而你在喜弟上约直男当一晚上狗真有钱拿 https://t.co/a2HVNhXEJ1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "1999188071506694478",
+        "created_at": "2025-12-11T18:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T19:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999188071506694478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yrr0rinblues/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/yrr0rinblues/status/1999154232973459489",
+              "start": 39,
+              "url": "https://t.co/a2HVNhXEJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999188071506694478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999154232973459489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也是希望跨妹们别出卖人格巴结友跨人士了，而你在喜弟上约直男当一晚上狗真有钱拿 https://t.co/a2HVNhXEJ1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906892094953762816",
+        "conversation_id": "1999120621125747078",
+        "created_at": "2025-12-11T16:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999154232973459489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1873945013346066439",
+              "start": 0,
+              "username": "yumesame0571"
+            },
+            {
+              "end": 23,
+              "id": "1913084413942145024",
+              "start": 14,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999154232973459489",
+        "in_reply_to_user_id": "1873945013346066439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999126495357477087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumesame0571 @Sui_aini 实际上是抽家暴预备役😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 139,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 270
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T14:48:19.000Z",
+        "description": "Metalhead🏳️‍🌈｜普通话&English｜肥宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yrr0r.net",
+                "end": 23,
+                "expanded_url": "http://blog.yrr0r.net",
+                "start": 0,
+                "url": "https://t.co/nlTQQyVLGW"
+              }
+            ]
+          }
+        },
+        "id": "906892094953762816",
+        "location": "上海的某个地下锅炉房",
+        "name": "Yrr0r",
+        "pinned_tweet_id": "1992957792924410069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998410248210751488/vTzKH695_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 539,
+          "like_count": 246064,
+          "listed_count": 8,
+          "media_count": 491,
+          "tweet_count": 37734
+        },
+        "url": "https://t.co/nlTQQyVLGW",
+        "username": "yrr0rinblues",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038576752386285572",
+    "created_at": "2026-03-30T11:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038576752386285572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/h191980276/status/2038568622936019369",
+          "start": 133,
+          "url": "https://t.co/dYB9QRRIaD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038576752386285572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038568622936019369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是一个舆论环境本来就不会让人家利益损失半毫，说的多吓人多危险后果多严重，但是只要一个小小操作（用“对”代词）就一点事没有了，甚至这样的环境还有好处（对一些特定受害者有合理且受欢迎的无限支配权），那人家凭什么要去消除偏见改变这种环境呢，凭什么要觉得这些人是自己人呢 https://t.co/dYB9QRRIaD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_2038568620394184704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpzXATagAA7qrk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038576752386285572",
+        "created_at": "2026-03-30T11:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038576752386285572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/h191980276/status/2038568622936019369",
+              "start": 133,
+              "url": "https://t.co/dYB9QRRIaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038576752386285572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038568622936019369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是一个舆论环境本来就不会让人家利益损失半毫，说的多吓人多危险后果多严重，但是只要一个小小操作（用“对”代词）就一点事没有了，甚至这样的环境还有好处（对一些特定受害者有合理且受欢迎的无限支配权），那人家凭什么要去消除偏见改变这种环境呢，凭什么要觉得这些人是自己人呢 https://t.co/dYB9QRRIaD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038568620394184704"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038568622936019369",
+        "created_at": "2026-03-30T10:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038568622936019369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20383…",
+              "end": 133,
+              "expanded_url": "https://x.com/i/status/2038337816619544577",
+              "start": 110,
+              "url": "https://t.co/IYkFMiRgsA"
+            },
+            {
+              "display_url": "pic.x.com/x1Bu9qKBl6",
+              "end": 157,
+              "expanded_url": "https://x.com/h191980276/status/2038568622936019369/photo/1",
+              "media_key": "3_2038568620394184704",
+              "start": 134,
+              "url": "https://t.co/x1Bu9qKBl6"
+            },
+            {
+              "display_url": "x.com/kkggxxyy/statu…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/kkggxxyy/status/2038560445070758170",
+              "start": 158,
+              "url": "https://t.co/qETbeMUrLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038568622936019369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038560445070758170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是看不惯你们屁大点事，人家一开始就是去沟通的都能装听不见，但是一堆阴兵旁敲侧击构陷罪名扣帽子，矛头都指向受助者，编一堆借口互相矛盾，一堆大v出来站台，一会又是可以以后会改以后又是必须前后矛盾，大v站台召集你们前脚说\nhttps://t.co/IYkFMiRgsA https://t.co/x1Bu9qKBl6 https://t.co/qETbeMUrLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 337,
+          "like_count": 2932,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1016
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

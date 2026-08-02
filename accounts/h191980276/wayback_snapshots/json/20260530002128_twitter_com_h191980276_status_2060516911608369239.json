@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060512780890091659",
+    "created_at": "2026-05-30T00:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060516911608369239"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060516911608369239",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060512780890091659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你睾酮再高你也不是男的😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060512780890091659",
+        "created_at": "2026-05-30T00:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060516911608369239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060516911608369239",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060512780890091659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你睾酮再高你也不是男的😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060512780890091659",
+        "created_at": "2026-05-30T00:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060512780890091659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060512780890091659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二元跨女那么恶心啊，嘴巴说说就说自己是男的，辱男了吧，你也配是男的😅，觉得有点睾酮就是男的？，觉得怎么着了就成非二元了，觉得长出来了就是男的了？跨女能不能别说自己是男的，你永远都是女的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 510,
+          "like_count": 4317,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1791
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

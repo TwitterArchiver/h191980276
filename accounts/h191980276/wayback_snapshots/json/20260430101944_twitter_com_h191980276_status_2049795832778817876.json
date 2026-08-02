@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049795832778817876",
+    "created_at": "2026-04-30T10:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049795832778817876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2842225148",
+          "start": 3,
+          "username": "mimememz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049795832778817876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049795709541740616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimememz: 性少数受到凝视或者指责时，一定要多思考两个问题：\n1，指责你的人是不是有一样的问题？\n2，如果问题暂时或长期无法解决，产生的代价应该由谁承担？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049795832778817876",
+        "created_at": "2026-04-30T10:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049795832778817876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2842225148",
+              "start": 3,
+              "username": "mimememz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049795832778817876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049795709541740616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimememz: 性少数受到凝视或者指责时，一定要多思考两个问题：\n1，指责你的人是不是有一样的问题？\n2，如果问题暂时或长期无法解决，产生的代价应该由谁承担？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842225148",
+        "conversation_id": "2049795709541740616",
+        "created_at": "2026-04-30T10:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049795709541740616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049795709541740616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "性少数受到凝视或者指责时，一定要多思考两个问题：\n1，指责你的人是不是有一样的问题？\n2，如果问题暂时或长期无法解决，产生的代价应该由谁承担？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 508,
+          "like_count": 4174,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1584
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-06T10:29:06.000Z",
+        "description": "",
+        "id": "2842225148",
+        "name": "mi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278765130231119872/vau7Trvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 28,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "username": "mimememz",
+        "verified": false
+      }
+    ]
+  }
+}

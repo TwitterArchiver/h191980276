@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060657432008036662",
+    "created_at": "2026-05-30T09:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060658976610771299"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060658976610771299",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060657432008036662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是你觉得一个东西对你有好处那个东西就是进步的激进的，一个东西对你有坏处就一点是温和的保守的，不是这样的，怎么可以是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060657432008036662",
+        "created_at": "2026-05-30T09:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060658976610771299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060658976610771299",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060657432008036662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是你觉得一个东西对你有好处那个东西就是进步的激进的，一个东西对你有坏处就一点是温和的保守的，不是这样的，怎么可以是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060657432008036662",
+        "created_at": "2026-05-30T09:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060657432008036662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060657432008036662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的忍你们二元跨女很久了，我不想骂你们一会被骂不够这样一会又被骂不够那样，我不想给反跨女的送弹药跟他们一起开炮，但是真的很恶心，觉得世界都是围着变女转的，把女当奖励把男当惩罚，又把非二元当在二元人中间的，你把规则设计成围着你想你想巴结的人那就是温和了吗，那一点不温和吧我觉得很"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 511,
+          "like_count": 4321,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1797
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

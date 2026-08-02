@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043472984787259583",
+    "created_at": "2026-04-12T23:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T00:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043472984787259583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "XldMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043472984787259583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043235488748978687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XldMtX: 大脑是最大的性器官"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043472984787259583",
+        "created_at": "2026-04-12T23:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T00:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043472984787259583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1807107145756008448",
+              "start": 3,
+              "username": "XldMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043472984787259583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043235488748978687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XldMtX: 大脑是最大的性器官"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "2043235488748978687",
+        "created_at": "2026-04-12T07:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043235488748978687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043235488748978687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 358,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大脑是最大的性器官"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 423,
+          "like_count": 3421,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1300
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "阴暗友跨宅男  |  这个号被强制敏感 tag 了，那将计就计今后这号只发黄了，不想看 r18 请移步@Yulkax199062",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Yulkax199062"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "Japan,Tokyo",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2042972216162422932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6865,
+          "following_count": 804,
+          "like_count": 44100,
+          "listed_count": 11,
+          "media_count": 3419,
+          "tweet_count": 27899
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      }
+    ]
+  }
+}

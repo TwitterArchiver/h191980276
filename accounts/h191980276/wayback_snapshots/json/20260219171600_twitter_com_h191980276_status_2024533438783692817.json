@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2024533438783692817",
+    "created_at": "2026-02-19T17:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024533438783692817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2024524168641859816",
+          "start": 37,
+          "url": "https://t.co/BLG4ctxt7Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024533438783692817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024524168641859816",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“正常人”关心的是性骚扰，不正常的人关心的是反抗的姿势像不像“正常女人” https://t.co/BLG4ctxt7Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2024533438783692817",
+        "created_at": "2026-02-19T17:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024533438783692817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2024524168641859816",
+              "start": 37,
+              "url": "https://t.co/BLG4ctxt7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024533438783692817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024524168641859816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“正常人”关心的是性骚扰，不正常的人关心的是反抗的姿势像不像“正常女人” https://t.co/BLG4ctxt7Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2024524168641859816",
+        "created_at": "2026-02-19T16:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024524168641859816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2024520963056980098",
+              "start": 43,
+              "url": "https://t.co/OapVIpzoGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024524168641859816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024520963056980098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只能说人教人学不会事教人一遍会，愿意把他当普通人白莲花的真的随意，你的福报还在后头呢 https://t.co/OapVIpzoGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 223,
+          "like_count": 1832,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 575
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "phd @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22169,
+          "following_count": 2585,
+          "like_count": 36495,
+          "listed_count": 7,
+          "media_count": 449,
+          "tweet_count": 19173
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

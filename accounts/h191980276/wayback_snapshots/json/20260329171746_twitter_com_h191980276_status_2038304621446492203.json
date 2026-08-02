@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038304621446492203",
+    "created_at": "2026-03-29T17:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038304621446492203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596719791661715458",
+          "start": 3,
+          "username": "CoFfffEeeeE1"
+        },
+        {
+          "end": 33,
+          "id": "1938295191888400386",
+          "start": 18,
+          "username": "Pikaunderlight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038304621446492203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038300103187054877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CoFfffEeeeE1: @Pikaunderlight 都把人家性别认同、被抓进去的原因当无用的争执了，你在爱什么具体的人？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038304621446492203",
+        "created_at": "2026-03-29T17:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038304621446492203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596719791661715458",
+              "start": 3,
+              "username": "CoFfffEeeeE1"
+            },
+            {
+              "end": 33,
+              "id": "1938295191888400386",
+              "start": 18,
+              "username": "Pikaunderlight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038304621446492203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038300103187054877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CoFfffEeeeE1: @Pikaunderlight 都把人家性别认同、被抓进去的原因当无用的争执了，你在爱什么具体的人？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2038218225431752782",
+        "created_at": "2026-03-29T16:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038300103187054877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938295191888400386",
+              "start": 0,
+              "username": "Pikaunderlight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038300103187054877",
+        "in_reply_to_user_id": "1938295191888400386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038218225431752782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pikaunderlight 都把人家性别认同、被抓进去的原因当无用的争执了，你在爱什么具体的人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 338,
+          "like_count": 2874,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 980
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 722,
+          "like_count": 19759,
+          "listed_count": 1,
+          "media_count": 967,
+          "tweet_count": 5634
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T17:57:12.000Z",
+        "description": "我吹过你吹过的晚风 是否看过同样风景",
+        "id": "1938295191888400386",
+        "location": "在你意料不到的地方",
+        "name": "暮色前的晨曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938296399868612608/ftdD_yci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 306,
+          "like_count": 3479,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 406
+        },
+        "username": "Pikaunderlight",
+        "verified": false
+      }
+    ]
+  }
+}

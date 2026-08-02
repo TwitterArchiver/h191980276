@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2050101139107131851",
+    "created_at": "2026-05-01T14:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050217152100335701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1233287775144693760",
+          "start": 0,
+          "username": "Yagi_Yui_Yo"
+        },
+        {
+          "end": 26,
+          "id": "1767161673566359552",
+          "start": 13,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050217152100335701",
+    "in_reply_to_user_id": "1233287775144693760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050155129354244215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yagi_Yui_Yo @willa_citrus 能不能别捧amber了求求了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2050101139107131851",
+        "created_at": "2026-05-01T14:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050217152100335701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1233287775144693760",
+              "start": 0,
+              "username": "Yagi_Yui_Yo"
+            },
+            {
+              "end": 26,
+              "id": "1767161673566359552",
+              "start": 13,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050217152100335701",
+        "in_reply_to_user_id": "1233287775144693760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050155129354244215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yagi_Yui_Yo @willa_citrus 能不能别捧amber了求求了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1233287775144693760",
+        "conversation_id": "2050101139107131851",
+        "created_at": "2026-05-01T10:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050155129354244215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050155129354244215",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1833,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050147175322247404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus 如果amber是个nobody那她想干嘛干嘛 但是她也算是个圈内公众人物了 她的行为可能会影响其他trans 可能没有咱们想不看就可以不看的自控力 没有辨别能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 511,
+          "like_count": 4241,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1641
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-28T07:08:23.000Z",
+        "description": "non-binary/gender fluid/#lolita/cla系/aka可昕/Ph.D student in Ch.E.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "lolita"
+              }
+            ]
+          }
+        },
+        "id": "1233287775144693760",
+        "location": "Australia",
+        "name": "🍔",
+        "pinned_tweet_id": "1958531914048094472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945631396875100160/B8Zd3bWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 651,
+          "like_count": 31784,
+          "listed_count": 10,
+          "media_count": 296,
+          "tweet_count": 5202
+        },
+        "username": "Yagi_Yui_Yo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 家人们动动发财的小手点个赞/ 如果空下来一定要做个播客 / 甜甜同居快六年 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11983,
+          "following_count": 211,
+          "like_count": 7206,
+          "listed_count": 36,
+          "media_count": 334,
+          "tweet_count": 8273
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

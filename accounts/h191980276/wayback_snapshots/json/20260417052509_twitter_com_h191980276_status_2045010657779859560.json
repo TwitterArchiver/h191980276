@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2044807289446773025",
+    "created_at": "2026-04-17T05:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045010657779859560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045010657779859560",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044807289446773025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 实质上真寻就是跨男，这就是一个扭转跨男就转成娘们大家还其乐融融一起笑的故事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2044807264658464768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCdX5QbIAAjYOr.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2044807289446773025",
+        "created_at": "2026-04-17T05:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045010657779859560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045010657779859560",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044807289446773025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 实质上真寻就是跨男，这就是一个扭转跨男就转成娘们大家还其乐融融一起笑的故事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044807264658464768"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2044807289446773025",
+        "created_at": "2026-04-16T15:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044807289446773025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CX2P8k4JuK",
+              "end": 109,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2044807289446773025/photo/1",
+              "media_key": "3_2044807264658464768",
+              "start": 86,
+              "url": "https://t.co/CX2P8k4JuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044807289446773025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4454,
+          "like_count": 67,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真寻这个形象显然没有资格成为有关trans议题的代表\n在我看来相当一部分变百与此片都在进行同一种凝视\n如果真寻在现实那么结局一定是产生和ftm一样的gd然后不再下一次服药 https://t.co/CX2P8k4JuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 458,
+          "like_count": 3580,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1343
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜choose life?！",
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2044830334324457745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 402,
+          "like_count": 1374,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 858
+        },
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062600964826370355",
+    "created_at": "2026-06-04T18:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T19:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062600964826370355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Y2D80355/statu…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Y2D80355/status/2062596216349663684",
+          "start": 42,
+          "url": "https://t.co/mWj8s7P49m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062600964826370355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062596216349663684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈被人强奸了也是强奸犯搞抽象也是为了开心，又不是因为人家强奸犯仇恨女人仇恨你妈😄 https://t.co/mWj8s7P49m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062600964826370355",
+        "created_at": "2026-06-04T18:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062600964826370355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y2D80355/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Y2D80355/status/2062596216349663684",
+              "start": 42,
+              "url": "https://t.co/mWj8s7P49m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062600964826370355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062596216349663684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈被人强奸了也是强奸犯搞抽象也是为了开心，又不是因为人家强奸犯仇恨女人仇恨你妈😄 https://t.co/mWj8s7P49m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "2062592531960082715",
+        "created_at": "2026-06-04T18:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062596216349663684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062596216349663684",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062592531960082715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus 他做过所有的事都是为了抽象你就饶了他吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 516,
+          "like_count": 4358,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1850
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Ich habe keine Feinde.\nIch empfinde keinen Hass.",
+        "id": "1540698144429596673",
+        "name": "Erika Musterfrau",
+        "pinned_tweet_id": "2060594115331395863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053092410134003718/ZUPVBMsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 770,
+          "like_count": 5978,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 5808
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

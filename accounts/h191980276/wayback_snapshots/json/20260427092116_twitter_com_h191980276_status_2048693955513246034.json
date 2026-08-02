@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2048690036003291518",
+    "created_at": "2026-04-27T09:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048693955513246034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1526630725851787264",
+          "start": 0,
+          "username": "Schnee_Irene_"
+        },
+        {
+          "end": 30,
+          "id": "1489468526826082312",
+          "start": 15,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048693955513246034",
+    "in_reply_to_user_id": "1526630725851787264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048693426842218869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Schnee_Irene_ @Diamond_Kokoro 快进到捞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2048690036003291518",
+        "created_at": "2026-04-27T09:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048693955513246034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1526630725851787264",
+              "start": 0,
+              "username": "Schnee_Irene_"
+            },
+            {
+              "end": 30,
+              "id": "1489468526826082312",
+              "start": 15,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048693955513246034",
+        "in_reply_to_user_id": "1526630725851787264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048693426842218869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Schnee_Irene_ @Diamond_Kokoro 快进到捞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526630725851787264",
+        "conversation_id": "2048690036003291518",
+        "created_at": "2026-04-27T09:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048693426842218869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048693426842218869",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048690036003291518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 492,
+          "like_count": 3994,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1493
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T18:28:42.000Z",
+        "description": "not (entirely) a mean girl",
+        "id": "1526630725851787264",
+        "name": "Schnee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027577216964694018/TfjQGW6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 23,
+          "like_count": 1691,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 536
+        },
+        "username": "Schnee_Irene_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity: Non-Male. Any pronouns except he/him，但中文的“他”ok。激进女权叫我it/“牠”我也不介意。\n不来自人间伪装成仙境野鹿\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 122,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 99,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2042093453010665597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047563727785062401/Jzs0daN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 86,
+          "like_count": 3810,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 2503
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047650643029197169",
+    "created_at": "2026-04-24T14:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047681191973937306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047681191973937306",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047650643029197169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 还是老中最爱强迫变性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047650643029197169",
+        "created_at": "2026-04-24T14:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047681191973937306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047681191973937306",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047650643029197169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 还是老中最爱强迫变性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2047650643029197169",
+        "created_at": "2026-04-24T12:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047650643029197169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/forlikooo/stat…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/forlikooo/status/2047594844198240763",
+              "start": 134,
+              "url": "https://t.co/IJaXEX5Gxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047650643029197169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047594844198240763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看了真觉得世界参差，公认的发达地区江苏还有一个野蛮的地方叫苏北，在这里如果你是跨女哪怕你20+了你也会被家里打到昏过去，被说如果不能当男的传宗接代那就连死了都不如，是家门不幸是败类，会被逐出家门被在读期间断供…考上top校研究生也会被说只要不是男的学历再好有什么用 https://t.co/IJaXEX5Gxi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 489,
+          "like_count": 3900,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1448
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity：Non-Male\n谁让你流下不幸福的眼泪，谁就是我的敌人。\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 72,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 49,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2042093453010665597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047563727785062401/Jzs0daN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 65,
+          "like_count": 3369,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 2177
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

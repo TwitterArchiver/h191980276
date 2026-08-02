@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059099204518351118",
+    "created_at": "2026-05-26T03:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059112641319370980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757152910683852800",
+          "start": 0,
+          "username": "qslzy1225"
+        },
+        {
+          "end": 27,
+          "id": "1489468526826082312",
+          "start": 11,
+          "username": "JusqLeLunaEtRet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059112641319370980",
+    "in_reply_to_user_id": "1757152910683852800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059106534190112779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qslzy1225 @JusqLeLunaEtRet 所以你无非只是在反复重复性多数霸权是客观事实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059099204518351118",
+        "created_at": "2026-05-26T03:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059112641319370980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757152910683852800",
+              "start": 0,
+              "username": "qslzy1225"
+            },
+            {
+              "end": 27,
+              "id": "1489468526826082312",
+              "start": 11,
+              "username": "JusqLeLunaEtRet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059112641319370980",
+        "in_reply_to_user_id": "1757152910683852800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059106534190112779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qslzy1225 @JusqLeLunaEtRet 所以你无非只是在反复重复性多数霸权是客观事实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757152910683852800",
+        "conversation_id": "2059099204518351118",
+        "created_at": "2026-05-26T02:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059106534190112779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            },
+            {
+              "end": 28,
+              "id": "1489468526826082312",
+              "start": 12,
+              "username": "JusqLeLunaEtRet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059106534190112779",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059105323714261448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 @JusqLeLunaEtRet 荒谬。没有任何证据或推论指向性少数是多数，性多数是少数这一结论。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 509,
+          "like_count": 4223,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1708
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:22:07.000Z",
+        "description": "LGBTQ+ Ally｜马克思主义者｜二游玩家｜理性，包容，进步，思考｜认清形势，放弃幻想，准备斗争｜你说，我在听",
+        "id": "1757152910683852800",
+        "location": "Harbin,Heilongjiang,China",
+        "name": "青松",
+        "pinned_tweet_id": "2059049472814993778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757153133611171840/Bi-ESVPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "username": "qslzy1225",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 愛人，請祢穿過山巒森林、穿過秦淮的夜找到我；我們一起回去。回到羅馬祢所喜歡的神廟，用幸福、歡笑和生命來愛，直到死的神明悄然來臨，在我們親吻彼此的時候親吻祢和我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059088486138068992/8HzinsZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 136,
+          "like_count": 7016,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 4818
+        },
+        "username": "JusqLeLunaEtRet",
+        "verified": true
+      }
+    ]
+  }
+}

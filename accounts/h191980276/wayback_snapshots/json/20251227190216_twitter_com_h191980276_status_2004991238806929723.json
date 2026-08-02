@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2004991238806929723",
+    "created_at": "2025-12-27T19:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T20:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004991238806929723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/10onatic/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/10onatic/status/2004894487294918814",
+          "start": 4,
+          "url": "https://t.co/UBnhMwjEWa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004991238806929723",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004894487294918814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "yes https://t.co/UBnhMwjEWa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2004991238806929723",
+        "created_at": "2025-12-27T19:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T20:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004991238806929723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10onatic/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/10onatic/status/2004894487294918814",
+              "start": 4,
+              "url": "https://t.co/UBnhMwjEWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004991238806929723",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004894487294918814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yes https://t.co/UBnhMwjEWa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634793712302604289",
+        "conversation_id": "2004894487294918814",
+        "created_at": "2025-12-27T12:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T13:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004894487294918814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004894487294918814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4238,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下一个一辈子生活在三四线城市的人即使从未能在生活中见到过真正的所谓性少数却能通过简单划动几下屏幕来对一个素未谋面的群体武断的下定论 这就是我对这个异性恋世界的全部解读"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 164,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 383
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T05:49:44.000Z",
+        "description": "@1oonatism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "1oonatism"
+              }
+            ]
+          }
+        },
+        "id": "1634793712302604289",
+        "name": "່",
+        "pinned_tweet_id": "2004903187644620919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964662123575021568/LUa11yGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9624,
+          "following_count": 99,
+          "like_count": 1468,
+          "listed_count": 14,
+          "media_count": 281,
+          "tweet_count": 1265
+        },
+        "username": "10onatic",
+        "verified": false
+      }
+    ]
+  }
+}

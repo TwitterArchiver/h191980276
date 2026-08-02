@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060450296254648713",
+    "created_at": "2026-05-29T19:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060450296254648713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/h191980276/status/2060445399316631672",
+          "start": 76,
+          "url": "https://t.co/wnfM2awgTK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060450296254648713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060445399316631672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这人是不是觉得友跨的意思就是选一些入他眼的好男性，由他发放荣誉女籍作为“第三性别”存在啊，好他妈恶心啊，我想知道跨男在他眼里到底是啥，自由的女性吗？😅 https://t.co/wnfM2awgTK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060450296254648713",
+        "created_at": "2026-05-29T19:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060450296254648713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/h191980276/status/2060445399316631672",
+              "start": 76,
+              "url": "https://t.co/wnfM2awgTK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060450296254648713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060445399316631672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人是不是觉得友跨的意思就是选一些入他眼的好男性，由他发放荣誉女籍作为“第三性别”存在啊，好他妈恶心啊，我想知道跨男在他眼里到底是啥，自由的女性吗？😅 https://t.co/wnfM2awgTK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060426259407224868",
+        "created_at": "2026-05-29T19:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060445399316631672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060445399316631672",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060426259407224868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ 我操我才发现这个吊人，不是谁告诉他他从哪学的的对性侵害者的惩罚方式是“剥夺性别身份”的，动画片看多了吧，真把自己当美波里了，真把人家跨女当真寻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 510,
+          "like_count": 4312,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1788
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

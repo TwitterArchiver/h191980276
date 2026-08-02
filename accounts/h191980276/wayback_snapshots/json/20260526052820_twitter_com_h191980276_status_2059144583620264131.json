@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059144583620264131",
+    "created_at": "2026-05-26T05:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059144583620264131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qslzy1225/stat…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/qslzy1225/status/2059130643091476794",
+          "start": 100,
+          "url": "https://t.co/BHfxEip6YC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059144583620264131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059130643091476794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无敌了又在这倒打一耙，性少数被强制扭转你搁着被引导，资本策动性少数？资本策动极端顺直都快反了天了你搁这策动性少数？你咋不说资本策动劳工运动，所以你左人得让我拴着由我审查，以防你被资本干预后患无穷？😃 https://t.co/BHfxEip6YC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059144583620264131",
+        "created_at": "2026-05-26T05:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059144583620264131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qslzy1225/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/qslzy1225/status/2059130643091476794",
+              "start": 100,
+              "url": "https://t.co/BHfxEip6YC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059144583620264131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059130643091476794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无敌了又在这倒打一耙，性少数被强制扭转你搁着被引导，资本策动性少数？资本策动极端顺直都快反了天了你搁这策动性少数？你咋不说资本策动劳工运动，所以你左人得让我拴着由我审查，以防你被资本干预后患无穷？😃 https://t.co/BHfxEip6YC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757152910683852800",
+        "conversation_id": "2059128439320215904",
+        "created_at": "2026-05-26T04:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059130643091476794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059130643091476794",
+        "in_reply_to_user_id": "1757152910683852800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059130215897481456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也就引出了我的第二个前提条件：需要隔离资本。资本干预的性少数活动只会越来越政治正确，遗患无穷。这是我们都见识过的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 509,
+          "like_count": 4225,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1716
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:22:07.000Z",
+        "description": "LGBTQ+ Ally｜马克思主义者｜二游玩家｜理性，包容，进步，思考｜认清形势，放弃幻想，准备斗争｜你说，我在听",
+        "id": "1757152910683852800",
+        "location": "Harbin,Heilongjiang,China",
+        "name": "青松",
+        "pinned_tweet_id": "2059119484187611418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757153133611171840/Bi-ESVPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 43,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 117
+        },
+        "username": "qslzy1225",
+        "verified": false
+      }
+    ]
+  }
+}

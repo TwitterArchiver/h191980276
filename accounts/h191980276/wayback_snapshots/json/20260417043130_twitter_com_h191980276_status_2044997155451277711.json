@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2044805270153691487",
+    "created_at": "2026-04-17T04:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044997155451277711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657175394267848704",
+          "start": 0,
+          "username": "Zh40Le1ZOOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044997155451277711",
+    "in_reply_to_user_id": "1657175394267848704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044996780576940495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zh40Le1ZOOB 确实，要是串那就是明知故犯故意的了，更恶劣了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2044805270153691487",
+        "created_at": "2026-04-17T04:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044997155451277711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657175394267848704",
+              "start": 0,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044997155451277711",
+        "in_reply_to_user_id": "1657175394267848704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044996780576940495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zh40Le1ZOOB 确实，要是串那就是明知故犯故意的了，更恶劣了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "2044805270153691487",
+        "created_at": "2026-04-17T04:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044996780576940495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044996780576940495",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044996195404443924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 串有 tm 揪着自杀议题串一堆帖子的？就算是串这种畜生被误伤了也不无辜，祝它早日被自己的回旋镖打到自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 457,
+          "like_count": 3568,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1340
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "I am Locutus of Borg. Resistance is futile.｜检测到粉蛆或关注粉蛆账号自动屏蔽｜邮箱：mtf@ik.me 或 progynova@duck.com（马甲）｜Telegram：下方链接｜如有紧急情况请直接 Telegram Call",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "org.z.nixpkgs.command_block",
+        "pinned_tweet_id": "2041170735167848697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 751,
+          "like_count": 7019,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 5635
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

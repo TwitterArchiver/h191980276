@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2007821914069455020",
+    "created_at": "2026-01-04T14:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T15:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007821914069455020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jjjj9777/statu…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/Jjjj9777/status/2007743790065524963",
+          "start": 140,
+          "url": "https://t.co/qfHKCHNOgm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007821914069455020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007743790065524963",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "乌蒙蛆知道路人不在乎不会管不会恐慌不会有坏反应，连个和路人冲突图都拍不出来，只能偷拍跑网上装路人，造谣生事觉得只要反跨的事干什么都不用负责，为了自己反跨的小想法制造恐慌，威胁店家要把店家口碑搞坏，连店家有人吸毒的谣都造，还得让别人为蛆虫的想法负责，就是一群又低等又巨婴的一个群体 https://t.co/qfHKCHNOgm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2007821914069455020",
+        "created_at": "2026-01-04T14:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007821914069455020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jjjj9777/statu…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Jjjj9777/status/2007743790065524963",
+              "start": 140,
+              "url": "https://t.co/qfHKCHNOgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007821914069455020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007743790065524963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乌蒙蛆知道路人不在乎不会管不会恐慌不会有坏反应，连个和路人冲突图都拍不出来，只能偷拍跑网上装路人，造谣生事觉得只要反跨的事干什么都不用负责，为了自己反跨的小想法制造恐慌，威胁店家要把店家口碑搞坏，连店家有人吸毒的谣都造，还得让别人为蛆虫的想法负责，就是一群又低等又巨婴的一个群体 https://t.co/qfHKCHNOgm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422636292433539072",
+        "conversation_id": "2007688789423276071",
+        "created_at": "2026-01-04T09:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007743790065524963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007743790065524963",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1519,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007688789423276071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@__Ju___Ju__ 我作为路人不清楚情况的情况下，很有可能反应为吸毒或者药物滥用，这种情形就是容易造成恐慌，恐针晕血的路人又有谁替他们考虑？\n再者你们这帮表演型人格天天扎堆ttw，ttw店家的口碑损坏谁来承担，全世界都要为你们的傻逼“个性”和巨婴行为买单吗？你们有一点责任心吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 172,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 436
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T19:11:48.000Z",
+        "description": "",
+        "id": "1422636292433539072",
+        "location": "Heaven ver0.2",
+        "name": "Dre4M.zip",
+        "pinned_tweet_id": "1995918833413201988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854206184821342209/epFe2zcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 737,
+          "like_count": 74816,
+          "listed_count": 3,
+          "media_count": 584,
+          "tweet_count": 8804
+        },
+        "username": "Jjjj9777",
+        "verified": false
+      }
+    ]
+  }
+}

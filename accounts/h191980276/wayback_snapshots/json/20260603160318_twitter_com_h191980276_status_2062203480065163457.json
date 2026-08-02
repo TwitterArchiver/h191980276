@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062203480065163457",
+    "created_at": "2026-06-03T16:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062203480065163457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AgingAnarchist…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/AgingAnarchist/status/2061345853395394783",
+          "start": 35,
+          "url": "https://t.co/bwAmqn784b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062203480065163457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061345853395394783",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当年打仗的时候就是拿这个这么讲的，现在都打输了怎么还好意思这么讲的？ https://t.co/bwAmqn784b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062203480065163457",
+        "created_at": "2026-06-03T16:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062203480065163457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AgingAnarchist…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/AgingAnarchist/status/2061345853395394783",
+              "start": 35,
+              "url": "https://t.co/bwAmqn784b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062203480065163457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061345853395394783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当年打仗的时候就是拿这个这么讲的，现在都打输了怎么还好意思这么讲的？ https://t.co/bwAmqn784b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1157153671836078080",
+        "conversation_id": "2061345853395394783",
+        "created_at": "2026-06-01T07:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061345853395394783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061345853395394783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1680,
+          "impression_count": 6976992,
+          "like_count": 28094,
+          "quote_count": 1408,
+          "reply_count": 2274,
+          "retweet_count": 3553
+        },
+        "reply_settings": "everyone",
+        "text": "日本が大東亜戦争を戦わなかったら今頃アジアは全部植民地だったって本当はみんなわかってんじゃないの？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 511,
+          "like_count": 4341,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1829
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-02T04:58:29.000Z",
+        "description": "18からアメリカ。すし握れます。 \nフォローしてもらえると嬉しいです。\n#PR AI英会話アプリELSAの割引はここから👇\nhttps://t.co/Xl0d7hy3CK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 36,
+                "tag": "PR"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "elsaspeak.com/inf/aginganarc…",
+                "end": 85,
+                "expanded_url": "https://www.elsaspeak.com/inf/aginganarchistlt?cache=no",
+                "start": 62,
+                "url": "https://t.co/Xl0d7hy3CK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/aginganarchist",
+                "end": 23,
+                "expanded_url": "https://note.com/aginganarchist",
+                "start": 0,
+                "url": "https://t.co/Gl019kytU5"
+              }
+            ]
+          }
+        },
+        "id": "1157153671836078080",
+        "location": "USA ",
+        "name": "すけちゃん",
+        "pinned_tweet_id": "2034644985682010613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547801476017168384/BpypAjL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79264,
+          "following_count": 897,
+          "like_count": 245422,
+          "listed_count": 430,
+          "media_count": 3488,
+          "tweet_count": 97628
+        },
+        "url": "https://t.co/Gl019kytU5",
+        "username": "AgingAnarchist",
+        "verified": true
+      }
+    ]
+  }
+}

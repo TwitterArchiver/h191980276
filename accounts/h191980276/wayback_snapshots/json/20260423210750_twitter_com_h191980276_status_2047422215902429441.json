@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047285724928790966",
+    "created_at": "2026-04-23T21:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T22:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047422215902429441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1207871881170153473",
+          "start": 0,
+          "username": "Badbean_fanx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047422215902429441",
+    "in_reply_to_user_id": "1207871881170153473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047408217521901912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Badbean_fanx 当你再给生理分以性别的时候，当你说出生理性别这四个字的时候，你说的就是社会性别而已，蠢货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047285724928790966",
+        "created_at": "2026-04-23T21:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047422215902429441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1207871881170153473",
+              "start": 0,
+              "username": "Badbean_fanx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047422215902429441",
+        "in_reply_to_user_id": "1207871881170153473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047408217521901912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Badbean_fanx 当你再给生理分以性别的时候，当你说出生理性别这四个字的时候，你说的就是社会性别而已，蠢货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1207871881170153473",
+        "conversation_id": "2047285724928790966",
+        "created_at": "2026-04-23T20:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047408217521901912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047408217521901912",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047285724928790966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 写几点：一，首先搞清楚生理性别和社会性别，生理性别出生既定，社会性别来源于社会建构，脱胎于原始社会环境的生存筛选，但后续演化受社会环境变化而变化，并因社会生产力的发展，生理差异对于社会性别的影响逐渐缩小，今天各种生儿育女，双性人的现象更足以说明，因此社会性别更多是性格倾向，下继续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 489,
+          "like_count": 3880,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1439
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-20T03:54:45.000Z",
+        "description": "恶心！",
+        "id": "1207871881170153473",
+        "name": "红豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234555151068717058/RxmvMTcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 5,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 389
+        },
+        "username": "Badbean_fanx",
+        "verified": false
+      }
+    ]
+  }
+}

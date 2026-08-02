@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2039000616874483912",
+    "created_at": "2026-03-31T15:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039000616874483912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1489919689996206081",
+          "start": 3,
+          "username": "bin_x_13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039000616874483912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038663131027878019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bin_x_13: 我认为温柔团队的让步是两个因素促成的。内在因素是他们内部有需要友跨的理由。外在因素是跨性别充分地表达出了自己的诉求。\n是的，事情就是这样干的。如果自己不为自己发声，从善意的角度说，难道还要让不了解你的好人 枉费精力来猜测你心里的想法？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2039000616874483912",
+        "created_at": "2026-03-31T15:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039000616874483912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1489919689996206081",
+              "start": 3,
+              "username": "bin_x_13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039000616874483912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038663131027878019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bin_x_13: 我认为温柔团队的让步是两个因素促成的。内在因素是他们内部有需要友跨的理由。外在因素是跨性别充分地表达出了自己的诉求。\n是的，事情就是这样干的。如果自己不为自己发声，从善意的角度说，难道还要让不了解你的好人 枉费精力来猜测你心里的想法？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489919689996206081",
+        "conversation_id": "2038663131027878019",
+        "created_at": "2026-03-30T17:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038663131027878019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038663131027878019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我认为温柔团队的让步是两个因素促成的。内在因素是他们内部有需要友跨的理由。外在因素是跨性别充分地表达出了自己的诉求。\n是的，事情就是这样干的。如果自己不为自己发声，从善意的角度说，难道还要让不了解你的好人 枉费精力来猜测你心里的想法？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 351,
+          "like_count": 3089,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1136
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T11:12:39.000Z",
+        "description": "@Rippin_C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Rippin_C"
+              }
+            ]
+          }
+        },
+        "id": "1489919689996206081",
+        "location": "✞（还没有）升天✞",
+        "name": "本账号不是望晞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700402167633592320/Uem2Ou6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 407,
+          "like_count": 32864,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 4677
+        },
+        "username": "bin_x_13",
+        "verified": false
+      }
+    ]
+  }
+}

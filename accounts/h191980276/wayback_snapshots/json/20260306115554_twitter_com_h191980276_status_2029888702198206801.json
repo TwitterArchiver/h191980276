@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2029888702198206801",
+    "created_at": "2026-03-06T11:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029888702198206801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029888702198206801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一些411的腿毛说中共有一些有争议的反跨的政策而且还挟持有军方背景的上海赵博士要求必须表态支持这个政策\n\n 这些腿毛是不是就是赵烨德直播说的“有人造谣利用大家的焦虑情绪，利用我们Igpt的孩子仇恨国家”的那些人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2029888702198206801",
+        "created_at": "2026-03-06T11:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029888702198206801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029888702198206801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一些411的腿毛说中共有一些有争议的反跨的政策而且还挟持有军方背景的上海赵博士要求必须表态支持这个政策\n\n 这些腿毛是不是就是赵烨德直播说的“有人造谣利用大家的焦虑情绪，利用我们Igpt的孩子仇恨国家”的那些人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 235,
+          "like_count": 2119,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 671
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

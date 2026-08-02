@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2024532704868635039",
+    "created_at": "2026-02-19T17:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024532704868635039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 29,
+          "id": "4548745706",
+          "start": 18,
+          "username": "kairi_valk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024532704868635039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024478903738286383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: @kairi_valk 我的天啊 先不说你为什么觉得这种常识没人知道吧还当个事讲 你是觉得国内男女同都很友跨还是怎么回事？国内压根就不需要搞一个这种运动因为从一开始就是排跨的 男娘就是参与达成这种效果的无数话语媒介之一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2024532704868635039",
+        "created_at": "2026-02-19T17:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024532704868635039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 29,
+              "id": "4548745706",
+              "start": 18,
+              "username": "kairi_valk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024532704868635039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024478903738286383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: @kairi_valk 我的天啊 先不说你为什么觉得这种常识没人知道吧还当个事讲 你是觉得国内男女同都很友跨还是怎么回事？国内压根就不需要搞一个这种运动因为从一开始就是排跨的 男娘就是参与达成这种效果的无数话语媒介之一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2024373776151171288",
+        "created_at": "2026-02-19T13:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024478903738286383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4548745706",
+              "start": 0,
+              "username": "kairi_valk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024478903738286383",
+        "in_reply_to_user_id": "4548745706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024373778160173510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kairi_valk 我的天啊 先不说你为什么觉得这种常识没人知道吧还当个事讲 你是觉得国内男女同都很友跨还是怎么回事？国内压根就不需要搞一个这种运动因为从一开始就是排跨的 男娘就是参与达成这种效果的无数话语媒介之一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 223,
+          "like_count": 1832,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 574
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "phd @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22170,
+          "following_count": 2585,
+          "like_count": 36495,
+          "listed_count": 7,
+          "media_count": 449,
+          "tweet_count": 19173
+        },
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-13T16:42:36.000Z",
+        "description": "",
+        "id": "4548745706",
+        "name": "巨顺兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/676080994164670464/ntrZ88Hm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 170,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 187
+        },
+        "username": "kairi_valk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2036155659436302381",
+    "created_at": "2026-03-23T18:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T19:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036155659436302381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DrSunan2022422…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/DrSunan2022422/status/2036147552878542998",
+          "start": 124,
+          "url": "https://t.co/CWD5hPUL10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036155659436302381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036147552878542998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈了逼的普通人都来了，平台推其他处方药的还少了啊。这个就不是【普通】药了？不能见【普通】人了？你们【正常】【普通】男的一到能带入到自己的男性顺性别需求的时候又不是这个嘴脸了，又不伦理道德冲突了？又不带坏了？又不宣传了？又不未成年没有判断能力了？ https://t.co/CWD5hPUL10"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2036147546129833985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHZZ71aIAE6Mta.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2036155659436302381",
+        "created_at": "2026-03-23T18:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036155659436302381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DrSunan2022422…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/DrSunan2022422/status/2036147552878542998",
+              "start": 124,
+              "url": "https://t.co/CWD5hPUL10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036155659436302381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036147552878542998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈了逼的普通人都来了，平台推其他处方药的还少了啊。这个就不是【普通】药了？不能见【普通】人了？你们【正常】【普通】男的一到能带入到自己的男性顺性别需求的时候又不是这个嘴脸了，又不伦理道德冲突了？又不带坏了？又不宣传了？又不未成年没有判断能力了？ https://t.co/CWD5hPUL10"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036147546129833985"
+          ]
+        },
+        "author_id": "1529658600649539584",
+        "conversation_id": "2036147552878542998",
+        "created_at": "2026-03-23T18:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036147552878542998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xk6oPpopoC",
+              "end": 58,
+              "expanded_url": "https://x.com/DrSunan2022422/status/2036147552878542998/photo/1",
+              "media_key": "3_2036147546129833985",
+              "start": 35,
+              "url": "https://t.co/xk6oPpopoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036147552878542998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难以绷住，最初用于治疗月经失调的处方药现在连出现都是在暗示跨性别了吗 https://t.co/xk6oPpopoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 313,
+          "like_count": 2634,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 882
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过土豆地雷系女高 /喜欢油豆腐的赛博狐狸 | 要素过多啥都能聊 | | 业余喜欢写小说 |睿智的P社玩家｜看到有趣的人会回关｜最闹麻的主任@CnDiode｜最爱的姐姐@g60Yts1kvzO4g8q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 72,
+                "username": "CnDiode"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "g60Yts1kvzO4g8q"
+              }
+            ]
+          }
+        },
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "SCP-Dr.Sunan🐾",
+        "pinned_tweet_id": "1977929373727834336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 771,
+          "like_count": 39751,
+          "listed_count": 10,
+          "media_count": 393,
+          "tweet_count": 5723
+        },
+        "username": "DrSunan2022422",
+        "verified": false
+      }
+    ]
+  }
+}

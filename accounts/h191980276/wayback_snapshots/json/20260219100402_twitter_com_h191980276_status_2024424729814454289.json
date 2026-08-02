@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2024424729814454289",
+    "created_at": "2026-02-19T10:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T11:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024424729814454289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2024313836245745794",
+          "start": 83,
+          "url": "https://t.co/JH4slKK0wM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024424729814454289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024313836245745794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨女被医疗系统迫害要装成顺直定义的好跨女说明跨女是特权阶级。跨女被迫害得装男娘，怎么男娘又成底层了？这几把什么逻辑？什么逻辑？跨女遭受的苦难挪用给男娘了？要点脸不？ https://t.co/JH4slKK0wM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2024424729814454289",
+        "created_at": "2026-02-19T10:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024424729814454289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2024313836245745794",
+              "start": 83,
+              "url": "https://t.co/JH4slKK0wM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024424729814454289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024313836245745794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨女被医疗系统迫害要装成顺直定义的好跨女说明跨女是特权阶级。跨女被迫害得装男娘，怎么男娘又成底层了？这几把什么逻辑？什么逻辑？跨女遭受的苦难挪用给男娘了？要点脸不？ https://t.co/JH4slKK0wM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2024313836245745794",
+        "created_at": "2026-02-19T02:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024313836245745794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kairi_valk/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/kairi_valk/status/2024066061793157630",
+              "start": 55,
+              "url": "https://t.co/QDZb1donW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024313836245745794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2556,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024066061793157630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你猜真正遇到这些问题的 到底是自称跨女的还是自称男娘的啊？性别认同这么不重要那你自己当男的呗别代表别人行吗？ https://t.co/QDZb1donW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 222,
+          "like_count": 1823,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 568
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "phd @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22164,
+          "following_count": 2582,
+          "like_count": 36444,
+          "listed_count": 7,
+          "media_count": 448,
+          "tweet_count": 19157
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

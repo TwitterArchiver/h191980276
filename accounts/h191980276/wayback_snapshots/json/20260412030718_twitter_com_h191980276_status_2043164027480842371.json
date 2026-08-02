@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043162199581937687",
+    "created_at": "2026-04-12T03:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T04:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043164027480842371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043164027480842371",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043162199581937687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 指派跨！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043162199581937687",
+        "created_at": "2026-04-12T03:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043164027480842371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043164027480842371",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043162199581937687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 指派跨！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2043162199581937687",
+        "created_at": "2026-04-12T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043162199581937687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043162199581937687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "跨性别女性圈子里按照有没有“证”来排资历，是我见过最荒唐、最恶心的事。\n\n一张官方医疗机构盖章纸，就成了鉴定真跨和假跨的标尺？这跟纳粹拿着卡尺去量鼻子，用伪科学的颅相学来划分优等劣等人种有什么本质区别？\n\n今天你用证把别人打成不够跨，明天铁拳就会用同样的逻辑把你打成不够人。不要妄想从权力那里获得你身份的合法性，因为合法性本来就是国家暴力机器的遮羞布。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别女性圈子里按照有没有“证”来排资历，是我见过最荒唐、最恶心的事。\n\n一张官方医疗机构盖章纸，就成了鉴定真跨和假跨的标尺？这跟纳粹拿着卡尺去量鼻子，用伪科学的颅相学来划分优等劣等人种有什么本质区别？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 409,
+          "like_count": 3382,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1284
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "07 / MtF / 自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者 / 抽烟嗑药",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5877,
+          "following_count": 2063,
+          "like_count": 26877,
+          "listed_count": 15,
+          "media_count": 1400,
+          "tweet_count": 9970
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

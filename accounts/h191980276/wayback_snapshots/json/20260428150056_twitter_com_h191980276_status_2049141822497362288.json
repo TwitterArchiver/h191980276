@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2048023921698697591",
+    "created_at": "2026-04-28T15:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049141822497362288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730923014471180288",
+          "start": 0,
+          "username": "sunnyz1811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049141822497362288",
+    "in_reply_to_user_id": "1730923014471180288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048023921698697591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@sunnyz1811 可以互关吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2048023921698697591",
+        "created_at": "2026-04-28T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049141822497362288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730923014471180288",
+              "start": 0,
+              "username": "sunnyz1811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049141822497362288",
+        "in_reply_to_user_id": "1730923014471180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048023921698697591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@sunnyz1811 可以互关吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730923014471180288",
+        "conversation_id": "2048023921698697591",
+        "created_at": "2026-04-25T12:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:56:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048023302690717869",
+          "2048023921698697591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sui_aini/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sui_aini/status/2047916239251718202",
+              "start": 24,
+              "url": "https://t.co/bHlfAF9TvA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048023921698697591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "来个不需要执法权，但能事实上执法，有震慑力的：\n\n根据《深圳经济特区控制吸烟条例》第八条之规定，本公交站台范围属法定禁止吸烟区域。任何人获准进入及停留于此的默示许可，乃严格受限于“不得吸烟”之法定先决条件。鉴于阁下之吸烟行为已触发法律预设之禁止条款，根据法理逻辑，阁下在此停留的合法许可已即时自动丧失，而非由任何个人主观撤回。现依法告知，阁下目前之状态已由“合法候车”转为“无权滞留”。若阁下拒不纠正违法行为或拒绝离开，警方将获知会阁下在法律许可失效后仍非法滞留之事实，并据此采取必要执法行动。\n\n这个借鉴了西方民事非法侵入的原理，震慑力其实很强"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047916239251718202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "来个不需要执法权，但能事实上执法，有震慑力的： https://t.co/bHlfAF9TvA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 495,
+          "like_count": 4050,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1517
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "可以叫我梦欣或者Tanya/I’m who you say I’m/@Sydney_Uni and @UNSW alumni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "username": "UNSW"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "Ningshui Garden",
+        "name": "绫小路梦欣",
+        "pinned_tweet_id": "2042265408103960911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028668925245100032/NjwfJ8m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 252,
+          "like_count": 479,
+          "listed_count": 3,
+          "media_count": 522,
+          "tweet_count": 5242
+        },
+        "username": "sunnyz1811",
+        "verified": true
+      }
+    ]
+  }
+}

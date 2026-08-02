@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2044515809461211516",
+    "created_at": "2026-04-15T20:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T21:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044515809461211516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tradermige/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/tradermige/status/2044260865395020071",
+          "start": 6,
+          "url": "https://t.co/fiksZuK5zb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044515809461211516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044260865395020071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行，我试试 https://t.co/fiksZuK5zb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2044515809461211516",
+        "created_at": "2026-04-15T20:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044515809461211516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tradermige/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/tradermige/status/2044260865395020071",
+              "start": 6,
+              "url": "https://t.co/fiksZuK5zb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044515809461211516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044260865395020071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行，我试试 https://t.co/fiksZuK5zb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401887084076429324",
+        "conversation_id": "2044260865395020071",
+        "created_at": "2026-04-15T03:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044260865395020071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044260865395020071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 497083,
+          "like_count": 941,
+          "quote_count": 10,
+          "reply_count": 296,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "讲个冷知识：我提高操逼能力的三大妙招⬇️\n1. 每天坚持冰敷睾丸，三个月睾酮翻倍。\n2. 坚持骑行，会锻炼盆底肌，也会使鸡巴脱敏，操逼双刃剑。\n3. 鸡巴头和鸡巴棍子连接处涂少量生姜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 442,
+          "like_count": 3536,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1331
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T13:01:55.000Z",
+        "description": "🇬🇧 Trader Since 2016. 10年9000倍收益\n🚀策略群：https://t.co/anJjfaB5gn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/biquanxiaowang",
+                "end": 61,
+                "expanded_url": "http://t.me/biquanxiaowang",
+                "start": 38,
+                "url": "https://t.co/anJjfaB5gn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ricetoshi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ricetoshi",
+                "start": 0,
+                "url": "https://t.co/SxdKQ5fXLp"
+              }
+            ]
+          }
+        },
+        "id": "1401887084076429324",
+        "location": "Zurich, Switzerland🇨🇭. ",
+        "name": "Trader米哥 🚀",
+        "pinned_tweet_id": "2024373517802983477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982421465522749440/eCYztuWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133096,
+          "following_count": 705,
+          "like_count": 37332,
+          "listed_count": 1043,
+          "media_count": 7479,
+          "tweet_count": 26794
+        },
+        "url": "https://t.co/SxdKQ5fXLp",
+        "username": "tradermige",
+        "verified": true
+      }
+    ]
+  }
+}

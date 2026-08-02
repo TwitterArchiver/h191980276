@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060484553396060295",
+    "created_at": "2026-05-29T22:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T23:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060484553396060295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashasw114514/s…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ashasw114514/status/2060473567901524147",
+          "start": 34,
+          "url": "https://t.co/unzJwMF1sj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060484553396060295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060473567901524147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么喜欢女人就不是雌激素替我想的？？去你妈的异性恋霸权，凭什么😅 https://t.co/unzJwMF1sj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060484553396060295",
+        "created_at": "2026-05-29T22:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T23:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060484553396060295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2060473567901524147",
+              "start": 34,
+              "url": "https://t.co/unzJwMF1sj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060484553396060295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060473567901524147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么喜欢女人就不是雌激素替我想的？？去你妈的异性恋霸权，凭什么😅 https://t.co/unzJwMF1sj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2060473567901524147",
+        "created_at": "2026-05-29T21:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060473567901524147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060473567901524147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然冒出来一个想当tradwife把自己吓了一大跳，这到底是我自己的念头还是雌激素替我想的？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 510,
+          "like_count": 4313,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1787
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "they/him  县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n🫛：@rn1021929822675",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "rn1021929822675"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹🉑到付✈️",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3481,
+          "following_count": 3071,
+          "like_count": 6914,
+          "listed_count": 10,
+          "media_count": 546,
+          "tweet_count": 4578
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

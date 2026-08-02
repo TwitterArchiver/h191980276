@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2036894865406255538",
+    "created_at": "2026-03-25T19:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T20:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036894865406255538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Linyue7523/sta…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/Linyue7523/status/2036738291459047579",
+          "start": 84,
+          "url": "https://t.co/XfySM4XFaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036894865406255538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036738291459047579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨性别得低着头做人，得夹着尾巴做人，继【真正的跨】之后，【真正的性别烦躁】都横空出世了。正是因为这种逼太多了，这种脑残想法太多了，所以才会pride，所以才要有骄傲旗 https://t.co/XfySM4XFaf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2036894865406255538",
+        "created_at": "2026-03-25T19:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T20:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036894865406255538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Linyue7523/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/Linyue7523/status/2036738291459047579",
+              "start": 84,
+              "url": "https://t.co/XfySM4XFaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036894865406255538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036738291459047579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨性别得低着头做人，得夹着尾巴做人，继【真正的跨】之后，【真正的性别烦躁】都横空出世了。正是因为这种逼太多了，这种脑残想法太多了，所以才会pride，所以才要有骄傲旗 https://t.co/XfySM4XFaf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "2036738291459047579",
+        "created_at": "2026-03-25T09:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036738291459047579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/linyue7523/status/2036735900689027541",
+              "start": 123,
+              "url": "https://t.co/6bVvLYiVyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036738291459047579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1427,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036735900689027541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单纯基于现实骂人，随意挂，真正的性别烦躁应该是让自己努力的改变和贴近自己理想的样子，不是随便穿个女装留个长发吃那个雌二醇然后在那里喊我是女的、我是跨、然后因为那个雌变成几百甚至几千然后在那里Happy\n这边断言一下，85%的所谓的跨都是性别回避 https://t.co/6bVvLYiVyB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 320,
+          "like_count": 2692,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 906
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "对每个人保持善意/摄影/东方/世界上最好的姐姐@Kietter387803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Kietter387803"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 1532,
+          "like_count": 21012,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 2959
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

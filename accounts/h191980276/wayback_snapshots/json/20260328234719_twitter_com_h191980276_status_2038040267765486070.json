@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2037972354014605383",
+    "created_at": "2026-03-28T23:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T00:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038040267765486070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991445096013918208",
+          "start": 0,
+          "username": "SakurabaEma_ITN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038040267765486070",
+    "in_reply_to_user_id": "1991445096013918208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037972354014605383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaEma_ITN 比起尊重下性别认同这种破事，好像温柔冲戒网瘾学校才是动了蛋糕利益相关更容易被搞更危险的活吧，人家都干了多少年了，你这认同才屁大点事，屁大点事还压力上了，脑子怎么长得，觉得不专门提性别会有大手强迫发不出来，但是大手不管冲戒网瘾学校能发出来，什么时候能明白这个世界不是围着跨性别转的😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037972350537469952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEhVDh_akAAagBb.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037972350311059456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEhVDhJb0AAMe_H.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037972351032401920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEhVDj1aoAAc04a.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2037972354014605383",
+        "created_at": "2026-03-28T23:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T00:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038040267765486070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991445096013918208",
+              "start": 0,
+              "username": "SakurabaEma_ITN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038040267765486070",
+        "in_reply_to_user_id": "1991445096013918208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037972354014605383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaEma_ITN 比起尊重下性别认同这种破事，好像温柔冲戒网瘾学校才是动了蛋糕利益相关更容易被搞更危险的活吧，人家都干了多少年了，你这认同才屁大点事，屁大点事还压力上了，脑子怎么长得，觉得不专门提性别会有大手强迫发不出来，但是大手不管冲戒网瘾学校能发出来，什么时候能明白这个世界不是围着跨性别转的😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037972350537469952",
+            "3_2037972350311059456",
+            "3_2037972351032401920"
+          ]
+        },
+        "author_id": "1991445096013918208",
+        "conversation_id": "2037972354014605383",
+        "created_at": "2026-03-28T19:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037972354014605383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GTqbbnKIt",
+              "end": 139,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2037972354014605383/photo/1",
+              "media_key": "3_2037972350537469952",
+              "start": 116,
+              "url": "https://t.co/4GTqbbnKIt"
+            },
+            {
+              "display_url": "pic.x.com/4GTqbbnKIt",
+              "end": 139,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2037972354014605383/photo/1",
+              "media_key": "3_2037972350311059456",
+              "start": 116,
+              "url": "https://t.co/4GTqbbnKIt"
+            },
+            {
+              "display_url": "pic.x.com/4GTqbbnKIt",
+              "end": 139,
+              "expanded_url": "https://x.com/SakurabaEma_ITN/status/2037972354014605383/photo/1",
+              "media_key": "3_2037972351032401920",
+              "start": 116,
+              "url": "https://t.co/4GTqbbnKIt"
+            },
+            {
+              "display_url": "x.com/DrSunan2022422…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/DrSunan2022422/status/2037945149964312702",
+              "start": 140,
+              "url": "https://t.co/Pj610cuUpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037972354014605383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1021,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037945149964312702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直都不理解\n为什么温柔的每一个和mtf受害者有关的视频都是用“男孩”等男性称呼称呼受害者，明明受害者是mtf，而且正是因为性别认同才被迫害\n这次人都死了\n就不能给点最基本的尊重吗……\n还有评论区也是神人\n说什么mtf是男的呃呃 https://t.co/4GTqbbnKIt https://t.co/Pj610cuUpm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 333,
+          "like_count": 2775,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 925
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜真理不靠雷霆落，破尽谎言路自开｜以是非定立场而不是以立场定是非｜主人老婆 @KOISHI_IV｜“我希望有一天，所有人都能站在自由民主平等的蓝天之下”｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurabaema_itn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakurabaema_itn",
+                "start": 0,
+                "url": "https://t.co/nTmMgey0m1"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "location": "马斯克的祖坟头上",
+        "name": "英酱猫猫🍥",
+        "pinned_tweet_id": "2021286628187320504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 85,
+          "like_count": 3595,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/nTmMgey0m1",
+        "username": "SakurabaEma_ITN",
+        "verified": false
+      }
+    ]
+  }
+}

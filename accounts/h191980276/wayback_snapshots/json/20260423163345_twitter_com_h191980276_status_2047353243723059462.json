@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047336081335660762",
+    "created_at": "2026-04-23T16:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047353243723059462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913084413942145024",
+          "start": 0,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047353243723059462",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047336081335660762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui_aini 考虑到了也没用，跨男在他们眼里是女的跨性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047336081335660762",
+        "created_at": "2026-04-23T16:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047353243723059462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047353243723059462",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047336081335660762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 考虑到了也没用，跨男在他们眼里是女的跨性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2047336081335660762",
+        "created_at": "2026-04-23T15:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047336081335660762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047336081335660762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顺健全人别说尊重跨性别啦，大部分所谓的尊重都是chaser心态，我还不知道你们顺健全人是什么意思，看着让人恶心，跨男你尊重吗?非二元你尊重吗?估计你听都没听过，只觉得跨性别只存在跨女，都没了解过跨性别，就说尊重跨性别，有点好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 488,
+          "like_count": 3870,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1433
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（they/them/it）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 673,
+          "like_count": 4432,
+          "listed_count": 6,
+          "media_count": 497,
+          "tweet_count": 3545
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

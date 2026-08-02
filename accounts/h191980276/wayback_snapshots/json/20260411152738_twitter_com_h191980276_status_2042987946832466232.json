@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042978025487147010",
+    "created_at": "2026-04-11T15:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042987946832466232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015157273849466880",
+          "start": 0,
+          "username": "SuzukishiMizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042987946832466232",
+    "in_reply_to_user_id": "2015157273849466880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042978025487147010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukishiMizuki 真的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042978025487147010",
+        "created_at": "2026-04-11T15:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042987946832466232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015157273849466880",
+              "start": 0,
+              "username": "SuzukishiMizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042987946832466232",
+        "in_reply_to_user_id": "2015157273849466880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042978025487147010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukishiMizuki 真的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015157273849466880",
+        "conversation_id": "2042978025487147010",
+        "created_at": "2026-04-11T14:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042978025487147010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dajuzi23242526…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/dajuzi23242526/status/2042674920963047883",
+              "start": 30,
+              "url": "https://t.co/T267LvzZoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042978025487147010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042674920963047883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永遠不要把幸福寄託在別人的包容，要將主動權牢牢握在自己手中 https://t.co/T267LvzZoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 387,
+          "like_count": 3343,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1254
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T20:18:51.000Z",
+        "description": "偽娘／跨性別移民出國問題研究者\n已移居歐盟\n致力於訊息分享  諮詢   線下互助\n            男娘大帳篷互助主義 （且ftm友好）",
+        "id": "2015157273849466880",
+        "location": "Europe",
+        "name": "深月official🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2017734189961941133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015171116738740224/iqJYco_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 120,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 221
+        },
+        "username": "SuzukishiMizuki",
+        "verified": false
+      }
+    ]
+  }
+}

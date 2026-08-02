@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049731993508987094",
+    "created_at": "2026-04-30T06:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049731993508987094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/432Ifantrygrou…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/432Ifantrygroup/status/2049730825999229033",
+          "start": 11,
+          "url": "https://t.co/JcyJDOQulA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049731993508987094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049730825999229033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以有些人真的是死装 https://t.co/JcyJDOQulA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049731993508987094",
+        "created_at": "2026-04-30T06:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049731993508987094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2049730825999229033",
+              "start": 11,
+              "url": "https://t.co/JcyJDOQulA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049731993508987094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049730825999229033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以有些人真的是死装 https://t.co/JcyJDOQulA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2049730825999229033",
+        "created_at": "2026-04-30T06:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049730825999229033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acacia038/stat…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/acacia038/status/2049696520455311392",
+              "start": 102,
+              "url": "https://t.co/sagKOFJXmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049730825999229033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049696520455311392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我倒是觉得，在面对网暴时不需要刻意去摘掉自己家人朋友，因为：如果家人朋友选择站在你这边，坚定支持你，那他们也不需要自顾不暇的你去保护他们；如果他们慌忙和你切割甩锅，甚至责骂你，那你保护他们的意义是什么？ https://t.co/sagKOFJXmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 508,
+          "like_count": 4169,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1581
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 3433,
+          "like_count": 30296,
+          "listed_count": 4,
+          "media_count": 328,
+          "tweet_count": 8108
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

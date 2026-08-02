@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2048367795860320596",
+    "created_at": "2026-04-27T13:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048749230857326733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        },
+        {
+          "end": 27,
+          "id": "2026658606721249280",
+          "start": 17,
+          "username": "ckL200617"
+        },
+        {
+          "end": 38,
+          "id": "1622587760514158593",
+          "start": 28,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048749230857326733",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048727774060511549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup @ckL200617 @ForlikOOO 这人纯煞笔来的，要是谁强壮就会导致谁奴役谁，那黑人早把白人奴役完了，纯纯结果反推原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2048367795860320596",
+        "created_at": "2026-04-27T13:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048749230857326733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 27,
+              "id": "2026658606721249280",
+              "start": 17,
+              "username": "ckL200617"
+            },
+            {
+              "end": 38,
+              "id": "1622587760514158593",
+              "start": 28,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048749230857326733",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048727774060511549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @ckL200617 @ForlikOOO 这人纯煞笔来的，要是谁强壮就会导致谁奴役谁，那黑人早把白人奴役完了，纯纯结果反推原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2048367795860320596",
+        "created_at": "2026-04-27T11:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048727774060511549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026658606721249280",
+              "start": 0,
+              "username": "ckL200617"
+            },
+            {
+              "end": 22,
+              "id": "1920490291708243968",
+              "start": 11,
+              "username": "h191980276"
+            },
+            {
+              "end": 33,
+              "id": "1622587760514158593",
+              "start": 23,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048727774060511549",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048727012857324003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ckL200617 @h191980276 @ForlikOOO 进化论这个词翻译的就不是很对，给人一种进化意味着“好”“优越”的意味。然而实际上并非那么回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 493,
+          "like_count": 4000,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1498
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2048703129471029448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 3366,
+          "like_count": 29097,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 7751
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T14:00:55.000Z",
+        "description": "",
+        "id": "2026658606721249280",
+        "name": "西格玛乔治",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026658994203537408/KvE99_9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 183
+        },
+        "username": "ckL200617",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "中文/English/Deutsch，she/her，bi。有对象感情非常好。随缘看私信，发弔直接拉黑，搞暧昧约炮恋爱尬聊的不回复。不厌男不厌女，厌脑残。incel/terf/pinky/反lfbtq都滚。",
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "Cyclo",
+        "pinned_tweet_id": "2039331394636374473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048654683263377408/ML4S5ET-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 172,
+          "like_count": 43831,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 7255
+        },
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

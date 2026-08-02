@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2063994598176023032",
+    "created_at": "2026-06-08T14:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063997263031267708"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063997263031267708",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063994598176023032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最喜欢割席的整天跨圈这跨圈那的叫的天天挂嘴边的不就是你这种吗，你这条不就是在干这种事吗😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2063994598176023032",
+        "created_at": "2026-06-08T14:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063997263031267708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063997263031267708",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063994598176023032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最喜欢割席的整天跨圈这跨圈那的叫的天天挂嘴边的不就是你这种吗，你这条不就是在干这种事吗😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2063994598176023032",
+        "created_at": "2026-06-08T14:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063994598176023032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2063991987137605842",
+              "start": 22,
+              "url": "https://t.co/xNtQhFFEgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063994598176023032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063991987137605842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你老母的给唐畜说好话的时候咋不是这么说的😅 https://t.co/xNtQhFFEgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 520,
+          "like_count": 4444,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1935
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2067469980418052394",
+    "created_at": "2026-06-18T05:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067474598216835466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067474598216835466",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067469980418052394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 你要是把“迫害跨性别的顺女”引入进来你就知道问题出在哪了，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2067469980418052394",
+        "created_at": "2026-06-18T05:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067474598216835466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067474598216835466",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067469980418052394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 你要是把“迫害跨性别的顺女”引入进来你就知道问题出在哪了，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2067469980418052394",
+        "created_at": "2026-06-18T04:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067469980418052394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/h191980276/status/2067453193576194151",
+              "start": 81,
+              "url": "https://t.co/41haSYq2uC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067469980418052394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067453193576194151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "遇到迫害順女的跨性別就「我真的很想同情跨性別但我同情不起來」，遇到迫害跨性別的跨性別就「她只是個孩子我們應該教育包容感化她」，我不能不認為這裡有某種根本的雙標。 https://t.co/41haSYq2uC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 522,
+          "like_count": 4469,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1952
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "𝘈𝘯𝘨𝘦𝘭𝘶𝘴 𝘕𝘰𝘷𝘶𝘴.\n戀人：@irisdesombres 。祢的命令就是我的愿望。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "Erlösung",
+        "name": "小羽",
+        "pinned_tweet_id": "2047343219063840775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066729887201660928/hgKilZA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 150,
+          "like_count": 9894,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 6848
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

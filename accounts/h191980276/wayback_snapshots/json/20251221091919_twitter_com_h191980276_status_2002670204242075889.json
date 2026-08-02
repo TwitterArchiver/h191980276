@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2002670204242075889",
+    "created_at": "2025-12-21T09:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T10:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002670204242075889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002670204242075889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“我”早就和“我”的身体和解了，不愿意和“我”的身体和解的另有其人。有人企图让你相信你的遭遇都是因为你自己的错，并诱导你焦虑仇恨自己的身体，还告诉你这样就是得了“易性症”，只有得了“易性症”，才准许是跨性别。\n “有非跨性别在假装跨性别，侮辱，质疑，挑拨我们跨性别的孩子”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002670204242075889",
+        "created_at": "2025-12-21T09:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002670204242075889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002670204242075889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我”早就和“我”的身体和解了，不愿意和“我”的身体和解的另有其人。有人企图让你相信你的遭遇都是因为你自己的错，并诱导你焦虑仇恨自己的身体，还告诉你这样就是得了“易性症”，只有得了“易性症”，才准许是跨性别。\n “有非跨性别在假装跨性别，侮辱，质疑，挑拨我们跨性别的孩子”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 154,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 358
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2025853862054379637",
+    "created_at": "2026-02-23T08:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025853862054379637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JkyDex/status/…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/JkyDex/status/2025522624072200666",
+          "start": 77,
+          "url": "https://t.co/dunajga8x4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025853862054379637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025522624072200666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就说你说的这些东西哪个不是只有跨性别自己在做，哪个不是反跨顺直才是阻力才是反向力量，这突然冒出来一个人说跨性别全责，这些东西全变成她呼吁的了，能不气人吗 https://t.co/dunajga8x4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2025853862054379637",
+        "created_at": "2026-02-23T08:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025853862054379637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JkyDex/status/…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/JkyDex/status/2025522624072200666",
+              "start": 77,
+              "url": "https://t.co/dunajga8x4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025853862054379637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025522624072200666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就说你说的这些东西哪个不是只有跨性别自己在做，哪个不是反跨顺直才是阻力才是反向力量，这突然冒出来一个人说跨性别全责，这些东西全变成她呼吁的了，能不气人吗 https://t.co/dunajga8x4"
+      },
+      {
+        "article": {
+          "title": "是时候了, 让我们一起把社群拉回正轨 ---- 关于重塑社群风气的倡议书"
+        },
+        "attachments": {},
+        "author_id": "1379609664938143744",
+        "conversation_id": "2025522624072200666",
+        "created_at": "2026-02-22T10:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025522624072200666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2025…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2025517578979020800",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2025517578979020800",
+              "url": "https://t.co/W3VYL0j1VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025522624072200666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6965,
+          "like_count": 48,
+          "quote_count": 15,
+          "reply_count": 13,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W3VYL0j1VE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 223,
+          "like_count": 1898,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 607
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-07T01:39:59.000Z",
+        "description": "非二元 | 23岁 | 含糖🍥 | 行星级二阶\n贴子成分: 日常/经验/段子/梗图/吵架\n永不投降, 永不放弃. 我们不只是生存, 我们要胜利!\n\n(不常在线, 若想问我问题, 可回帖或私信)",
+        "id": "1379609664938143744",
+        "location": "银河系-猎户座旋臂",
+        "name": "银河仙子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841026277396135936/MV3p-LDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 67,
+          "like_count": 3532,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 389
+        },
+        "username": "JkyDex",
+        "verified": true
+      }
+    ]
+  }
+}

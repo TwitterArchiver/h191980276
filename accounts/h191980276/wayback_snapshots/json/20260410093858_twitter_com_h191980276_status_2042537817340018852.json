@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042537817340018852",
+    "created_at": "2026-04-10T09:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042537817340018852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yovartija_natt…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/yovartija_nattv/status/1774675363718955425",
+          "start": 75,
+          "url": "https://t.co/D3q1htDQZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042537817340018852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1774675363718955425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到原推评转那么多一边lgbtqia一边又不知道“酷儿”是怎么来的就很嗯，，不过这都开两年还能被拿出大惊小怪你们才知道第一次见似的也挺能说明问题。。 https://t.co/D3q1htDQZM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_1774674795080339456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GKDpUtCaUAARVoX.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042537817340018852",
+        "created_at": "2026-04-10T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042537817340018852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yovartija_natt…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/yovartija_nattv/status/1774675363718955425",
+              "start": 75,
+              "url": "https://t.co/D3q1htDQZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042537817340018852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1774675363718955425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到原推评转那么多一边lgbtqia一边又不知道“酷儿”是怎么来的就很嗯，，不过这都开两年还能被拿出大惊小怪你们才知道第一次见似的也挺能说明问题。。 https://t.co/D3q1htDQZM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1774674795080339456"
+          ]
+        },
+        "author_id": "888172653881638912",
+        "conversation_id": "1774675363718955425",
+        "created_at": "2024-04-01T05:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-01T06:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1774675363718955425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d05HAUwH46",
+              "end": 173,
+              "expanded_url": "https://x.com/Nokta_gardisto/status/1774675363718955425/photo/1",
+              "media_key": "3_1774674795080339456",
+              "start": 150,
+              "url": "https://t.co/d05HAUwH46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1774675363718955425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 269276,
+          "like_count": 526,
+          "quote_count": 41,
+          "reply_count": 73,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "沈阳开了家性别友好酒吧，TwoChairz，二椅子，文雅点的称呼叫两把椅子，来指代所有不愿意被规训和束缚的伙伴们！\n它可以是一个实惠好喝的小酒馆，\n也可以是一家提供点心的咖啡店，\n可以是读书写作业的自习室，\n试营业阶段，有一份专属酒单可以在同价位区间/买一送一/\n营业时间下午六点/至/次日凌晨两点 https://t.co/d05HAUwH46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 374,
+          "like_count": 3308,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1231
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "Nonbinary of Tzeentch (她/she)\\Asexual\\North East Asia Study\\Pirate/SISU/Nihil\\Proud of what I am !\\辽北精神分析研究所\\Bluesky:@yovahti.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 117,
+                "username": "yovahti"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yö/ttevakt|sama🏴‍☠️🇫🇮🏴",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030660011161165824/SLUIGWsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10221,
+          "following_count": 819,
+          "like_count": 43915,
+          "listed_count": 42,
+          "media_count": 1457,
+          "tweet_count": 5588
+        },
+        "username": "yovartija_nattv",
+        "verified": true
+      }
+    ]
+  }
+}

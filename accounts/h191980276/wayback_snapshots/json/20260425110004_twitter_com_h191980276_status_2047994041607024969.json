@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047990050869354578",
+    "created_at": "2026-04-25T11:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047994041607024969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1741075170603749376",
+          "start": 0,
+          "username": "zhao_tito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047994041607024969",
+    "in_reply_to_user_id": "1741075170603749376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047990050869354578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao_tito 不就跟按摩没区别，就是上班赚钱，也不像是那些想的一样又是出卖了又是堕落了加那么多戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047990050869354578",
+        "created_at": "2026-04-25T11:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047994041607024969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741075170603749376",
+              "start": 0,
+              "username": "zhao_tito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047994041607024969",
+        "in_reply_to_user_id": "1741075170603749376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047990050869354578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao_tito 不就跟按摩没区别，就是上班赚钱，也不像是那些想的一样又是出卖了又是堕落了加那么多戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "2047990050869354578",
+        "created_at": "2026-04-25T10:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047990050869354578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047990050869354578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我周三那天嫖娼去了，觉得还挺神奇的，之前没接触过这种底层的妓女，300块钱15分钟，搞了两次不同的，长得挺漂亮的，整容脸，化的很土气的浓妆，穿的很暴露，没啥美感可言，全程就是叫我快点完事，也不让摸逼说是怕感染炎症，还挺神奇的，但是我也不知道她们收入如何过得怎样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 491,
+          "like_count": 3953,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1475
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "Por fa',no me parеs ya de mirar.",
+        "id": "1741075170603749376",
+        "location": "🚪40",
+        "name": "钮祜禄·有希🐰🍺",
+        "pinned_tweet_id": "2047686709866119285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034879597159096322/QuoMlwJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1458,
+          "like_count": 30042,
+          "listed_count": 1,
+          "media_count": 1284,
+          "tweet_count": 16542
+        },
+        "username": "zhao_tito",
+        "verified": false
+      }
+    ]
+  }
+}

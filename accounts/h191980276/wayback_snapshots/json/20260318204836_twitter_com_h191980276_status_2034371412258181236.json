@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2034369396064583895",
+    "created_at": "2026-03-18T20:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T21:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034371412258181236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006187054334619648",
+          "start": 0,
+          "username": "QwQb119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034371412258181236",
+    "in_reply_to_user_id": "2006187054334619648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034369396064583895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQb119 认同别禁欲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2034369396064583895",
+        "created_at": "2026-03-18T20:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034371412258181236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006187054334619648",
+              "start": 0,
+              "username": "QwQb119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034371412258181236",
+        "in_reply_to_user_id": "2006187054334619648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034369396064583895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQb119 认同别禁欲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006187054334619648",
+        "conversation_id": "2034369396064583895",
+        "created_at": "2026-03-18T20:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034369396064583895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034369396064583895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爹味但有用的道理：解決性慾問題再談喜歡，時刻保持大腦清醒別禁欲，例如說我鹿完才發現我是真的喜歡吃壽司、看浣熊、聽夜鹿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 297,
+          "like_count": 2497,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 843
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T02:14:16.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍\n@QAQ_xwx\n 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "2006187054334619648",
+        "location": "30樓的地下室",
+        "name": "Θώθ!!!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006206865307578368/zceldKFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 154,
+          "like_count": 4229,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2140
+        },
+        "username": "QwQb119",
+        "verified": false
+      }
+    ]
+  }
+}

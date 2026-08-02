@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062189861919138143",
+    "created_at": "2026-06-03T15:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T16:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062189861919138143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hatachi0525/st…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/hatachi0525/status/2062028534135308576",
+          "start": 97,
+          "url": "https://t.co/xSGAv3HFIE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062189861919138143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062028534135308576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这说的什么逼话，这不就相当于\n一个男的议论别的女的一晚上给多少钱能买着还要把你跟川岛芳子高市早苗排一起，结果被人骂了然后你在那说“女的都拜金，你被骂是因为她们嫌你给她们自己的批定的价太少了”😰 https://t.co/xSGAv3HFIE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062189861919138143",
+        "created_at": "2026-06-03T15:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062189861919138143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hatachi0525/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/hatachi0525/status/2062028534135308576",
+              "start": 97,
+              "url": "https://t.co/xSGAv3HFIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062189861919138143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062028534135308576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这说的什么逼话，这不就相当于\n一个男的议论别的女的一晚上给多少钱能买着还要把你跟川岛芳子高市早苗排一起，结果被人骂了然后你在那说“女的都拜金，你被骂是因为她们嫌你给她们自己的批定的价太少了”😰 https://t.co/xSGAv3HFIE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108658732295028737",
+        "conversation_id": "2061951664295457103",
+        "created_at": "2026-06-03T04:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062028534135308576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892789733287460864",
+              "start": 0,
+              "username": "XIAOSUSU456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062028534135308576",
+        "in_reply_to_user_id": "1892789733287460864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061951664295457103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@XIAOSUSU456 只是你表達的方式很容易讓有些人覺得，他都能上榜為什麼沒有我，如果把T0 T1那些改成，這些是我認識的人裏面我認為比較出名的 然後再做排序，之後問，還有我不認識的人嗎？來認識一下，或許好點？畢竟你也不可能認識所有人呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 512,
+          "like_count": 4342,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1828
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T09:16:54.000Z",
+        "description": "171/47 1997.5.25出廠\n2016.12.19取證 含糖起始日不可考約早一年\n\n泛性戀？但是可以確定是個顏值控，母胎單\n精神狀態良好（大概\n歡迎同類或藍勾互fo 如果我沒fo回去希望我fo的話請私 因為自主fo我會看文章內容",
+        "id": "1108658732295028737",
+        "location": "台灣",
+        "name": "柔柔🍥",
+        "pinned_tweet_id": "2059704438118613178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059730096697782272/UItS3II-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 87,
+          "like_count": 172,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 423
+        },
+        "username": "hatachi0525",
+        "verified": true
+      }
+    ]
+  }
+}

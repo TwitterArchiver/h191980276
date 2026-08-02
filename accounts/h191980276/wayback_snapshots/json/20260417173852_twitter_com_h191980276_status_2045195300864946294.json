@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2045195300864946294",
+    "created_at": "2026-04-17T17:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045195300864946294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/charlotte1020W…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/charlotte1020W/status/2045145080441233633",
+          "start": 20,
+          "url": "https://t.co/CNJjVWXW1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045195300864946294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045145080441233633",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧是我最爱的真正为跨性别群体争取权益 https://t.co/CNJjVWXW1d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2045195300864946294",
+        "created_at": "2026-04-17T17:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045195300864946294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/charlotte1020W…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/charlotte1020W/status/2045145080441233633",
+              "start": 20,
+              "url": "https://t.co/CNJjVWXW1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045195300864946294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045145080441233633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧是我最爱的真正为跨性别群体争取权益 https://t.co/CNJjVWXW1d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963088360110530560",
+        "conversation_id": "2045145080441233633",
+        "created_at": "2026-04-17T14:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045145080441233633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045145080441233633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这话就放这\n跨可以存在\n但是跨畜不能存在\n什么是跨畜？\n字面意思，跨性别群体里的畜生\n这些生物跟女拳类似\n女拳如今所作之事早超越女权运动本意\n而跨畜肆意诋毁其他性别（尤其男性）\n也没有真正为跨性别群体争取权益\n只会让跨更被世人所厌恶和憎恨\n跨畜渣滓不除能行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 462,
+          "like_count": 3618,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1352
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T03:55:23.000Z",
+        "description": "殁亡正是结果，崩毁便是必然\n混乱亦是秩序，死寂即是终局\n\n鲜卑-汉-契丹-百越\n特色任务：拷打跨畜/女拳母畜",
+        "id": "1963088360110530560",
+        "location": "奣",
+        "name": "剣〆雪希 Ken Yuki",
+        "pinned_tweet_id": "2042612089513013252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042332789140340736/HWqZNsC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 123,
+          "like_count": 84,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 6515
+        },
+        "username": "charlotte1020W",
+        "verified": false
+      }
+    ]
+  }
+}

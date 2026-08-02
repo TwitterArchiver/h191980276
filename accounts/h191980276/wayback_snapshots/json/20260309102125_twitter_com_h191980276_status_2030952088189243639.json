@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2029845446563352659",
+    "created_at": "2026-03-09T10:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T11:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030952088189243639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        },
+        {
+          "end": 17,
+          "id": "1541248951843663873",
+          "start": 8,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030952088189243639",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029914012826358249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu @Anermoka 旁听的不男不女有可能是那个关系户赵烨德的小助理（顺直女）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2029845446563352659",
+        "created_at": "2026-03-09T10:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030952088189243639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            },
+            {
+              "end": 17,
+              "id": "1541248951843663873",
+              "start": 8,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030952088189243639",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029914012826358249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu @Anermoka 旁听的不男不女有可能是那个关系户赵烨德的小助理（顺直女）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617523246144053251",
+        "conversation_id": "2029845446563352659",
+        "created_at": "2026-03-06T13:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029914012826358249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029914012826358249",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 752,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029903676295508346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka 奇怪的人这里指的可能是后面排队的其他mtf（但是可能打扮一眼圈里人，他看着很恶心）\n以及他跟我说他那天去的时候赵博诊室里一直坐着个不男不女的在旁听，一边不耐烦的玩手机。然后还有个插队的疑似超大龄mtf突然来问了赵博句什么。\n具体没敢多问，结合近期舆论黑料来看，411磁场可能确实不佳（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 241,
+          "like_count": 2191,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 694
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "疑似47XXY？|07|高三被家庭「抛弃」辍学出走无业穷困一年余😥|精神良好，无不良嗜好😀|八字命理爱好者，可无偿看🤓|真的没钱，赞赏看着给点吧😭|具体简介请看置顶☺️|🚪门66+好友（私信截图告诉我）😇|不建🐧群了，神人太多😅|od紫餐怪健全b🈷炮乐子人勿扰😡",
+        "id": "1617523246144053251",
+        "location": "骂我长得像冰棍的死全家😅",
+        "name": "❄️雪梦歆屿🍥",
+        "pinned_tweet_id": "2030448606663377215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028363115445043200/SxrKcvKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 65,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 1956
+        },
+        "username": "s1nyvu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 175,
+          "like_count": 10055,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 212
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

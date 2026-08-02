@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060517291360665897",
+    "created_at": "2026-06-01T22:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T23:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061580210877894864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1664627530425352192",
+          "start": 0,
+          "username": "MGlimpze26770"
+        },
+        {
+          "end": 30,
+          "id": "2015624869665456129",
+          "start": 15,
+          "username": "Oyama_Mihari01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061580210877894864",
+    "in_reply_to_user_id": "1664627530425352192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060615978657194160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MGlimpze26770 @Oyama_Mihari01 说的梦话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060517291360665897",
+        "created_at": "2026-06-01T22:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T23:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061580210877894864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1664627530425352192",
+              "start": 0,
+              "username": "MGlimpze26770"
+            },
+            {
+              "end": 30,
+              "id": "2015624869665456129",
+              "start": 15,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061580210877894864",
+        "in_reply_to_user_id": "1664627530425352192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060615978657194160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MGlimpze26770 @Oyama_Mihari01 说的梦话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664627530425352192",
+        "conversation_id": "2060517291360665897",
+        "created_at": "2026-05-30T06:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060615978657194160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015624869665456129",
+              "start": 0,
+              "username": "Oyama_Mihari01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060615978657194160",
+        "in_reply_to_user_id": "1664627530425352192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060615662805160058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Mihari01 你滑坡到这种地方我本身不想和你聊了，想了一下还是发出来算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 513,
+          "like_count": 4324,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1813
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T13:38:36.000Z",
+        "description": "some shades of grey with burgundy",
+        "id": "1664627530425352192",
+        "location": "yacht in Xi'an",
+        "name": "Mizty_Glimpze",
+        "pinned_tweet_id": "1823045493007810875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664634188371197954/SkghuZI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 399,
+          "like_count": 8846,
+          "listed_count": 3,
+          "media_count": 813,
+          "tweet_count": 7715
+        },
+        "username": "MGlimpze26770",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "女子力の高い女の子💕| 写真家 📸| クリア系🌈| 音楽と日常 🎼| Pansexuality🌊\n• JP / EN / 中文 OK!\n• LGBTQフレンドリー\n• 気軽にフォローしてください！ ˗ˏˋ♥︎︎ˎˊ˗\n~ Thanks for the love₊⁺♡₊⁺~\n^ ̳- ‧̫ • ̳^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kingyosama?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kingyosama?igsh=MWc5Z3JoNTA3ampmeQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gQ3LtlxQgH"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🌈",
+        "pinned_tweet_id": "2060703266305192121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 463,
+          "like_count": 754,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/gQ3LtlxQgH",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

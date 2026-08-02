@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062579713101758464",
+        "3_2062579713177198592"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062579716062957824",
+    "created_at": "2026-06-04T16:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062579716062957824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YZos2s0aBQ",
+          "end": 158,
+          "expanded_url": "https://x.com/h191980276/status/2062579716062957824/photo/1",
+          "media_key": "3_2062579713101758464",
+          "start": 135,
+          "url": "https://t.co/YZos2s0aBQ"
+        },
+        {
+          "display_url": "pic.x.com/YZos2s0aBQ",
+          "end": 158,
+          "expanded_url": "https://x.com/h191980276/status/2062579716062957824/photo/1",
+          "media_key": "3_2062579713177198592",
+          "start": 135,
+          "url": "https://t.co/YZos2s0aBQ"
+        },
+        {
+          "display_url": "x.com/432Ifantrygrou…",
+          "end": 182,
+          "expanded_url": "https://twitter.com/432Ifantrygroup/status/2062543848837161201",
+          "start": 159,
+          "url": "https://t.co/BnqmIinVUA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062579716062957824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062543848837161201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就说那些说“干的好”的那些人，不要在这跟我演什么是帮人助人，你自己心里心理比谁清楚这行为是你是把它当做迫害是为了人好。也不要在这装什么生命不生命的，捧着一个以迫害他人为乐的以教唆别人自杀为荣表示害死人有“成就感”的人，你们就是闻着血腥味兴奋才来的，不要在给我演温情脉脉 https://t.co/YZos2s0aBQ https://t.co/BnqmIinVUA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062579713101758464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_BUjBbgAAaVXm.jpg",
+        "width": 728
+      },
+      {
+        "height": 2199,
+        "media_key": "3_2062579713177198592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_BUjTaoAAueZr.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062579713101758464",
+            "3_2062579713177198592"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062579716062957824",
+        "created_at": "2026-06-04T16:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062579716062957824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YZos2s0aBQ",
+              "end": 158,
+              "expanded_url": "https://x.com/h191980276/status/2062579716062957824/photo/1",
+              "media_key": "3_2062579713101758464",
+              "start": 135,
+              "url": "https://t.co/YZos2s0aBQ"
+            },
+            {
+              "display_url": "pic.x.com/YZos2s0aBQ",
+              "end": 158,
+              "expanded_url": "https://x.com/h191980276/status/2062579716062957824/photo/1",
+              "media_key": "3_2062579713177198592",
+              "start": 135,
+              "url": "https://t.co/YZos2s0aBQ"
+            },
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2062543848837161201",
+              "start": 159,
+              "url": "https://t.co/BnqmIinVUA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062579716062957824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062543848837161201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就说那些说“干的好”的那些人，不要在这跟我演什么是帮人助人，你自己心里心理比谁清楚这行为是你是把它当做迫害是为了人好。也不要在这装什么生命不生命的，捧着一个以迫害他人为乐的以教唆别人自杀为荣表示害死人有“成就感”的人，你们就是闻着血腥味兴奋才来的，不要在给我演温情脉脉 https://t.co/YZos2s0aBQ https://t.co/BnqmIinVUA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2062543848837161201",
+        "created_at": "2026-06-04T14:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062543848837161201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2062453803253989773",
+              "start": 15,
+              "url": "https://t.co/21RjQLkJtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062543848837161201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 245,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062453803253989773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“家长配合下”\n😅😅😅😅😅😅 https://t.co/21RjQLkJtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 515,
+          "like_count": 4354,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1844
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062576495936381265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1552,
+          "following_count": 4050,
+          "like_count": 42360,
+          "listed_count": 4,
+          "media_count": 468,
+          "tweet_count": 11844
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

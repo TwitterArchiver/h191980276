@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042839843051573417",
+    "created_at": "2026-04-11T09:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042901466768380020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541248951843663873",
+          "start": 0,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042901466768380020",
+    "in_reply_to_user_id": "1541248951843663873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042839843051573417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anermoka 因为未来共产主义社会按需分配没有钱没有货币，钱买不着东西。所以按生产资料分钱是对的，就应该资本家多拿钱，劳动者少拿钱，劳动者想讨薪那就是搞资本主义"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042839832024748033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmgAPjakAE7uWc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042839843051573417",
+        "created_at": "2026-04-11T09:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042901466768380020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042901466768380020",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042839843051573417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka 因为未来共产主义社会按需分配没有钱没有货币，钱买不着东西。所以按生产资料分钱是对的，就应该资本家多拿钱，劳动者少拿钱，劳动者想讨薪那就是搞资本主义"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042839832024748033"
+          ]
+        },
+        "author_id": "1541248951843663873",
+        "conversation_id": "2042839843051573417",
+        "created_at": "2026-04-11T05:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042839843051573417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzmJkbxfpt",
+              "end": 48,
+              "expanded_url": "https://x.com/Anermoka/status/2042839843051573417/photo/1",
+              "media_key": "3_2042839832024748033",
+              "start": 25,
+              "url": "https://t.co/RzmJkbxfpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042839843051573417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种伪装成性别解构主义的另类本质主义，真的好诡异 https://t.co/RzmJkbxfpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 385,
+          "like_count": 3330,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1246
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 207,
+          "like_count": 15127,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 491
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

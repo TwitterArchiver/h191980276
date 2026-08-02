@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059130716609490944"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059122343549739152",
+    "created_at": "2026-05-26T04:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059130719641985371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757152910683852800",
+          "start": 0,
+          "username": "qslzy1225"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5B9jHI7F9e",
+          "end": 175,
+          "expanded_url": "https://x.com/h191980276/status/2059130719641985371/photo/1",
+          "media_key": "3_2059130716609490944",
+          "start": 152,
+          "url": "https://t.co/5B9jHI7F9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059130719641985371",
+    "in_reply_to_user_id": "1757152910683852800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059125185769254921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qslzy1225 你并不诚实，我没看到你有多友好，我只看到了性少数真的够友善够包容，人家性少数对你这样一会一副嘴脸的释放的都是毫无算计的善意，你却把人当枪使当肉盾？脏水泼着泼着突然示好只是为了临时利用人家挡刀，我差点也中计了，要不然我也要再上边被你拿来背书了，没看出来你友善，只看出来性少数太友善了 https://t.co/5B9jHI7F9e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059130716609490944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOAeh2asAAx2qY.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059130716609490944"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059122343549739152",
+        "created_at": "2026-05-26T04:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059130719641985371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757152910683852800",
+              "start": 0,
+              "username": "qslzy1225"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5B9jHI7F9e",
+              "end": 175,
+              "expanded_url": "https://x.com/h191980276/status/2059130719641985371/photo/1",
+              "media_key": "3_2059130716609490944",
+              "start": 152,
+              "url": "https://t.co/5B9jHI7F9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059130719641985371",
+        "in_reply_to_user_id": "1757152910683852800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059125185769254921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qslzy1225 你并不诚实，我没看到你有多友好，我只看到了性少数真的够友善够包容，人家性少数对你这样一会一副嘴脸的释放的都是毫无算计的善意，你却把人当枪使当肉盾？脏水泼着泼着突然示好只是为了临时利用人家挡刀，我差点也中计了，要不然我也要再上边被你拿来背书了，没看出来你友善，只看出来性少数太友善了 https://t.co/5B9jHI7F9e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757152910683852800",
+        "conversation_id": "2059122343549739152",
+        "created_at": "2026-05-26T04:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059125185769254921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059125185769254921",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059122343549739152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 朋友，我真的不明白我的观点与你有什么本质上的冲突。至少在性少数的问题上我们的立场是相同的。我很乐意与你讨论，如果你愿意赏光把你不认可我的地方好好说一说的话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 509,
+          "like_count": 4224,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1713
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:22:07.000Z",
+        "description": "LGBTQ+ Ally｜马克思主义者｜二游玩家｜理性，包容，进步，思考｜认清形势，放弃幻想，准备斗争｜你说，我在听",
+        "id": "1757152910683852800",
+        "location": "Harbin,Heilongjiang,China",
+        "name": "青松",
+        "pinned_tweet_id": "2059119484187611418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757153133611171840/Bi-ESVPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 99
+        },
+        "username": "qslzy1225",
+        "verified": false
+      }
+    ]
+  }
+}

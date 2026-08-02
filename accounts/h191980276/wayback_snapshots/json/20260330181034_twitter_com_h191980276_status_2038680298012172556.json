@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038680298012172556",
+    "created_at": "2026-03-30T18:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038680298012172556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038680298012172556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038624046091567300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: “死者生前发的动态有一句希望网瘾学校不存在”为何能论证“我干什么都是对的，都是死者授权过的”？这个最明显的滥用和操纵没人追究吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038680298012172556",
+        "created_at": "2026-03-30T18:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038680298012172556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038680298012172556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038624046091567300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: “死者生前发的动态有一句希望网瘾学校不存在”为何能论证“我干什么都是对的，都是死者授权过的”？这个最明显的滥用和操纵没人追究吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2038624046091567300",
+        "created_at": "2026-03-30T14:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038624046091567300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/windy_skyline/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/windy_skyline/status/2038523440861458488",
+              "start": 65,
+              "url": "https://t.co/bDTQdKUpMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038624046091567300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038523440861458488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“死者生前发的动态有一句希望网瘾学校不存在”为何能论证“我干什么都是对的，都是死者授权过的”？这个最明显的滥用和操纵没人追究吗？ https://t.co/bDTQdKUpMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 340,
+          "like_count": 2976,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1052
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 242,
+          "like_count": 2431,
+          "listed_count": 10,
+          "media_count": 3794,
+          "tweet_count": 12898
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

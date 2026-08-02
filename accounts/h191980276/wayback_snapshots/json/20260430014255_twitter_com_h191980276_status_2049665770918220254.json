@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049641750281732436",
+    "created_at": "2026-04-30T01:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T02:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049665770918220254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882051931763568643",
+          "start": 0,
+          "username": "feieyuhuo"
+        },
+        {
+          "end": 26,
+          "id": "1489468526826082312",
+          "start": 11,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049665770918220254",
+    "in_reply_to_user_id": "1882051931763568643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049665049837654086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feieyuhuo @Diamond_Kokoro 我只是说你手段都会而已，我接受了啊就当你生气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049641750281732436",
+        "created_at": "2026-04-30T01:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049665770918220254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882051931763568643",
+              "start": 0,
+              "username": "feieyuhuo"
+            },
+            {
+              "end": 26,
+              "id": "1489468526826082312",
+              "start": 11,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049665770918220254",
+        "in_reply_to_user_id": "1882051931763568643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049665049837654086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feieyuhuo @Diamond_Kokoro 我只是说你手段都会而已，我接受了啊就当你生气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882051931763568643",
+        "conversation_id": "2049641750281732436",
+        "created_at": "2026-04-30T01:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049665049837654086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            },
+            {
+              "end": 27,
+              "id": "1489468526826082312",
+              "start": 12,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049665049837654086",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049663043056099747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 @Diamond_Kokoro ？\n道歉不接受，解释也不听，你在干什么？\n我感到他们虚空索敌了，所以我说这种行为败坏路人缘，有什么问题吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 507,
+          "like_count": 4149,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1571
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T13:05:32.000Z",
+        "description": "你好呀，这里是飞蛾～社科求学者一枚。( *ˊᵕˋ)✩︎.₊(键政号回fo100%)  历史是假的,政经是真的,没有什么是理所当然的。 \n无论如何，请让理智与信念刻骨铭心，让傲慢与偏见无处遁形。                          \n标签概括：散修毛左\n09 ENTP 劳有所得 造反有理",
+        "id": "1882051931763568643",
+        "location": "乌托邦之桥",
+        "name": "飞蛾浴火",
+        "pinned_tweet_id": "2024545803310944754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026688690211401732/PfmtK5HU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 89,
+          "like_count": 3534,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1776
+        },
+        "username": "feieyuhuo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "identity: Non-Male. 我最喜欢She/her，但实际上除了“He/him”都OK，中文“他”、“它”不介意。\n@irisdesombres 的忠犬。我的任务是让你感到幸福，就像你让我感到的一样。\n欢迎造访我的提问箱：https://t.co/CAHk8J3HgH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/diamond_kokoro",
+                "end": 140,
+                "expanded_url": "https://ngl.link/diamond_kokoro",
+                "start": 117,
+                "url": "https://t.co/CAHk8J3HgH"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "万达广场附近",
+        "name": "小羽",
+        "pinned_tweet_id": "2042093453010665597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048940639027675136/-Qcmg4fe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 95,
+          "like_count": 4156,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 2823
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

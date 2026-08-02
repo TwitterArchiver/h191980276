@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2033972578143142159",
+    "created_at": "2026-03-17T18:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033972578143142159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/h191980276/status/2033968349374455896",
+          "start": 17,
+          "url": "https://t.co/AHuivf9MZz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033972578143142159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033968349374455896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "重金求子（有性同意性防护意识的） https://t.co/AHuivf9MZz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2033972578143142159",
+        "created_at": "2026-03-17T18:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033972578143142159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/h191980276/status/2033968349374455896",
+              "start": 17,
+              "url": "https://t.co/AHuivf9MZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033972578143142159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033968349374455896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重金求子（有性同意性防护意识的） https://t.co/AHuivf9MZz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2033968349374455896",
+        "created_at": "2026-03-17T18:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033968349374455896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033968349374455896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想当男娘最严厉的母亲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 291,
+          "like_count": 2460,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 823
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

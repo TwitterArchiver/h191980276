@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2027079866928263438",
+    "created_at": "2026-02-26T17:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027079866928263438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1793305845444612096",
+          "start": 3,
+          "username": "NrsimhaScratch"
+        },
+        {
+          "end": 30,
+          "id": "1736843633322840064",
+          "start": 20,
+          "username": "NanaimoSt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027079866928263438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027030795706413242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NrsimhaScratch: @NanaimoSt 其实反lgbt+的老保才是西方文化意识形态入侵，从前些年天主教传教士来国内渗透骗炮搞反同，到近些年老保搞俄罗斯意识形态入侵。我跟他们斗了好多年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2027079866928263438",
+        "created_at": "2026-02-26T17:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027079866928263438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1793305845444612096",
+              "start": 3,
+              "username": "NrsimhaScratch"
+            },
+            {
+              "end": 30,
+              "id": "1736843633322840064",
+              "start": 20,
+              "username": "NanaimoSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027079866928263438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027030795706413242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NrsimhaScratch: @NanaimoSt 其实反lgbt+的老保才是西方文化意识形态入侵，从前些年天主教传教士来国内渗透骗炮搞反同，到近些年老保搞俄罗斯意识形态入侵。我跟他们斗了好多年了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793305845444612096",
+        "conversation_id": "2026804266619543988",
+        "created_at": "2026-02-26T14:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027030795706413242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1736843633322840064",
+              "start": 0,
+              "username": "NanaimoSt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027030795706413242",
+        "in_reply_to_user_id": "1736843633322840064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026804266619543988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaimoSt 其实反lgbt+的老保才是西方文化意识形态入侵，从前些年天主教传教士来国内渗透骗炮搞反同，到近些年老保搞俄罗斯意识形态入侵。我跟他们斗了好多年了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 232,
+          "like_count": 1978,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 626
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T15:40:32.000Z",
+        "description": "Anything that hinders the progress of times is Adharm. Adharm will be crushed by Sudarśana cakra.",
+        "id": "1793305845444612096",
+        "name": "नृसिंह आक्रमण",
+        "pinned_tweet_id": "2012550384372621679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022691133969829892/FHNGoNhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 196,
+          "like_count": 745,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1078
+        },
+        "username": "NrsimhaScratch",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T20:20:16.000Z",
+        "description": "江泽民（1926年8月17日生）男，汉族，江苏省扬州市人。1943年起参加地下党领导的学生运动，1946年4月加入中国共产党，1947年毕业于上海交通大学电机系。曾任中国共产党中央委员会总书记，中国共产党中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席",
+        "id": "1736843633322840064",
+        "location": "Burnaby, British Columbia",
+        "name": "江泽民 official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793663824513662976/DQWx6St5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 137,
+          "like_count": 3389,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 1573
+        },
+        "username": "NanaimoSt",
+        "verified": false
+      }
+    ]
+  }
+}

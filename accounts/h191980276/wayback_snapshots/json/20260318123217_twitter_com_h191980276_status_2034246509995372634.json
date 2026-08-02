@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2034245890949747008",
+    "created_at": "2026-03-18T12:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T13:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034246509995372634"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034246509995372634",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034245890949747008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说你不是病了才是“正规医疗”开始迫害跨了是吧？搁着编神话故事写小说呢？【3/n】"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2034245890949747008",
+        "created_at": "2026-03-18T12:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034246509995372634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034246509995372634",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034245890949747008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说你不是病了才是“正规医疗”开始迫害跨了是吧？搁着编神话故事写小说呢？【3/n】"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2034245890949747008",
+        "created_at": "2026-03-18T12:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034245890949747008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Citricat_miaow…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Citricat_miaow/status/2034108487559512177",
+              "start": 138,
+              "url": "https://t.co/DBT6dzdw0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034245890949747008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034108487559512177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "觉得给自己添个精神病能得到保护而不是负担是不是没接触过社会，招工来个无精神病史就老实了，一个人能拿病扯皮挡刀胡搅蛮缠的前提恰恰就是因为那个人是健全逼，又能得到精神病福利又能被豁免轮得到你平民百姓家的孩子？你要是真是论定了就是精神病就等着被宰割吧，病理化在东亚反而才【1/n】 https://t.co/DBT6dzdw0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 296,
+          "like_count": 2466,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 834
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

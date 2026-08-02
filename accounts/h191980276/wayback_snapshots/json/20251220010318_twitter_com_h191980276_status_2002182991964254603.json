@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2002182991964254603",
+    "created_at": "2025-12-20T01:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T02:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002182991964254603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shell_WO_Ghost…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Shell_WO_Ghost/status/2002179828515307746",
+          "start": 3,
+          "url": "https://t.co/Tp2ZN7RsvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002182991964254603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002179828515307746",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很多 https://t.co/Tp2ZN7RsvJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002182991964254603",
+        "created_at": "2025-12-20T01:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T02:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002182991964254603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shell_WO_Ghost…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Shell_WO_Ghost/status/2002179828515307746",
+              "start": 3,
+              "url": "https://t.co/Tp2ZN7RsvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002182991964254603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002179828515307746",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多 https://t.co/Tp2ZN7RsvJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630596839530708994",
+        "conversation_id": "2002179828515307746",
+        "created_at": "2025-12-20T00:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T01:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002179828515307746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002179828515307746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长时间体会下来,我就觉得许多跨有那种很低级的市侩。有礼貌觉得你好欺负，尖酸刻薄起来反而知道低头了。一种骨子里的贱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 147,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 336
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T15:52:53.000Z",
+        "description": "Sisters of the Moon",
+        "id": "1630596839530708994",
+        "name": "Valery Kyrie 🖤🩶🤍💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717584658559639554/eWtnF57K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 486,
+          "like_count": 2561,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 2364
+        },
+        "username": "Shell_WO_Ghost",
+        "verified": false
+      }
+    ]
+  }
+}

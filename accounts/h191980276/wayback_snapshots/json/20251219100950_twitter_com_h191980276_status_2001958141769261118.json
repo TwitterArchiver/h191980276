@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2001958141769261118",
+    "created_at": "2025-12-19T10:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T11:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001958141769261118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/banzaixyg/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/banzaixyg/status/2001729053934715255",
+          "start": 53,
+          "url": "https://t.co/gmO9RBMnKD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001958141769261118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001729053934715255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看这个人顶着跨旗，那为什么不说是社会公益人士诈骗跨性别者款项，而是要说是跨性别诈骗社会公益人士款项呢？ https://t.co/gmO9RBMnKD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2244,
+        "media_key": "3_2001729051573260289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8eR93-akAEV0hv.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2001958141769261118",
+        "created_at": "2025-12-19T10:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001958141769261118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/banzaixyg/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/banzaixyg/status/2001729053934715255",
+              "start": 53,
+              "url": "https://t.co/gmO9RBMnKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001958141769261118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001729053934715255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看这个人顶着跨旗，那为什么不说是社会公益人士诈骗跨性别者款项，而是要说是跨性别诈骗社会公益人士款项呢？ https://t.co/gmO9RBMnKD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001729051573260289"
+          ]
+        },
+        "author_id": "1926307161480568832",
+        "conversation_id": "2001729053934715255",
+        "created_at": "2025-12-18T18:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T19:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001729053934715255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RH9a88Wgyq",
+              "end": 72,
+              "expanded_url": "https://x.com/banzaixyg/status/2001729053934715255/photo/1",
+              "media_key": "3_2001729051573260289",
+              "start": 49,
+              "url": "https://t.co/RH9a88Wgyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001729053934715255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我早就说过了，寒涟漪有多个暧昧对象并诱导他的暧昧对象贷款供他使用，以及诈骗社会公益人士的公益款项 https://t.co/RH9a88Wgyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 147,
+          "like_count": 1022,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 323
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@NakaharaBulbel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NakaharaBulbel"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984801229315428352/KZoss5zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 562,
+          "like_count": 5150,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 3004
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

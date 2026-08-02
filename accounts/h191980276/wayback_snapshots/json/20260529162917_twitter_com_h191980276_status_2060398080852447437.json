@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060398077866102787"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060398080852447437",
+    "created_at": "2026-05-29T16:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060398080852447437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GNkmJpK7BR",
+          "end": 82,
+          "expanded_url": "https://x.com/h191980276/status/2060398080852447437/photo/1",
+          "media_key": "3_2060398077866102787",
+          "start": 59,
+          "url": "https://t.co/GNkmJpK7BR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060398080852447437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个吊人还把自己当法了，“假定所有人都是坏种”这话你自己信吗，只要是跨女就有做恶的嫌疑，但是我不歧视我支持跨性别是吧 https://t.co/GNkmJpK7BR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2077,
+        "media_key": "3_2060398077866102787",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgBIqcbUAMtVFh.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060398077866102787"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060398080852447437",
+        "created_at": "2026-05-29T16:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060398080852447437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNkmJpK7BR",
+              "end": 82,
+              "expanded_url": "https://x.com/h191980276/status/2060398080852447437/photo/1",
+              "media_key": "3_2060398077866102787",
+              "start": 59,
+              "url": "https://t.co/GNkmJpK7BR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060398080852447437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个吊人还把自己当法了，“假定所有人都是坏种”这话你自己信吗，只要是跨女就有做恶的嫌疑，但是我不歧视我支持跨性别是吧 https://t.co/GNkmJpK7BR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 510,
+          "like_count": 4308,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1773
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

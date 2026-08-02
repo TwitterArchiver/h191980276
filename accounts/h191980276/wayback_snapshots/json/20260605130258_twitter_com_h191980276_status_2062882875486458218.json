@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062876075609186455",
+    "created_at": "2026-06-05T13:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062882875486458218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938969907548372992",
+          "start": 0,
+          "username": "beyondr3pairr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062882875486458218",
+    "in_reply_to_user_id": "1938969907548372992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062876075609186455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beyondr3pairr 怎么开麦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062876075609186455",
+        "created_at": "2026-06-05T13:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062882875486458218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938969907548372992",
+              "start": 0,
+              "username": "beyondr3pairr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062882875486458218",
+        "in_reply_to_user_id": "1938969907548372992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062876075609186455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beyondr3pairr 怎么开麦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938969907548372992",
+        "conversation_id": "2062876075609186455",
+        "created_at": "2026-06-05T12:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062876075609186455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "拼接碎片 - BeyondR3pairr’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pKkO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1pKkOODMOzAKj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2062876077383397376/ayQ_dJsN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062876077383397376/ayQ_dJsN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 王司徒巧施连环计",
+              "unwound_url": "https://twitter.com/i/spaces/1pKkOODMOzAKj/peek",
+              "url": "https://t.co/X0r86ETNFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062876075609186455",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X0r86ETNFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 515,
+          "like_count": 4387,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1878
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T14:37:16.000Z",
+        "description": "🇨🇦EN/🇨🇳CN 🇫🇷❓\nChildless Cat Lady.\nmostly chinese, mostly vibes · YT/TikTok: @beyondr3pairr\n\nMy Forever Love: @MYBLOODY_VALENT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "beyondr3pairr"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "MYBLOODY_VALENT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/LwQpjjOXkH",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/LwQpjjOXkH",
+                "start": 0,
+                "url": "https://t.co/kdPl4R7UaA"
+              }
+            ]
+          }
+        },
+        "id": "1938969907548372992",
+        "location": "Canada",
+        "name": "拼接碎片 - BeyondR3pairr",
+        "pinned_tweet_id": "2060188971024384364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062670969873862656/nmuEPpNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 133,
+          "like_count": 346,
+          "listed_count": 1,
+          "media_count": 744,
+          "tweet_count": 4261
+        },
+        "url": "https://t.co/kdPl4R7UaA",
+        "username": "beyondr3pairr",
+        "verified": true
+      }
+    ]
+  }
+}

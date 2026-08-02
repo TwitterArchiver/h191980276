@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2024830576210133431",
+    "created_at": "2026-02-20T12:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024830576210133431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tsumetaiame514…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/tsumetaiame514/status/2024815853276102868",
+          "start": 32,
+          "url": "https://t.co/GbrMsMgUbQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024830576210133431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024815853276102868",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "未成年小男孩当典顺直男以后会后悔，应该全抓起来上男娘大学当男娘 https://t.co/GbrMsMgUbQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2024830576210133431",
+        "created_at": "2026-02-20T12:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024830576210133431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tsumetaiame514…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/tsumetaiame514/status/2024815853276102868",
+              "start": 32,
+              "url": "https://t.co/GbrMsMgUbQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024830576210133431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024815853276102868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "未成年小男孩当典顺直男以后会后悔，应该全抓起来上男娘大学当男娘 https://t.co/GbrMsMgUbQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654908701772496896",
+        "conversation_id": "2024815853276102868",
+        "created_at": "2026-02-20T11:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024815853276102868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024815853276102868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 740,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有的人:未成年变性以后会后悔，所以应该禁止青少年变性\n我:未成年变性以后会后悔，所以我们应该普及性别多样性教育，乃至废除性别身份，让小孩知道生殖器就只是个生殖器而已，性别只是标签，不能决定什么\n这样就不太可能后悔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 224,
+          "like_count": 1851,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 586
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "本账号含AI生成内容 This account’s content is generated by AI (Artificial Insanity).",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "AmeGPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991954477931245568/aYlWGYxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5058,
+          "following_count": 1159,
+          "like_count": 20183,
+          "listed_count": 8,
+          "media_count": 256,
+          "tweet_count": 3878
+        },
+        "username": "tsumetaiame514",
+        "verified": false
+      }
+    ]
+  }
+}

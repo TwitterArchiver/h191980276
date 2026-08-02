@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2013196304361648167",
+    "created_at": "2026-01-19T20:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T21:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013346251501388041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "803813847161155584",
+          "start": 0,
+          "username": "asukad13"
+        },
+        {
+          "end": 22,
+          "id": "1978032792383709184",
+          "start": 10,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013346251501388041",
+    "in_reply_to_user_id": "803813847161155584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013220457575567730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asukad13 @Sabrina8964 这不就是要挟威胁吗，把“想过正常生活的同性恋”人质，威胁我要让他们过不上正常生活，结果还赖别人身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2013196304361648167",
+        "created_at": "2026-01-19T20:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T21:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013346251501388041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "803813847161155584",
+              "start": 0,
+              "username": "asukad13"
+            },
+            {
+              "end": 22,
+              "id": "1978032792383709184",
+              "start": 10,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013346251501388041",
+        "in_reply_to_user_id": "803813847161155584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013220457575567730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asukad13 @Sabrina8964 这不就是要挟威胁吗，把“想过正常生活的同性恋”人质，威胁我要让他们过不上正常生活，结果还赖别人身上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "803813847161155584",
+        "conversation_id": "2013196304361648167",
+        "created_at": "2026-01-19T12:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T13:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013220457575567730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013220457575567730",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013196304361648167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 可能顺直的确不理解再怎么因为激进群体给所谓\"抹黑了\"，施加迫害的不还是顺直..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 180,
+          "like_count": 1388,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 457
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-30T04:12:10.000Z",
+        "description": "悪鬼ト高下ヲ争イ、覇王ニ寸分モ譲ラズ",
+        "id": "803813847161155584",
+        "location": "上海, 中华人民共和国",
+        "name": "峯込御貴",
+        "pinned_tweet_id": "1825479733385326944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439901747565060096/vjO7fF39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 4439,
+          "like_count": 2477,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 2957
+        },
+        "username": "asukad13",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "理智霉粉理智舞萌爱好者一枚呀|不接受任何异性恋贩卖的赎罪券|热爱祖国维护祖国统一我辈义不容辞|嘎果洗茶英美娅蹲妹布什匠妹A妹布兰妮纠纠oklou nina 雷 Adele lorde Bjork苏菲插排小枝碧昂斯Rosalia苹果姐椎名林檎玉玲青叶市子百家黑",
+        "id": "1978032792383709184",
+        "location": "Party 4 U",
+        "name": "田纳西专业巴西草莓干料理指导",
+        "pinned_tweet_id": "2007284935061844310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013213376659267584/07MS4Zat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 127,
+          "like_count": 3069,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 858
+        },
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

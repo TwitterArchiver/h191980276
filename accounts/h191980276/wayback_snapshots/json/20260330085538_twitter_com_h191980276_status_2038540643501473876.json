@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038540643501473876",
+    "created_at": "2026-03-30T08:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038540643501473876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497481140915290115",
+          "start": 3,
+          "username": "karasu_ga_warau"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/30EPb",
+          "end": 143,
+          "start": 125,
+          "url": "https://t.co/30EPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038540643501473876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038222125840929085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karasu_ga_warau: 在中國的人權活動者&amp;性少數活動者身上同時見到了一個特別有意思的現象：有一些人比任何反對者都先一步的摘除了自己的核心身分和核心訴求，因為「公眾太保守太溫和了，我們必須隱藏訴求才有一點機會達成改變」。… https://t.co/30EPb…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1831,
+        "media_key": "3_2038222117699772416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEk4N5LW4AA94sX.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038540643501473876",
+        "created_at": "2026-03-30T08:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038540643501473876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497481140915290115",
+              "start": 3,
+              "username": "karasu_ga_warau"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/30EPb",
+              "end": 143,
+              "start": 125,
+              "url": "https://t.co/30EPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038540643501473876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038222125840929085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karasu_ga_warau: 在中國的人權活動者&amp;性少數活動者身上同時見到了一個特別有意思的現象：有一些人比任何反對者都先一步的摘除了自己的核心身分和核心訴求，因為「公眾太保守太溫和了，我們必須隱藏訴求才有一點機會達成改變」。… https://t.co/30EPb…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038222117699772416"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "conversation_id": "2038222125840929085",
+        "created_at": "2026-03-29T11:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038222125840929085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/30EPbCFEaO",
+              "end": 126,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2038222125840929085/photo/1",
+              "media_key": "3_2038222117699772416",
+              "start": 103,
+              "url": "https://t.co/30EPbCFEaO"
+            },
+            {
+              "display_url": "x.com/pikaunderlight…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/pikaunderlight/status/2037989481672790026",
+              "start": 127,
+              "url": "https://t.co/BrAZQIgAtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038222125840929085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在中國的人權活動者&性少數活動者身上同時見到了一個特別有意思的現象：有一些人比任何反對者都先一步的摘除了自己的核心身分和核心訴求，因為「公眾太保守太溫和了，我們必須隱藏訴求才有一點機會達成改變」。\n\n請想想這個問題：有多少中國活動者覺得「只要不和那些打直球的聯繫在一起，我們就能安然無事」？有多少中國活動者覺得「反共」兩個字燙嘴？有多少中國活動者覺得「維吾爾人、藏人太敏感了，討論這些會把普通人嚇跑」？有多少中國活動者甚至會想像，只要我們放棄足夠多的對抗性，中國政府就會讓我們存活下去、最終在有一天曲線救國？\n\n另一邊，有性少數活動者開始靈光乍現：「不如我們把我們的身分認同先藏起來怎麼樣？不如我們先把跨女當男的、跨男當女的、同性戀當直的，先獲得公眾認同怎麼樣？不如我們假裝成在做別的溫和活動怎麼樣？」\n\n然後我看到的是很多一致的社群發展趨勢（這不是臆想，是我真實看到正在發生的）：\n\n模糊化和自我審查➡️喪失核心訴求➡️失去最核心的參與者➡️其他社群介入、吞噬運動議程➡️社群存在主義危機➡️緩慢消亡。\n\n為什麼？不是因為這些社群路徑太「溫和」，而是因為這些社群主動犧牲了核心訴求與核心身分。身分和訴求是凝聚社運敘事的內核，是讓一場運動能延續下去、不斷打動新的參與者進入運動的發動機。一輛車把發動機拆掉來換安全，那這輛車哪怕還在行進，也只是一台機器殭屍。\n\n我想區分兩個緯度的概念：溫和vs激進，以及模糊vs明確。一個激進明確的性少數運動可能是「佔領廁所運動」，一個溫和但明確的版本可以是比如「和跨兒一起聊天的茶話會」，而一個溫和但模糊的運動可能會是，「做一期性少數視頻，然後故意刪除人物的身分和性別認同」。\n\n如果審核制度和保守文化讓我們不得不妥協生存，請變得溫和、減少對抗，但請不要失去我們的明確性、不要失去把話講清楚的能力、不要放棄那個「我們是誰」「我們在哪裡」「我們在做什麼」。\n\n如果我們都不再敢喊出自己所做的是「為了酷兒」「為了女性」「為了自由民主」「為了不再有父權和極權暴政」，那麼誰還會願意付出更多的勇氣和我們站在一起？\n\n最後，請一起為小言哀悼。請一起為她在這個性別極權國家勇敢戰鬥過的這些年哀悼。請為了所有因中國扭轉治療、性少數仇殺、家暴和社會歧視而離開我們的性少數受害者哀悼。🏳️‍🌈🕯️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 13245,
+          "like_count": 149,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037989481672790026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在中國的人權活動者&amp;性少數活動者身上同時見到了一個特別有意思的現象：有一些人比任何反對者都先一步的摘除了自己的核心身分和核心訴求，因為「公眾太保守太溫和了，我們必須隱藏訴求才有一點機會達成改變」。 https://t.co/30EPbCFEaO https://t.co/BrAZQIgAtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 338,
+          "like_count": 2903,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1002
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28850,
+          "following_count": 1311,
+          "like_count": 9752,
+          "listed_count": 118,
+          "media_count": 559,
+          "tweet_count": 5547
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

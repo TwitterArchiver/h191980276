@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043276245623079059",
+    "created_at": "2026-04-12T17:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T18:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043378776751603712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043378776751603712",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043276245623079059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina8964 笑死我了，编受害故事也得叠那么多性在里面吗，怎么还把人家sm床上扮演玩的东西当真了的啊，不带这么性压抑的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043276245623079059",
+        "created_at": "2026-04-12T17:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043378776751603712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043378776751603712",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043276245623079059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 笑死我了，编受害故事也得叠那么多性在里面吗，怎么还把人家sm床上扮演玩的东西当真了的啊，不带这么性压抑的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "conversation_id": "2043276245623079059",
+        "created_at": "2026-04-12T10:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043276245623079059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cycy520521/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/cycy520521/status/2043196707291455576",
+              "start": 26,
+              "url": "https://t.co/9WG8bV1vaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043276245623079059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4306,
+          "like_count": 207,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043196707291455576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再让我看到顺直男编这种脑残故事我明天刮刮乐中七十万 https://t.co/9WG8bV1vaa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 416,
+          "like_count": 3398,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1290
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "百家黑呀，主要属性是理智雷母猪迷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/neworder55249",
+                "end": 23,
+                "expanded_url": "https://ngl.link/neworder55249",
+                "start": 0,
+                "url": "https://t.co/lr5yq0C3Yf"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "location": "California, USA",
+        "name": "霉娇娇推特反黑站",
+        "pinned_tweet_id": "2040397447449760065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041904595488927750/Vwi2RBwX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 233,
+          "like_count": 10805,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/lr5yq0C3Yf",
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

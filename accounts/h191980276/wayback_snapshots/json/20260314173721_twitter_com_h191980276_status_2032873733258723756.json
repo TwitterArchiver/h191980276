@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2032805032014540934",
+    "created_at": "2026-03-14T17:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T18:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032873733258723756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1452537509875834880",
+          "start": 0,
+          "username": "kkggxxyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032873733258723756",
+    "in_reply_to_user_id": "1452537509875834880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032805032014540934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkggxxyy 这事得问顺人顺的是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2032805032014540934",
+        "created_at": "2026-03-14T17:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032873733258723756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1452537509875834880",
+              "start": 0,
+              "username": "kkggxxyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032873733258723756",
+        "in_reply_to_user_id": "1452537509875834880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032805032014540934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkggxxyy 这事得问顺人顺的是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "2032805032014540934",
+        "created_at": "2026-03-14T13:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032805032014540934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032805032014540934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我跨性别跨的就是刻板印象\n如果看着像男的听着像男的行为像男的\n别人也觉得我是男的  就自己定义自己是女的\n意义何在我请问  我要的又不是一个抛去内涵的文字符号  我要的是生活是感受是状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 267,
+          "like_count": 2339,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 761
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "不可结缘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@mimosa0628?in…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@mimosa0628?invite=0",
+                "start": 0,
+                "url": "https://t.co/RHRRV7cIG0"
+              }
+            ]
+          }
+        },
+        "id": "1452537509875834880",
+        "location": "大屯路东",
+        "name": "하나나",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032108776216805381/GmCu_o59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 231,
+          "like_count": 6467,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 5437
+        },
+        "url": "https://t.co/RHRRV7cIG0",
+        "username": "kkggxxyy",
+        "verified": false
+      }
+    ]
+  }
+}

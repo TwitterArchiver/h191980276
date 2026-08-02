@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064273574463152128"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2064273576816267502",
+    "created_at": "2026-06-09T09:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064273576816267502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MNs2PuOVz",
+          "end": 23,
+          "expanded_url": "https://x.com/h191980276/status/2064273576816267502/photo/1",
+          "media_key": "3_2064273574463152128",
+          "start": 0,
+          "url": "https://t.co/3MNs2PuOVz"
+        },
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/h191980276/status/2062624611309936864",
+          "start": 24,
+          "url": "https://t.co/tAyDIS1Kjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064273576816267502",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062624611309936864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/3MNs2PuOVz https://t.co/tAyDIS1Kjz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2234,
+        "media_key": "3_2064273574463152128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXF4QUaIAA0MJy.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064273574463152128"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2064273576816267502",
+        "created_at": "2026-06-09T09:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064273576816267502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MNs2PuOVz",
+              "end": 23,
+              "expanded_url": "https://x.com/h191980276/status/2064273576816267502/photo/1",
+              "media_key": "3_2064273574463152128",
+              "start": 0,
+              "url": "https://t.co/3MNs2PuOVz"
+            },
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/h191980276/status/2062624611309936864",
+              "start": 24,
+              "url": "https://t.co/tAyDIS1Kjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064273576816267502",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062624611309936864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/3MNs2PuOVz https://t.co/tAyDIS1Kjz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062624611309936864",
+        "created_at": "2026-06-04T19:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062624611309936864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062624611309936864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 231,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现那些喜欢靠吸食他人苦难刺激过瘾，追寻着兴奋出现，喜欢趁人之危就出现的人和标榜自己温和，乖巧，不魔怔，正常，好好过日子的人总是高度重合"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 519,
+          "like_count": 4461,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1942
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

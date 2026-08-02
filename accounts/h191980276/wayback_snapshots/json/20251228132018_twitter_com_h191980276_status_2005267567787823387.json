@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2005267567787823387",
+    "created_at": "2025-12-28T13:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T14:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005267567787823387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h2o2333/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/h2o2333/status/2004482573440045111",
+          "start": 12,
+          "url": "https://t.co/3cqTnMhAF3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005267567787823387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004482573440045111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男的一辈子都变不成女的 https://t.co/3cqTnMhAF3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2004482564149678080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FaRZqbEAAidnf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2005267567787823387",
+        "created_at": "2025-12-28T13:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005267567787823387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h2o2333/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/h2o2333/status/2004482573440045111",
+              "start": 12,
+              "url": "https://t.co/3cqTnMhAF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005267567787823387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004482573440045111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男的一辈子都变不成女的 https://t.co/3cqTnMhAF3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004482564149678080"
+          ]
+        },
+        "author_id": "1969670166423228416",
+        "conversation_id": "2004482573440045111",
+        "created_at": "2025-12-26T09:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004482573440045111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/h2o2333",
+              "end": 94,
+              "expanded_url": "https://ngl.link/h2o2333",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2004479664119484416/6pliXjYB?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2004479664119484416/6pliXjYB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "@h2o2333: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/h2o2333",
+              "url": "https://t.co/db5Z220XoU"
+            },
+            {
+              "display_url": "pic.x.com/TQ2M1WjzE5",
+              "end": 118,
+              "expanded_url": "https://x.com/h2o2333/status/2004482573440045111/photo/1",
+              "media_key": "3_2004482564149678080",
+              "start": 95,
+              "url": "https://t.co/TQ2M1WjzE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004482573440045111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mtf最好的结局之一是与自己和解，嗯…药物其实改变不了太多的。家人那边可以先试探一下，出柜不一定是一两句话的事，我一点点说了两年才让我妈接受\nhttps://t.co/db5Z220XoU https://t.co/TQ2M1WjzE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 165,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 384
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o2333",
+                "start": 0,
+                "url": "https://t.co/jdGmbf9qDI"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000240281497874432/hQuBDaDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 449,
+          "like_count": 1026,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/jdGmbf9qDI",
+        "username": "h2o2333",
+        "verified": false
+      }
+    ]
+  }
+}

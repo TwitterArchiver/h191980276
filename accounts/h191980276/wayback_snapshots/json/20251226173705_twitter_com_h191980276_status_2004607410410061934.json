@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2004541999660277863",
+    "created_at": "2025-12-26T17:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T18:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004607410410061934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736265610911428608",
+          "start": 0,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004607410410061934",
+    "in_reply_to_user_id": "1736265610911428608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004541999660277863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noname2095_ 为什么跨女不喜欢男性表达是“自”恨啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2004541999660277863",
+        "created_at": "2025-12-26T17:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T18:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004607410410061934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004607410410061934",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004541999660277863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ 为什么跨女不喜欢男性表达是“自”恨啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2004541999660277863",
+        "created_at": "2025-12-26T13:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004541999660277863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moutai_H_Maple…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/Moutai_H_Maple/status/2004537298416017874",
+              "start": 130,
+              "url": "https://t.co/kQTSmuOsfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004541999660277863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 633,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004537298416017874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而我早就毕业多年，几年前还在简中6b4t社群高强度皈依者狂热了快一年，说实话我感觉这些想逼着跨女承认自己的男性amab经历也有独特的爽点的人是不是都有点大病，一般来说跨性别的性别烦躁不就是会把出生性别贬得一文不值吗，一群顺男顺女在底下骂来骂去的我也是无语了 https://t.co/kQTSmuOsfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 161,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 382
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 298,
+          "like_count": 3644,
+          "listed_count": 4,
+          "media_count": 259,
+          "tweet_count": 8508
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

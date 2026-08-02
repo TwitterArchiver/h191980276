@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2025818063409459597",
+    "created_at": "2026-02-23T07:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025829903439192320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025829903439192320",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025818063409459597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 应该去寻求跨性别的正规医疗，不要去医院寻求医生自己野路子的diy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2025818063409459597",
+        "created_at": "2026-02-23T07:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025829903439192320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025829903439192320",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025818063409459597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 应该去寻求跨性别的正规医疗，不要去医院寻求医生自己野路子的diy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2025818063409459597",
+        "created_at": "2026-02-23T06:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025818063409459597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bungeihaku8964…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/bungeihaku8964/status/2025583383070581032",
+              "start": 100,
+              "url": "https://t.co/AcEfnK3RKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025818063409459597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 867,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025583383070581032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不可否认 顺性别青春期对身心有严重不可逆的危害 所以我建议跨性别在条件允许的情况下 请不要去找什么狗屁专家接受骗人医疗 也不要听信下面这种顺直人的胡言乱语 应查阅相关资料并基于同类的相关经验自行用药 https://t.co/AcEfnK3RKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 223,
+          "like_count": 1893,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 602
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "phd @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ (she/her/她)",
+        "name": "amber ଳ⋆.ೃ࿔*",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22253,
+          "following_count": 2596,
+          "like_count": 36773,
+          "listed_count": 7,
+          "media_count": 453,
+          "tweet_count": 19325
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

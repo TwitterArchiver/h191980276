@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2025853862054379637",
+    "created_at": "2026-02-23T08:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025854359339438441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20258…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2025846305269108817",
+          "start": 0,
+          "url": "https://t.co/dXX4PdZQhM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025854359339438441",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025846305269108817",
+        "type": "quoted"
+      },
+      {
+        "id": "2025853862054379637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/dXX4PdZQhM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40229,
+        "height": 1278,
+        "media_key": "7_2025846238915244032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025846238915244032/pu/img/Qx6K3kna1wtWflva.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025846238915244032/pu/vid/avc1/320x686/mK-IyL3pJUkfUzje.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025846238915244032/pu/vid/avc1/480x1028/y3LBE0uhTgIk0_6N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025846238915244032/pu/vid/avc1/596x1278/ob9mWZ8Dfu2f5l8Q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025846238915244032/pu/pl/c1AK1awIdxCnwTk0.m3u8?tag=12"
+          }
+        ],
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2025853862054379637",
+        "created_at": "2026-02-23T08:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025854359339438441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20258…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2025846305269108817",
+              "start": 0,
+              "url": "https://t.co/dXX4PdZQhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025854359339438441",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025846305269108817",
+            "type": "quoted"
+          },
+          {
+            "id": "2025853862054379637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/dXX4PdZQhM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025846238915244032"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2025522624072200666",
+        "created_at": "2026-02-23T08:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025846305269108817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1379609664938143744",
+              "start": 0,
+              "username": "JkyDex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEzAsly0dl",
+              "end": 31,
+              "expanded_url": "https://x.com/h191980276/status/2025846305269108817/video/1",
+              "media_key": "7_2025846238915244032",
+              "start": 8,
+              "url": "https://t.co/uEzAsly0dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025846305269108817",
+        "in_reply_to_user_id": "1379609664938143744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025522624072200666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JkyDex https://t.co/uEzAsly0dl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2025853862054379637",
+        "created_at": "2026-02-23T08:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025853862054379637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JkyDex/status/…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/JkyDex/status/2025522624072200666",
+              "start": 77,
+              "url": "https://t.co/dunajga8x4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025853862054379637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025522624072200666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就说你说的这些东西哪个不是只有跨性别自己在做，哪个不是反跨顺直才是阻力才是反向力量，这突然冒出来一个人说跨性别全责，这些东西全变成她呼吁的了，能不气人吗 https://t.co/dunajga8x4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 223,
+          "like_count": 1898,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 608
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

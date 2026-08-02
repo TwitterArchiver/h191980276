@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047985785283162138",
+    "created_at": "2026-04-25T10:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047986650123587691"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047986650123587691",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047985785283162138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "包容terf不是无条件纵容terf，人家跨女愿意跟反跨terf住一屋已经是冒着很大风险了为了，terf伤害女性是案例已经不少了，，女性空间驱逐terf是对女性的保护"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047985785283162138",
+        "created_at": "2026-04-25T10:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047986650123587691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047986650123587691",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047985785283162138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "包容terf不是无条件纵容terf，人家跨女愿意跟反跨terf住一屋已经是冒着很大风险了为了，terf伤害女性是案例已经不少了，，女性空间驱逐terf是对女性的保护"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047985785283162138",
+        "created_at": "2026-04-25T10:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047985785283162138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AzideChen57041…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/AzideChen57041/status/2047844903041028263",
+              "start": 83,
+              "url": "https://t.co/VVKup4QSeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047985785283162138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047844903041028263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反跨顺直女是异性恋喜欢男的，反跨顺直又把人家跨直女当男的，人家跨直女喜欢男的又不喜欢你，怎么看都是反跨顺直女更可能侵犯跨直女吧，那你那么喜欢达必佳你怎么不去住男寝呢 https://t.co/VVKup4QSeg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 491,
+          "like_count": 3949,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1471
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062903779448775093",
+    "created_at": "2026-06-05T14:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062903779448775093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/h191980276/status/2062102317475004489",
+          "start": 27,
+          "url": "https://t.co/3hBuDSSGak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062903779448775093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062102317475004489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我仍然反对任何一种方式把chaser社群说成跨圈 https://t.co/3hBuDSSGak"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062903779448775093",
+        "created_at": "2026-06-05T14:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062903779448775093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/h191980276/status/2062102317475004489",
+              "start": 27,
+              "url": "https://t.co/3hBuDSSGak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062903779448775093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062102317475004489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我仍然反对任何一种方式把chaser社群说成跨圈 https://t.co/3hBuDSSGak"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062102317475004489",
+        "created_at": "2026-06-03T09:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062102317475004489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062102317475004489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1824,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这只是再次证明了chaser社群就是个把跨当货挑当商品消排列消遣的社群，再次证明了“跨圈压迫真实个体”的意思是跨性别说话影响chaser自由消费，再次证明了cahser把自己的社群叫跨圈，把chaser头子说成药娘皇帝，是为了把屎盆子扣跨性别头上方便二次消遣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 514,
+          "like_count": 4390,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1883
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

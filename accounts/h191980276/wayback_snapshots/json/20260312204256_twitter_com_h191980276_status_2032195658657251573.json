@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2032188111338328558",
+    "created_at": "2026-03-12T20:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T21:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032195658657251573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032195658657251573",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032188111338328558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 那叫深柜，那不叫detrans，想想一个会把degay挂脑门上天天跟人展示的能是什么人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2032188111338328558",
+        "created_at": "2026-03-12T20:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032195658657251573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032195658657251573",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032188111338328558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 那叫深柜，那不叫detrans，想想一个会把degay挂脑门上天天跟人展示的能是什么人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2032188111338328558",
+        "created_at": "2026-03-12T20:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032188111338328558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elierlick/stat…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/elierlick/status/2032168071704482293",
+              "start": 65,
+              "url": "https://t.co/mEGks2TNgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032188111338328558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032168071704482293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多 detrans 的人都是因为家庭工作经济状况等等现实原因才没办法成为自己想要的样子，跨性别权益同样也应该包括对ta们的支持 https://t.co/mEGks2TNgS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 258,
+          "like_count": 2285,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 733
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ / ☭ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 25,
+                "username": "wgsi"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Sh4J36HxqAhhM…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Sh4J36HxqAhhMTg1",
+                "start": 0,
+                "url": "https://t.co/HULOGnMPVV"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22813,
+          "following_count": 2637,
+          "like_count": 38121,
+          "listed_count": 1,
+          "media_count": 503,
+          "tweet_count": 20243
+        },
+        "url": "https://t.co/HULOGnMPVV",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

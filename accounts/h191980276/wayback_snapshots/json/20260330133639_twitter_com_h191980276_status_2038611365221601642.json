@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038600266266878415",
+    "created_at": "2026-03-30T13:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038611365221601642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657175394267848704",
+          "start": 0,
+          "username": "Zh40Le1ZOOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038611365221601642",
+    "in_reply_to_user_id": "1657175394267848704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038600266266878415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zh40Le1ZOOB ？？？这么恶心啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038600266266878415",
+        "created_at": "2026-03-30T13:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038611365221601642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657175394267848704",
+              "start": 0,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038611365221601642",
+        "in_reply_to_user_id": "1657175394267848704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038600266266878415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zh40Le1ZOOB ？？？这么恶心啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "2038600266266878415",
+        "created_at": "2026-03-30T12:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038600266266878415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zh40Le1ZOOB/st…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Zh40Le1ZOOB/status/2038543701291712588",
+              "start": 48,
+              "url": "https://t.co/BVAyzaOhYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038600266266878415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038543701291712588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于“对我开绿灯”这一点在我的私密群组里有相应的讨论，但我认为没有必要撕破脸皮把这些全部发出来 https://t.co/BVAyzaOhYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 339,
+          "like_count": 2955,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1032
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "不看私信！有事发邮件或点下面 TG 链接！邮箱：mtf@ik.me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "nixpkgs#ςσmmαηd_βλσςκ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 691,
+          "like_count": 6350,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4975
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

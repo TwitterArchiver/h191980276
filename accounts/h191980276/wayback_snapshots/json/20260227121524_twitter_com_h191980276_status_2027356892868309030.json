@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2027356892868309030",
+    "created_at": "2026-02-27T12:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T13:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027356892868309030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fiona02390687/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Fiona02390687/status/2027279039673843888",
+          "start": 31,
+          "url": "https://t.co/OKhAlwoK42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027356892868309030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027279039673843888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是推特上有大量没玩过小红书抖音没刷过微博酷儿社群的跨性别 https://t.co/OKhAlwoK42"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2027356892868309030",
+        "created_at": "2026-02-27T12:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T13:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027356892868309030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fiona02390687/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Fiona02390687/status/2027279039673843888",
+              "start": 31,
+              "url": "https://t.co/OKhAlwoK42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027356892868309030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027279039673843888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是推特上有大量没玩过小红书抖音没刷过微博酷儿社群的跨性别 https://t.co/OKhAlwoK42"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413584021460815876",
+        "conversation_id": "2027265628009038276",
+        "created_at": "2026-02-27T07:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027279039673843888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027279039673843888",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11134,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027265628009038276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 小红书和抖音上其实有大量的从没翻过墙的跨性别🏳️‍⚧️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 234,
+          "like_count": 2019,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 639
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T19:41:15.000Z",
+        "description": "大龄MTF（持续改进中），重型坦克，INTP-A，brat，感恩这个世界，但内核其实是个降临派。  来聊天：https://t.co/NjXA4xKBCK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Pqpglz2b10w5Z…",
+                "end": 77,
+                "expanded_url": "https://t.me/+Pqpglz2b10w5ZGZl",
+                "start": 54,
+                "url": "https://t.co/NjXA4xKBCK"
+              }
+            ]
+          }
+        },
+        "id": "1413584021460815876",
+        "name": "Qubeley.Fiona（丞静）",
+        "pinned_tweet_id": "1660042739747094529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666344138667700224/sDw57MpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18667,
+          "following_count": 728,
+          "like_count": 25573,
+          "listed_count": 86,
+          "media_count": 1492,
+          "tweet_count": 12951
+        },
+        "username": "Fiona02390687",
+        "verified": true
+      }
+    ]
+  }
+}

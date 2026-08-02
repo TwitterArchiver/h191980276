@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049865926749900902",
+    "created_at": "2026-04-30T14:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049865926749900902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/h191980276/status/2049814765011456372",
+          "start": 5,
+          "url": "https://t.co/kHepRaPaIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049865926749900902",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049814765011456372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "test https://t.co/kHepRaPaIo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049865926749900902",
+        "created_at": "2026-04-30T14:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049865926749900902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/h191980276/status/2049814765011456372",
+              "start": 5,
+              "url": "https://t.co/kHepRaPaIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049865926749900902",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049814765011456372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "test https://t.co/kHepRaPaIo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049814765011456372",
+        "created_at": "2026-04-30T11:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049814765011456372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/h191980276/status/2049810700273659985",
+              "start": 140,
+              "url": "https://t.co/nX6HTVakEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049814765011456372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049810700273659985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就说一个人跟你争的时候会把一个群体当人质来胁迫你人，这就说明这个人就没把这个群体当人看。\n不是看他口头上说支持什么，实际的行为践行的就是歧视，压迫。用你弱势身份做文章逼你就范了，已经跟你平时遭遇的歧视（因为你身份，勒索除非你满足我要求，否则我就要）是一样的了，嘴上说的支持事实上 https://t.co/nX6HTVakEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 511,
+          "like_count": 4188,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1598
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

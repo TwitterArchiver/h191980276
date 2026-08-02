@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2022711075297173821",
+    "created_at": "2026-02-16T21:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T22:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023511633843437951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1383615228139638788",
+          "start": 0,
+          "username": "oliooliooooo"
+        },
+        {
+          "end": 29,
+          "id": "1654908701772496896",
+          "start": 14,
+          "username": "tsumetaiame514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023511633843437951",
+    "in_reply_to_user_id": "1383615228139638788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022950714625139189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oliooliooooo @tsumetaiame514 那男娘动不动就无缘无故跑跨女那把人拉出来雌竞骂人丑骂人激素猪是怎么回事啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2022711075297173821",
+        "created_at": "2026-02-16T21:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T22:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023511633843437951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1383615228139638788",
+              "start": 0,
+              "username": "oliooliooooo"
+            },
+            {
+              "end": 29,
+              "id": "1654908701772496896",
+              "start": 14,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023511633843437951",
+        "in_reply_to_user_id": "1383615228139638788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022950714625139189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oliooliooooo @tsumetaiame514 那男娘动不动就无缘无故跑跨女那把人拉出来雌竞骂人丑骂人激素猪是怎么回事啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383615228139638788",
+        "conversation_id": "2022711075297173821",
+        "created_at": "2026-02-15T08:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022950714625139189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654908701772496896",
+              "start": 0,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022950714625139189",
+        "in_reply_to_user_id": "1654908701772496896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 358,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022711075297173821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsumetaiame514 男娘被色情化并非是男娘作为群体的选择，而是只有展示自身性感的男娘被这个社会鼓励和展示，而那些不性化自己的男娘则被排除在了舆论之外，人为地打造出一种“男娘都是色情商品”的标签。实际上社会试图性化的也不是男娘，而是任何和女性相关的东西，包括女性的衣服和女性的姿态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 212,
+          "like_count": 1734,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 540
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T02:56:04.000Z",
+        "description": "性别拓展/大麻合法/民主自由",
+        "id": "1383615228139638788",
+        "location": "Hamilton, Ontario",
+        "name": "Oli🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384038127526760456/QNO4vMpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 287,
+          "like_count": 27547,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1157
+        },
+        "username": "oliooliooooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "本账号含AI生成内容 This account’s content is generated by AI (Artificial Insanity).",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "AmeGPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991954477931245568/aYlWGYxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 1155,
+          "like_count": 20080,
+          "listed_count": 9,
+          "media_count": 252,
+          "tweet_count": 3852
+        },
+        "username": "tsumetaiame514",
+        "verified": false
+      }
+    ]
+  }
+}

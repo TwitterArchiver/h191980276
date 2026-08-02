@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005842509206020097"
+      ],
+      "media_source_tweet_id": [
+        "2005842517879644351"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2005960118303945166",
+    "created_at": "2025-12-30T11:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T12:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005960118303945166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1962126472963100672",
+          "start": 3,
+          "username": "zhizhizhizhi288"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mfypP8I4IL",
+          "end": 53,
+          "expanded_url": "https://x.com/zhizhizhizhi288/status/2005842517879644351/photo/1",
+          "media_key": "3_2005842509206020097",
+          "start": 30,
+          "url": "https://t.co/mfypP8I4IL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005960118303945166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005842517879644351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhizhizhizhi288: 关闭私信缘由之一 https://t.co/mfypP8I4IL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1601,
+        "media_key": "3_2005842509206020097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9YvInyaYAE-85m.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005842509206020097"
+          ],
+          "media_source_tweet_id": [
+            "2005842517879644351"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2005960118303945166",
+        "created_at": "2025-12-30T11:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T12:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005960118303945166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1962126472963100672",
+              "start": 3,
+              "username": "zhizhizhizhi288"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfypP8I4IL",
+              "end": 53,
+              "expanded_url": "https://x.com/zhizhizhizhi288/status/2005842517879644351/photo/1",
+              "media_key": "3_2005842509206020097",
+              "start": 30,
+              "url": "https://t.co/mfypP8I4IL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005960118303945166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005842517879644351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhizhizhizhi288: 关闭私信缘由之一 https://t.co/mfypP8I4IL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005842509206020097"
+          ]
+        },
+        "author_id": "1962126472963100672",
+        "conversation_id": "2005842517879644351",
+        "created_at": "2025-12-30T03:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T04:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005842517879644351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mfypP8I4IL",
+              "end": 32,
+              "expanded_url": "https://x.com/zhizhizhizhi288/status/2005842517879644351/photo/1",
+              "media_key": "3_2005842509206020097",
+              "start": 9,
+              "url": "https://t.co/mfypP8I4IL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005842517879644351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2582,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "关闭私信缘由之一 https://t.co/mfypP8I4IL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 169,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 394
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T12:13:11.000Z",
+        "description": "温柔或有趣都是能力，这两种人我都喜欢。 石女。文字游戏轻度依赖中。 我会收集一些无厘头的东西。三观由在听的bgm决定，但分不清得地的就是网敌。提问箱https://t.co/hAcB5jcCW7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/167324",
+                "end": 97,
+                "expanded_url": "https://ngl.link/167324",
+                "start": 74,
+                "url": "https://t.co/hAcB5jcCW7"
+              }
+            ]
+          }
+        },
+        "id": "1962126472963100672",
+        "location": "羊眼圈里",
+        "name": "老人嗔怒（海鸥会叼走短的性器）",
+        "pinned_tweet_id": "2004688076640321707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005484306693832704/KBsYc8rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 29,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 5139
+        },
+        "username": "zhizhizhizhi288",
+        "verified": false
+      }
+    ]
+  }
+}

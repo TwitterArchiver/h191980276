@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2014601252186030144",
+    "created_at": "2026-01-23T07:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T08:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014601252186030144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chufeinya/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Chufeinya/status/2014302945949708445",
+          "start": 4,
+          "url": "https://t.co/TcLLq0PUcC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014601252186030144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014302945949708445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正确的 https://t.co/TcLLq0PUcC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2014601252186030144",
+        "created_at": "2026-01-23T07:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014601252186030144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chufeinya/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Chufeinya/status/2014302945949708445",
+              "start": 4,
+              "url": "https://t.co/TcLLq0PUcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014601252186030144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014302945949708445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正确的 https://t.co/TcLLq0PUcC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896175390005342208",
+        "conversation_id": "2014302945949708445",
+        "created_at": "2026-01-22T11:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014302945949708445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014302945949708445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3431,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "设立顺直友好卫生间的好处\n1.顺直人的犯罪率过高，区隔顺直人与正常人，可以有效降低正常人遭受不当侵害的概率；\n2.顺直男女共用一个卫生间，增进顺直男女之间的亲密程度，方便他们早日找到教培对象；\n3.方便没钱开房的顺直人随时艹比，这还进而保障了顺直群体的种族延续。\n关爱顺直，从我做起🤢👉🏻👩‍❤️‍👨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 185,
+          "like_count": 1420,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 466
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉 Liên Dạ Mộng Giác | MtF🏳️‍⚧️/Lesbian❤️🧡🤍🩷💜 | 10 | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | 在学🇻🇳越南语 Đang học tiếng Việt | @Chufeinyax",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Chufeinyax"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "2005528085513568379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 1754,
+          "like_count": 16459,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 1200
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

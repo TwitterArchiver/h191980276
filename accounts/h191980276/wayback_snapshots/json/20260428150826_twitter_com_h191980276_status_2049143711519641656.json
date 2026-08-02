@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049143711519641656",
+    "created_at": "2026-04-28T15:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049143711519641656"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049143711519641656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操推特那么恶心啊，原来能给屏蔽了的人回复，这屏蔽不就专门给网暴人的人设计的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049143711519641656",
+        "created_at": "2026-04-28T15:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049143711519641656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049143711519641656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操推特那么恶心啊，原来能给屏蔽了的人回复，这屏蔽不就专门给网暴人的人设计的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 495,
+          "like_count": 4051,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1519
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

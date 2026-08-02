@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049742106105966870",
+    "created_at": "2026-04-30T06:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T07:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049742106105966870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2027354397983076352",
+          "start": 3,
+          "username": "Alamida001"
+        },
+        {
+          "end": 25,
+          "id": "1913084413942145024",
+          "start": 16,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049742106105966870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049740784367476792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alamida001: @Sui_aini 所有的语义都是建立他们生活中的，他们不会觉得相亲是宣传异性恋，也不会觉得在街上牵手属于骄傲的一部分，反过来一个顺直犯错也不会认为是顺直身份的问题，而被消解为阶级或社会问题，如同鱼类在水里面对水而不自知，在偏见中看到的只能是其他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049742106105966870",
+        "created_at": "2026-04-30T06:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049742106105966870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2027354397983076352",
+              "start": 3,
+              "username": "Alamida001"
+            },
+            {
+              "end": 25,
+              "id": "1913084413942145024",
+              "start": 16,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049742106105966870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049740784367476792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alamida001: @Sui_aini 所有的语义都是建立他们生活中的，他们不会觉得相亲是宣传异性恋，也不会觉得在街上牵手属于骄傲的一部分，反过来一个顺直犯错也不会认为是顺直身份的问题，而被消解为阶级或社会问题，如同鱼类在水里面对水而不自知，在偏见中看到的只能是其他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027354397983076352",
+        "conversation_id": "2049732794692325415",
+        "created_at": "2026-04-30T06:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049740784367476792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049740784367476792",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049732794692325415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 所有的语义都是建立他们生活中的，他们不会觉得相亲是宣传异性恋，也不会觉得在街上牵手属于骄傲的一部分，反过来一个顺直犯错也不会认为是顺直身份的问题，而被消解为阶级或社会问题，如同鱼类在水里面对水而不自知，在偏见中看到的只能是其他人的特权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 508,
+          "like_count": 4170,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1582
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T12:05:41.000Z",
+        "description": "不是三无号和看黄的一般会回fo，没回fo就是没看到。",
+        "id": "2027354397983076352",
+        "name": "不完全果皮🌈",
+        "pinned_tweet_id": "2042594206288675001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048083482677768192/yGJOAjGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 173,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1149
+        },
+        "username": "Alamida001",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（They/Them/It）💛🤍💜🖤/acearo/废话制造者/「如果到了那天，请一定要祝我死日快乐」/「车到山前必有路」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "2049387531792445770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048602261493088256/8bA64K7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 696,
+          "like_count": 4653,
+          "listed_count": 5,
+          "media_count": 511,
+          "tweet_count": 3763
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

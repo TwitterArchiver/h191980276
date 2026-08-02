@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062224744041341046",
+    "created_at": "2026-06-03T17:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062224744041341046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2062142942215626878",
+          "start": 7,
+          "url": "https://t.co/PE2xiSU6ok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062224744041341046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062142942215626878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "公共厕所,, https://t.co/PE2xiSU6ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062224744041341046",
+        "created_at": "2026-06-03T17:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062224744041341046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2062142942215626878",
+              "start": 7,
+              "url": "https://t.co/PE2xiSU6ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062224744041341046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062142942215626878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "公共厕所,, https://t.co/PE2xiSU6ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2062142942215626878",
+        "created_at": "2026-06-03T12:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062142942215626878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transinacademi…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/transinacademia/status/1749481230645522854",
+              "start": 7,
+              "url": "https://t.co/bMufenc52k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062142942215626878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1655,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1749481230645522854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我想继续做。 https://t.co/bMufenc52k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 511,
+          "like_count": 4346,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1830
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🪼 @amber_medusozoa\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "amber_medusozoa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 45,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 22,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 toronto",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2061787779009335666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 484,
+          "like_count": 1052,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

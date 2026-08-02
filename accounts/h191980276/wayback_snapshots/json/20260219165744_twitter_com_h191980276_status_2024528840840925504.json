@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2024504596916236387",
+    "created_at": "2026-02-19T16:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T17:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024528840840925504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "164224930",
+          "start": 0,
+          "username": "MinakoOikawa"
+        },
+        {
+          "end": 29,
+          "id": "1619373564217663488",
+          "start": 14,
+          "username": "Yankey22560980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024528840840925504",
+    "in_reply_to_user_id": "164224930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024524397076492362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinakoOikawa @Yankey22560980 花路是大v，吴二棒是普通人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2024504596916236387",
+        "created_at": "2026-02-19T16:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024528840840925504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "164224930",
+              "start": 0,
+              "username": "MinakoOikawa"
+            },
+            {
+              "end": 29,
+              "id": "1619373564217663488",
+              "start": 14,
+              "username": "Yankey22560980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024528840840925504",
+        "in_reply_to_user_id": "164224930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024524397076492362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinakoOikawa @Yankey22560980 花路是大v，吴二棒是普通人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "164224930",
+        "conversation_id": "2024504596916236387",
+        "created_at": "2026-02-19T16:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024524397076492362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1619373564217663488",
+              "start": 0,
+              "username": "Yankey22560980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024524397076492362",
+        "in_reply_to_user_id": "1619373564217663488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024523491760861192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yankey22560980 1. 花路是大V不意味着要预设她完美无缺。\nA: 她哪里算v（她算v那我不是也算?)。。。她最大的错就是跨顺直还是吃得太差。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 223,
+          "like_count": 1827,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 573
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-08T10:19:29.000Z",
+        "description": "Yet another Dev Rel / 空手道應酬 / Xoogler / OIer / Cosplay / My views / HRT since 2022.11.12",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuizilong.com",
+                "end": 23,
+                "expanded_url": "http://www.shuizilong.com/",
+                "start": 0,
+                "url": "https://t.co/jcBGh2T5SX"
+              }
+            ]
+          }
+        },
+        "id": "164224930",
+        "location": "Shanghai, China",
+        "name": "小島みなこ 🏳️‍⚧️",
+        "pinned_tweet_id": "1228093781280354304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596711607845130240/1y4atMYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9287,
+          "following_count": 6129,
+          "like_count": 83911,
+          "listed_count": 115,
+          "media_count": 2807,
+          "tweet_count": 56764
+        },
+        "url": "https://t.co/jcBGh2T5SX",
+        "username": "MinakoOikawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T16:35:28.000Z",
+        "description": "",
+        "id": "1619373564217663488",
+        "name": "haha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746886617061593088/VM2XwwMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 490,
+          "like_count": 9607,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2241
+        },
+        "username": "Yankey22560980",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038268570732531797",
+    "created_at": "2026-03-30T11:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038582654094950511"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038582654094950511",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038268570732531797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我说错了，所有这些人都是贱种"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038268568413102081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElidrkbYAEzvUz.jpg",
+        "width": 1136
+      },
+      {
+        "height": 1679,
+        "media_key": "3_2038268568383696897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElidrdasAE0tQ0.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038268570732531797",
+        "created_at": "2026-03-30T11:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038582654094950511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038582654094950511",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038268570732531797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说错了，所有这些人都是贱种"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038268568413102081",
+            "3_2038268568383696897"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038268570732531797",
+        "created_at": "2026-03-29T14:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038268570732531797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d13VVbRyKo",
+              "end": 142,
+              "expanded_url": "https://x.com/h191980276/status/2038268570732531797/photo/1",
+              "media_key": "3_2038268568413102081",
+              "start": 119,
+              "url": "https://t.co/d13VVbRyKo"
+            },
+            {
+              "display_url": "pic.x.com/d13VVbRyKo",
+              "end": 142,
+              "expanded_url": "https://x.com/h191980276/status/2038268570732531797/photo/1",
+              "media_key": "3_2038268568383696897",
+              "start": 119,
+              "url": "https://t.co/d13VVbRyKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038268570732531797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3672,
+          "like_count": 72,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "别的我不想抢但是这个真他妈贱种，人都死了你还生命安危你妈，生命安慰跟你有什么关系，打着生命安危旗号你就代表生命安危了，你妈的misgender死人能让死人复活是吧，不让misgender的就是妨害死人复活？这头猪是贱种，亚明帮腔也是贱种 https://t.co/d13VVbRyKo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 337,
+          "like_count": 2935,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1021
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

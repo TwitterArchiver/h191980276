@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "1999334561948520481",
+    "created_at": "2025-12-12T05:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999345366731489588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1552308324338749440",
+          "start": 0,
+          "username": "UltimateOne_Arc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999345366731489588",
+    "in_reply_to_user_id": "1552308324338749440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999334561948520481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UltimateOne_Arc 黑人之间互称内阁要是兄弟真不高兴了也会收嘴加道歉的，要是有人变本加厉加嘲讽又挪用言论自由吹狗哨再陪着白人一起骂那就不好说是不是真心的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "1999334561948520481",
+        "created_at": "2025-12-12T05:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999345366731489588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1552308324338749440",
+              "start": 0,
+              "username": "UltimateOne_Arc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999345366731489588",
+        "in_reply_to_user_id": "1552308324338749440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999334561948520481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UltimateOne_Arc 黑人之间互称内阁要是兄弟真不高兴了也会收嘴加道歉的，要是有人变本加厉加嘲讽又挪用言论自由吹狗哨再陪着白人一起骂那就不好说是不是真心的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552308324338749440",
+        "conversation_id": "1999334561948520481",
+        "created_at": "2025-12-12T04:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999334561948520481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999334561948520481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得跨子之间互称跨畜就和黑人之间互称内阁一样，但要是从顺彘的屁眼马眼里喷出来那性质就变了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 139,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 272
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T15:02:10.000Z",
+        "description": "冻肉招娣五毛滚远点",
+        "id": "1552308324338749440",
+        "location": "PRTS",
+        "name": "纯情逼罗火辣辣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995182335613181952/Y8EBKf77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 1265,
+          "like_count": 45631,
+          "listed_count": 8,
+          "media_count": 1748,
+          "tweet_count": 20829
+        },
+        "username": "UltimateOne_Arc",
+        "verified": false
+      }
+    ]
+  }
+}

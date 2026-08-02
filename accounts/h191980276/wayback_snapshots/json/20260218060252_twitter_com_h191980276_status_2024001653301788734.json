@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2024001653301788734",
+    "created_at": "2026-02-18T06:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T07:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024001653301788734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoya_toboso_01…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/aoya_toboso_01/status/2023995181523964400",
+          "start": 15,
+          "url": "https://t.co/YF6i5NNy2G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024001653301788734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023995181523964400",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "建立在misger之上的喜欢 https://t.co/YF6i5NNy2G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2024001653301788734",
+        "created_at": "2026-02-18T06:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T07:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024001653301788734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoya_toboso_01…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/aoya_toboso_01/status/2023995181523964400",
+              "start": 15,
+              "url": "https://t.co/YF6i5NNy2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024001653301788734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023995181523964400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建立在misger之上的喜欢 https://t.co/YF6i5NNy2G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902297181157257218",
+        "conversation_id": "2023995181523964400",
+        "created_at": "2026-02-18T05:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023995181523964400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023995181523964400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ftm的chaser虽然少见但一个比一个重量级，但凡是喜欢男人长批我都觉得没什么，可偏偏他们都是只喜欢纯女性假小子的直男，建立在misgender之上的喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 219,
+          "like_count": 1777,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 555
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "自由和包容，但是不包容的基本盘，男大女大离我远点｜我没真自宫，别问了",
+        "id": "1902297181157257218",
+        "location": "南方县城的穷蛆",
+        "name": "友顺跨男(已自宫)🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1983554091793182792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987808395265757184/o24pdc04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 153,
+          "like_count": 9361,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 823
+        },
+        "username": "aoya_toboso_01",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038277105272934682",
+    "created_at": "2026-03-29T15:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038279492423323904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825148164057534464",
+          "start": 0,
+          "username": "0x47653C1C_BE"
+        },
+        {
+          "end": 29,
+          "id": "1825148164057534464",
+          "start": 15,
+          "username": "0x47653C1C_BE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038279492423323904",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038277105272934682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x47653C1C_BE @0x47653C1C_BE你给我出来！出来！出来！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038277105272934682",
+        "created_at": "2026-03-29T15:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038279492423323904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825148164057534464",
+              "start": 0,
+              "username": "0x47653C1C_BE"
+            },
+            {
+              "end": 29,
+              "id": "1825148164057534464",
+              "start": 15,
+              "username": "0x47653C1C_BE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038279492423323904",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038277105272934682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x47653C1C_BE @0x47653C1C_BE你给我出来！出来！出来！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038277105272934682",
+        "created_at": "2026-03-29T15:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038277105272934682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pikaunderlight…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Pikaunderlight/status/2038227461494722620",
+              "start": 50,
+              "url": "https://t.co/3BjyjbuPgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038277105272934682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038227461494722620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈了个逼的一群在这竞谁是好chaser，搁着竞“谁才是真正为跨性别谋福利”，全杀了没有一个无辜的 https://t.co/3BjyjbuPgf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 337,
+          "like_count": 2843,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 955
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T12:30:22.000Z",
+        "description": "无聊无趣无礼的幻想小号（已黑化），混乱中立，欢愉令使，如与现实相关纯属巧合。\n\npronoun any/all，含糖术后友跨男娘。\n\n药圈历史中学到的唯一教训就是——生活推不要用大号发暴论！",
+        "id": "1825148164057534464",
+        "name": "0x47653C1C (BE)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825149328476016640/nv7fWfYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 46,
+          "like_count": 487,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 334
+        },
+        "username": "0x47653C1C_BE",
+        "verified": false
+      }
+    ]
+  }
+}

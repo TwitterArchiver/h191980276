@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059098678565261547",
+    "created_at": "2026-05-26T07:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059170042898776180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972858620695240704",
+          "start": 0,
+          "username": "tuzhimizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059170042898776180",
+    "in_reply_to_user_id": "1972858620695240704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059098678565261547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuzhimizuki 药物会自动识别国籍说是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059098678565261547",
+        "created_at": "2026-05-26T07:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059170042898776180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972858620695240704",
+              "start": 0,
+              "username": "tuzhimizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059170042898776180",
+        "in_reply_to_user_id": "1972858620695240704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059098678565261547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuzhimizuki 药物会自动识别国籍说是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972858620695240704",
+        "conversation_id": "2059098678565261547",
+        "created_at": "2026-05-26T02:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059098678565261547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059098678565261547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3842,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近又看到很多推上的跨性别自杀，为什么老钟的跨性别的精神状态都这么差？\n\n还有一个问题：她们是原本精神状态就不佳才成为跨性别？还是成为跨性别后才变成那样子的？（无恶意）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 509,
+          "like_count": 4227,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1720
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T02:59:01.000Z",
+        "description": "保守自由主义右🐶一名😌\n\n左逼，绿畜，蜘蛛，maga离我远点😌\n\n里推@suijingmizuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "suijingmizuki"
+              }
+            ]
+          }
+        },
+        "id": "1972858620695240704",
+        "location": "克赖斯特彻奇清真寺",
+        "name": "あきやまみずき",
+        "pinned_tweet_id": "2059074222811664484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011399100890271744/Nf39EJce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 853,
+          "like_count": 12012,
+          "listed_count": 19,
+          "media_count": 323,
+          "tweet_count": 3379
+        },
+        "username": "tuzhimizuki",
+        "verified": false
+      }
+    ]
+  }
+}

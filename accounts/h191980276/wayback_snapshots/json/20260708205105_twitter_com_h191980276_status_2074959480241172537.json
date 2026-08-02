@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2074513074036637732",
+    "created_at": "2026-07-08T20:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T21:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074959480241172537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874901736303046656",
+          "start": 0,
+          "username": "jidediebeizi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074959480241172537",
+    "in_reply_to_user_id": "1874901736303046656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074513074036637732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jidediebeizi 回来吧，推特炒作狗不值得"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 880,
+        "media_key": "3_2074513071184502784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMompaHbYAAhzwx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2074513074036637732",
+        "created_at": "2026-07-08T20:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074959480241172537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874901736303046656",
+              "start": 0,
+              "username": "jidediebeizi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074959480241172537",
+        "in_reply_to_user_id": "1874901736303046656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074513074036637732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jidediebeizi 回来吧，推特炒作狗不值得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074513071184502784"
+          ]
+        },
+        "author_id": "1874901736303046656",
+        "conversation_id": "2074513074036637732",
+        "created_at": "2026-07-07T15:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074513074036637732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ai1f32honY",
+              "end": 64,
+              "expanded_url": "https://x.com/jidediebeizi/status/2074513074036637732/photo/1",
+              "media_key": "3_2074513071184502784",
+              "start": 41,
+              "url": "https://t.co/Ai1f32honY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074513074036637732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1314,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯虽然我前不久还在说美国跨男比美国跨女多赚100块可以用作为中国跨男现状的参考 https://t.co/Ai1f32honY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 528,
+          "like_count": 4472,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1957
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T19:33:42.000Z",
+        "description": "一些碎片",
+        "id": "1874901736303046656",
+        "name": "记得叠被子",
+        "pinned_tweet_id": "2053357564080128283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874909613201772544/cETc1g2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 21,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "jidediebeizi",
+        "verified": false
+      }
+    ]
+  }
+}

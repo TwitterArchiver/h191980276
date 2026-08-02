@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049066915524669460",
+    "created_at": "2026-04-29T15:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049509499879448606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1486225700793495552",
+          "start": 0,
+          "username": "ABC13067637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049509499879448606",
+    "in_reply_to_user_id": "1486225700793495552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049066915524669460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC13067637 养个男的当x努"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049066915524669460",
+        "created_at": "2026-04-29T15:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049509499879448606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1486225700793495552",
+              "start": 0,
+              "username": "ABC13067637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049509499879448606",
+        "in_reply_to_user_id": "1486225700793495552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049066915524669460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC13067637 养个男的当x努"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486225700793495552",
+        "conversation_id": "2049066915524669460",
+        "created_at": "2026-04-28T10:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049066915524669460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049066915524669460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 187920,
+          "like_count": 522,
+          "quote_count": 13,
+          "reply_count": 173,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "想和女生谈恋爱，又想被男生草，这种情况怎么解决🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 501,
+          "like_count": 4108,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1539
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T06:33:27.000Z",
+        "description": "🏳️‍⚧️|INFP | 软件开发｜喜欢可爱的东西｜同类互fo 喵",
+        "id": "1486225700793495552",
+        "name": "Mizuki酱🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486227103024844803/BTrXNcAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 388,
+          "like_count": 852,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 404
+        },
+        "username": "ABC13067637",
+        "verified": false
+      }
+    ]
+  }
+}

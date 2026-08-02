@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042097242236948726",
+    "created_at": "2026-04-09T15:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042263607933829444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792933283040284673",
+          "start": 0,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042263607933829444",
+    "in_reply_to_user_id": "1792933283040284673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042097242236948726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuamitx0 不一定非要坚持二元性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042097242236948726",
+        "created_at": "2026-04-09T15:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042263607933829444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792933283040284673",
+              "start": 0,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042263607933829444",
+        "in_reply_to_user_id": "1792933283040284673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042097242236948726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuamitx0 不一定非要坚持二元性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792933283040284673",
+        "conversation_id": "2042097242236948726",
+        "created_at": "2026-04-09T04:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042097242236948726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042097242236948726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无能。的。自说自话。\n一直在努力地让自己成为某种意义上的男性。线下见过我的人，肯定知道我是个道德低劣满嘴脏话和黄色笑话的人。\n我非常厌恶自己奇怪的跨性别的倾向，我无论如何的压制这种想法，却一直反复的回荡在我的脑海里，太别扭了。我好割裂。每次都觉得自己非常割裂。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 365,
+          "like_count": 3291,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1218
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️/裏垢：https://t.co/q7AzGVPC4y /联络方式：https://t.co/2eUjAnLNoF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pari.cafe/@poi",
+                "end": 41,
+                "expanded_url": "https://pari.cafe/@poi",
+                "start": 18,
+                "url": "https://t.co/q7AzGVPC4y"
+              },
+              {
+                "display_url": "matrix.to/#/@ai0bsw6k:ma…",
+                "end": 71,
+                "expanded_url": "https://matrix.to/#/@ai0bsw6k:matrix.org",
+                "start": 48,
+                "url": "https://t.co/2eUjAnLNoF"
+              }
+            ]
+          }
+        },
+        "id": "1792933283040284673",
+        "location": "🌕月球",
+        "name": "catalyst🍫🐢🌈",
+        "pinned_tweet_id": "2039217404102996391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013987958014296065/ZXpt5StP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 807,
+          "like_count": 27394,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 16609
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060859743896547775",
+    "created_at": "2026-05-30T23:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T00:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060859743896547775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060859743896547775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060837322849951790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: 潑盆冷水，解讀一下令堂的言外之意：\n1.你只是不適應青春期的身體變化，沒準備好當男人才想當女人\n2.你是我的兒子而不是我的女兒或我的「孩子」，你只能作為兒子是我的孩子\n3.你認為吃藥是治療但我們不這麼認為，我們只是默許，其實我們知道吃藥是…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060837308509655043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJmQnQGXEAMb1P9.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060859743896547775",
+        "created_at": "2026-05-30T23:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060859743896547775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060859743896547775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060837322849951790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: 潑盆冷水，解讀一下令堂的言外之意：\n1.你只是不適應青春期的身體變化，沒準備好當男人才想當女人\n2.你是我的兒子而不是我的女兒或我的「孩子」，你只能作為兒子是我的孩子\n3.你認為吃藥是治療但我們不這麼認為，我們只是默許，其實我們知道吃藥是…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060837308509655043"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2060837322849951790",
+        "created_at": "2026-05-30T21:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060837322849951790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZpcjPPqq4",
+              "end": 145,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2060837322849951790/photo/1",
+              "media_key": "3_2060837308509655043",
+              "start": 122,
+              "url": "https://t.co/oZpcjPPqq4"
+            },
+            {
+              "display_url": "x.com/unkmtx/status/…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/unkmtx/status/2060496771403669660",
+              "start": 146,
+              "url": "https://t.co/wUs2cDw41h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060837322849951790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "潑盆冷水，解讀一下令堂的言外之意：\n1.你只是不適應青春期的身體變化，沒準備好當男人才想當女人\n2.你是我的兒子而不是我的女兒或我的「孩子」，你只能作為兒子是我的孩子\n3.你認為吃藥是治療但我們不這麼認為，我們只是默許，其實我們知道吃藥是自毀\n4.如果緩解（扭轉）你關於青春期的不安，你就會做回男人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060496771403669660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "潑盆冷水，解讀一下令堂的言外之意：\n1.你只是不適應青春期的身體變化，沒準備好當男人才想當女人\n2.你是我的兒子而不是我的女兒或我的「孩子」，你只能作為兒子是我的孩子\n3.你認為吃藥是治療但我們不這麼認為，我們只是默許，其實我們知道吃藥是自毀 https://t.co/oZpcjPPqq4 https://t.co/wUs2cDw41h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 512,
+          "like_count": 4317,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1802
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 纏繞我臉上悲傷 祢一點點幫我卸妝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2059985959161401419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060371508426592256/Gx-SAITd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 145,
+          "like_count": 7558,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 5291
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

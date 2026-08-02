@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2030324551847231763",
+    "created_at": "2026-03-07T16:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030324551847231763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ena1_mizuki/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ena1_mizuki/status/2028443273937990127",
+          "start": 18,
+          "url": "https://t.co/0fZLFLnyG2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030324551847231763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028443273937990127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以应该禁止顺性别女性进入纯女空间 https://t.co/0fZLFLnyG2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2030324551847231763",
+        "created_at": "2026-03-07T16:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030324551847231763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2028443273937990127",
+              "start": 18,
+              "url": "https://t.co/0fZLFLnyG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030324551847231763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028443273937990127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以应该禁止顺性别女性进入纯女空间 https://t.co/0fZLFLnyG2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2028443273937990127",
+        "created_at": "2026-03-02T12:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028443273937990127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028443273937990127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 163382,
+          "like_count": 1240,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "今天去找导师谈话得知了一个震惊的消息，我休学的半年里组里新来了一个女研究员，很喜欢骚扰别的女生，专挑文弱内向的女生下手，虽然我是生理男但外貌性格完全是她的目标，所以导师让我一定要和她保持距离。。\n我的天还有神秘女同来袭😇😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 238,
+          "like_count": 2139,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 677
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 992,
+          "like_count": 14389,
+          "listed_count": 6,
+          "media_count": 530,
+          "tweet_count": 3921
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059177922079174733",
+    "created_at": "2026-05-26T17:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059324323081646194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946843278361710592",
+          "start": 0,
+          "username": "youshiko112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059324323081646194",
+    "in_reply_to_user_id": "1946843278361710592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059177922079174733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youshiko112 不如马防克思主义者搞文化大格命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059177922079174733",
+        "created_at": "2026-05-26T17:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059324323081646194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946843278361710592",
+              "start": 0,
+              "username": "youshiko112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059324323081646194",
+        "in_reply_to_user_id": "1946843278361710592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059177922079174733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youshiko112 不如马防克思主义者搞文化大格命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946843278361710592",
+        "conversation_id": "2059177922079174733",
+        "created_at": "2026-05-26T07:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059177922079174733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059177922079174733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6653,
+          "like_count": 263,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "在大陆性少数那个堪比奥斯维辛集中营的生存环境下，居然还有自诩“马克思主义者，包容，进步”的家伙说要预防中国lgbt演变成西方的政治正确危害青少年，这种杂种赶紧闭嘴的好，本质红脖子罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 509,
+          "like_count": 4240,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1727
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T08:03:30.000Z",
+        "description": "",
+        "id": "1946843278361710592",
+        "location": "Bunkyo-ku, Tokyo",
+        "name": "Linko",
+        "pinned_tweet_id": "2011143939135586504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992292933543100416/cXNxYJ4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 296,
+          "like_count": 6162,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 3060
+        },
+        "username": "youshiko112",
+        "verified": false
+      }
+    ]
+  }
+}

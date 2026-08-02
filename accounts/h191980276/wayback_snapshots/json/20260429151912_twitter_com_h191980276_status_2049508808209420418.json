@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049488596915351609",
+    "created_at": "2026-04-29T15:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049508808209420418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980140172726673408",
+          "start": 0,
+          "username": "Rennord9407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049508808209420418",
+    "in_reply_to_user_id": "1980140172726673408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049488596915351609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rennord9407 你没发现他们每次一编lgbt有特权了压迫顺直了的案例，反而每次编的发生的场所都是很极右翼很性少数受排挤这帮反LGBT人占主导的领域，比如美国，比如单机电子游戏，比如好莱坞，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049488596915351609",
+        "created_at": "2026-04-29T15:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049508808209420418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980140172726673408",
+              "start": 0,
+              "username": "Rennord9407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049508808209420418",
+        "in_reply_to_user_id": "1980140172726673408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049488596915351609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rennord9407 你没发现他们每次一编lgbt有特权了压迫顺直了的案例，反而每次编的发生的场所都是很极右翼很性少数受排挤这帮反LGBT人占主导的领域，比如美国，比如单机电子游戏，比如好莱坞，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980140172726673408",
+        "conversation_id": "2049488596915351609",
+        "created_at": "2026-04-29T13:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049488596915351609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feieyuhuo/stat…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/feieyuhuo/status/2049484616717987845",
+              "start": 128,
+              "url": "https://t.co/RWgY4GddVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049488596915351609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1.外国政治正确好牛逼啊 让性少数获得了直直们都获得不到的权益 搞半天只是在影视剧里面加入LGBT角色了啊🤡\n实际上我并没有想要和你吵架的意思 我只是单纯觉得很不爽 你如果建立在对少数群体的偏见以及一些错误信息的基础上那就没得聊\n至于你说的这些 那没错啊 我们就是要让社会大众接纳性少数而不是歧视 而这一切都必须建立在已经消除了偏见的基础上 我觉得你起手就是西方政治正确就挺纯"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049484616717987845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.外国政治正确好牛逼啊 让性少数获得了直直们都获得不到的权益 搞半天只是在影视剧里面加入LGBT角色了啊🤡\n实际上我并没有想要和你吵架的意思 我只是单纯觉得很不爽 你如果建立在对少数群体的偏见以及一些错误信息的基础上那就没得聊\n至于你说的这些 那没错啊 https://t.co/RWgY4GddVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 501,
+          "like_count": 4108,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1538
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/She/They ？sexual🏳️‍🌈 友跨 全力支持争取性少数群体权益|社会民主主义🌹左翼 国际主义|键政暂时闭关|\n看到我说话跟磕了药一样请见谅\n🇩🇪学习中|可以与任何立场的友善的人互fo",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 607,
+          "like_count": 41142,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 7260
+        },
+        "username": "Rennord9407",
+        "verified": true
+      }
+    ]
+  }
+}

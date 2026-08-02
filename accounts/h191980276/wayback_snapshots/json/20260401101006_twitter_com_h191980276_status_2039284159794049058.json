@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2039284159794049058",
+    "created_at": "2026-04-01T10:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039284159794049058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youshiko112/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/youshiko112/status/2039160042407297321",
+          "start": 6,
+          "url": "https://t.co/oSOlEiojyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039284159794049058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039160042407297321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会好的，吧 https://t.co/oSOlEiojyg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2039284159794049058",
+        "created_at": "2026-04-01T10:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039284159794049058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youshiko112/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/youshiko112/status/2039160042407297321",
+              "start": 6,
+              "url": "https://t.co/oSOlEiojyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039284159794049058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039160042407297321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会好的，吧 https://t.co/oSOlEiojyg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946843278361710592",
+        "conversation_id": "2039160042407297321",
+        "created_at": "2026-04-01T01:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039160042407297321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039160042407297321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 728,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我已经孤立到都没可能会有人有心思把我往那些扭转机构里塞了，看到吵来吵去的真感觉所谓的跨性别也好还是什么别的标签也罢、都毫无意义，圈子里的人真是天差地别，不是贴个相同标签的话下辈子都不可能有交集。说难听点底层对于上层来说就是畜生一样任人摆布但又必须得依赖上层帮助。哎😑，阶级壁垒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 359,
+          "like_count": 3151,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1152
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T08:03:30.000Z",
+        "description": "终将登上明月",
+        "id": "1946843278361710592",
+        "location": "Bunkyo-ku, Tokyo",
+        "name": "Linko",
+        "pinned_tweet_id": "2011143939135586504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992292933543100416/cXNxYJ4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 269,
+          "like_count": 4140,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 2125
+        },
+        "username": "youshiko112",
+        "verified": false
+      }
+    ]
+  }
+}

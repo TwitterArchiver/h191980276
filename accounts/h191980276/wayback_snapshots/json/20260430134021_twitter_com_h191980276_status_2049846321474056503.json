@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049823039744061510",
+    "created_at": "2026-04-30T13:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049846321474056503"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049846321474056503",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049823039744061510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不是说男娘也是跨，mtf就是男娘的意思，我说男的能用雌，男的想要那样的效果凭什么不能用，男的就能用，你再吃多少糖都是男的，吃多少都变不成女的（要是你觉得这句话冒犯的话，可能真该想想性别认同的事）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049823039744061510",
+        "created_at": "2026-04-30T13:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049846321474056503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049846321474056503",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049823039744061510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是说男娘也是跨，mtf就是男娘的意思，我说男的能用雌，男的想要那样的效果凭什么不能用，男的就能用，你再吃多少糖都是男的，吃多少都变不成女的（要是你觉得这句话冒犯的话，可能真该想想性别认同的事）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049823039744061510",
+        "created_at": "2026-04-30T12:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049823039744061510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049823039744061510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操男娘凭什么不能吃雌啊， 我支持男娘吃，男娘凭什么不能吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 510,
+          "like_count": 4181,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1595
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

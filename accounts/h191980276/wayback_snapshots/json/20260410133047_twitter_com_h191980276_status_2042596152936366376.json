@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042596152936366376",
+    "created_at": "2026-04-10T13:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042596152936366376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/h191980276/status/2041671332753240145",
+          "start": 126,
+          "url": "https://t.co/Xw3t1WHg6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042596152936366376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041671332753240145",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我老早就说过推上所谓的“跨圈”就是chaser圈，是chaser的圈子，也就是友跨人士、“为跨性别做贡献做实事的人”的圈子，那些整天跨圈如何跨圈如何来精神享乐，但是“我不混圈子”的人的圈子，但是我又给忘了，产生了不切实际的幻想，上久了推迷惑性真的很大 https://t.co/Xw3t1WHg6n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042596152936366376",
+        "created_at": "2026-04-10T13:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042596152936366376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/h191980276/status/2041671332753240145",
+              "start": 126,
+              "url": "https://t.co/Xw3t1WHg6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042596152936366376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041671332753240145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我老早就说过推上所谓的“跨圈”就是chaser圈，是chaser的圈子，也就是友跨人士、“为跨性别做贡献做实事的人”的圈子，那些整天跨圈如何跨圈如何来精神享乐，但是“我不混圈子”的人的圈子，但是我又给忘了，产生了不切实际的幻想，上久了推迷惑性真的很大 https://t.co/Xw3t1WHg6n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2041671332753240145",
+        "created_at": "2026-04-08T00:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041671332753240145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041671332753240145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看到任何一个喜欢标榜自己是“在为跨性别社群做实事的人”或者拿这个说话的我都觉得恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 376,
+          "like_count": 3309,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1235
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

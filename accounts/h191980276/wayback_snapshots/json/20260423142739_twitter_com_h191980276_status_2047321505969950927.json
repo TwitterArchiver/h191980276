@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047321505969950927",
+    "created_at": "2026-04-23T14:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047321505969950927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/h191980276/status/2047284615237562705",
+          "start": 103,
+          "url": "https://t.co/RhLIj0uPvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047321505969950927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047284615237562705",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉每个药娘群都有那么几个男的喜欢当着一堆鱼板的面班门弄斧骑人脸上输出，甚至还会跟人犟嘴，他们难道意识不到自己眼前是全世界最懂“跨性别女性hrt”的群体吗，有点像顺直男教顺直女怎么用卫生间怎么憋月经的感觉 https://t.co/RhLIj0uPvY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047321505969950927",
+        "created_at": "2026-04-23T14:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047321505969950927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/h191980276/status/2047284615237562705",
+              "start": 103,
+              "url": "https://t.co/RhLIj0uPvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047321505969950927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047284615237562705",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉每个药娘群都有那么几个男的喜欢当着一堆鱼板的面班门弄斧骑人脸上输出，甚至还会跟人犟嘴，他们难道意识不到自己眼前是全世界最懂“跨性别女性hrt”的群体吗，有点像顺直男教顺直女怎么用卫生间怎么憋月经的感觉 https://t.co/RhLIj0uPvY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047284615237562705",
+        "created_at": "2026-04-23T12:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047284615237562705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047284615237562705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘都开始研究血药浓度曲线药代动力学了，顺直男还在拿着网络流言跑药娘群里班门弄斧指导别人hrt。\n自己大谈特谈可能还不让别人说别人一说就是宣传就是诱导吃糖，然后一边一口一个正规医院，然后就拿着谣言教人，嗯，所以说没有人比顺直男更懂hrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 488,
+          "like_count": 3852,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1414
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

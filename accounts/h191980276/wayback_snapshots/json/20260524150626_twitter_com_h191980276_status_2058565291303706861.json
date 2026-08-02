@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2058563455737634849",
+    "created_at": "2026-05-24T15:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T16:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058565291303706861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058565291303706861",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058563455737634849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 好听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2058563455737634849",
+        "created_at": "2026-05-24T15:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058565291303706861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058565291303706861",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058563455737634849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 好听"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2058563455737634849",
+        "created_at": "2026-05-24T14:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058563455737634849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小羽’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nGeL…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1nGeLLLLzWPKX",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: k歌房",
+              "unwound_url": "https://twitter.com/i/spaces/1nGeLLLLzWPKX/peek",
+              "url": "https://t.co/zdHqmwwtky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058563455737634849",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zdHqmwwtky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 510,
+          "like_count": 4202,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1688
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "🏳️‍🌈。表达偏向“女性”面向的无性别者，事实上却嘲笑着名为性别的东西。本质上是个游牧的动物、是他乡之客、是风滚草和坠入溪流的落叶、是扬进天空的粉尘和落到地球的陨星。",
+        "id": "1489468526826082312",
+        "location": "潮湿的空气里",
+        "name": "小羽",
+        "pinned_tweet_id": "2058545167502553242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058537217807519744/yT4R0yPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 133,
+          "like_count": 6915,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 4718
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2057917785943195878",
+    "created_at": "2026-05-22T20:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T21:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057917785943195878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Diamond_Kokoro…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2057683438329905304",
+          "start": 41,
+          "url": "https://t.co/1oxSNdvrpM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057917785943195878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057683438329905304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想被认可就乖乖当人妖等着人家心情好了操你，还觉得自己能当正常女的你那叫僭越，找打 https://t.co/1oxSNdvrpM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_2057683430113226752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5cLXgbMAAJDt7.jpg",
+        "width": 828
+      },
+      {
+        "height": 535,
+        "media_key": "3_2057683430075461632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5cLXXa8AAAfJD.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2057917785943195878",
+        "created_at": "2026-05-22T20:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057917785943195878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Diamond_Kokoro…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Diamond_Kokoro/status/2057683438329905304",
+              "start": 41,
+              "url": "https://t.co/1oxSNdvrpM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057917785943195878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057683438329905304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想被认可就乖乖当人妖等着人家心情好了操你，还觉得自己能当正常女的你那叫僭越，找打 https://t.co/1oxSNdvrpM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057683430113226752",
+            "3_2057683430075461632"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2057683438329905304",
+        "created_at": "2026-05-22T04:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057683438329905304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiLVgYgxr1",
+              "end": 70,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2057683438329905304/photo/1",
+              "media_key": "3_2057683430113226752",
+              "start": 47,
+              "url": "https://t.co/XiLVgYgxr1"
+            },
+            {
+              "display_url": "pic.x.com/XiLVgYgxr1",
+              "end": 70,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2057683438329905304/photo/1",
+              "media_key": "3_2057683430075461632",
+              "start": 47,
+              "url": "https://t.co/XiLVgYgxr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057683438329905304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 12714,
+          "like_count": 78,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉我声称「找男性伴侣并且跟男人结婚，才能成为正常女人」的人是怎么成为跨圈万粉KOL的。 https://t.co/XiLVgYgxr1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 507,
+          "like_count": 4173,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1683
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "🏳️‍🌈｜@irisdesombres \nJe t’aime jusqu’à la lune et retour.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057457740017254400/WAOIKCK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 121,
+          "like_count": 6791,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 4530
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060863311038804100",
+    "created_at": "2026-05-30T23:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T00:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060863311038804100"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/h191980276/status/2060860663518695854",
+          "start": 112,
+          "url": "https://t.co/8nD0XvvbjC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060863311038804100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060860663518695854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以你猜那些天天焦虑天天讨论家长同不同意，天天讨论手术排期不排期，诊断一年观察期，天天讨论想赶着趁早手术的在干嘛？所有排手术的人不都在讨论这个事情？所以你猜他们在干嘛？是好玩吗😥。还冰冷的现实，你这不是对现实一点不了解吗😥 https://t.co/8nD0XvvbjC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060863311038804100",
+        "created_at": "2026-05-30T23:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060863311038804100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/h191980276/status/2060860663518695854",
+              "start": 112,
+              "url": "https://t.co/8nD0XvvbjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060863311038804100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060860663518695854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以你猜那些天天焦虑天天讨论家长同不同意，天天讨论手术排期不排期，诊断一年观察期，天天讨论想赶着趁早手术的在干嘛？所有排手术的人不都在讨论这个事情？所以你猜他们在干嘛？是好玩吗😥。还冰冷的现实，你这不是对现实一点不了解吗😥 https://t.co/8nD0XvvbjC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060860663518695854",
+        "created_at": "2026-05-30T23:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T00:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060860663518695854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520maodou/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/520maodou/status/2060756357968732593",
+              "start": 22,
+              "url": "https://t.co/NUFNBvFHh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060860663518695854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060756357968732593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样从跨儿社群偷知识说是我传授给他们的 https://t.co/NUFNBvFHh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 512,
+          "like_count": 4317,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1805
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

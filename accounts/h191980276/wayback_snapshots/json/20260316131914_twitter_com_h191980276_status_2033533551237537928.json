@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2033533551237537928",
+    "created_at": "2026-03-16T13:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033533551237537928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bill08429329/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/bill08429329/status/2033403064926011645",
+          "start": 3,
+          "url": "https://t.co/pDriJJfumH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033533551237537928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033403064926011645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持 https://t.co/pDriJJfumH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_2033403058332508161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgZTuEaIAE9vA-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2033533551237537928",
+        "created_at": "2026-03-16T13:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033533551237537928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bill08429329/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/bill08429329/status/2033403064926011645",
+              "start": 3,
+              "url": "https://t.co/pDriJJfumH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033533551237537928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033403064926011645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/pDriJJfumH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033403058332508161"
+          ]
+        },
+        "author_id": "1565175230007750657",
+        "conversation_id": "2033403064926011645",
+        "created_at": "2026-03-16T04:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033403064926011645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6CxJJUnQgV",
+              "end": 51,
+              "expanded_url": "https://x.com/bill08429329/status/2033403064926011645/photo/1",
+              "media_key": "3_2033403058332508161",
+              "start": 28,
+              "url": "https://t.co/6CxJJUnQgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033403064926011645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5961,
+          "like_count": 379,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "支持男人穿高跟鞋，吊带，化妆自由！男人也有变美的权利！ https://t.co/6CxJJUnQgV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 284,
+          "like_count": 2394,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 793
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T03:10:39.000Z",
+        "description": "女权➕女蒂派🤞（已润）非常聪明一女性，哈哈哈，富贵闲人INFJ",
+        "id": "1565175230007750657",
+        "name": "Winner",
+        "pinned_tweet_id": "1943581879720108133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017841159792693252/0MEZXbtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9055,
+          "following_count": 153,
+          "like_count": 6011,
+          "listed_count": 24,
+          "media_count": 149,
+          "tweet_count": 6676
+        },
+        "username": "bill08429329",
+        "verified": false
+      }
+    ]
+  }
+}

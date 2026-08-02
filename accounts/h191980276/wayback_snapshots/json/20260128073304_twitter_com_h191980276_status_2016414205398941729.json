@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016414156103225344"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2016267685429133363",
+    "created_at": "2026-01-28T07:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016414205398941729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413151000567771146",
+          "start": 0,
+          "username": "Windy_Skyline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6dOlJMDG3e",
+          "end": 59,
+          "expanded_url": "https://x.com/h191980276/status/2016414205398941729/photo/1",
+          "media_key": "3_2016414156103225344",
+          "start": 36,
+          "url": "https://t.co/6dOlJMDG3e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016414205398941729",
+    "in_reply_to_user_id": "1413151000567771146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016267685429133363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Windy_Skyline 确实是“一个非常无聊且极其自恋的行业”啊 https://t.co/6dOlJMDG3e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2016414156103225344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_u9_daaEAAACaE.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016414156103225344"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2016267685429133363",
+        "created_at": "2026-01-28T07:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016414205398941729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413151000567771146",
+              "start": 0,
+              "username": "Windy_Skyline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dOlJMDG3e",
+              "end": 59,
+              "expanded_url": "https://x.com/h191980276/status/2016414205398941729/photo/1",
+              "media_key": "3_2016414156103225344",
+              "start": 36,
+              "url": "https://t.co/6dOlJMDG3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016414205398941729",
+        "in_reply_to_user_id": "1413151000567771146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016267685429133363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Windy_Skyline 确实是“一个非常无聊且极其自恋的行业”啊 https://t.co/6dOlJMDG3e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2016267685429133363",
+        "created_at": "2026-01-27T21:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T22:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016267685429133363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mofumofuyewo/s…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/mofumofuyewo/status/2016002332052619419",
+              "start": 72,
+              "url": "https://t.co/F173iuxOQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016267685429133363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "非得让别人把“我不接受你来我这表达羡慕，你爱羡慕自己羡慕去憋着别说”说出来才能解除装傻充愣、揣着明白装糊涂模式，到时候又能倒打一耙说人攻击性强\n这么一个简单的事，搞的你回了家跑网上顶着推特的140字限制跳来跳去左右脑互搏，一套逻辑“我有社社交能力➡️我不看不懂别人不乐意、我不在乎➡️我在乎的脑子里跑了一万条纠结、我没控制欲➡️我看人没跑我预想的程序就跑网上发五六条推文通篇说别人这一类人如何、我不喷➡️我把某些人列举出来、我不想支教➡️我来告诉你这类人如何如何”\n你有什么话不妨直说，以羡慕为理由在网上通过蛐蛐小故事吸引特定群体你可算是发明了个新玩法"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016002332052619419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非得让别人把“我不接受你来我这表达羡慕，你爱羡慕自己羡慕去憋着别说”说出来才能解除装傻充愣、揣着明白装糊涂模式，到时候又能倒打一耙说人攻击性强 https://t.co/F173iuxOQg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 192,
+          "like_count": 1491,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 486
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "2006947643399065949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 227,
+          "like_count": 2390,
+          "listed_count": 9,
+          "media_count": 3634,
+          "tweet_count": 12452
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

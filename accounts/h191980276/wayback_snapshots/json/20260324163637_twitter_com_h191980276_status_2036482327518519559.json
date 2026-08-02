@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2036482327518519559",
+    "created_at": "2026-03-24T16:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T17:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036482327518519559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ErroR_eroi/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ErroR_eroi/status/2036438108322013591",
+          "start": 16,
+          "url": "https://t.co/4BRoGDxND3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036482327518519559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036438108322013591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己拍都拍不出来还当男娘，丢人 https://t.co/4BRoGDxND3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 703,
+        "media_key": "3_2036438096972226569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELhqOEaIAkpuuy.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2036482327518519559",
+        "created_at": "2026-03-24T16:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036482327518519559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ErroR_eroi/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ErroR_eroi/status/2036438108322013591",
+              "start": 16,
+              "url": "https://t.co/4BRoGDxND3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036482327518519559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036438108322013591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己拍都拍不出来还当男娘，丢人 https://t.co/4BRoGDxND3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036438096972226569"
+          ]
+        },
+        "author_id": "1835695498419937280",
+        "conversation_id": "2036438108322013591",
+        "created_at": "2026-03-24T13:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036438108322013591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qiyvh92XT7",
+              "end": 51,
+              "expanded_url": "https://x.com/ErroR_eroi/status/2036438108322013591/photo/1",
+              "media_key": "3_2036438096972226569",
+              "start": 28,
+              "url": "https://t.co/qiyvh92XT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036438108322013591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5759,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天还遇到个男娘直播封面盗我图，我是女的没有格调🌚🌚🌚 https://t.co/qiyvh92XT7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 314,
+          "like_count": 2663,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 898
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T15:01:35.000Z",
+        "description": "コスプレやイラストを投稿しています❤️アマチュア絵師で、美少女を描くのが大好きです☺️🥺",
+        "id": "1835695498419937280",
+        "name": "ErroR🤍",
+        "pinned_tweet_id": "2023715805498917106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005653125244608512/jmw6UvXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14107,
+          "following_count": 399,
+          "like_count": 2276,
+          "listed_count": 64,
+          "media_count": 96,
+          "tweet_count": 204
+        },
+        "username": "ErroR_eroi",
+        "verified": false
+      }
+    ]
+  }
+}

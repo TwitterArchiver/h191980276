@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059077254387536013",
+    "created_at": "2026-05-26T01:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059077254387536013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qslzy1225/stat…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/qslzy1225/status/2059074822408229280",
+          "start": 75,
+          "url": "https://t.co/6nh28RtiCB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059077254387536013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059074822408229280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是异性恋吗，你三观完善吗，中国的性教育是缺失的，你应该清楚，我只是害怕我被资本宣称影响走了歧路，有很多三观不完善的孩子被宣传提倡当了顺直，走了歧路 https://t.co/6nh28RtiCB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059077254387536013",
+        "created_at": "2026-05-26T01:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059077254387536013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qslzy1225/stat…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/qslzy1225/status/2059074822408229280",
+              "start": 75,
+              "url": "https://t.co/6nh28RtiCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059077254387536013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059074822408229280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是异性恋吗，你三观完善吗，中国的性教育是缺失的，你应该清楚，我只是害怕我被资本宣称影响走了歧路，有很多三观不完善的孩子被宣传提倡当了顺直，走了歧路 https://t.co/6nh28RtiCB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757152910683852800",
+        "conversation_id": "2059070674547920982",
+        "created_at": "2026-05-26T00:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059074822408229280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059074822408229280",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059073911208464715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 绷😅异性恋是有性生殖生物刻在基因里的，永远都是绝对的、压倒性的多数。客观事实不以你的意志为转移。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 510,
+          "like_count": 4217,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1696
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:22:07.000Z",
+        "description": "LGBTQ+ Ally｜马克思主义者｜二游玩家｜理性，包容，进步，思考｜认清形势，放弃幻想，准备斗争｜你说，我在听",
+        "id": "1757152910683852800",
+        "location": "Harbin,Heilongjiang,China",
+        "name": "青松",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757153133611171840/Bi-ESVPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 41,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "username": "qslzy1225",
+        "verified": false
+      }
+    ]
+  }
+}

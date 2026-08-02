@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038294435579191800",
+    "created_at": "2026-03-29T16:37:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038294435579191800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pikaunderlight…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/Pikaunderlight/status/2038286245952934318",
+          "start": 98,
+          "url": "https://t.co/RISFZ5AIqg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038294435579191800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038286245952934318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈的，按照你们之前那个逻辑，扭转跨的就会被保护，迫害顺直的才能被搞掉，那要是一个机构被你们搞的时候主动爆出自己在扭转跨那是不是就搞不掉了？你们反戒网瘾大业完成了，那不是就刚好只留下扭转跨的了？ https://t.co/RISFZ5AIqg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038294435579191800",
+        "created_at": "2026-03-29T16:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038294435579191800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pikaunderlight…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/Pikaunderlight/status/2038286245952934318",
+              "start": 98,
+              "url": "https://t.co/RISFZ5AIqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038294435579191800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038286245952934318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈的，按照你们之前那个逻辑，扭转跨的就会被保护，迫害顺直的才能被搞掉，那要是一个机构被你们搞的时候主动爆出自己在扭转跨那是不是就搞不掉了？你们反戒网瘾大业完成了，那不是就刚好只留下扭转跨的了？ https://t.co/RISFZ5AIqg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938295191888400386",
+        "conversation_id": "2038286245952934318",
+        "created_at": "2026-03-29T16:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038286245952934318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ValeriaEulabei…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/2038285426105200923",
+              "start": 146,
+              "url": "https://t.co/HadGz9Yd5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038286245952934318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038285426105200923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有一种可能，“特训学校”“矫正基地”“扭转机构”“戒网瘾学校”本质上都是一个含义，是指\n通过公开宣传蛊惑家长相信其资质并与其签订协议，随后以暴力手段或假冒身份的方式将学员带至其住所地限制人身自由，通过过量体罚、殴打和其他虐待方式使其屈服以达成非法占有目的的盈利的法人组织\n有什么区别吗？ https://t.co/HadGz9Yd5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 337,
+          "like_count": 2851,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 967
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T17:57:12.000Z",
+        "description": "我吹过你吹过的晚风 是否看过同样风景",
+        "id": "1938295191888400386",
+        "location": "在你意料不到的地方",
+        "name": "暮色前的晨曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938296399868612608/ftdD_yci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 306,
+          "like_count": 3480,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 407
+        },
+        "username": "Pikaunderlight",
+        "verified": false
+      }
+    ]
+  }
+}

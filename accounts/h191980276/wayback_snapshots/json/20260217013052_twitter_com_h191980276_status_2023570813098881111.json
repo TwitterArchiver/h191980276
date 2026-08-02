@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2023570813098881111",
+    "created_at": "2026-02-17T01:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T02:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023570813098881111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662723831533027329",
+          "start": 3,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023570813098881111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023553661709021476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loong001116: 激酷要尽量争取女权阵营的支持，不要被激女蒙蔽双眼，酷儿女权和很多友同友跨的自由女权本来就是被激女切割走的群体，我们为什么要因为激女伤害我们，就恨这些对我们并无恶意的人?ta们如果无意间冒犯了酷儿，我们要试着大声说出来我们的诉求，不要学激女破防拉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2023570813098881111",
+        "created_at": "2026-02-17T01:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T02:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023570813098881111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662723831533027329",
+              "start": 3,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023570813098881111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023553661709021476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loong001116: 激酷要尽量争取女权阵营的支持，不要被激女蒙蔽双眼，酷儿女权和很多友同友跨的自由女权本来就是被激女切割走的群体，我们为什么要因为激女伤害我们，就恨这些对我们并无恶意的人?ta们如果无意间冒犯了酷儿，我们要试着大声说出来我们的诉求，不要学激女破防拉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "2023553661709021476",
+        "created_at": "2026-02-17T00:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T01:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023553661709021476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023553661709021476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "激酷要尽量争取女权阵营的支持，不要被激女蒙蔽双眼，酷儿女权和很多友同友跨的自由女权本来就是被激女切割走的群体，我们为什么要因为激女伤害我们，就恨这些对我们并无恶意的人?ta们如果无意间冒犯了酷儿，我们要试着大声说出来我们的诉求，不要学激女破防拉黑所有试图交流的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 213,
+          "like_count": 1743,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 546
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "人称代词：他/ta/你（“他”字恢复中性）汉字“他”不是男也，是人也",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(🏳️‍🌈🏳️‍⚧互fo)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 1600,
+          "like_count": 4901,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3771
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2037074766583263471",
+    "created_at": "2026-03-26T07:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T08:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037074766583263471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NankyuSeiichi/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/NankyuSeiichi/status/1892969755579195396",
+          "start": 6,
+          "url": "https://t.co/AZOYztrPwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037074766583263471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892969755579195396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个是真的 https://t.co/AZOYztrPwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2037074766583263471",
+        "created_at": "2026-03-26T07:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037074766583263471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NankyuSeiichi/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/NankyuSeiichi/status/1892969755579195396",
+              "start": 6,
+              "url": "https://t.co/AZOYztrPwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037074766583263471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892969755579195396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是真的 https://t.co/AZOYztrPwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1892969755579195396",
+        "created_at": "2025-02-21T16:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T17:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892969755579195396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892969755579195396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 75663,
+          "like_count": 594,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "虚假的雌堕：被囚禁下药肉体改造成肉便器性奴\n真正的雌堕：不知道自己是谁就被规训成为了所谓的妻子和母亲，不被看成独立的个体还要被剥削劳动，熬成婆了之后继续参与规训下一代女性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 319,
+          "like_count": 2708,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 912
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "我对象@yeol_lisu/加速南墙、历史决议、混乱控制、敬畏之心",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "yeol_lisu"
+              }
+            ]
+          }
+        },
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1931922221225890292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775251515023361/2MoJxyeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 1363,
+          "like_count": 32435,
+          "listed_count": 3,
+          "media_count": 741,
+          "tweet_count": 9513
+        },
+        "username": "NankyuSeiichi",
+        "verified": true
+      }
+    ]
+  }
+}

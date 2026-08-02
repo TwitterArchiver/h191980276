@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038883437789032794",
+    "created_at": "2026-03-31T09:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038909824365441396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935176310663401472",
+          "start": 0,
+          "username": "S_Hyoscine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038909824365441396",
+    "in_reply_to_user_id": "1935176310663401472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038883437789032794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Hyoscine 大姐，跨性别不是只指望王宇航救，离了王宇航就完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038883437789032794",
+        "created_at": "2026-03-31T09:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038909824365441396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038909824365441396",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038883437789032794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine 大姐，跨性别不是只指望王宇航救，离了王宇航就完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935176310663401472",
+        "conversation_id": "2038883437789032794",
+        "created_at": "2026-03-31T07:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038883437789032794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038883437789032794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好吧我还是想发表一下看法\n首先这次的救助团队以及坐视频的团队确实是有一些问题，用男性代词指代死者确实让人不舒服，也显露出里面的部分人并不太理解跨性别者，并且态度上也有些傲慢。\n但是造成这种情况的是谁呢？是救助团队吗？不是，是那个时时刻刻压迫我们的庞然大物，是它逼的死者结束生命，是它让凡是提到跨性别者的视频都被限流和辱骂，所以说我们应该愤怒的对象并不是救助团队而是这个庞然大物。\n另外现在救助团队决定不再救助跨性别者，现在出现了一个真空期，救团队拒绝救助我们而新团队还没有产生，谁也不知道这个真空期有多大，这段时间里面有多少跨女会受害，她们的命也是命啊，在“全或无”的这道题上，无论是谁选择的现在结果已经是那个很英雄主义，很干脆利落但也非常冰冷残酷的“无”了，很长时间内被送扭转的跨女的权益没有人会来保障了，没有人救她们了……不得不说我非常的彷徨与悲哀，我也不知道以后会怎么样，可能也没有人知道\n\n以上"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 214,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吧我还是想发表一下看法\n首先这次的救助团队以及坐视频的团队确实是有一些问题，用男性代词指代死者确实让人不舒服，也显露出里面的部分人并不太理解跨性别者，并且态度上也有些傲慢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 347,
+          "like_count": 3036,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1095
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "小药娘//爱人@hood438371//陪聊门槛50喵，能给你提供情绪价值//风俗娘//重度抖M，sub//大家都可以来私信我喵//生活——是无边无际的、浮满各种漂流物的、变幻无常的、暴力的，但总是一片澄澈而湛蓝的海",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "家养宠物春雪狐🍥",
+        "pinned_tweet_id": "2028922217715909008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028447229040812032/QJB4InPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 869,
+          "like_count": 22956,
+          "listed_count": 3,
+          "media_count": 438,
+          "tweet_count": 7098
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

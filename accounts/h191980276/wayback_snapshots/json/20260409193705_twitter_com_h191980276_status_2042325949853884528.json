@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042278804534771896",
+    "created_at": "2026-04-09T19:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T20:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042325949853884528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545811359656546305",
+          "start": 0,
+          "username": "LO21CENTURY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042325949853884528",
+    "in_reply_to_user_id": "1545811359656546305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042278804534771896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LO21CENTURY 可以互殴吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042278804534771896",
+        "created_at": "2026-04-09T19:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042325949853884528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545811359656546305",
+              "start": 0,
+              "username": "LO21CENTURY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042325949853884528",
+        "in_reply_to_user_id": "1545811359656546305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042278804534771896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LO21CENTURY 可以互殴吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545811359656546305",
+        "conversation_id": "2042278804534771896",
+        "created_at": "2026-04-09T16:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042278804534771896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042278804534771896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我找伴侣的理由只能是因为想找沙袋，我也很想一拳把人的鼻血打出来，毕竟我真的很废物，很没用啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 368,
+          "like_count": 3296,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1221
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T16:45:35.000Z",
+        "description": "Lasciate ogne speranza, voi ch'intrate！",
+        "id": "1545811359656546305",
+        "location": "天蓝色的彼岸",
+        "name": "在昼犹昏",
+        "pinned_tweet_id": "2025297714402263527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707076799228690432/-j09VqSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 95,
+          "like_count": 5932,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 5212
+        },
+        "username": "LO21CENTURY",
+        "verified": false
+      }
+    ]
+  }
+}

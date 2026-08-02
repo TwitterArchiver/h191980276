@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049086597489119232"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049006928433652137",
+    "created_at": "2026-04-28T11:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049086600152527273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033556052650975232",
+          "start": 0,
+          "username": "NBabysitte65342"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w8C3gQ1dm8",
+          "end": 40,
+          "expanded_url": "https://x.com/h191980276/status/2049086600152527273/photo/1",
+          "media_key": "3_2049086597489119232",
+          "start": 17,
+          "url": "https://t.co/w8C3gQ1dm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049086600152527273",
+    "in_reply_to_user_id": "2033556052650975232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049006928433652137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NBabysitte65342 https://t.co/w8C3gQ1dm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_2049086597489119232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_RZ2VaUAAQnyZ.jpg",
+        "width": 491
+      },
+      {
+        "height": 594,
+        "media_key": "3_2049006923442425856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-I8NYaEAAzfkl.jpg",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049086597489119232"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049006928433652137",
+        "created_at": "2026-04-28T11:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049086600152527273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033556052650975232",
+              "start": 0,
+              "username": "NBabysitte65342"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8C3gQ1dm8",
+              "end": 40,
+              "expanded_url": "https://x.com/h191980276/status/2049086600152527273/photo/1",
+              "media_key": "3_2049086597489119232",
+              "start": 17,
+              "url": "https://t.co/w8C3gQ1dm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049086600152527273",
+        "in_reply_to_user_id": "2033556052650975232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049006928433652137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NBabysitte65342 https://t.co/w8C3gQ1dm8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049006923442425856"
+          ]
+        },
+        "author_id": "2033556052650975232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049006928433652137",
+        "created_at": "2026-04-28T06:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049006928433652137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XIwN2lc8V",
+              "end": 66,
+              "expanded_url": "https://x.com/NBabysitte65342/status/2049006928433652137/photo/1",
+              "media_key": "3_2049006923442425856",
+              "start": 43,
+              "url": "https://t.co/6XIwN2lc8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049006928433652137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1068,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你妈了个逼的别给我推这些东西你们支蝻还嘲笑支女是赛博藤壶到了墙外支蝻不也是赛博藤壶吗 https://t.co/6XIwN2lc8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 495,
+          "like_count": 4039,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1506
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "",
+        "id": "2033556052650975232",
+        "name": "一般路过stewie幸怒",
+        "pinned_tweet_id": "2048356236962488597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044690706405744640/gWgtiurn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 95,
+          "like_count": 18375,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2916
+        },
+        "username": "NBabysitte65342",
+        "verified": false
+      }
+    ]
+  }
+}

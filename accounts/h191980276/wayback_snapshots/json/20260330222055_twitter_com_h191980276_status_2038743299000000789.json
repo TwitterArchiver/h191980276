@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038743299000000789",
+    "created_at": "2026-03-30T22:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T23:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038743299000000789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karasu_ga_wara…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/karasu_ga_warau/status/2038623303309357492",
+          "start": 42,
+          "url": "https://t.co/XAmSZOwHOr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038743299000000789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038623303309357492",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我再说一点，一个在整个风向都是市场化的情况下，讲什么国有化国营化真的是讨好政府的吗 https://t.co/XAmSZOwHOr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 281,
+        "media_key": "3_2038623298053935104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqlFqdXEAA1wmy.jpg",
+        "width": 690
+      },
+      {
+        "height": 299,
+        "media_key": "3_2038623298049761280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqlFqcXYAA0EmH.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038743299000000789",
+        "created_at": "2026-03-30T22:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T23:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038743299000000789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karasu_ga_wara…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/karasu_ga_warau/status/2038623303309357492",
+              "start": 42,
+              "url": "https://t.co/XAmSZOwHOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038743299000000789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038623303309357492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我再说一点，一个在整个风向都是市场化的情况下，讲什么国有化国营化真的是讨好政府的吗 https://t.co/XAmSZOwHOr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038623298053935104",
+            "3_2038623298049761280"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "conversation_id": "2038623303309357492",
+        "created_at": "2026-03-30T14:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T15:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038623303309357492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1938295191888400386",
+              "start": 31,
+              "username": "Pikaunderlight"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrEk1B2zK0",
+              "end": 72,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2038623303309357492/photo/1",
+              "media_key": "3_2038623298053935104",
+              "start": 49,
+              "url": "https://t.co/RrEk1B2zK0"
+            },
+            {
+              "display_url": "pic.x.com/RrEk1B2zK0",
+              "end": 72,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2038623303309357492/photo/1",
+              "media_key": "3_2038623298049761280",
+              "start": 49,
+              "url": "https://t.co/RrEk1B2zK0"
+            },
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2038610666584477813",
+              "start": 73,
+              "url": "https://t.co/rDv2C5COtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038623303309357492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 46,
+                "id": "1938295191888400386",
+                "start": 31,
+                "username": "Pikaunderlight"
+              }
+            ]
+          },
+          "text": "不敢相信，這真的是一個從事反扭轉治療工作的人能說出口的話嗎？ @Pikaunderlight ？\n\n聯合國人權體系早已多次明確反對一切形式的「性少數扭轉治療」，相關專家反覆指出試圖改變性傾向的治療「不道德且有害」、「沒有科學依據」、「可能構成酷刑」並會「造成嚴重身心傷害」、「應被全面禁止」。中國在過往的審議中被屢次、反覆點名批評，包括國家支持的公立醫院中的扭轉治療和國家默許的私立扭轉治療機構，這樣的例子早就數不勝數。\n\n為什麼會有從事相關工作的人支持由國家創辦扭轉治療學校？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6043,
+          "like_count": 65,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038610666584477813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢相信，這真的是一個從事反扭轉治療工作的人能說出口的話嗎？ @Pikaunderlight ？ https://t.co/RrEk1B2zK0 https://t.co/rDv2C5COtz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 342,
+          "like_count": 2988,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1057
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28860,
+          "following_count": 1312,
+          "like_count": 9764,
+          "listed_count": 118,
+          "media_count": 560,
+          "tweet_count": 5555
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

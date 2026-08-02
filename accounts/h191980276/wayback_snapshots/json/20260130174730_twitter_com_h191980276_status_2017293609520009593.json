@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2017293609520009593",
+    "created_at": "2026-01-30T17:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T18:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017293609520009593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1422567543940677634",
+          "start": 3,
+          "username": "UraOlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017293609520009593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016718838499594539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UraOlt: 不是跨女被看见，是光彩靓丽的科技感精英与另类猎奇感的人被看见，看客不关注跨女，对计算机也没多大兴趣，被羡慕的高科技精英和和被取笑的另类性别表达的叠加，使看客像吸了芬太尼一样欲罢不能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2017293609520009593",
+        "created_at": "2026-01-30T17:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017293609520009593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1422567543940677634",
+              "start": 3,
+              "username": "UraOlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017293609520009593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016718838499594539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UraOlt: 不是跨女被看见，是光彩靓丽的科技感精英与另类猎奇感的人被看见，看客不关注跨女，对计算机也没多大兴趣，被羡慕的高科技精英和和被取笑的另类性别表达的叠加，使看客像吸了芬太尼一样欲罢不能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "2016718838499594539",
+        "created_at": "2026-01-29T03:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T04:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016718838499594539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2015967145406902316",
+              "start": 91,
+              "url": "https://t.co/5KAfpQqSu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016718838499594539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4641,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015967145406902316",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是跨女被看见，是光彩靓丽的科技感精英与另类猎奇感的人被看见，看客不关注跨女，对计算机也没多大兴趣，被羡慕的高科技精英和和被取笑的另类性别表达的叠加，使看客像吸了芬太尼一样欲罢不能 https://t.co/5KAfpQqSu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 201,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 512
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "期待୧((〃•̀ꇴ•〃))૭⁺✧\n\nSprengt auf Grani, seinem Ross, durch Rauch und Waberlohe，\n\n他骑着格拉尼，他的骏马，穿过烟雾与地狱的业火。",
+        "id": "1422567543940677634",
+        "location": "Chiba-shi Wakaba-ku, Chiba",
+        "name": "天素殢雪❄️🏳️‍⚧️",
+        "pinned_tweet_id": "1740103715061899409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992072709862469632/KpZ4mmgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 436,
+          "like_count": 188569,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 12606
+        },
+        "username": "UraOlt",
+        "verified": false
+      }
+    ]
+  }
+}

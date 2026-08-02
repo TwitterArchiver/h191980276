@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049567201397715254",
+    "created_at": "2026-04-29T19:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T20:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049567201397715254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huantim1/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/huantim1/status/2049476321651372136",
+          "start": 13,
+          "url": "https://t.co/MUpgG9wxHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049567201397715254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049476321651372136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反正就是没有迫害弱势群体 https://t.co/MUpgG9wxHC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049567201397715254",
+        "created_at": "2026-04-29T19:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049567201397715254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim1/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/huantim1/status/2049476321651372136",
+              "start": 13,
+              "url": "https://t.co/MUpgG9wxHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049567201397715254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049476321651372136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反正就是没有迫害弱势群体 https://t.co/MUpgG9wxHC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "2049329545451647463",
+        "created_at": "2026-04-29T13:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049476321651372136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032693068164640768",
+              "start": 0,
+              "username": "dfgabc538812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049476321651372136",
+        "in_reply_to_user_id": "2032693068164640768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049421817920839756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfgabc538812 唐毓文\n之前为了炒作干过：家暴 出轨 自宫 飞叶子 假死 评级 卖药 跑路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 503,
+          "like_count": 4123,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1545
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n是mtx 无性恋\n成分正常的来互fo喵\n上海某高一牲\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huantim",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huantim",
+                "start": 0,
+                "url": "https://t.co/4Um5sVuC41"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮纱",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 684,
+          "like_count": 46646,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 4458
+        },
+        "url": "https://t.co/4Um5sVuC41",
+        "username": "huantim1",
+        "verified": false
+      }
+    ]
+  }
+}

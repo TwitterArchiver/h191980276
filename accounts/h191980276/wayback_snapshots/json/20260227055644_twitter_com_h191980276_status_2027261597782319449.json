@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2027084781113188720",
+    "created_at": "2026-02-27T05:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027261597782319449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429365180618706945",
+          "start": 0,
+          "username": "Simone_Luxem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027261597782319449",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027084781113188720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Simone_Luxem 贼喊捉贼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2027084781113188720",
+        "created_at": "2026-02-27T05:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027261597782319449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027261597782319449",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027084781113188720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 贼喊捉贼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2027084781113188720",
+        "created_at": "2026-02-26T18:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027084781113188720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/520illusion/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/520illusion/status/2026320987432931784",
+              "start": 144,
+              "url": "https://t.co/4vQDPaa6qM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027084781113188720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2867,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026320987432931784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你有没有意识到你自己才是最恶劣的…\n从“n56带坏顺女”那件事开始，你就一直在炒作，并且你的炒作是以有意促成社群内部自我贬低和彼此之间的对外攻击性为代价的，而你却一直乐此不疲\n要么是你的智力水平让你意识不到你自己在做什么，要么是你清楚但你不在乎；对于前者我建议早治疗，对于后者你则是无耻 https://t.co/4vQDPaa6qM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 232,
+          "like_count": 1979,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 627
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6184,
+          "following_count": 218,
+          "like_count": 23893,
+          "listed_count": 19,
+          "media_count": 1748,
+          "tweet_count": 21353
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

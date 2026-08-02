@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2036911856766603615",
+    "created_at": "2026-03-25T21:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T22:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036911856766603615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Simone_Luxem/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/2036700298362888583",
+          "start": 36,
+          "url": "https://t.co/IiXFtqNjGy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036911856766603615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036700298362888583",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "作为amber，没什么问题；但如此的话，那amber自己就是那个问题了 https://t.co/IiXFtqNjGy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2036911856766603615",
+        "created_at": "2026-03-25T21:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T22:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036911856766603615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/2036700298362888583",
+              "start": 36,
+              "url": "https://t.co/IiXFtqNjGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036911856766603615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036700298362888583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作为amber，没什么问题；但如此的话，那amber自己就是那个问题了 https://t.co/IiXFtqNjGy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2036546237542048080",
+        "created_at": "2026-03-25T07:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036700298362888583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036700298362888583",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036627447278457059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 作为张雪峰，没什么问题；但如此的话，那它张雪峰自己就是那个问题了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 320,
+          "like_count": 2695,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 908
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6149,
+          "following_count": 217,
+          "like_count": 24204,
+          "listed_count": 19,
+          "media_count": 1761,
+          "tweet_count": 21467
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

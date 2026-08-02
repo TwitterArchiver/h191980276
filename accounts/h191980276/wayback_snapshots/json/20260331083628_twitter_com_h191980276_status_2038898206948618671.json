@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038826475005120559",
+    "created_at": "2026-03-31T08:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038898206948618671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459453832",
+          "start": 0,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038898206948618671",
+    "in_reply_to_user_id": "1459453832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038826475005120559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sauricat 不知王一句“不让我说跨女是男我就不做”让某些人哭天喊地什,王这种人秉承逻辑不就告社会“跨女就是群别人可随便踩一脚的畜生”,然就会有跨被认同了这种概念人街上被捅死、被殴打、被送扭转中心？它救谁？把你从个网瘾学拉出来,又把社会改造成扭转大阵,在外面部下天罗地矫正、扭转、杀你，就把你小命救了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038826475005120559",
+        "created_at": "2026-03-31T08:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038898206948618671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459453832",
+              "start": 0,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038898206948618671",
+        "in_reply_to_user_id": "1459453832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038826475005120559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sauricat 不知王一句“不让我说跨女是男我就不做”让某些人哭天喊地什,王这种人秉承逻辑不就告社会“跨女就是群别人可随便踩一脚的畜生”,然就会有跨被认同了这种概念人街上被捅死、被殴打、被送扭转中心？它救谁？把你从个网瘾学拉出来,又把社会改造成扭转大阵,在外面部下天罗地矫正、扭转、杀你，就把你小命救了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "2038826475005120559",
+        "created_at": "2026-03-31T03:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:51:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038826409250992175",
+          "2038826475005120559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038826475005120559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4684,
+          "like_count": 63,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "牧鸢不参加跨性别救助，我们也不用觉得怎么样了。现在也是个机会。我还有点积蓄，欢迎能从我这里安全地拿到一些补助的、承诺和牧鸢等人指导的救援队没关系的人，来找我聊聊，看看我们能不能做得更好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 347,
+          "like_count": 3019,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1081
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Beiyan-Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11114,
+          "following_count": 981,
+          "like_count": 34064,
+          "listed_count": 36,
+          "media_count": 610,
+          "tweet_count": 12022
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2003178565718933561",
+    "created_at": "2025-12-22T18:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T19:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003178565718933561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1605471434163113984",
+          "start": 3,
+          "username": "Rorosharklady"
+        },
+        {
+          "end": 28,
+          "id": "1634873810141970433",
+          "start": 19,
+          "username": "dringsim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003178565718933561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003141866037088350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rorosharklady: @dringsim 姐妹这一句就直女味很冲了，磕不动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2003178565718933561",
+        "created_at": "2025-12-22T18:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T19:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003178565718933561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1605471434163113984",
+              "start": 3,
+              "username": "Rorosharklady"
+            },
+            {
+              "end": 28,
+              "id": "1634873810141970433",
+              "start": 19,
+              "username": "dringsim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003178565718933561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003141866037088350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rorosharklady: @dringsim 姐妹这一句就直女味很冲了，磕不动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605471434163113984",
+        "conversation_id": "2003134524885258641",
+        "created_at": "2025-12-22T16:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003141866037088350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1634873810141970433",
+              "start": 0,
+              "username": "dringsim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003141866037088350",
+        "in_reply_to_user_id": "1634873810141970433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003134524885258641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dringsim 姐妹这一句就直女味很冲了，磕不动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 158,
+          "like_count": 1099,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 369
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T07:53:21.000Z",
+        "description": "⚧transfem🏳️‍🌈saphhic&polyamory | 生活的终极意义是去码头整点薯条 | 酷儿写作预备中",
+        "id": "1605471434163113984",
+        "location": "哥谭市阿卡姆精神病院",
+        "name": "8⃣️9⃣️爆浆流心6⃣️4⃣️食人鱼Roro🏳️‍⚧️🦈（淡推中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840286854555336704/ZeKaSYqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 574,
+          "like_count": 32595,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 6508
+        },
+        "username": "Rorosharklady",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T11:07:55.000Z",
+        "description": "你可能是正版软件的受害者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wiktionary.org/wiki/Special:R…",
+                "end": 23,
+                "expanded_url": "https://en.wiktionary.org/wiki/Special:Random",
+                "start": 0,
+                "url": "https://t.co/yowv8UKE6l"
+              }
+            ]
+          }
+        },
+        "id": "1634873810141970433",
+        "name": "已跑路 ᛞᚱᛁᛝᛋᛁᛗ",
+        "pinned_tweet_id": "1847294307419701402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829876494547480576/ZhkuZBE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 2705,
+          "like_count": 48196,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 5743
+        },
+        "url": "https://t.co/yowv8UKE6l",
+        "username": "dringsim",
+        "verified": false
+      }
+    ]
+  }
+}

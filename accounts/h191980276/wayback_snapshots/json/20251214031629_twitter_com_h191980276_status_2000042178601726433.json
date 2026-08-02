@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2000042178601726433",
+    "created_at": "2025-12-14T03:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000042178601726433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sharkie_4005/s…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/Sharkie_4005/status/1999719168216633680",
+          "start": 48,
+          "url": "https://t.co/eJv2ZnF38x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000042178601726433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999719168216633680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈了个操的打跨的不就是三好是，三好天天打跨，打完跨说是因为跨打的所以要打跨，妈的贼喊捉贼无敌了 https://t.co/eJv2ZnF38x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000042178601726433",
+        "created_at": "2025-12-14T03:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000042178601726433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sharkie_4005/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Sharkie_4005/status/1999719168216633680",
+              "start": 48,
+              "url": "https://t.co/eJv2ZnF38x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000042178601726433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999719168216633680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈了个操的打跨的不就是三好是，三好天天打跨，打完跨说是因为跨打的所以要打跨，妈的贼喊捉贼无敌了 https://t.co/eJv2ZnF38x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434608964629639168",
+        "conversation_id": "1999719168216633680",
+        "created_at": "2025-12-13T05:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999719168216633680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aqdro9qa/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/aqdro9qa/status/1995078612589084982",
+              "start": 26,
+              "url": "https://t.co/SfTeZp3yY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999719168216633680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 27957,
+          "like_count": 192,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995078612589084982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我正在遭受最大的惡意的其中之一就是來自於跨性別社群 https://t.co/SfTeZp3yY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 141,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 288
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "19｜海豹姊姊@Siyan_Xiao｜永遠的楓葉🍁｜♚｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Siyan_Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1434608964629639168",
+        "location": "Montréal, Québec",
+        "name": "Atlantic_Sea Shark 🍂",
+        "pinned_tweet_id": "1947749953738314234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 489,
+          "like_count": 34983,
+          "listed_count": 4,
+          "media_count": 676,
+          "tweet_count": 9515
+        },
+        "username": "Sharkie_4005",
+        "verified": false
+      }
+    ]
+  }
+}

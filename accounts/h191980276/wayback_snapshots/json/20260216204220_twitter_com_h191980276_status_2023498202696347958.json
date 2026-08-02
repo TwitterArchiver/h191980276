@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2022711075297173821",
+    "created_at": "2026-02-16T20:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T21:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023498202696347958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825148164057534464",
+          "start": 0,
+          "username": "0x47653C1C_BE"
+        },
+        {
+          "end": 30,
+          "id": "1654908701772496896",
+          "start": 15,
+          "username": "tsumetaiame514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023498202696347958",
+    "in_reply_to_user_id": "1825148164057534464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023060933195735142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x47653C1C_BE @tsumetaiame514 跨女被当成男娘骂，真男娘到没事了。你这不更证明了跨女被压榨没空间，男娘空间大？你这也说了，明明是作为跨女被压榨的没空间，怎么成跨女压迫别人了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2022711075297173821",
+        "created_at": "2026-02-16T20:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T21:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023498202696347958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825148164057534464",
+              "start": 0,
+              "username": "0x47653C1C_BE"
+            },
+            {
+              "end": 30,
+              "id": "1654908701772496896",
+              "start": 15,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023498202696347958",
+        "in_reply_to_user_id": "1825148164057534464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023060933195735142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x47653C1C_BE @tsumetaiame514 跨女被当成男娘骂，真男娘到没事了。你这不更证明了跨女被压榨没空间，男娘空间大？你这也说了，明明是作为跨女被压榨的没空间，怎么成跨女压迫别人了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825148164057534464",
+        "conversation_id": "2022711075297173821",
+        "created_at": "2026-02-15T15:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023060933195735142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654908701772496896",
+              "start": 0,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023060933195735142",
+        "in_reply_to_user_id": "1654908701772496896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022711075297173821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsumetaiame514 我倒是因为快被跨女压榨的没生存空间了才从把自我认同从跨女改口为男娘的，当跨女每天要时刻被其他跨女批评媚男批评不够女心批评AG批评不化妆不努力融入女性社交批评童年期表现的不够痛苦是假跨，实在是太累了。男娘反而只要拍照好看点说话可爱点，没有人管你这的那的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 212,
+          "like_count": 1728,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 539
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T12:30:22.000Z",
+        "description": "无聊无趣无礼的幻想小号（已黑化），混乱中立，欢愉令使，如与现实相关纯属巧合。\n\n药圈历史中学到的唯一教训就是——生活推不要用大号发暴论！",
+        "id": "1825148164057534464",
+        "name": "0x47653C1C (BE)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825149328476016640/nv7fWfYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 37,
+          "like_count": 262,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 229
+        },
+        "username": "0x47653C1C_BE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "本账号含AI生成内容 This account’s content is generated by AI (Artificial Insanity).",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "AmeGPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991954477931245568/aYlWGYxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 1155,
+          "like_count": 20080,
+          "listed_count": 9,
+          "media_count": 252,
+          "tweet_count": 3852
+        },
+        "username": "tsumetaiame514",
+        "verified": false
+      }
+    ]
+  }
+}

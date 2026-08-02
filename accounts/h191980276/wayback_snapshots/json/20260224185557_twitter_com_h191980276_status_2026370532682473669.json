@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2026269068345720915",
+    "created_at": "2026-02-24T18:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T19:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026370532682473669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429365180618706945",
+          "start": 0,
+          "username": "Simone_Luxem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026370532682473669",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026269068345720915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Simone_Luxem 顺直：我不反lgbt，我反对的是lgbt要特权\n白人：我骂都不是黑人，是0元购的黑人\n男人：我反对的是搞女权的女性，不反对正常女性\n***：我镇压的是刁民，良民我不镇压的\n：我没有在搞歧视/压迫/种族主义/霸权"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2026269068345720915",
+        "created_at": "2026-02-24T18:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026370532682473669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026370532682473669",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026269068345720915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 顺直：我不反lgbt，我反对的是lgbt要特权\n白人：我骂都不是黑人，是0元购的黑人\n男人：我反对的是搞女权的女性，不反对正常女性\n***：我镇压的是刁民，良民我不镇压的\n：我没有在搞歧视/压迫/种族主义/霸权"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2026269068345720915",
+        "created_at": "2026-02-24T12:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026269068345720915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y2d80355/statu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/y2d80355/status/2025926962166796302",
+              "start": 143,
+              "url": "https://t.co/ZXwDMfYf6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026269068345720915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1387,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025926962166796302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种比较是不公平的\n就冒犯来讲，黑猫冒犯的对象是有相当话语权和生活能力的“上层跨”，并且其冒犯为非侮辱性的，并不对当事人造成伤害；而清蒸的冒犯对象是没有话语权的更加脆弱的更加容易受到伤害的“底层跨”，且其冒犯多为外貌羞辱等污辱性语言\n更何况冒犯远不是清蒸仅做了的，开盒造谣更都恶劣的多 https://t.co/ZXwDMfYf6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 225,
+          "like_count": 1919,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 613
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6180,
+          "following_count": 218,
+          "like_count": 23871,
+          "listed_count": 19,
+          "media_count": 1748,
+          "tweet_count": 21345
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

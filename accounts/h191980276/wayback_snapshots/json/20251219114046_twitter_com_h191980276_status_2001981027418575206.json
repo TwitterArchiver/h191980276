@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2001953720289153037",
+    "created_at": "2025-12-19T11:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T12:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001981027418575206"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001981027418575206",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001953720289153037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "＊未经授权的境外生殖器"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2001951190289108992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8hcADLaUAAtCVn.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2001953720289153037",
+        "created_at": "2025-12-19T11:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001981027418575206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001981027418575206",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001953720289153037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "＊未经授权的境外生殖器"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001951190289108992"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2001953720289153037",
+        "created_at": "2025-12-19T09:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001953720289153037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rokq0my1l8",
+              "end": 72,
+              "expanded_url": "https://x.com/h191980276/status/2001953720289153037/photo/1",
+              "media_key": "3_2001951190289108992",
+              "start": 49,
+              "url": "https://t.co/rokq0my1l8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001953720289153037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未经授权私自性别认同女\n反党反国家的违规跨性别行为\n非法持有rle衣物\n违法持有未经授权的生殖器 https://t.co/rokq0my1l8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 148,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 327
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

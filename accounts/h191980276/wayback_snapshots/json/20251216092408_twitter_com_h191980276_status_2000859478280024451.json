@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2000859478280024451",
+    "created_at": "2025-12-16T09:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000859478280024451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/2000719772749541799",
+          "start": 28,
+          "url": "https://t.co/Mv7SNgjgxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000859478280024451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000719772749541799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及讨好那些不为自己的脑子和思想负责的人没有任何用处。 https://t.co/Mv7SNgjgxW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000859478280024451",
+        "created_at": "2025-12-16T09:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000859478280024451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2000719772749541799",
+              "start": 28,
+              "url": "https://t.co/Mv7SNgjgxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000859478280024451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000719772749541799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及讨好那些不为自己的脑子和思想负责的人没有任何用处。 https://t.co/Mv7SNgjgxW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2000593341378170978",
+        "created_at": "2025-12-16T00:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T01:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000719772749541799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "mikotossd0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000719772749541799",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1581,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000593341378170978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotossd0106 我不知道一些人是什么垃圾人，至少我自己不会不要脸到，不仅无知到因为一两个人就要去对一整个群体产生刻板印象，还要把责任赖在这一两个人身上。\n请为自己的脑子和思想负责，人的任何主观印象最终的根源都是人自己，不要去做不负责任的巨婴。\n以及讨好那些不为自己的脑子和思想负责的人没有任何用处。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 144,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 316
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 247,
+          "like_count": 67550,
+          "listed_count": 7,
+          "media_count": 830,
+          "tweet_count": 12704
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

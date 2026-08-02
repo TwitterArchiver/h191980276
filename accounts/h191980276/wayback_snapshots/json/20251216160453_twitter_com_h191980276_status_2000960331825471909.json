@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2000960331825471909",
+    "created_at": "2025-12-16T16:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000960331825471909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shell_WO_Ghost…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Shell_WO_Ghost/status/2000954010317283362",
+          "start": 3,
+          "url": "https://t.co/0vXXb5bBbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000960331825471909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000954010317283362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实 https://t.co/0vXXb5bBbq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000960331825471909",
+        "created_at": "2025-12-16T16:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000960331825471909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shell_WO_Ghost…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Shell_WO_Ghost/status/2000954010317283362",
+              "start": 3,
+              "url": "https://t.co/0vXXb5bBbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000960331825471909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000954010317283362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实 https://t.co/0vXXb5bBbq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630596839530708994",
+        "conversation_id": "2000954010317283362",
+        "created_at": "2025-12-16T15:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000954010317283362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000954010317283362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成天想着自己一男人比女人还好看其实是一种性癖。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 145,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 319
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T15:52:53.000Z",
+        "description": "Sisters of the Moon",
+        "id": "1630596839530708994",
+        "name": "Valery Kyrie 🖤🩶🤍💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717584658559639554/eWtnF57K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 484,
+          "like_count": 2551,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 2352
+        },
+        "username": "Shell_WO_Ghost",
+        "verified": false
+      }
+    ]
+  }
+}

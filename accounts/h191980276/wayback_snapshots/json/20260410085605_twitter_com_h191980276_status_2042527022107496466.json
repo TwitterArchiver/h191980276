@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042527022107496466",
+    "created_at": "2026-04-10T08:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042527022107496466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gzg040234/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/gzg040234/status/2042495655655211446",
+          "start": 22,
+          "url": "https://t.co/19VQqKJdfm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042527022107496466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042495655655211446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧跟跟躲起来的人比勇敢，跟精神病人比正常 https://t.co/19VQqKJdfm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042527022107496466",
+        "created_at": "2026-04-10T08:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042527022107496466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gzg040234/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/gzg040234/status/2042495655655211446",
+              "start": 22,
+              "url": "https://t.co/19VQqKJdfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042527022107496466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042495655655211446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧跟跟躲起来的人比勇敢，跟精神病人比正常 https://t.co/19VQqKJdfm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858927366269157377",
+        "conversation_id": "2042148104494051375",
+        "created_at": "2026-04-10T06:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042495655655211446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851254945984741376",
+              "start": 0,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042495655655211446",
+        "in_reply_to_user_id": "1851254945984741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042148104494051375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastExeX01 明明就是逃避，想把错归结于生来的环境，自己什么也不用承担，靠虚无的快感来取得短暂的安宁而已。有什么资格字里行间讽刺正常人，连懦夫都不如。只要继续抱持着这种想法，你只会觉得不论哪里都在迫害你😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 373,
+          "like_count": 3306,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1230
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T06:13:37.000Z",
+        "description": "先天精神障碍/重度抑郁焦虑\nX号用于观察学习。机器人能不能不要私信我，不需要看片谢谢૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა",
+        "id": "858927366269157377",
+        "location": "中华人民共和国",
+        "name": "千夜一夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036844647465828352/40CiT0dD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 3960,
+          "like_count": 14399,
+          "listed_count": 15,
+          "media_count": 138,
+          "tweet_count": 660
+        },
+        "username": "gzg040234",
+        "verified": false
+      }
+    ]
+  }
+}

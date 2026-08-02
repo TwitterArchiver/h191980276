@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038699224511193358",
+    "created_at": "2026-03-30T19:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T20:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038699224511193358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhao_tito/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/zhao_tito/status/2038668273714364855",
+          "start": 2,
+          "url": "https://t.co/kwiYWYUMu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038699224511193358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038668273714364855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行 https://t.co/kwiYWYUMu9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038699224511193358",
+        "created_at": "2026-03-30T19:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038699224511193358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhao_tito/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/zhao_tito/status/2038668273714364855",
+              "start": 2,
+              "url": "https://t.co/kwiYWYUMu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038699224511193358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038668273714364855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行 https://t.co/kwiYWYUMu9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "2038668273714364855",
+        "created_at": "2026-03-30T17:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038668273714364855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038668273714364855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 72,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "阴道是指派逼\n屁眼可以有逼认同\n被操就是逼表达\n所以男同0是一种跨逼者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 341,
+          "like_count": 2980,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1053
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "El tiempo del demonio.",
+        "id": "1741075170603749376",
+        "location": "🚪40",
+        "name": "钮钴禄·有希🐰🍺",
+        "pinned_tweet_id": "2031047192593719327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034879597159096322/QuoMlwJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 1450,
+          "like_count": 28477,
+          "listed_count": 1,
+          "media_count": 1275,
+          "tweet_count": 16389
+        },
+        "username": "zhao_tito",
+        "verified": false
+      }
+    ]
+  }
+}

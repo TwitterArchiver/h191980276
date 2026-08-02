@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2016030272886608244",
+    "created_at": "2026-01-28T15:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T16:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016538237796532477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831127108791529473",
+          "start": 0,
+          "username": "Meuuuu_kk"
+        },
+        {
+          "end": 21,
+          "id": "1650521797299953665",
+          "start": 11,
+          "username": "yulingko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016538237796532477",
+    "in_reply_to_user_id": "1831127108791529473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016101357669794287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meuuuu_kk @yulingko_ 被计算机小圈子残害腌入味的是受害者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2016030272886608244",
+        "created_at": "2026-01-28T15:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016538237796532477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831127108791529473",
+              "start": 0,
+              "username": "Meuuuu_kk"
+            },
+            {
+              "end": 21,
+              "id": "1650521797299953665",
+              "start": 11,
+              "username": "yulingko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016538237796532477",
+        "in_reply_to_user_id": "1831127108791529473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016101357669794287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meuuuu_kk @yulingko_ 被计算机小圈子残害腌入味的是受害者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831127108791529473",
+        "conversation_id": "2016030272886608244",
+        "created_at": "2026-01-27T10:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016101357669794287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yulingko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016101357669794287",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016088779472437478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yulingko_ 没见过几个mtf出警这个梗的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 195,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 498
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T00:28:52.000Z",
+        "description": "记录吃饭睡觉； 男的，取向男不是百合豚 cs/linguistics/art not good 🏳️‍🌈🏳️‍⚧️",
+        "id": "1831127108791529473",
+        "name": "🥥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015506308548481024/XNQeoTA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 181,
+          "like_count": 7305,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 4499
+        },
+        "username": "Meuuuu_kk",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "非二元/医学生/摄影",
+        "id": "1650521797299953665",
+        "location": "第三公园",
+        "name": "与岭",
+        "pinned_tweet_id": "1921841960538566873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999286188415582208/BwvmE4tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 742,
+          "like_count": 69776,
+          "listed_count": 3,
+          "media_count": 739,
+          "tweet_count": 12869
+        },
+        "username": "yulingko_",
+        "verified": false
+      }
+    ]
+  }
+}

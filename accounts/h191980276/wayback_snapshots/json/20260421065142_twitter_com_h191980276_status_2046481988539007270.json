@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2046271954236395804",
+    "created_at": "2026-04-21T06:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T07:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046481988539007270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046481988539007270",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046373035628986525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2046271954236395804",
+        "created_at": "2026-04-21T06:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046481988539007270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046481988539007270",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046373035628986525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2046271954236395804",
+        "created_at": "2026-04-20T23:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046373035628986525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046373035628986525",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046271954236395804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 483,
+          "like_count": 3774,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1385
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "欢迎关注~可互fo!\n家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不割手手|174cm(有点高烦恼)|58kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，有问题或需要帮助可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.chinadlrs.com/?id=0",
+                "end": 23,
+                "expanded_url": "https://m.chinadlrs.com/?id=0",
+                "start": 0,
+                "url": "https://t.co/qfiD1C9uNS"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 454,
+          "like_count": 1115,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/qfiD1C9uNS",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

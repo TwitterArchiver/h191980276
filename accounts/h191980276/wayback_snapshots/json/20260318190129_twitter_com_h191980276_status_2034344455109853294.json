@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034344452639342592",
+        "3_2034344452379340800"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034344455109853294",
+    "created_at": "2026-03-18T19:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T20:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034344455109853294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9QnjhghLv6",
+          "end": 33,
+          "expanded_url": "https://x.com/h191980276/status/2034344455109853294/photo/1",
+          "media_key": "3_2034344452639342592",
+          "start": 10,
+          "url": "https://t.co/9QnjhghLv6"
+        },
+        {
+          "display_url": "pic.x.com/9QnjhghLv6",
+          "end": 33,
+          "expanded_url": "https://x.com/h191980276/status/2034344455109853294/photo/1",
+          "media_key": "3_2034344452379340800",
+          "start": 10,
+          "url": "https://t.co/9QnjhghLv6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034344455109853294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样物化我自己 https://t.co/9QnjhghLv6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034344452639342592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtxgFJawAA4siv.jpg",
+        "width": 1186
+      },
+      {
+        "height": 800,
+        "media_key": "3_2034344452379340800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtxgELbcAAFWjW.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034344452639342592",
+            "3_2034344452379340800"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034344455109853294",
+        "created_at": "2026-03-18T19:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T20:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034344455109853294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QnjhghLv6",
+              "end": 33,
+              "expanded_url": "https://x.com/h191980276/status/2034344455109853294/photo/1",
+              "media_key": "3_2034344452639342592",
+              "start": 10,
+              "url": "https://t.co/9QnjhghLv6"
+            },
+            {
+              "display_url": "pic.x.com/9QnjhghLv6",
+              "end": 33,
+              "expanded_url": "https://x.com/h191980276/status/2034344455109853294/photo/1",
+              "media_key": "3_2034344452379340800",
+              "start": 10,
+              "url": "https://t.co/9QnjhghLv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034344455109853294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样物化我自己 https://t.co/9QnjhghLv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 298,
+          "like_count": 2488,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 841
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

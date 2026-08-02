@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2044063252653715773",
+    "created_at": "2026-04-14T15:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044081408428417207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044081408428417207",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044063252653715773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl 这个人就是男的，想诱导mtf雄堕，这个是美国搞的东亚去雌计划，目的就是为了摧毁我们民族的阴刚之气，现在很多没有判断能力的女孩子都被这种不良文化影响了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2044063252653715773",
+        "created_at": "2026-04-14T15:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044081408428417207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044081408428417207",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044063252653715773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl 这个人就是男的，想诱导mtf雄堕，这个是美国搞的东亚去雌计划，目的就是为了摧毁我们民族的阴刚之气，现在很多没有判断能力的女孩子都被这种不良文化影响了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2044063252653715773",
+        "created_at": "2026-04-14T14:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044063252653715773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fiona02390687/…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/fiona02390687/status/1613221091916320776",
+              "start": 110,
+              "url": "https://t.co/kx3TYsOitw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044063252653715773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1613221091916320776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "田力这个字是对我最大的伤害，每看见一次都让我焦虑到想吐，更别说这个字背后全世界的压迫。逃离本不属于我的这个性别就是我这辈子最重要的事情。毕竟如果我带着那个肿瘤或者死亡报告性别还是田力我会死不瞑目。就是恨到这种程度的恨。 https://t.co/kx3TYsOitw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 428,
+          "like_count": 3471,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1310
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧|🌈|OD雌二醇",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 839,
+          "like_count": 12705,
+          "listed_count": 4,
+          "media_count": 142,
+          "tweet_count": 6451
+        },
+        "username": "Im_Just__Girl",
+        "verified": true
+      }
+    ]
+  }
+}

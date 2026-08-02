@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038595021809782872",
+    "created_at": "2026-03-30T12:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038598558119846396"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038598558119846396",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038595021809782872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到底是不清楚跨性别情况，还是很了解该对跨性别怎么操作？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038595019066716160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqLXnBaMAAxZhz.jpg",
+        "width": 955
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038595019238752256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqLXnqbQAAYwLc.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038595021809782872",
+        "created_at": "2026-03-30T12:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038598558119846396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038598558119846396",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038595021809782872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底是不清楚跨性别情况，还是很了解该对跨性别怎么操作？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038595019066716160",
+            "3_2038595019238752256"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038595021809782872",
+        "created_at": "2026-03-30T12:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038595021809782872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRA6GO0eSl",
+              "end": 166,
+              "expanded_url": "https://x.com/h191980276/status/2038595021809782872/photo/1",
+              "media_key": "3_2038595019066716160",
+              "start": 143,
+              "url": "https://t.co/MRA6GO0eSl"
+            },
+            {
+              "display_url": "pic.x.com/MRA6GO0eSl",
+              "end": 166,
+              "expanded_url": "https://x.com/h191980276/status/2038595021809782872/photo/1",
+              "media_key": "3_2038595019238752256",
+              "start": 143,
+              "url": "https://t.co/MRA6GO0eSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038595021809782872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有0个“不了解但被不沟通的跨性别攻击才应激”的顺直救助者存在，所有拿这个大张旗鼓炒作跨性别不好歹的都声称自己特了解这个群体，到底是誰不去沟通只谩骂，人小朋友一开始就是直接向温柔反应，但是有任回应吗，到现在都没法自己沟通，到现在反而都是通过炒作狗来回应，跟“跨性别不知好歹”的炒作狗沟通 https://t.co/MRA6GO0eSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 339,
+          "like_count": 2949,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1027
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

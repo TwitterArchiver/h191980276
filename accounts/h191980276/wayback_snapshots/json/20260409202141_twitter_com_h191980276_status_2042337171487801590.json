@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042298820302946804",
+    "created_at": "2026-04-09T20:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T21:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042337171487801590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042337171487801590",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042298820302946804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 抱抱宝宝，加油宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042298820302946804",
+        "created_at": "2026-04-09T20:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042337171487801590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042337171487801590",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042298820302946804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 抱抱宝宝，加油宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2042298820302946804",
+        "created_at": "2026-04-09T17:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042298820302946804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042298820302946804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好缺爱好想被人爱，从小到大家里人只跟我讲逻辑从来不讲感受没关心过我的想法 我真的很想被人爱被关心，伤心了也有人会安慰我，还会抱我，让我感受到这个世界仅存的善良，成为我的精神支柱，可惜做不到了…没有人会喜欢我 可能只有在梦里才会吧…也好，就算是虚假的也能体验到那短暂片刻被爱的感觉…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 372,
+          "like_count": 3301,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1224
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "生产日期2008 | mtf/x🏳️‍⚧️| ENTP-T | 轻度双相 | 没有x欲的废物xyn🥺&究极大爱慕😋| 🇲🇾留学生/常驻南京 欢迎来吉隆坡和南京找我玩喵 | 补药攻击窝 窝外貌就是个阴暗臭顺男😭| 最最好的大姐姐@SakurakuiGekka | 最最好的天使宝宝@Rain_Antar1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "SakurakuiGekka"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "Rain_Antar1121"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039755166614958080/PTyVGD3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 110,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 427
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

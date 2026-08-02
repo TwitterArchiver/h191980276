@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2002381223428247901",
+    "created_at": "2025-12-20T14:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T15:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002381223428247901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/D3XTR0M3TH_0w0…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/D3XTR0M3TH_0w0/status/2002235102588477821",
+          "start": 3,
+          "url": "https://t.co/MFmYEyps7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002381223428247901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002235102588477821",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈呀 https://t.co/MFmYEyps7L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002381223428247901",
+        "created_at": "2025-12-20T14:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002381223428247901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/D3XTR0M3TH_0w0…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/D3XTR0M3TH_0w0/status/2002235102588477821",
+              "start": 3,
+              "url": "https://t.co/MFmYEyps7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002381223428247901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002235102588477821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈呀 https://t.co/MFmYEyps7L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545898408858161154",
+        "conversation_id": "2002235102588477821",
+        "created_at": "2025-12-20T04:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002235102588477821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aesistn/status…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/aesistn/status/2001993603883876590",
+              "start": 68,
+              "url": "https://t.co/4ZzetOq2OY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002235102588477821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1152,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001993603883876590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ftm切胸一样的离谱啊啊（至少我在群里看到的）乳头能做到腋下去\n有人做完手术回家了开始一直流脓回去找医生，医生不回消息几小时放着没人管 https://t.co/4ZzetOq2OY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 151,
+          "like_count": 1053,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 346
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【锁推只是防止被推送出去，突然关注人=我喜欢你的内容！】你的互联网邻居橘猫｜18｜欢迎互关喵｜｜成分是：🏳️‍🌈🏳️‍⚧️💛🤍💜🖤#drugtwt #od #nonbinary #transmasc｜纯碎碎念和看中推用的｜英文圈+画画大号@StrawberryC208 ｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "od"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "tag": "transmasc"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them/猫/喵｜💉2025.8.25",
+        "name": "🐱",
+        "pinned_tweet_id": "1988250233873330540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984325946498039810/TY9VUb41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 813,
+          "like_count": 1661,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 1485
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

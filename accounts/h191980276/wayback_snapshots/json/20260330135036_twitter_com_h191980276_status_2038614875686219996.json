@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038614875686219996",
+    "created_at": "2026-03-30T13:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038614875686219996"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038614875686219996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得就是很变态的，越是牺牲了越是伟大，就是做错了伤害了才证明伟大，越错了就越对了，就是错了才说明对了，越伤害了，证明我背负的越多，越证明我做对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038614875686219996",
+        "created_at": "2026-03-30T13:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038614875686219996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038614875686219996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得就是很变态的，越是牺牲了越是伟大，就是做错了伤害了才证明伟大，越错了就越对了，就是错了才说明对了，越伤害了，证明我背负的越多，越证明我做对了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 339,
+          "like_count": 2955,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1034
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

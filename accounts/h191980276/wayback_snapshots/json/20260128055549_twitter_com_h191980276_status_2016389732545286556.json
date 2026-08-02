@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2015979004080300277",
+    "created_at": "2026-01-28T05:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016389732545286556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662723831533027329",
+          "start": 0,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016389732545286556",
+    "in_reply_to_user_id": "1662723831533027329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015979004080300277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loong001116 与此同时跨性别又要被鉴跨，不媚顺不焦虑可怜兮兮抬屁股渴望被顺直认可就是假跨，但是男同沾上雌了就是跨，就是想mis别人gender，就是找事恶心人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2015979004080300277",
+        "created_at": "2026-01-28T05:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016389732545286556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662723831533027329",
+              "start": 0,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016389732545286556",
+        "in_reply_to_user_id": "1662723831533027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015979004080300277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loong001116 与此同时跨性别又要被鉴跨，不媚顺不焦虑可怜兮兮抬屁股渴望被顺直认可就是假跨，但是男同沾上雌了就是跨，就是想mis别人gender，就是找事恶心人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "2015979004080300277",
+        "created_at": "2026-01-27T02:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T03:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015979004080300277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lustre_Blade/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Lustre_Blade/status/2015978338255569130",
+              "start": 13,
+              "url": "https://t.co/UwlXe65yah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015979004080300277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16597,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015978338255569130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他不喜欢雌激素，能明白？ https://t.co/UwlXe65yah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 190,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 483
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "仅仅只是激进酷儿主义，亲酷儿的女权和男权我都会关注，介意可block",
+        "id": "1662723831533027329",
+        "location": "Mars",
+        "name": "8骟顺✂️9图直🔪6劳荣枝4(🏳️‍🌈🏳️‍⚧互fo)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008924596767260672/WIx1CBN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 1214,
+          "like_count": 4163,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 3097
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "1999816985530835207",
+    "created_at": "2025-12-13T12:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T13:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999816985530835207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896175390005342208",
+          "start": 3,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999816985530835207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999556389522534430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chufeinya: 许多人坚守的二元的跨性别其实是一种宗教\n上帝是 目标性别的标准的顺性别者\n天堂是 在「来世」成为目标性别的顺性别者\n教义是 要不择余地的通过药物，手术等方式使自身更加接近目标性别的标准顺性别者；与自身目标性别标准不一致的一切表达都是不纯洁的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "1999816985530835207",
+        "created_at": "2025-12-13T12:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999816985530835207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896175390005342208",
+              "start": 3,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999816985530835207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999556389522534430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chufeinya: 许多人坚守的二元的跨性别其实是一种宗教\n上帝是 目标性别的标准的顺性别者\n天堂是 在「来世」成为目标性别的顺性别者\n教义是 要不择余地的通过药物，手术等方式使自身更加接近目标性别的标准顺性别者；与自身目标性别标准不一致的一切表达都是不纯洁的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896175390005342208",
+        "conversation_id": "1999556389522534430",
+        "created_at": "2025-12-12T19:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T20:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999556389522534430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999556389522534430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 819,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "许多人坚守的二元的跨性别其实是一种宗教\n上帝是 目标性别的标准的顺性别者\n天堂是 在「来世」成为目标性别的顺性别者\n教义是 要不择余地的通过药物，手术等方式使自身更加接近目标性别的标准顺性别者；与自身目标性别标准不一致的一切表达都是不纯洁的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 140,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 284
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉",
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "1999556389522534430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 1533,
+          "like_count": 14766,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 867
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060749952935141817",
+    "created_at": "2026-05-31T15:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061104204899557640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        },
+        {
+          "end": 25,
+          "id": "1069931275698335744",
+          "start": 11,
+          "username": "TponyS_xiaoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061104204899557640",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061073110921879841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiey57828 @TponyS_xiaoma 一定要帮别人编借口吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060749952935141817",
+        "created_at": "2026-05-31T15:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061104204899557640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            },
+            {
+              "end": 25,
+              "id": "1069931275698335744",
+              "start": 11,
+              "username": "TponyS_xiaoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061104204899557640",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061073110921879841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 @TponyS_xiaoma 一定要帮别人编借口吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2060749952935141817",
+        "created_at": "2026-05-31T13:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061073110921879841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069931275698335744",
+              "start": 0,
+              "username": "TponyS_xiaoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061073110921879841",
+        "in_reply_to_user_id": "1069931275698335744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060749952935141817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TponyS_xiaoma 大概是新的药娘遇到了自称无糖跨的某些男的，被骗了，然后跳出来骂无糖跨…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 511,
+          "like_count": 4321,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1808
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "MtF🍑有证含糖，喜欢@StarryNocts。猫猫叶@DontLeaveMao好好生活哦。看不惯我的就滚😅视力四级残疾，大概30岁之前会瞎然后死掉。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "DontLeaveMao"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "村里",
+        "name": "沐桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055967555228172288/mgsz5OLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 373,
+          "like_count": 6913,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 2547
+        },
+        "username": "xiey57828",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "2055297632613106174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055113613850144769/k_Qc-JmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17445,
+          "following_count": 363,
+          "like_count": 5479,
+          "listed_count": 120,
+          "media_count": 725,
+          "tweet_count": 6717
+        },
+        "username": "TponyS_xiaoma",
+        "verified": false
+      }
+    ]
+  }
+}

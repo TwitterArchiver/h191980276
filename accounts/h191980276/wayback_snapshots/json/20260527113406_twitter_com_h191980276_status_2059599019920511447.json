@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059599019920511447",
+    "created_at": "2026-05-27T11:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059599019920511447"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059599019920511447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就觉得可搞笑了，就平时哪怕有顺直小孩被影响的可。能。性。那都行（更别说主动干预了）不能脏到一点眼。甚至这个义务还是性少数有义务保障顺直小孩不能“走歪”。但是一到性少数就又扭转对，没成就不算扭转，扭转成了说明对，说明心不诚了。就这还有一堆性少数自己都是这样想的，不知道脑子怎么长的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059599019920511447",
+        "created_at": "2026-05-27T11:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059599019920511447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059599019920511447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就觉得可搞笑了，就平时哪怕有顺直小孩被影响的可。能。性。那都行（更别说主动干预了）不能脏到一点眼。甚至这个义务还是性少数有义务保障顺直小孩不能“走歪”。但是一到性少数就又扭转对，没成就不算扭转，扭转成了说明对，说明心不诚了。就这还有一堆性少数自己都是这样想的，不知道脑子怎么长的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 507,
+          "like_count": 4259,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1744
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

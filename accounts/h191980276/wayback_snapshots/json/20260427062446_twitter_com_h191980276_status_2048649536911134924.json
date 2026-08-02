@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2048649536911134924",
+    "created_at": "2026-04-27T06:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T07:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048649536911134924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangdan1989/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/wangdan1989/status/2048580717567971489",
+          "start": 6,
+          "url": "https://t.co/FyyreJ8RxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048649536911134924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048580717567971489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "揉面团主义 https://t.co/FyyreJ8RxD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2048649536911134924",
+        "created_at": "2026-04-27T06:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048649536911134924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangdan1989/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/wangdan1989/status/2048580717567971489",
+              "start": 6,
+              "url": "https://t.co/FyyreJ8RxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048649536911134924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048580717567971489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "揉面团主义 https://t.co/FyyreJ8RxD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "98864871",
+        "conversation_id": "2048580717567971489",
+        "created_at": "2026-04-27T01:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048580717567971489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048580717567971489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实，不管你的立场是左派还是右派，都各有一定的道理，都是可以对话的。\n\n但那些极端的人不一样，他们的心中，常常充满了仇恨。而且不是一般的仇恨，是那种：\n\n不分青红皂白的仇恨，莫名其妙的仇恨，歇斯底里的仇恨，不容分说的仇恨。他们不跟你对话，他们就是恨你。\n\n心中有这样的仇恨的人，不分左右，都是社会的公敌。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5625,
+          "like_count": 117,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "其实，不管你的立场是左派还是右派，都各有一定的道理，都是可以对话的。\n\n但那些极端的人不一样，他们的心中，常常充满了仇恨。而且不是一般的仇恨，是那种：\n\n不分青红皂白的仇恨，莫名其妙的仇恨，歇斯底里的仇恨，不容分说的仇恨。他们不跟你对话，他们就是恨你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 492,
+          "like_count": 3993,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1491
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-23T12:05:30.000Z",
+        "description": "一个不可救药的理想主义者； 致力于做一个温和，坚定，建设性的政治反对派； 期待未来的中国，能够重建政治秩序和生活秩序。 油管：王丹学堂；个人PayPal账户：https://t.co/31K0DAWhJK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.me/wangdan1989",
+                "end": 102,
+                "expanded_url": "http://www.paypal.me/wangdan1989",
+                "start": 79,
+                "url": "https://t.co/31K0DAWhJK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCAbpB…",
+                "end": 23,
+                "expanded_url": "http://youtube.com/channel/UCAbpBUsrolyu6HvwPcmhXZw",
+                "start": 0,
+                "url": "https://t.co/2Nz8cyeo2Z"
+              }
+            ]
+          }
+        },
+        "id": "98864871",
+        "name": "王丹",
+        "pinned_tweet_id": "2039413410409107835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/986803942205022208/v3mMEbZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373552,
+          "following_count": 12839,
+          "like_count": 8828,
+          "listed_count": 1911,
+          "media_count": 3024,
+          "tweet_count": 21311
+        },
+        "url": "https://t.co/2Nz8cyeo2Z",
+        "username": "wangdan1989",
+        "verified": true
+      }
+    ]
+  }
+}

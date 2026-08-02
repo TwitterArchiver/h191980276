@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2006613101039562995",
+    "created_at": "2026-01-01T06:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T07:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006618573901541680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980334028239798273",
+          "start": 0,
+          "username": "lnyn267348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006618573901541680",
+    "in_reply_to_user_id": "1980334028239798273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006613101039562995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnyn267348 玩sm的也有安全词的，怎么就违背意愿了，这人懂不懂sm啊，拿sm给强奸洗真牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2006613101039562995",
+        "created_at": "2026-01-01T06:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006618573901541680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980334028239798273",
+              "start": 0,
+              "username": "lnyn267348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006618573901541680",
+        "in_reply_to_user_id": "1980334028239798273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006613101039562995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnyn267348 玩sm的也有安全词的，怎么就违背意愿了，这人懂不懂sm啊，拿sm给强奸洗真牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980334028239798273",
+        "conversation_id": "2006613101039562995",
+        "created_at": "2026-01-01T06:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006613101039562995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h2o2333/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/h2o2333/status/2006345023210832174",
+              "start": 31,
+              "url": "https://t.co/yBgmUqy6fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006613101039562995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006345023210832174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一堆人对着这条法规哈气干什么，我懂了都是强奸犯，都是董志民😁 https://t.co/yBgmUqy6fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 169,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 416
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T18:03:29.000Z",
+        "description": "无政府主义、自由女权主义、LGBTQ+权益",
+        "id": "1980334028239798273",
+        "name": "🏳️‍🌈青木里美🏳️‍⚧️🏴🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998659878756450304/fq9Ee1Mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 117,
+          "like_count": 2960,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 657
+        },
+        "username": "lnyn267348",
+        "verified": false
+      }
+    ]
+  }
+}

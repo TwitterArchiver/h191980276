@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2020911060400931003",
+    "created_at": "2026-02-09T17:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T18:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020917854514630995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935176310663401472",
+          "start": 0,
+          "username": "S_Hyoscine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020917854514630995",
+    "in_reply_to_user_id": "1935176310663401472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020911060400931003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Hyoscine 这不就情感纠纷吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2020911060400931003",
+        "created_at": "2026-02-09T17:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020917854514630995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020917854514630995",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020911060400931003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine 这不就情感纠纷吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935176310663401472",
+        "conversation_id": "2020911060400931003",
+        "created_at": "2026-02-09T17:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:20:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020910723258536281",
+          "2020911060400931003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yujiudu/status…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/yujiudu/status/2020865239990882512",
+              "start": 113,
+              "url": "https://t.co/OrxSEyLc47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020911060400931003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020865239990882512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我成play的一环了？\n我发誓我这辈子再也不会碰跨圈这些破事，结结实实当了一次自己最讨厌的霸凌者……想死的心都有\n给所有看了我的转贴的人道歉，也给被挂的当事人道歉，我不明真相未加核实就对这种信息进行传播，是我的错，对不起 https://t.co/OrxSEyLc47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 206,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 532
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "陪聊门槛50//抽象苹果粉//自由万岁/@hood438371无能的妻子//生产日期：07.03.22//要是不喜欢你的发言和观点就可能会b你//知不可乎骤得，托遗响于悲风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "hood438371"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "location": "三里屯水果批发市场",
+        "name": "春雪狐与东莨🍥",
+        "pinned_tweet_id": "2016068038773375401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005380683292983296/Iictc7oI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 850,
+          "like_count": 22315,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 5611
+        },
+        "username": "S_Hyoscine",
+        "verified": true
+      }
+    ]
+  }
+}

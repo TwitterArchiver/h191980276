@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038903447228162109",
+    "created_at": "2026-03-31T08:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038903447228162109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906829343480938496",
+          "start": 3,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038903447228162109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038902670191378524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nevernessian: 然后反过来说你如果真的相信这事离了某几个特定的人干不了，或者理解为这些人有一些别人完全无法获得的能力，那不是一件很恐怖的事情吗？毕竟“有别人无法获得的能力”大部分时候意味着它来自暴力机器🤔我倒不是说真的是这样，我只是觉得这种逻辑很奇怪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038903447228162109",
+        "created_at": "2026-03-31T08:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038903447228162109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906829343480938496",
+              "start": 3,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038903447228162109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038902670191378524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nevernessian: 然后反过来说你如果真的相信这事离了某几个特定的人干不了，或者理解为这些人有一些别人完全无法获得的能力，那不是一件很恐怖的事情吗？毕竟“有别人无法获得的能力”大部分时候意味着它来自暴力机器🤔我倒不是说真的是这样，我只是觉得这种逻辑很奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906829343480938496",
+        "conversation_id": "2038901505634570333",
+        "created_at": "2026-03-31T08:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038902670191378524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038902670191378524",
+        "in_reply_to_user_id": "906829343480938496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038901505634570333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后反过来说你如果真的相信这事离了某几个特定的人干不了，或者理解为这些人有一些别人完全无法获得的能力，那不是一件很恐怖的事情吗？毕竟“有别人无法获得的能力”大部分时候意味着它来自暴力机器🤔我倒不是说真的是这样，我只是觉得这种逻辑很奇怪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 347,
+          "like_count": 3029,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1088
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "1892401849107415113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 94,
+          "like_count": 5717,
+          "listed_count": 7,
+          "media_count": 854,
+          "tweet_count": 6515
+        },
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

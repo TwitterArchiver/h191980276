@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2015306406736662570",
+    "created_at": "2026-01-25T06:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T07:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015311901920809035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1448187795571286017",
+          "start": 0,
+          "username": "mudaixingzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015311901920809035",
+    "in_reply_to_user_id": "1448187795571286017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015306406736662570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mudaixingzi 怎么又是这种小偷，从跨性别社群偷知识，反手就说跨性别都不懂，都是我教的，得听我教。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2015306406736662570",
+        "created_at": "2026-01-25T06:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015311901920809035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "mudaixingzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015311901920809035",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015306406736662570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mudaixingzi 怎么又是这种小偷，从跨性别社群偷知识，反手就说跨性别都不懂，都是我教的，得听我教。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448187795571286017",
+        "conversation_id": "2015306406736662570",
+        "created_at": "2026-01-25T06:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015306406736662570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZaoTon618/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/ZaoTon618/status/2015223242764775573",
+              "start": 138,
+              "url": "https://t.co/HmLv3dDa9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015306406736662570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015223242764775573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "激素可以改变身材，有些顺女为了稳定经期之类的长期吃短效避孕药都会发现自己胸长了呢，更别提对面部和臀部的脂肪重新分布了，虽然没法避免长胡子，但是可以规避很多雄激素导致的性征问题和疾病，吃激素也是努力改变自己的一部分，这种慰藉从心理和生理上对跨性别的安全感是无法替代的，该吃就吃 https://t.co/HmLv3dDa9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 190,
+          "like_count": 1448,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 470
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "",
+        "id": "1448187795571286017",
+        "name": "ジャンキー",
+        "pinned_tweet_id": "2000885248582979866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014576800844939267/Ku6mm54L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4541,
+          "following_count": 109,
+          "like_count": 45968,
+          "listed_count": 15,
+          "media_count": 2164,
+          "tweet_count": 16148
+        },
+        "username": "mudaixingzi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059128439320215904",
+    "created_at": "2026-05-26T05:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059143312024682715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757152910683852800",
+          "start": 0,
+          "username": "qslzy1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059143312024682715",
+    "in_reply_to_user_id": "1757152910683852800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059130215897481456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qslzy1225 资本激化内部矛盾转移矛盾？比如你不就被煽动转移去攻击边缘群体觉得坏事都是他们干的了😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059128439320215904",
+        "created_at": "2026-05-26T05:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059143312024682715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757152910683852800",
+              "start": 0,
+              "username": "qslzy1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059143312024682715",
+        "in_reply_to_user_id": "1757152910683852800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059130215897481456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qslzy1225 资本激化内部矛盾转移矛盾？比如你不就被煽动转移去攻击边缘群体觉得坏事都是他们干的了😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757152910683852800",
+        "conversation_id": "2059128439320215904",
+        "created_at": "2026-05-26T04:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059130215897481456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059130215897481456",
+        "in_reply_to_user_id": "1757152910683852800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059129496746197442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后，「误以为自己是跨性别」这点正是最重要的，也是资本想做、正在做的。资本追求扩张增值，它会在人民中支持一部分群体，让人民从内部分化，进而忽略主要矛盾也就是阶级矛盾，坐稳自己剥削阶级的宝座。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 509,
+          "like_count": 4225,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1715
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:22:07.000Z",
+        "description": "LGBTQ+ Ally｜马克思主义者｜二游玩家｜理性，包容，进步，思考｜认清形势，放弃幻想，准备斗争｜你说，我在听",
+        "id": "1757152910683852800",
+        "location": "Harbin,Heilongjiang,China",
+        "name": "青松",
+        "pinned_tweet_id": "2059119484187611418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757153133611171840/Bi-ESVPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 43,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 115
+        },
+        "username": "qslzy1225",
+        "verified": false
+      }
+    ]
+  }
+}

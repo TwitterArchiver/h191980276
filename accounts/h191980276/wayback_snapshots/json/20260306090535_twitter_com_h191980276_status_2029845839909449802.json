@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2029845839909449802",
+    "created_at": "2026-03-06T09:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T10:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029845839909449802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Im_Just__Girl/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Im_Just__Girl/status/2029399019827638772",
+          "start": 19,
+          "url": "https://t.co/Ve4whAzdxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029845839909449802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029399019827638772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前脚说不歧视没有迫害，后脚说迫害有理 https://t.co/Ve4whAzdxN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2029845839909449802",
+        "created_at": "2026-03-06T09:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029845839909449802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/2029399019827638772",
+              "start": 19,
+              "url": "https://t.co/Ve4whAzdxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029845839909449802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029399019827638772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前脚说不歧视没有迫害，后脚说迫害有理 https://t.co/Ve4whAzdxN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2029399019827638772",
+        "created_at": "2026-03-05T03:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029399019827638772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029399019827638772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9112,
+          "like_count": 72,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自从我知道赵博是个老粉红，听到音频里面他替中国当前迫害跨性别，不给跨性别手术报销，不给学历更新的暴政洗地的时候，我就不可能去411做手术。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 234,
+          "like_count": 2106,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 666
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧|🌈|OD雌二醇",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 745,
+          "like_count": 11328,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 5815
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      }
+    ]
+  }
+}

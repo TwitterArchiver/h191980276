@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2048719798763397378",
+    "created_at": "2026-04-27T11:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048719798763397378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yantanzhang/st…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/yantanzhang/status/2048562773031002124",
+          "start": 127,
+          "url": "https://t.co/rWWsRQsDmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048719798763397378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048562773031002124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这只能说什么强迫跨性别小孩变性的是顺畜，强迫顺性别小孩变性的还是顺畜。为了满足自己性想象教唆小孩性别认同，强迫小孩性别表达胁迫 暴力，非法拘禁，意识形态煽动什么手段没用过，看看那么多扭转机构开着顺畜早就无法无天了，只能说明顺畜一天不处，世界就一天不安宁 https://t.co/rWWsRQsDmh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2048480864951267328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2qfkya8AABoAS.jpg",
+        "width": 887
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2048480913701613568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2qiaZaMAALvqV.jpg",
+        "width": 887
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2048480953639874560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2qkvLbsAAqy9R.jpg",
+        "width": 887
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2048481000930639872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2qnfWbgAAO3q7.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2048719798763397378",
+        "created_at": "2026-04-27T11:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048719798763397378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yantanzhang/st…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/yantanzhang/status/2048562773031002124",
+              "start": 127,
+              "url": "https://t.co/rWWsRQsDmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048719798763397378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048562773031002124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这只能说什么强迫跨性别小孩变性的是顺畜，强迫顺性别小孩变性的还是顺畜。为了满足自己性想象教唆小孩性别认同，强迫小孩性别表达胁迫 暴力，非法拘禁，意识形态煽动什么手段没用过，看看那么多扭转机构开着顺畜早就无法无天了，只能说明顺畜一天不处，世界就一天不安宁 https://t.co/rWWsRQsDmh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048480864951267328",
+            "3_2048480913701613568",
+            "3_2048480953639874560",
+            "3_2048481000930639872"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "2048562773031002124",
+        "created_at": "2026-04-27T00:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048562773031002124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TA2XgVe9Lh",
+              "end": 158,
+              "expanded_url": "https://x.com/yantanzhang/status/2048562773031002124/photo/1",
+              "media_key": "3_2048480864951267328",
+              "start": 135,
+              "url": "https://t.co/TA2XgVe9Lh"
+            },
+            {
+              "display_url": "pic.x.com/TA2XgVe9Lh",
+              "end": 158,
+              "expanded_url": "https://x.com/yantanzhang/status/2048562773031002124/photo/1",
+              "media_key": "3_2048480913701613568",
+              "start": 135,
+              "url": "https://t.co/TA2XgVe9Lh"
+            },
+            {
+              "display_url": "pic.x.com/TA2XgVe9Lh",
+              "end": 158,
+              "expanded_url": "https://x.com/yantanzhang/status/2048562773031002124/photo/1",
+              "media_key": "3_2048480953639874560",
+              "start": 135,
+              "url": "https://t.co/TA2XgVe9Lh"
+            },
+            {
+              "display_url": "pic.x.com/TA2XgVe9Lh",
+              "end": 158,
+              "expanded_url": "https://x.com/yantanzhang/status/2048562773031002124/photo/1",
+              "media_key": "3_2048481000930639872",
+              "start": 135,
+              "url": "https://t.co/TA2XgVe9Lh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048562773031002124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 76242,
+          "like_count": 334,
+          "quote_count": 15,
+          "reply_count": 155,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "逆天妈妈把儿子当女儿养，七八岁开始给孩子吃糖当药娘，美名其曰“支持孩子做自己”\n\n七八岁的孩子处于前青春期，性取向和性别认同的稳定形成要到青春期甚至更晚，儿童期出现“性别不一致”很常见，多数会在青春期自然缓解或消失，这很可能不是孩子的自由选择，而是家长刻意引导导致的。 https://t.co/TA2XgVe9Lh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 493,
+          "like_count": 4000,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1497
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48289,
+          "following_count": 298,
+          "like_count": 3296,
+          "listed_count": 133,
+          "media_count": 4613,
+          "tweet_count": 5669
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

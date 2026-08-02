@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2039284159794049058",
+    "created_at": "2026-04-22T13:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046942542286270922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20425…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2042596152936366376",
+          "start": 0,
+          "url": "https://t.co/361bs5Prvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046942542286270922",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042596152936366376",
+        "type": "quoted"
+      },
+      {
+        "id": "2039284159794049058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/361bs5Prvt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2039284159794049058",
+        "created_at": "2026-04-22T13:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046942542286270922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20425…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2042596152936366376",
+              "start": 0,
+              "url": "https://t.co/361bs5Prvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046942542286270922",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042596152936366376",
+            "type": "quoted"
+          },
+          {
+            "id": "2039284159794049058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/361bs5Prvt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042596152936366376",
+        "created_at": "2026-04-10T13:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042596152936366376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/h191980276/status/2041671332753240145",
+              "start": 126,
+              "url": "https://t.co/Xw3t1WHg6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042596152936366376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041671332753240145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我老早就说过推上所谓的“跨圈”就是chaser圈，是chaser的圈子，也就是友跨人士、“为跨性别做贡献做实事的人”的圈子，那些整天跨圈如何跨圈如何来精神享乐，但是“我不混圈子”的人的圈子，但是我又给忘了，产生了不切实际的幻想，上久了推迷惑性真的很大 https://t.co/Xw3t1WHg6n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2039284159794049058",
+        "created_at": "2026-04-01T10:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039284159794049058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youshiko112/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/youshiko112/status/2039160042407297321",
+              "start": 6,
+              "url": "https://t.co/oSOlEiojyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039284159794049058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2158,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039160042407297321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会好的，吧 https://t.co/oSOlEiojyg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 485,
+          "like_count": 3831,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1403
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

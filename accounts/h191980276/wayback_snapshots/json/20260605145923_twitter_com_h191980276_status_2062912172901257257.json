@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062907325275587061",
+    "created_at": "2026-06-05T14:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062912172901257257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432351612182229001",
+          "start": 0,
+          "username": "Merlyn_Void"
+        },
+        {
+          "end": 26,
+          "id": "1846949815755984897",
+          "start": 13,
+          "username": "Miller239374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062912172901257257",
+    "in_reply_to_user_id": "1432351612182229001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062907325275587061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merlyn_Void @Miller239374 去劳动市场上出卖劳动力是不是主动商品化自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062907325275587061",
+        "created_at": "2026-06-05T14:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062912172901257257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432351612182229001",
+              "start": 0,
+              "username": "Merlyn_Void"
+            },
+            {
+              "end": 26,
+              "id": "1846949815755984897",
+              "start": 13,
+              "username": "Miller239374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062912172901257257",
+        "in_reply_to_user_id": "1432351612182229001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062907325275587061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merlyn_Void @Miller239374 去劳动市场上出卖劳动力是不是主动商品化自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432351612182229001",
+        "conversation_id": "2062907325275587061",
+        "created_at": "2026-06-05T14:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:30:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062904954474659888",
+          "2062907325275587061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainzeewang/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/rainzeewang/status/2062885916436488622",
+              "start": 142,
+              "url": "https://t.co/TGemFTyBXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062907325275587061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“主动商品化自己”，是谁在主动？是主体主动？还是被资本、父权制、算法、美学规训塑造出来的欲望在主动？性工作者怎么样知道身体能被一般等价物作为计价对象呢？你上班也是在商品化自己，区别只是商品化是通过抽象完成，还是通过可见性完成，甚至为了卖得更贵还当了许多年做题蛆。只不过意识形态机制划分了什么是“可尊敬的” 什么是“羞耻的”\n\n你应该深究为什么女性或从事性行业的人被放置在能够通过身体实现价值的位置。毕竟自由本身就是权力生产出来的形式，主体没有自由意志但是有结构内部进行偏移、误用、重组和断裂的能力"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062885916436488622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“主动商品化自己”，是谁在主动？是主体主动？还是被资本、父权制、算法、美学规训塑造出来的欲望在主动？性工作者怎么样知道身体能被一般等价物作为计价对象呢？你上班也是在商品化自己，区别只是商品化是通过抽象完成，还是通过可见性完成，甚至为了卖得更贵还当了许多年做题蛆。只不过意识形态机制划 https://t.co/TGemFTyBXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 514,
+          "like_count": 4392,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 1888
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。\n我有恋高癖 ๑ᦲ 𖥦 ᦲ๑\n喜欢的动物是信天翁",
+        "id": "1432351612182229001",
+        "location": "🚪288",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "2049105797842665732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24525,
+          "following_count": 246,
+          "like_count": 12584,
+          "listed_count": 51,
+          "media_count": 63,
+          "tweet_count": 3985
+        },
+        "username": "Merlyn_Void",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "“当下时间的每一瞬光阴，都是弥赛亚侧身而入的窄门。”|\n左翼尼采主义 | 交叉性女权主义 | 自由意志社会主义 |\n用 伊/伊等 取代 他/她/他们/她们 作为全性别中立的中文第三人称代词",
+        "id": "1846949815755984897",
+        "location": "柠檬汁海洋",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 367,
+          "like_count": 11727,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 2285
+        },
+        "username": "Miller239374",
+        "verified": false
+      }
+    ]
+  }
+}

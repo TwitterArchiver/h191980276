@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047970054520864806",
+    "created_at": "2026-04-25T09:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047973028185936113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047973028185936113",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047970054520864806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 局势不对别和你妈硬掰就行，装装乖也别太把底交了，家里人要是不清醒走极端了咱未成年人可扛不住呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047970054520864806",
+        "created_at": "2026-04-25T09:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047973028185936113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047973028185936113",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047970054520864806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 局势不对别和你妈硬掰就行，装装乖也别太把底交了，家里人要是不清醒走极端了咱未成年人可扛不住呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764195010986274816",
+        "conversation_id": "2047970054520864806",
+        "created_at": "2026-04-25T09:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047970054520864806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047970054520864806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周四去佛山精卫（第三人民医院）看肖医生，心里挺矛盾的也不知道要不要借医生曲线出柜，推u们有啥建议吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 491,
+          "like_count": 3946,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1466
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD 平等地尊重同样尊重我的人 | 炫压抑高手 | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器 | 爱玩战雷/P3D/Roblox… \n宝宝：@InnoARoma_Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 146,
+                "username": "InnoARoma_Rt"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(求fo版)🍥",
+        "pinned_tweet_id": "2047333219046232182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 393,
+          "like_count": 8008,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 868
+        },
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2033280810409951379",
+    "created_at": "2026-03-15T21:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T22:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033291608851145103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006187054334619648",
+          "start": 0,
+          "username": "QwQb119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033291608851145103",
+    "in_reply_to_user_id": "2006187054334619648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033280810409951379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQb119 愤怒就对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2033280810409951379",
+        "created_at": "2026-03-15T21:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T22:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033291608851145103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006187054334619648",
+              "start": 0,
+              "username": "QwQb119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033291608851145103",
+        "in_reply_to_user_id": "2006187054334619648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033280810409951379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQb119 愤怒就对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006187054334619648",
+        "conversation_id": "2033280810409951379",
+        "created_at": "2026-03-15T20:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T21:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033280810409951379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033280810409951379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得很愤怒，这种愤怒让我不理性，很可能会这样会错话，打字时手都在抖心跳加速，反击的肾上腺素上来了。\n我不管对男女都没有认同感，只是单纯的能够同理同情别人，却经常被指责我不是他们一员永远没法了解他们。\n但我尽力了，也耗尽言语了，我不想成为加害者我在努力，但似乎我的出生就被否定。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 280,
+          "like_count": 2366,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 782
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T02:14:16.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍\n@QAQ_xwx\n 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "2006187054334619648",
+        "location": "30樓的地下室",
+        "name": "Θώθ!!!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006206865307578368/zceldKFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 153,
+          "like_count": 3997,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2023
+        },
+        "username": "QwQb119",
+        "verified": false
+      }
+    ]
+  }
+}

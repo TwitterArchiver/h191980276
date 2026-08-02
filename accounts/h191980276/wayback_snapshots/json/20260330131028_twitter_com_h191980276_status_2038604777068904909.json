@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038604777068904909",
+    "created_at": "2026-03-30T13:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038604777068904909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/h191980276/status/2038595021809782872",
+          "start": 142,
+          "url": "https://t.co/Ns0fIDqYfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038604777068904909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038595021809782872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这里头最不平等的不知道你们能不能注意到，就是“真正做实事”的友跨跨，能拿温挡箭，一口一个我们，帮温柔到处咬人训人要服从友好顺直，但是温柔随时都切割，没有义务帮助跨，没有义务尊重跨，或者或者那些狗叫跟他都没关系，啊是没考虑会改正没有仇恨跨性别啦，等哪天温柔全改口你们都得被打成猪狗都不 https://t.co/Ns0fIDqYfZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038595019066716160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqLXnBaMAAxZhz.jpg",
+        "width": 955
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038595019238752256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqLXnqbQAAYwLc.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038604777068904909",
+        "created_at": "2026-03-30T13:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038604777068904909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/h191980276/status/2038595021809782872",
+              "start": 142,
+              "url": "https://t.co/Ns0fIDqYfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038604777068904909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038595021809782872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里头最不平等的不知道你们能不能注意到，就是“真正做实事”的友跨跨，能拿温挡箭，一口一个我们，帮温柔到处咬人训人要服从友好顺直，但是温柔随时都切割，没有义务帮助跨，没有义务尊重跨，或者或者那些狗叫跟他都没关系，啊是没考虑会改正没有仇恨跨性别啦，等哪天温柔全改口你们都得被打成猪狗都不 https://t.co/Ns0fIDqYfZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038595019066716160",
+            "3_2038595019238752256"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038595021809782872",
+        "created_at": "2026-03-30T12:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038595021809782872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRA6GO0eSl",
+              "end": 166,
+              "expanded_url": "https://x.com/h191980276/status/2038595021809782872/photo/1",
+              "media_key": "3_2038595019066716160",
+              "start": 143,
+              "url": "https://t.co/MRA6GO0eSl"
+            },
+            {
+              "display_url": "pic.x.com/MRA6GO0eSl",
+              "end": 166,
+              "expanded_url": "https://x.com/h191980276/status/2038595021809782872/photo/1",
+              "media_key": "3_2038595019238752256",
+              "start": 143,
+              "url": "https://t.co/MRA6GO0eSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038595021809782872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 198,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有0个“不了解但被不沟通的跨性别攻击才应激”的顺直救助者存在，所有拿这个大张旗鼓炒作跨性别不好歹的都声称自己特了解这个群体，到底是誰不去沟通只谩骂，人小朋友一开始就是直接向温柔反应，但是有任回应吗，到现在都没法自己沟通，到现在反而都是通过炒作狗来回应，跟“跨性别不知好歹”的炒作狗沟通 https://t.co/MRA6GO0eSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 339,
+          "like_count": 2950,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1028
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043665844019064967",
+    "created_at": "2026-04-13T13:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043681972082634787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888562153004929024",
+          "start": 0,
+          "username": "ST_Bed0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043681972082634787",
+    "in_reply_to_user_id": "1888562153004929024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043665844019064967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ST_Bed0721 但是我还是要说hrt不是缓解焦虑用的，正是因为有hrt是缓解焦虑用的思维这个前提下，才会促进出hrt是更能证明自己更“跨”的想法"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2043665841749929984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyPQVkasAAJDAw.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043665844019064967",
+        "created_at": "2026-04-13T13:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043681972082634787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888562153004929024",
+              "start": 0,
+              "username": "ST_Bed0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043681972082634787",
+        "in_reply_to_user_id": "1888562153004929024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043665844019064967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ST_Bed0721 但是我还是要说hrt不是缓解焦虑用的，正是因为有hrt是缓解焦虑用的思维这个前提下，才会促进出hrt是更能证明自己更“跨”的想法"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043665841749929984"
+          ]
+        },
+        "author_id": "1888562153004929024",
+        "conversation_id": "2043665844019064967",
+        "created_at": "2026-04-13T12:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043665844019064967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xh0b2W2Y4Y",
+              "end": 92,
+              "expanded_url": "https://x.com/ST_Bed0721/status/2043665844019064967/photo/1",
+              "media_key": "3_2043665841749929984",
+              "start": 69,
+              "url": "https://t.co/xh0b2W2Y4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043665844019064967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "橙子想问问大家意见，橙子心里想成为一个可爱的人，但是没有hrt，但是橙子认为自己是mtf，橙子认为mft不等于要hrt，大家认为呢。。。 https://t.co/xh0b2W2Y4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 426,
+          "like_count": 3447,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1303
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T12:14:47.000Z",
+        "description": "可以叫我ST或者橙子酱🍊~｜渴望交朋友的小男娘｜无糖｜06年 175cm 50kg｜快来找我聊天！｜不开心可以和我倾诉哦｜好宝宝: @Shionaowo @Evenin_eko｜匿名提问！https://t.co/fyfckL9h5q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "Shionaowo"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Evenin_eko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/st_bed0721",
+                "end": 117,
+                "expanded_url": "https://ngl.link/st_bed0721",
+                "start": 94,
+                "url": "https://t.co/fyfckL9h5q"
+              }
+            ]
+          }
+        },
+        "id": "1888562153004929024",
+        "name": "ST_Bed🏳️‍⚧️",
+        "pinned_tweet_id": "2041998228351283704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041343523228889088/y0SOhB3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 98,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 490
+        },
+        "username": "ST_Bed0721",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2063273117645226344",
+    "created_at": "2026-06-06T16:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063297141163139385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1838527847570509826",
+          "start": 0,
+          "username": "CLK5601"
+        },
+        {
+          "end": 19,
+          "id": "1608637128132685825",
+          "start": 9,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063297141163139385",
+    "in_reply_to_user_id": "1838527847570509826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063273117645226344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CLK5601 @nyaepheia 那不行，屏蔽人才是罪大恶极的，屏蔽人的都是极端分子，看见被谁屏蔽了都得挂出来游街一起骂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2063273117645226344",
+        "created_at": "2026-06-06T16:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063297141163139385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1838527847570509826",
+              "start": 0,
+              "username": "CLK5601"
+            },
+            {
+              "end": 19,
+              "id": "1608637128132685825",
+              "start": 9,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063297141163139385",
+        "in_reply_to_user_id": "1838527847570509826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063273117645226344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CLK5601 @nyaepheia 那不行，屏蔽人才是罪大恶极的，屏蔽人的都是极端分子，看见被谁屏蔽了都得挂出来游街一起骂的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2063273117645226344",
+        "created_at": "2026-06-06T14:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063273117645226344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063273117645226344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“情绪会传染，所以不要展示”\n“憋着会出问题，适当发泄”\n“xx行为影响不好，该账号禁言”\n不知哪个更好，我倾向于中间那个\n最后那种观点的人，让我联想到“lgbt影响不好，不宣传”这种，ptsd了\n有的人明明自己设置屏蔽词这种就行，结果还莫名其妙人身攻击，说着“社群”“好处”，这跟“一口一个跨出”有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 518,
+          "like_count": 4423,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1910
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "description": "歪比巴卜 / 不定时emo / 神秘友跨人 / 懒王 / 唉 / hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1375,
+          "like_count": 1786,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 168
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/nBvMeK1OLJ \n/ɪˈfiːə/ she/they\n好累。好麻烦。\n评论&备用账号&误ban申诉@epheiamoe\nNo NSFW. 不互fo。\n日常作息UTC+0\n账号访问权限：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 65,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "yxrchina"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/OH6juSIljq"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2063105329798549706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 900,
+          "like_count": 28677,
+          "listed_count": 3,
+          "media_count": 484,
+          "tweet_count": 5376
+        },
+        "url": "https://t.co/OH6juSIljq",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

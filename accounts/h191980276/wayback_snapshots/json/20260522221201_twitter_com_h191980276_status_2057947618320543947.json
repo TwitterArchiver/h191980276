@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2057947618320543947",
+    "created_at": "2026-05-22T22:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T23:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057947618320543947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Simone_Luxem/s…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/2057825520423956686",
+          "start": 96,
+          "url": "https://t.co/TDv4Rhp4DU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057947618320543947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057825520423956686",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是人家把你当畜，但是你又要让人把他当姐妹。自恨的时候恨自己就行，别把跨性别当畜带上姐妹，如果你觉得要人不把姐妹当畜，不包容自恨很残忍，那要人接受把姐妹当畜的还得包容他把她当姐妹就不残忍吗？ https://t.co/TDv4Rhp4DU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2057947618320543947",
+        "created_at": "2026-05-22T22:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T23:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057947618320543947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/2057825520423956686",
+              "start": 96,
+              "url": "https://t.co/TDv4Rhp4DU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057947618320543947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057825520423956686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是人家把你当畜，但是你又要让人把他当姐妹。自恨的时候恨自己就行，别把跨性别当畜带上姐妹，如果你觉得要人不把姐妹当畜，不包容自恨很残忍，那要人接受把姐妹当畜的还得包容他把她当姐妹就不残忍吗？ https://t.co/TDv4Rhp4DU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2057825520423956686",
+        "created_at": "2026-05-22T14:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057825520423956686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/b_cat38324/status/2057792626053812354",
+              "start": 138,
+              "url": "https://t.co/TFuVW7br39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057825520423956686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 561,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057792626053812354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我觉得没有毛病的，如果自恨确实是某种跨性别中常见的表现，那么去接受这个问题的存在总好过假装它不存在，毕竟自欺欺人不会帮助人解决问题，只有先承认“自己会有自恨的倾向/念头”之后才可能去解决它\n因此相比较于各自掩藏自恨所带来的羞耻感，相互大方地告诉同类自己是会自恨的或许更好 https://t.co/TFuVW7br39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 510,
+          "like_count": 4188,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1686
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6208,
+          "following_count": 221,
+          "like_count": 24730,
+          "listed_count": 18,
+          "media_count": 1784,
+          "tweet_count": 21699
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

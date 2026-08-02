@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2022711075297173821",
+    "created_at": "2026-02-16T22:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T23:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023531876317847697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2006187054334619648",
+          "start": 0,
+          "username": "QwQb119"
+        },
+        {
+          "end": 22,
+          "id": "1383615228139638788",
+          "start": 9,
+          "username": "oliooliooooo"
+        },
+        {
+          "end": 38,
+          "id": "1654908701772496896",
+          "start": 23,
+          "username": "tsumetaiame514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023531876317847697",
+    "in_reply_to_user_id": "2006187054334619648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023525215029047370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QwQb119 @oliooliooooo @tsumetaiame514 当他们说“我们男娘都如何如何”的时候，我跳出来说“你放屁！男娘不是都你说的这样的，你不要以偏盖全代表男娘！”这种话也不合适"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2022711075297173821",
+        "created_at": "2026-02-16T22:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T23:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023531876317847697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2006187054334619648",
+              "start": 0,
+              "username": "QwQb119"
+            },
+            {
+              "end": 22,
+              "id": "1383615228139638788",
+              "start": 9,
+              "username": "oliooliooooo"
+            },
+            {
+              "end": 38,
+              "id": "1654908701772496896",
+              "start": 23,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023531876317847697",
+        "in_reply_to_user_id": "2006187054334619648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023525215029047370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQb119 @oliooliooooo @tsumetaiame514 当他们说“我们男娘都如何如何”的时候，我跳出来说“你放屁！男娘不是都你说的这样的，你不要以偏盖全代表男娘！”这种话也不合适"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006187054334619648",
+        "conversation_id": "2022711075297173821",
+        "created_at": "2026-02-16T22:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T23:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023525215029047370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            },
+            {
+              "end": 25,
+              "id": "1383615228139638788",
+              "start": 12,
+              "username": "oliooliooooo"
+            },
+            {
+              "end": 41,
+              "id": "1654908701772496896",
+              "start": 26,
+              "username": "tsumetaiame514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023525215029047370",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023511633843437951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 @oliooliooooo @tsumetaiame514 一個人極端並非因為他是男娘，只是因為他是個極端的人，要這麼找所有群體都有極端的人，不論是男娘、同性戀還是跨性別，他們都沒法對群體中的其他人進行管制，以偏概全然後先入為主對群體中只是好好活著的人顯然是不公平的。\n\n除非你的觀點是「你選擇的群體你活該被罵」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 212,
+          "like_count": 1738,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 544
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T02:14:16.000Z",
+        "description": "不想當男娘了🫠！想成為無憂無慮的魔法浣熊🦝，然後整天睡覺💤，而祂醒來的一刻就是人類末日的一刻🌍☄️，祂會把你們都炸死🔥|  \n▍\n@QAQ_xwx\n 小號瘋狂色色🥵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "QAQ_xwx"
+              }
+            ]
+          }
+        },
+        "id": "2006187054334619648",
+        "location": "30樓的地下室",
+        "name": "OwO!!!",
+        "pinned_tweet_id": "2006211005429493974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006206865307578368/zceldKFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 138,
+          "like_count": 2891,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1488
+        },
+        "username": "QwQb119",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-18T02:56:04.000Z",
+        "description": "性别拓展/大麻合法/民主自由",
+        "id": "1383615228139638788",
+        "location": "Hamilton, Ontario",
+        "name": "Oli🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384038127526760456/QNO4vMpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 287,
+          "like_count": 27551,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1158
+        },
+        "username": "oliooliooooo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-06T17:59:27.000Z",
+        "description": "本账号含AI生成内容 This account’s content is generated by AI (Artificial Insanity).",
+        "id": "1654908701772496896",
+        "location": "No.200 People Avenue, Shanghai",
+        "name": "AmeGPT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991954477931245568/aYlWGYxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 1155,
+          "like_count": 20080,
+          "listed_count": 9,
+          "media_count": 252,
+          "tweet_count": 3852
+        },
+        "username": "tsumetaiame514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2003379223411806529",
+    "created_at": "2025-12-23T09:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003394370918293837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851254945984741376",
+          "start": 0,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003394370918293837",
+    "in_reply_to_user_id": "1851254945984741376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003379223411806529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastExeX01 放狗屁呢，几乎所有关于hrt的科学的有效信息都来自跨性别社群内，几乎所有关于hrt的错误信息谣言都是他这种人造的传的，可能好不容易说点正确的了还是跟药娘学的，谁给他的脸好意思说跨性别不懂的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2003379223411806529",
+        "created_at": "2025-12-23T09:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003394370918293837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851254945984741376",
+              "start": 0,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003394370918293837",
+        "in_reply_to_user_id": "1851254945984741376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003379223411806529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastExeX01 放狗屁呢，几乎所有关于hrt的科学的有效信息都来自跨性别社群内，几乎所有关于hrt的错误信息谣言都是他这种人造的传的，可能好不容易说点正确的了还是跟药娘学的，谁给他的脸好意思说跨性别不懂的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851254945984741376",
+        "conversation_id": "2003379223411806529",
+        "created_at": "2025-12-23T08:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T09:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003379223411806529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meifeitaya1978…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/meifeitaya1978/status/2003357394211078402",
+              "start": 107,
+              "url": "https://t.co/70PJfEM8au"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003379223411806529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003357394211078402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“给好处是没问题的，但不能给额外的好处”。\n不谈论原先就存在的差异（历史问题所导致的不同群体之间的经济、生活条件和环境差异），而是在法权的层面上讨论“人人平等”——这正是马克思主义及其法理论所批判的。\n（1/3） https://t.co/70PJfEM8au"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 159,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 371
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇦🇵🇸│\n是中国大街上的一位路人。",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "1999761964042792960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951149350907944964/a9pbadi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 257,
+          "like_count": 15033,
+          "listed_count": 3,
+          "media_count": 966,
+          "tweet_count": 6909
+        },
+        "username": "LastExeX01",
+        "verified": false
+      }
+    ]
+  }
+}

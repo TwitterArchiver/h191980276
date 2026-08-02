@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2042718945447485789",
+    "created_at": "2026-04-11T19:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T20:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043045770182746300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1690258801579175937",
+          "start": 0,
+          "username": "LEnaaaaa_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043045770182746300",
+    "in_reply_to_user_id": "1690258801579175937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042718945447485789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LEnaaaaa_114514 那我要关注你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2042718945447485789",
+        "created_at": "2026-04-11T19:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043045770182746300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1690258801579175937",
+              "start": 0,
+              "username": "LEnaaaaa_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043045770182746300",
+        "in_reply_to_user_id": "1690258801579175937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042718945447485789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LEnaaaaa_114514 那我要关注你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690258801579175937",
+        "conversation_id": "2042718945447485789",
+        "created_at": "2026-04-10T21:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042718945447485789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042718945447485789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 452,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很讨厌用br0、娘娘腔、gay这类型的当骂人词的人，觉得这些没问题的可以拉黑我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 398,
+          "like_count": 3362,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1259
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T07:08:18.000Z",
+        "description": "call me lena｜18↑丨🇨🇳🏳️‍🌈⚢丨defoko fan💜｜🥖🍙🥖/🍙🍑/🍙×all｜🚫AI｜💗 @YYYYY202135｜nsfw→@ineedutatetouta，个人→@LEnaaaaa_0809",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "YYYYY202135"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "ineedutatetouta"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "LEnaaaaa_0809"
+              }
+            ]
+          }
+        },
+        "id": "1690258801579175937",
+        "location": "SHE/THEY",
+        "name": "🍻",
+        "pinned_tweet_id": "2041166100558500342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040727261050281984/pwulbrEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 1260,
+          "like_count": 54024,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 19227
+        },
+        "username": "LEnaaaaa_114514",
+        "verified": false
+      }
+    ]
+  }
+}

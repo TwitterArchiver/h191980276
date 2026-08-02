@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043045637714006045",
+    "created_at": "2026-04-11T21:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T22:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043079136831496685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1347641517566013445",
+          "start": 0,
+          "username": "dogga_byte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043079136831496685",
+    "in_reply_to_user_id": "1347641517566013445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043079030048723003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dogga_byte 贴贴贴贴贴🥺谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043045637714006045",
+        "created_at": "2026-04-11T21:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043079136831496685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1347641517566013445",
+              "start": 0,
+              "username": "dogga_byte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043079136831496685",
+        "in_reply_to_user_id": "1347641517566013445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043079030048723003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dogga_byte 贴贴贴贴贴🥺谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347641517566013445",
+        "conversation_id": "2043045637714006045",
+        "created_at": "2026-04-11T21:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T22:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043079030048723003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043079030048723003",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043045637714006045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 来，贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 403,
+          "like_count": 3372,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1267
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-08T20:29:40.000Z",
+        "description": "希望大家有空可以来和咱聊聊天喵w/ 大家好啊我是说的道理 / 有时会发点大家想看的东西 / 互fo / 168cm / 是木桶饭🏳️‍⚧️～ /含糖很多年/ 是大家的舔∛  / 最爱吃的老八秘制小汉堡🍔@mmm19095719",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "mmm19095719"
+              }
+            ]
+          }
+        },
+        "id": "1347641517566013445",
+        "location": "米诺⭐",
+        "name": "大家的大道理✨",
+        "pinned_tweet_id": "1813521689747280214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813423541850972160/mCE5yGZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 1637,
+          "like_count": 20976,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 966
+        },
+        "username": "dogga_byte",
+        "verified": false
+      }
+    ]
+  }
+}

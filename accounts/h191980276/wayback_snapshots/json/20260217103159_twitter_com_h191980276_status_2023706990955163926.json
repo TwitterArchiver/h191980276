@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2023706990955163926",
+    "created_at": "2026-02-17T10:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023706990955163926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0x47653C1C_BE/…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/0x47653C1C_BE/status/2023681756558397940",
+          "start": 124,
+          "url": "https://t.co/9LXzPVObl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023706990955163926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023681756558397940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "坚定反对一切反动咳嗽特权阶级对右美沙芬治疗和右美沙芬的霸占。\n任何人无论医疗需求与娱乐需求，都应享有平等的进行或不进行右美沙芬替代治疗和右美沙芬手术的权利\n消灭咳嗽特权阶级霸占右美沙芬和右美沙芬的特权才是解放所有咳嗽病人和一切od群体的唯一道路。 https://t.co/9LXzPVObl4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2023706990955163926",
+        "created_at": "2026-02-17T10:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023706990955163926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0x47653C1C_BE/…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/0x47653C1C_BE/status/2023681756558397940",
+              "start": 124,
+              "url": "https://t.co/9LXzPVObl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023706990955163926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023681756558397940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坚定反对一切反动咳嗽特权阶级对右美沙芬治疗和右美沙芬的霸占。\n任何人无论医疗需求与娱乐需求，都应享有平等的进行或不进行右美沙芬替代治疗和右美沙芬手术的权利\n消灭咳嗽特权阶级霸占右美沙芬和右美沙芬的特权才是解放所有咳嗽病人和一切od群体的唯一道路。 https://t.co/9LXzPVObl4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825148164057534464",
+        "conversation_id": "2023676740368031892",
+        "created_at": "2026-02-17T08:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023681756558397940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/19932…",
+              "end": 78,
+              "expanded_url": "https://x.com/i/status/1993291856978100253",
+              "start": 55,
+              "url": "https://t.co/wv5JGP9uz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023681756558397940",
+        "in_reply_to_user_id": "1825148164057534464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993291856978100253",
+            "type": "quoted"
+          },
+          {
+            "id": "2023678754426679464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 消灭跨女霸占性激素和生殖器整形手术的特权才是解放所有跨女和多元性别群体的唯一道路。\n\nhttps://t.co/wv5JGP9uz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 214,
+          "like_count": 1755,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 551
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T12:30:22.000Z",
+        "description": "无聊无趣无礼的幻想小号（已黑化），混乱中立，欢愉令使，如与现实相关纯属巧合。\n\n药圈历史中学到的唯一教训就是——生活推不要用大号发暴论！",
+        "id": "1825148164057534464",
+        "name": "0x47653C1C (BE)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825149328476016640/nv7fWfYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 41,
+          "like_count": 331,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 263
+        },
+        "username": "0x47653C1C_BE",
+        "verified": false
+      }
+    ]
+  }
+}

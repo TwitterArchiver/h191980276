@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2034947055488311388",
+    "created_at": "2026-03-20T10:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T11:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034947055488311388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lx_dsy/status/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/Lx_dsy/status/2034888441394254199",
+          "start": 53,
+          "url": "https://t.co/RoHW9IlNru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034947055488311388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034888441394254199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那确实不一样，同性恋不用被先证明自己有【不跟同性做爱就焦虑症】，再批准你能够启动【跟同性做爱去焦虑疗法】 https://t.co/RoHW9IlNru"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2034947055488311388",
+        "created_at": "2026-03-20T10:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034947055488311388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lx_dsy/status/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Lx_dsy/status/2034888441394254199",
+              "start": 53,
+              "url": "https://t.co/RoHW9IlNru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034947055488311388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034888441394254199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那确实不一样，同性恋不用被先证明自己有【不跟同性做爱就焦虑症】，再批准你能够启动【跟同性做爱去焦虑疗法】 https://t.co/RoHW9IlNru"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647319749246742528",
+        "conversation_id": "2034197700644860227",
+        "created_at": "2026-03-20T07:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034888441394254199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            },
+            {
+              "end": 26,
+              "id": "1413151000567771146",
+              "start": 12,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034888441394254199",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034202746304528444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 @Windy_Skyline 其实也不一样，跨性别是通常会有性别焦虑，一切的医疗手段都不是治疗跨性别，而是治疗性别焦虑。这跟同性恋不一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032534258372472832/1l10W3sP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 302,
+          "like_count": 2547,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 855
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T19:23:40.000Z",
+        "description": "小圈女b/友同友跨友bggb",
+        "id": "1647319749246742528",
+        "location": "广东省广州市",
+        "name": "妈妈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995230767790931968/dqStR0kL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 157,
+          "like_count": 816,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 62
+        },
+        "username": "Lx_dsy",
+        "verified": false
+      }
+    ]
+  }
+}

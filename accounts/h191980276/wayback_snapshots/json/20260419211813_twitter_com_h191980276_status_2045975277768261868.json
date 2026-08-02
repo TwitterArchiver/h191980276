@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2045727832416887120",
+    "created_at": "2026-04-19T21:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T22:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045975277768261868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        },
+        {
+          "end": 21,
+          "id": "1453575590729162758",
+          "start": 14,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045975277768261868",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045810548051431809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 @obe_ZX 我倒是觉得为了反跨而反跨的比这些个真诚多了，😰难道反之前给你多泼一盆脏水下多给自己找个台阶下的比直接搞的更轻度吗，我怎么感觉更恶劣的...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2045727832416887120",
+        "created_at": "2026-04-19T21:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045975277768261868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            },
+            {
+              "end": 21,
+              "id": "1453575590729162758",
+              "start": 14,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045975277768261868",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045810548051431809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 @obe_ZX 我倒是觉得为了反跨而反跨的比这些个真诚多了，😰难道反之前给你多泼一盆脏水下多给自己找个台阶下的比直接搞的更轻度吗，我怎么感觉更恶劣的...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2045727832416887120",
+        "created_at": "2026-04-19T10:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045810548051431809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1453575590729162758",
+              "start": 0,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045810548051431809",
+        "in_reply_to_user_id": "1453575590729162758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045727832416887120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obe_ZX 无非就是编个理由反跨罢了😁你能为了保护女性反跨，他能保护公序良俗反跨，我又能因为反击去雄计划反跨，那自然也有为了反跨而反跨。别自己催眠自己谁的反跨理由高尚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 472,
+          "like_count": 3691,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1369
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  查成分互fo🚪52",
+        "id": "1981638054688501760",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2033963961281085452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 1751,
+          "like_count": 5242,
+          "listed_count": 5,
+          "media_count": 319,
+          "tweet_count": 3090
+        },
+        "username": "ashasw114514",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans F | 持证但是DIY HRTing | 175/57kg | 尝试增肥ing | 疑似INFP",
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 526,
+          "like_count": 21790,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 2393
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

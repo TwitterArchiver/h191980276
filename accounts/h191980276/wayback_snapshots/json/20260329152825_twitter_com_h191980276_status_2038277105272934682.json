@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038277105272934682",
+    "created_at": "2026-03-29T15:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T16:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038277105272934682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pikaunderlight…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/Pikaunderlight/status/2038227461494722620",
+          "start": 50,
+          "url": "https://t.co/3BjyjbuPgf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038277105272934682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038227461494722620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你妈了个逼的一群在这竞谁是好chaser，搁着竞“谁才是真正为跨性别谋福利”，全杀了没有一个无辜的 https://t.co/3BjyjbuPgf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038277105272934682",
+        "created_at": "2026-03-29T15:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038277105272934682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pikaunderlight…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Pikaunderlight/status/2038227461494722620",
+              "start": 50,
+              "url": "https://t.co/3BjyjbuPgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038277105272934682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038227461494722620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你妈了个逼的一群在这竞谁是好chaser，搁着竞“谁才是真正为跨性别谋福利”，全杀了没有一个无辜的 https://t.co/3BjyjbuPgf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938295191888400386",
+        "conversation_id": "2038227461494722620",
+        "created_at": "2026-03-29T12:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038227461494722620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ILoveLittlePig…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/ILoveLittlePigs/status/2037861771029999968",
+              "start": 57,
+              "url": "https://t.co/zeAhIOMmOw"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2038227461494722620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1097,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037861771029999968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好，既然如此，那么在潘佳彤的事情爆出来之后，为何很多人的反应，不是与其切割、抵制，反而是“她做了那么多好事”呢？ https://t.co/zeAhIOMmOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 337,
+          "like_count": 2841,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 953
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T17:57:12.000Z",
+        "description": "我吹过你吹过的晚风 是否看过同样风景",
+        "id": "1938295191888400386",
+        "location": "在你意料不到的地方",
+        "name": "暮色前的晨曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938296399868612608/ftdD_yci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 306,
+          "like_count": 3463,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 394
+        },
+        "username": "Pikaunderlight",
+        "verified": false
+      }
+    ]
+  }
+}

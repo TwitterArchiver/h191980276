@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2063338396811133211",
+    "created_at": "2026-06-06T19:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063338396811133211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920490291708243968",
+          "start": 3,
+          "username": "h191980276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063338396811133211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062695616086683981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h191980276: 我觉得事情很简单，罪有应得和帮助别人是互斥的，不得已才下下策交给tyw这种人和你跟人家调情互动也是互斥的，就这一群嘴里连句实话都没有的人，你非得说温柔的好心的，那你不也是跟这些人一样嘴里没句实话吗，我又凭啥信你们是热心肠的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2063338396811133211",
+        "created_at": "2026-06-06T19:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063338396811133211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920490291708243968",
+              "start": 3,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063338396811133211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062695616086683981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h191980276: 我觉得事情很简单，罪有应得和帮助别人是互斥的，不得已才下下策交给tyw这种人和你跟人家调情互动也是互斥的，就这一群嘴里连句实话都没有的人，你非得说温柔的好心的，那你不也是跟这些人一样嘴里没句实话吗，我又凭啥信你们是热心肠的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062695616086683981",
+        "created_at": "2026-06-05T00:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062695616086683981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062695616086683981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得事情很简单，罪有应得和帮助别人是互斥的，不得已才下下策交给tyw这种人和你跟人家调情互动也是互斥的，就这一群嘴里连句实话都没有的人，你非得说温柔的好心的，那你不也是跟这些人一样嘴里没句实话吗，我又凭啥信你们是热心肠的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 518,
+          "like_count": 4430,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1916
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

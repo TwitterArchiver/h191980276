@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2000258495707500913",
+    "created_at": "2025-12-14T17:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T18:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000258495707500913"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000258495707500913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你什么时候能意识到喜欢扮小丑恶心人到处惹事的（你以为的所谓神人）和自我认同是正常人我和你们畜不一样，的同是一帮人，什么时候你就不会自恨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000258495707500913",
+        "created_at": "2025-12-14T17:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000258495707500913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000258495707500913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你什么时候能意识到喜欢扮小丑恶心人到处惹事的（你以为的所谓神人）和自我认同是正常人我和你们畜不一样，的同是一帮人，什么时候你就不会自恨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 142,
+          "like_count": 973,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 306
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

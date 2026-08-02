@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2002036609148223710",
+    "created_at": "2025-12-19T15:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T16:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002036609148223710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AESISTN/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/AESISTN/status/2001993603883876590",
+          "start": 24,
+          "url": "https://t.co/3UTZPH7cJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002036609148223710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001993603883876590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "only 411 can do\n遥遥领先于同行 https://t.co/3UTZPH7cJb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002036609148223710",
+        "created_at": "2025-12-19T15:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002036609148223710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AESISTN/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/AESISTN/status/2001993603883876590",
+              "start": 24,
+              "url": "https://t.co/3UTZPH7cJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002036609148223710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001993603883876590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "only 411 can do\n遥遥领先于同行 https://t.co/3UTZPH7cJb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225970482379251712",
+        "conversation_id": "2001993603883876590",
+        "created_at": "2025-12-19T12:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T13:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001993603883876590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AESISTN/status…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/AESISTN/status/2001944763420000407",
+              "start": 150,
+              "url": "https://t.co/XucvarYVPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001993603883876590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 478,
+          "like_count": 11,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001944763420000407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "411把人批做坏了给人弄得跟残疾一样，还堵人嘴不准说话\n一堆小团体跑来举报给人号整封了，现在解封了还在限流\n小团体在好几个群里骂人伪人说人家是装的泰国中介境外势力\n还有说不像汉语，是英文母语机翻文案，说是dr.MinJun的水军\n人家用得着来这当水军\n一群脑残不知道舔411什么\n批给人做成残疾了都 https://t.co/XucvarYVPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 148,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 329
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T02:32:02.000Z",
+        "description": "想看石榴花开在海底/地雷系/💛🤍💜🖤/随机负面情绪输出",
+        "id": "1225970482379251712",
+        "name": "未命名符",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920488732399927296/66ihscZp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 161,
+          "like_count": 1390,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 921
+        },
+        "username": "AESISTN",
+        "verified": false
+      }
+    ]
+  }
+}

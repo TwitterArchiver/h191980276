@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038926879512797429",
+    "created_at": "2026-03-31T10:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038926879512797429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2028766249002696705",
+          "start": 3,
+          "username": "T9XJFKjDbd61141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038926879512797429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038844384830267795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T9XJFKjDbd61141: 本人在此声明和所有认为对因性别认同迫害而死的跨女被喊男生是正常的，认为其他跨女提出反对和抗议是大搞身份政治和玻璃心的人切割，你们不配做跨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038926879512797429",
+        "created_at": "2026-03-31T10:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038926879512797429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2028766249002696705",
+              "start": 3,
+              "username": "T9XJFKjDbd61141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038926879512797429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038844384830267795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @T9XJFKjDbd61141: 本人在此声明和所有认为对因性别认同迫害而死的跨女被喊男生是正常的，认为其他跨女提出反对和抗议是大搞身份政治和玻璃心的人切割，你们不配做跨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028766249002696705",
+        "conversation_id": "2038844384830267795",
+        "created_at": "2026-03-31T05:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038844384830267795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038844384830267795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 576,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "本人在此声明和所有认为对因性别认同迫害而死的跨女被喊男生是正常的，认为其他跨女提出反对和抗议是大搞身份政治和玻璃心的人切割，你们不配做跨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 348,
+          "like_count": 3051,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1110
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T09:36:47.000Z",
+        "description": "目田/mtf小药娘/平板锁/锅盖锁/鉴证型人格/擦边/媚黑♠️/抽烟/喝酒/infj/m属性大爆发/分享自己h纯满足自己/\n建制品客还有毛左不许用我的照片打手冲，因为你毛爷爷和习大大正在失望的看着你",
+        "id": "2028766249002696705",
+        "name": "🍑味水果🍬8964🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029100175596359680/mDR6vYKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 91,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 289
+        },
+        "username": "T9XJFKjDbd61141",
+        "verified": false
+      }
+    ]
+  }
+}

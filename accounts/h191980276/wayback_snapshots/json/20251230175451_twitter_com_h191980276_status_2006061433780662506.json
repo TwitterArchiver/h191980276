@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2005871785661603947",
+    "created_at": "2025-12-30T17:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T18:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006061433780662506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006061433780662506",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005871785661603947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina8964 顺直想来就来想走就走得包容，但是人家性别认同女的他又说人是男的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2005871785661603947",
+        "created_at": "2025-12-30T17:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006061433780662506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006061433780662506",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005871785661603947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 顺直想来就来想走就走得包容，但是人家性别认同女的他又说人是男的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "conversation_id": "2005871785661603947",
+        "created_at": "2025-12-30T05:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T06:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005871785661603947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momo_yu_Apple/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/momo_yu_Apple/status/2005564083123503363",
+              "start": 49,
+              "url": "https://t.co/qCJDly5251"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005871785661603947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6490,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005564083123503363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "mtf退坑是什么说法，真把性别认同当潮酷骚孩真可以滚了，有点像某些土货说不够好看的人不准当同性恋 https://t.co/qCJDly5251"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 169,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 404
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "理智霉粉理智舞萌爱好者一枚呀|不接受任何abfb贩卖的赎罪券",
+        "id": "1978032792383709184",
+        "name": "快搭上田纳西州84路公交",
+        "pinned_tweet_id": "2002802600585162793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004465299647877120/SMmZ8E8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 38,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 172
+        },
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

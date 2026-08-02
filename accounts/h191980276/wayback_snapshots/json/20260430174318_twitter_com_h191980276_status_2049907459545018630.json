@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049880856559223113",
+    "created_at": "2026-04-30T17:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049907459545018630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662723831533027329",
+          "start": 0,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049907459545018630",
+    "in_reply_to_user_id": "1662723831533027329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049880856559223113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loong001116 一个对性少数动用身份政治毫不吝啬的家伙会说我支持平权无非就是说我支持赏给性少数平权，但是我随时可以收回(他跟人对线的时候都确实这么表态了)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049880856559223113",
+        "created_at": "2026-04-30T17:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049907459545018630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662723831533027329",
+              "start": 0,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049907459545018630",
+        "in_reply_to_user_id": "1662723831533027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049880856559223113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loong001116 一个对性少数动用身份政治毫不吝啬的家伙会说我支持平权无非就是说我支持赏给性少数平权，但是我随时可以收回(他跟人对线的时候都确实这么表态了)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662723831533027329",
+        "conversation_id": "2049880856559223113",
+        "created_at": "2026-04-30T15:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049880856559223113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feieyuhuo/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/feieyuhuo/status/2049743614423728157",
+              "start": 81,
+              "url": "https://t.co/J9HyFEghMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049880856559223113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 249,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049743614423728157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不了解的群体少评论多学习是一种最起码的尊重，你能对酷儿如此傲慢，说明你对其他你不了解的受压迫阶级也没有多在乎，很显然你不左，你只是一头立场完全向屠宰场看齐的猪 https://t.co/J9HyFEghMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 511,
+          "like_count": 4204,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1605
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "Queer\n人称代词：他(中性)/ta\n所有观点皆来自本人，思考能力不需要绑定AI\nLGBTQ+互关",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(乙女激女顺直男转推即死)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1792,
+          "like_count": 5805,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 4853
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

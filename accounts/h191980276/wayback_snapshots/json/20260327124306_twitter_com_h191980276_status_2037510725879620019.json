@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2037510725879620019",
+    "created_at": "2026-03-27T12:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T13:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037510725879620019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/castrateaddict…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/castrateaddict/status/2037035711761965138",
+          "start": 15,
+          "url": "https://t.co/GN3xschVjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037510725879620019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037035711761965138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "姐们儿怎么给男娘cd发女籍了 https://t.co/GN3xschVjS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2037510725879620019",
+        "created_at": "2026-03-27T12:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037510725879620019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/castrateaddict…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/castrateaddict/status/2037035711761965138",
+              "start": 15,
+              "url": "https://t.co/GN3xschVjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037510725879620019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037035711761965138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "姐们儿怎么给男娘cd发女籍了 https://t.co/GN3xschVjS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779196203223363584",
+        "conversation_id": "2037035711761965138",
+        "created_at": "2026-03-26T05:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037035711761965138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/castrateaddict…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/castrateaddict/status/2036804437646459088",
+              "start": 146,
+              "url": "https://t.co/CAkk0LFGR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037035711761965138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1633,
+          "like_count": 30,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036804437646459088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反美役是反跨的具體實踐。\n\n邏輯是：挺跨方主張「穿上女性符號的人就是女人」。\n\n這個論點要成立，需要一個前提——女性符號是真實存在且普遍被女人穿戴的。\n\n只要女人繼續穿，這個前提就一直成立，挺跨方就一直有證據。\n\n所以脫美役就是讓「化妝長髮高跟鞋是女性符號」這件事，在現實裡慢慢變得說不通。 https://t.co/CAkk0LFGR3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜ChatGPT友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 321,
+          "like_count": 2729,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 917
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T17:13:48.000Z",
+        "description": "11bt，Radfem，男蠸是待屠的殖民系統。女人無國，女驢有別。志在剿滅iv劣種，復興女系社會。【Women share no boundaries beyond nations and parties.】主張女㽖分離；專門抨擊哭喪式女身厭惡及無意識的陰莖崇拜。不反醜刑的反跨是100%浪費時間",
+        "id": "1779196203223363584",
+        "location": "CHT、ENG、JPN",
+        "name": "媻姑",
+        "pinned_tweet_id": "1982286085582647390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779197849567363072/rZhovEKG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 80,
+          "like_count": 11193,
+          "listed_count": 10,
+          "media_count": 224,
+          "tweet_count": 3263
+        },
+        "username": "castrateaddict",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2046092064123982229",
+    "created_at": "2026-04-20T05:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T06:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046092064123982229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RusndageSNF/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/RusndageSNF/status/2045768832615420172",
+          "start": 9,
+          "url": "https://t.co/ozAoD5zwJA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046092064123982229",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045768832615420172",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行，泉此方是跨女 https://t.co/ozAoD5zwJA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2045768830027468800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQH6XZakAAcYKq.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2046092064123982229",
+        "created_at": "2026-04-20T05:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046092064123982229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RusndageSNF/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/RusndageSNF/status/2045768832615420172",
+              "start": 9,
+              "url": "https://t.co/ozAoD5zwJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046092064123982229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045768832615420172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行，泉此方是跨女 https://t.co/ozAoD5zwJA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045768830027468800"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2045768832615420172",
+        "created_at": "2026-04-19T07:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T08:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045768832615420172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H5GeEHNnJ0",
+              "end": 163,
+              "expanded_url": "https://x.com/RusndageSNF/status/2045768832615420172/photo/1",
+              "media_key": "3_2045768830027468800",
+              "start": 140,
+              "url": "https://t.co/H5GeEHNnJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045768832615420172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 10339,
+          "like_count": 159,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "感觉泉此方就是能解释为什么很多跨性别女性比较男性化的原因\n\n解释一下就是此方他妈泉彼方早逝，所以从小是他爹带大的，他爹又不知道这个社会上女性该怎么生活之类的，所以这就能能证明为什么此方和很多跨性别女就是特别喜欢一些普遍来说只有男性才喜欢的兴趣爱好或者是会做出来的行为（如图所示） https://t.co/H5GeEHNnJ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 473,
+          "like_count": 3717,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1372
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 1094,
+          "like_count": 29718,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 5999
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

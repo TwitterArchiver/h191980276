@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2015314653715517946",
+    "created_at": "2026-01-25T06:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T07:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015316020848894373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896175390005342208",
+          "start": 0,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015316020848894373",
+    "in_reply_to_user_id": "1896175390005342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015314653715517946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chufeinya 性别认同为生育机器"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2015314653715517946].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2015314653715517946",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2015314653715517946"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2015314653715517946",
+        "created_at": "2026-01-25T06:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T07:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015316020848894373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896175390005342208",
+              "start": 0,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015316020848894373",
+        "in_reply_to_user_id": "1896175390005342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015314653715517946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinya 性别认同为生育机器"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 190,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 471
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉 Liên Dạ Mộng Giác | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | @Chufeinyax",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Chufeinyax"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "2005528085513568379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 1786,
+          "like_count": 16577,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 1236
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2050950132993339759",
+    "created_at": "2026-05-03T15:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050963584285581467"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20328…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2032871293180334121",
+          "start": 0,
+          "url": "https://t.co/uZoFBtgQpD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050963584285581467",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032871293180334121",
+        "type": "quoted"
+      },
+      {
+        "id": "2050950132993339759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/uZoFBtgQpD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2050950132993339759",
+        "created_at": "2026-05-03T15:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050963584285581467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20328…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2032871293180334121",
+              "start": 0,
+              "url": "https://t.co/uZoFBtgQpD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050963584285581467",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032871293180334121",
+            "type": "quoted"
+          },
+          {
+            "id": "2050950132993339759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/uZoFBtgQpD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2032871293180334121",
+        "created_at": "2026-03-14T17:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032871293180334121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032871293180334121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2346,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别者追求的是主权，而不是什么更好地被照护，这和上个世纪的女权主义者们的追求是相通的\n一些“友跨人士”在争吵谁的方案才是真的对跨好，谁的方案是“最后会害了大家”，拿着“真正为跨性别做贡献的人”的大棒勒索人的行为，和好好先生们争谁才对女士们更绅士又有何异呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2050950132993339759",
+        "created_at": "2026-05-03T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050950132993339759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050950132993339759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 514,
+          "like_count": 4270,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1675
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

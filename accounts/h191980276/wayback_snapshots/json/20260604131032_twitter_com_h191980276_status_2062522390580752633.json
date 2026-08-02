@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062522388022267904",
+        "3_2062522387472801792"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062522390580752633",
+    "created_at": "2026-06-04T13:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062522390580752633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SZWQlJXsCg",
+          "end": 133,
+          "expanded_url": "https://x.com/h191980276/status/2062522390580752633/photo/1",
+          "media_key": "3_2062522388022267904",
+          "start": 110,
+          "url": "https://t.co/SZWQlJXsCg"
+        },
+        {
+          "display_url": "pic.x.com/SZWQlJXsCg",
+          "end": 133,
+          "expanded_url": "https://x.com/h191980276/status/2062522390580752633/photo/1",
+          "media_key": "3_2062522387472801792",
+          "start": 110,
+          "url": "https://t.co/SZWQlJXsCg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062522390580752633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我非常非常非常非常不能理解，为什么为什么跨性别者在顺直社会中遭遇的残害这个事它到底为什么能七拐八拐的拐到又是跨圈又干嘛了上去的，甚至除了图二的评论全是跨性别在哄她，但是最高赞的评论是图二这个，这到底是为什么为什么会这样 https://t.co/SZWQlJXsCg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1658,
+        "media_key": "3_2062522388022267904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-NLydbkAA1R9W.jpg",
+        "width": 1440
+      },
+      {
+        "height": 668,
+        "media_key": "3_2062522387472801792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-NLwabYAADq5W.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062522388022267904",
+            "3_2062522387472801792"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062522390580752633",
+        "created_at": "2026-06-04T13:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062522390580752633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZWQlJXsCg",
+              "end": 133,
+              "expanded_url": "https://x.com/h191980276/status/2062522390580752633/photo/1",
+              "media_key": "3_2062522388022267904",
+              "start": 110,
+              "url": "https://t.co/SZWQlJXsCg"
+            },
+            {
+              "display_url": "pic.x.com/SZWQlJXsCg",
+              "end": 133,
+              "expanded_url": "https://x.com/h191980276/status/2062522390580752633/photo/1",
+              "media_key": "3_2062522387472801792",
+              "start": 110,
+              "url": "https://t.co/SZWQlJXsCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062522390580752633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我非常非常非常非常不能理解，为什么为什么跨性别者在顺直社会中遭遇的残害这个事它到底为什么能七拐八拐的拐到又是跨圈又干嘛了上去的，甚至除了图二的评论全是跨性别在哄她，但是最高赞的评论是图二这个，这到底是为什么为什么会这样 https://t.co/SZWQlJXsCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 515,
+          "like_count": 4353,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1837
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

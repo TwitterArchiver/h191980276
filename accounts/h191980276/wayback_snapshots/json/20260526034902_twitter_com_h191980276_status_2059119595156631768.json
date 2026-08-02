@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2059070674547920982",
+    "created_at": "2026-05-26T03:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059119595156631768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1634873810141970433",
+          "start": 0,
+          "username": "dringsim"
+        },
+        {
+          "end": 24,
+          "id": "1884745808605818880",
+          "start": 10,
+          "username": "Bunbohue40037"
+        },
+        {
+          "end": 35,
+          "id": "1757152910683852800",
+          "start": 25,
+          "username": "qslzy1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059119595156631768",
+    "in_reply_to_user_id": "1634873810141970433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059116646728401058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dringsim @Bunbohue40037 @qslzy1225 九宫格，要孩子的好处坏处"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2059070674547920982",
+        "created_at": "2026-05-26T03:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059119595156631768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1634873810141970433",
+              "start": 0,
+              "username": "dringsim"
+            },
+            {
+              "end": 24,
+              "id": "1884745808605818880",
+              "start": 10,
+              "username": "Bunbohue40037"
+            },
+            {
+              "end": 35,
+              "id": "1757152910683852800",
+              "start": 25,
+              "username": "qslzy1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059119595156631768",
+        "in_reply_to_user_id": "1634873810141970433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059116646728401058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dringsim @Bunbohue40037 @qslzy1225 九宫格，要孩子的好处坏处"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634873810141970433",
+        "conversation_id": "2059070674547920982",
+        "created_at": "2026-05-26T03:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059116646728401058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884745808605818880",
+              "start": 0,
+              "username": "Bunbohue40037"
+            },
+            {
+              "end": 25,
+              "id": "1757152910683852800",
+              "start": 15,
+              "username": "qslzy1225"
+            },
+            {
+              "end": 37,
+              "id": "1920490291708243968",
+              "start": 26,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059116646728401058",
+        "in_reply_to_user_id": "1884745808605818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059092751539486963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunbohue40037 @qslzy1225 @h191980276 建议把下体收走，5年以上持续要求再发还，期间不能有反复（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 509,
+          "like_count": 4224,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1710
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T11:07:55.000Z",
+        "description": "你可能是正版软件的受害者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.wiktionary.org/wiki/Special:R…",
+                "end": 23,
+                "expanded_url": "https://en.wiktionary.org/wiki/Special:Random",
+                "start": 0,
+                "url": "https://t.co/d1mGydZ9B0"
+              }
+            ]
+          }
+        },
+        "id": "1634873810141970433",
+        "name": "已跑路 ᛞᚱᛁᛝᛋᛁᛗ🏴‍☠️🏳️‍⚧️",
+        "pinned_tweet_id": "1847294307419701402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829876494547480576/ZhkuZBE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 2742,
+          "like_count": 53925,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 6152
+        },
+        "url": "https://t.co/d1mGydZ9B0",
+        "username": "dringsim",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T23:30:05.000Z",
+        "description": "she/they",
+        "id": "1884745808605818880",
+        "name": "Bún bò Huế 🍥",
+        "pinned_tweet_id": "1967610162459623452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993755498269581312/BXnTU-n5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 481,
+          "like_count": 163226,
+          "listed_count": 2,
+          "media_count": 1246,
+          "tweet_count": 18386
+        },
+        "username": "Bunbohue40037",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:22:07.000Z",
+        "description": "LGBTQ+ Ally｜马克思主义者｜二游玩家｜理性，包容，进步，思考｜认清形势，放弃幻想，准备斗争｜你说，我在听",
+        "id": "1757152910683852800",
+        "location": "Harbin,Heilongjiang,China",
+        "name": "青松",
+        "pinned_tweet_id": "2059119484187611418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757153133611171840/Bi-ESVPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 91
+        },
+        "username": "qslzy1225",
+        "verified": false
+      }
+    ]
+  }
+}

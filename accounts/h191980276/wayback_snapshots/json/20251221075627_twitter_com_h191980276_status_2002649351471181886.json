@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2002649351471181886",
+    "created_at": "2025-12-21T07:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T08:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002649351471181886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/manguyuxiaoyu/…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/manguyuxiaoyu/status/1937841329167642845",
+          "start": 45,
+          "url": "https://t.co/7OiUx2O7e7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002649351471181886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937841329167642845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想当真女人的可以去曼谷雨泰国变性中心蝶变，不用在国内花钱抽鞭子。\n曼谷雨，让你变真女人。 https://t.co/7OiUx2O7e7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51600,
+        "height": 1280,
+        "media_key": "13_1937841196946309120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937841196946309120/img/ExXxSCxzJY0LRSKN.jpg",
+        "public_metrics": {
+          "view_count": 4738
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937841196946309120/vid/avc1/320x568/tdyFyBRvGbmH1LDt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937841196946309120/vid/avc1/480x852/myX-Nm1h0uAJgatd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937841196946309120/vid/avc1/720x1280/coDu6kyd6PD9Ye8f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937841196946309120/pl/gVhxr2Y5VgP3xGpl.m3u8?v=d5f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002649351471181886",
+        "created_at": "2025-12-21T07:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T08:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002649351471181886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manguyuxiaoyu/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/manguyuxiaoyu/status/1937841329167642845",
+              "start": 45,
+              "url": "https://t.co/7OiUx2O7e7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002649351471181886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937841329167642845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想当真女人的可以去曼谷雨泰国变性中心蝶变，不用在国内花钱抽鞭子。\n曼谷雨，让你变真女人。 https://t.co/7OiUx2O7e7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937841196946309120"
+          ]
+        },
+        "author_id": "1179429210999279616",
+        "conversation_id": "1937841329167642845",
+        "created_at": "2025-06-25T11:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937841329167642845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2YZQRflOr",
+              "end": 56,
+              "expanded_url": "https://x.com/manguyuxiaoyu/status/1937841329167642845/video/1",
+              "media_key": "13_1937841196946309120",
+              "start": 33,
+              "url": "https://t.co/Z2YZQRflOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937841329167642845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35669,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为这位妹妹加油打气吧！今天是她的重生之日！曼谷雨，让你变真女人👩 https://t.co/Z2YZQRflOr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 154,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 355
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-02T16:13:39.000Z",
+        "description": "我是小雨，我人在曼谷。从事跨性别帮助10年。曼谷雨变性中心 加微信(wechat) manguyu004或@manguyu003 QQ: 3296254691微博：曼谷雨泰国变性中心 小红书：1100258031 松果倾听：4854455",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "manguyu003"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hormoes.com",
+                "end": 23,
+                "expanded_url": "https://hormoes.com/",
+                "start": 0,
+                "url": "https://t.co/Qn1238OrJY"
+              }
+            ]
+          }
+        },
+        "id": "1179429210999279616",
+        "name": "曼谷雨小雨",
+        "pinned_tweet_id": "1929217889921544331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923710613550759939/cLmdb7GF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45159,
+          "following_count": 12,
+          "like_count": 199,
+          "listed_count": 219,
+          "media_count": 2260,
+          "tweet_count": 2492
+        },
+        "url": "https://t.co/Qn1238OrJY",
+        "username": "manguyuxiaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

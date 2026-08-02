@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2002629373430804769",
+    "created_at": "2025-12-21T06:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T07:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002629373430804769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935176310663401472",
+          "start": 3,
+          "username": "S_Hyoscine"
+        },
+        {
+          "end": 26,
+          "id": "1896175390005342208",
+          "start": 16,
+          "username": "Chufeinya"
+        },
+        {
+          "end": 37,
+          "id": "1388179504271486979",
+          "start": 27,
+          "username": "yilianQAQ"
+        },
+        {
+          "end": 52,
+          "id": "1445400963632750596",
+          "start": 38,
+          "username": "Im_Just__Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002629373430804769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002548853091020827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S_Hyoscine: @Chufeinya @yilianQAQ @Im_Just__Girl 从这句话就能看出开那个顺直发明的易性症诊断就是给自己找焦虑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2002629373430804769",
+        "created_at": "2025-12-21T06:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T07:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002629373430804769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935176310663401472",
+              "start": 3,
+              "username": "S_Hyoscine"
+            },
+            {
+              "end": 26,
+              "id": "1896175390005342208",
+              "start": 16,
+              "username": "Chufeinya"
+            },
+            {
+              "end": 37,
+              "id": "1388179504271486979",
+              "start": 27,
+              "username": "yilianQAQ"
+            },
+            {
+              "end": 52,
+              "id": "1445400963632750596",
+              "start": 38,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002629373430804769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002548853091020827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S_Hyoscine: @Chufeinya @yilianQAQ @Im_Just__Girl 从这句话就能看出开那个顺直发明的易性症诊断就是给自己找焦虑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935176310663401472",
+        "conversation_id": "1987920278366941404",
+        "created_at": "2025-12-21T01:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T02:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002548853091020827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896175390005342208",
+              "start": 0,
+              "username": "Chufeinya"
+            },
+            {
+              "end": 21,
+              "id": "1388179504271486979",
+              "start": 11,
+              "username": "yilianQAQ"
+            },
+            {
+              "end": 36,
+              "id": "1445400963632750596",
+              "start": 22,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002548853091020827",
+        "in_reply_to_user_id": "1896175390005342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002546525969526798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinya @yilianQAQ @Im_Just__Girl 从这句话就能看出开那个顺直发明的易性症诊断就是给自己找焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 152,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 351
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "抽象小药娘//\n陪聊门槛50喵",
+        "id": "1935176310663401472",
+        "location": "距您二点五公里",
+        "name": "春雪狐与东莨🍥",
+        "pinned_tweet_id": "2000348320259297617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998583249254440960/OiUFG4ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 746,
+          "like_count": 22628,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 4782
+        },
+        "username": "S_Hyoscine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "连夜梦觉 Liên Dạ Mộng Giác | 我看到有人触犯了他们的「神圣核心」，于是他们便号召其他「理想主体」们利用「道德二元论」惩戒一切抱有怀疑的「异端」，以此巩固「话语垄断」，防止他们在「安全感杠杆机制」上的崩塌 | 在学🇻🇳越南语 Đang học tiếng Việt | @Chufeinyax",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "Chufeinyax"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "1999556389522534430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 1576,
+          "like_count": 15409,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1021
+        },
+        "username": "Chufeinya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-30T17:12:48.000Z",
+        "description": "喵喵喵，是只猫猫，住在大山深处，问就是16岁\n🍥mtf🍥，嗑糖，2022年出柜，状态稳定\n是只发推经常有错字的笨猫猫🈲抽象b🈲（呜呜呜\n最喜欢的可爱喵喵@orangecandy_cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "orangecandy_cat"
+              }
+            ]
+          }
+        },
+        "id": "1388179504271486979",
+        "location": "家",
+        "name": "YiLian🏳️‍⚧️（阳光开朗小女孩）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575867419557609473/ytg9lSxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 258,
+          "like_count": 58655,
+          "listed_count": 4,
+          "media_count": 377,
+          "tweet_count": 9159
+        },
+        "username": "yilianQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "985本 QS50硕在读|I'm a Good girl. Please don't hurt me.👧|洪水将至🌈|女诬退散！|喜阴冷潮湿|pass跨妹OK|因为找工作而剪头发的mtf可以滚开，看不起你。打舞萌的MTF永远是男人，计算机理工MTF永远是男人。|男娘拯救世界！",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "pinned_tweet_id": "1987920278366941404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977019999081709568/Vs0ILDtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 659,
+          "like_count": 9919,
+          "listed_count": 4,
+          "media_count": 98,
+          "tweet_count": 4915
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      }
+    ]
+  }
+}

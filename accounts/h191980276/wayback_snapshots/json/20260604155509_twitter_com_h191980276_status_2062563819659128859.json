@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062522390580752633",
+    "created_at": "2026-06-04T15:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062563819659128859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1202911371521744898",
+          "start": 0,
+          "username": "HulunSi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062563819659128859",
+    "in_reply_to_user_id": "1202911371521744898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062561951130223026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HulunSi 我不喜欢任何一种，无论是以“圈外人”立场还是以“我圈内人”立场指派一个压根不存在的跨圈来当论据说事情，这有什么区别吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062522390580752633",
+        "created_at": "2026-06-04T15:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062563819659128859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1202911371521744898",
+              "start": 0,
+              "username": "HulunSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062563819659128859",
+        "in_reply_to_user_id": "1202911371521744898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062561951130223026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HulunSi 我不喜欢任何一种，无论是以“圈外人”立场还是以“我圈内人”立场指派一个压根不存在的跨圈来当论据说事情，这有什么区别吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1202911371521744898",
+        "conversation_id": "2062522390580752633",
+        "created_at": "2026-06-04T15:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062561951130223026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062561951130223026",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062522390580752633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 这些圈外人还是少评价跨圈比较好😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 515,
+          "like_count": 4354,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1842
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T11:23:42.000Z",
+        "description": "23级计科本科在读/AMAB/友跨🏳️‍⚧️/🌈/infp 非常社恐不会主动社交如果有事还请积极主动来找我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/HuLunTunTao",
+                "end": 23,
+                "expanded_url": "https://github.com/HuLunTunTao",
+                "start": 0,
+                "url": "https://t.co/ldvKax9SKq"
+              }
+            ]
+          }
+        },
+        "id": "1202911371521744898",
+        "location": "🏫海淀 🏠广东",
+        "name": "惠通",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362356059856232448/smupo3Ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 211,
+          "like_count": 172,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/ldvKax9SKq",
+        "username": "HulunSi",
+        "verified": false
+      }
+    ]
+  }
+}

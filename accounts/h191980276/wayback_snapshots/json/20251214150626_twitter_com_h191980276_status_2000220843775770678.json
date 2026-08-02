@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2000220843775770678",
+    "created_at": "2025-12-14T15:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T16:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000220843775770678"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000220843775770678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些小跨妹chaser社群待多了，真把chaser的要求当赎罪路了。有没有可能chser首先就不是主流人，你信了chaser的教回归不到什么主流生活，主流人根本不知道这些乱七八糟的也不知道什么好跨坏跨，主流人只会单纯地因为你的身份歧视你而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000220843775770678",
+        "created_at": "2025-12-14T15:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000220843775770678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000220843775770678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些小跨妹chaser社群待多了，真把chaser的要求当赎罪路了。有没有可能chser首先就不是主流人，你信了chaser的教回归不到什么主流生活，主流人根本不知道这些乱七八糟的也不知道什么好跨坏跨，主流人只会单纯地因为你的身份歧视你而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 142,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 303
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

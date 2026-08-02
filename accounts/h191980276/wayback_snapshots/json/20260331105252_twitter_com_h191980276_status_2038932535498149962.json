@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038932533627547649"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038932535498149962",
+    "created_at": "2026-03-31T10:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038932535498149962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dtb0T0AoEk",
+          "end": 106,
+          "expanded_url": "https://x.com/h191980276/status/2038932535498149962/photo/1",
+          "media_key": "3_2038932533627547649",
+          "start": 83,
+          "url": "https://t.co/Dtb0T0AoEk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038932535498149962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以为“友跨人士”是什么先锋，原来友跨人士想做的是旧社会最顽固的余孽啊，得先把反跨的干掉，再让社会风气都变好，最后这些无处可逃的顽固分子“友好人士”才愿意缴械投降？ https://t.co/Dtb0T0AoEk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2038932533627547649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu-VivbcAEAwn4.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038932533627547649"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038932535498149962",
+        "created_at": "2026-03-31T10:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038932535498149962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dtb0T0AoEk",
+              "end": 106,
+              "expanded_url": "https://x.com/h191980276/status/2038932535498149962/photo/1",
+              "media_key": "3_2038932533627547649",
+              "start": 83,
+              "url": "https://t.co/Dtb0T0AoEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038932535498149962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以为“友跨人士”是什么先锋，原来友跨人士想做的是旧社会最顽固的余孽啊，得先把反跨的干掉，再让社会风气都变好，最后这些无处可逃的顽固分子“友好人士”才愿意缴械投降？ https://t.co/Dtb0T0AoEk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 348,
+          "like_count": 3051,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1112
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

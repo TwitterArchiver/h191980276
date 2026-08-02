@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060426259407224868",
+    "created_at": "2026-05-30T08:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060642825793139075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1165831053241569280",
+          "start": 0,
+          "username": "billyswong"
+        },
+        {
+          "end": 24,
+          "id": "1736265610911428608",
+          "start": 12,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060642825793139075",
+    "in_reply_to_user_id": "1165831053241569280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060551622384836999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@billyswong @noname2095_ 如果真是“監獄生活惡劣視為「懲罰犯罪者」的一部份”的话，怎么到顺女就区别对待了的，怎么又不是你犯罪了怎么安排你都得受着活该了，怎么又能吵吵着要为了保护顺女犯人安排别人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060426259407224868",
+        "created_at": "2026-05-30T08:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060642825793139075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1165831053241569280",
+              "start": 0,
+              "username": "billyswong"
+            },
+            {
+              "end": 24,
+              "id": "1736265610911428608",
+              "start": 12,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060642825793139075",
+        "in_reply_to_user_id": "1165831053241569280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060551622384836999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@billyswong @noname2095_ 如果真是“監獄生活惡劣視為「懲罰犯罪者」的一部份”的话，怎么到顺女就区别对待了的，怎么又不是你犯罪了怎么安排你都得受着活该了，怎么又能吵吵着要为了保护顺女犯人安排别人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165831053241569280",
+        "conversation_id": "2060426259407224868",
+        "created_at": "2026-05-30T02:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060551622384836999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060551622384836999",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060426259407224868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ 問題的根源是民間與官方皆有一大堆人將監獄生活惡劣視為「懲罰犯罪者」的一部份。\n\n至於「生活空間限定在單間內」……完全沒有戶外放風的話，可能比起原有的監獄生活更令大多數人難受。也就武肺帶來長期不人道禁錮隔離，大家才習以為常不察覺吧——但一般人的家居窗口比較多比較大，視野比囚室廣闊得多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 510,
+          "like_count": 4320,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1792
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-26T03:39:33.000Z",
+        "description": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也。」——《論語・泰伯》",
+        "id": "1165831053241569280",
+        "location": "Hong Kong",
+        "name": "Billy Wong",
+        "pinned_tweet_id": "1804342083114930390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165845202398896128/Edqdd0FK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 222,
+          "like_count": 9676,
+          "listed_count": 3,
+          "media_count": 650,
+          "tweet_count": 13137
+        },
+        "username": "billyswong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "29元包年千G流量VPN👉🏻：https://t.co/MVeoKpvKXj\n\n🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\n个人账号：https://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=BkiKFzKe",
+                "start": 15,
+                "url": "https://t.co/MVeoKpvKXj"
+              },
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 114,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 91,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 363,
+          "like_count": 4320,
+          "listed_count": 5,
+          "media_count": 308,
+          "tweet_count": 11323
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

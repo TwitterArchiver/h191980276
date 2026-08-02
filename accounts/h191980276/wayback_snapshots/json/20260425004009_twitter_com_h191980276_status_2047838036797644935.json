@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2047838036797644935",
+    "created_at": "2026-04-25T00:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047838036797644935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Joaxe001/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Joaxe001/status/2047830584937046094",
+          "start": 22,
+          "url": "https://t.co/lZPmSQHP7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047838036797644935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047830584937046094",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真不歧视几把小的啊😭几把小小小的才可爱啊 https://t.co/lZPmSQHP7v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2047838036797644935",
+        "created_at": "2026-04-25T00:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047838036797644935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Joaxe001/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Joaxe001/status/2047830584937046094",
+              "start": 22,
+              "url": "https://t.co/lZPmSQHP7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047838036797644935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047830584937046094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真不歧视几把小的啊😭几把小小小的才可爱啊 https://t.co/lZPmSQHP7v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874781926416125952",
+        "conversation_id": "2047577598444929052",
+        "created_at": "2026-04-25T00:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047830584937046094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027304329728946177",
+              "start": 0,
+              "username": "Kephas98765"
+            },
+            {
+              "end": 26,
+              "id": "1849345589604978688",
+              "start": 13,
+              "username": "huqing421869"
+            },
+            {
+              "end": 40,
+              "id": "1986828541930119168",
+              "start": 27,
+              "username": "shigure07288"
+            },
+            {
+              "end": 51,
+              "id": "1803238927173820417",
+              "start": 41,
+              "username": "yzx345666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047830584937046094",
+        "in_reply_to_user_id": "2027304329728946177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047830180740415765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kephas98765 @huqing421869 @shigure07288 @yzx345666 谁说没人歧视几把小了? 你统计了? 谁说有人歧视少民了,你统计了? 所以被歧视都要被优待, 那么妓女是不是应该直接上清华? 既然几把小不是坏事, 那么当少民也不是坏事, 他们反而还很骄傲,为什么还要给好处?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 491,
+          "like_count": 3928,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1460
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T11:37:13.000Z",
+        "description": "只和聪明人沟通. 鄙视吹嘘者.",
+        "id": "1874781926416125952",
+        "location": "坚持1644史观",
+        "name": "李居安",
+        "pinned_tweet_id": "2042891557310025965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022221440972718080/mUYnF6G4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 158,
+          "like_count": 4954,
+          "listed_count": 7,
+          "media_count": 266,
+          "tweet_count": 9555
+        },
+        "username": "Joaxe001",
+        "verified": false
+      }
+    ]
+  }
+}

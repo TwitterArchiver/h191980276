@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2019634761426432465",
+    "created_at": "2026-02-06T07:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T08:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019669671025471502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019669671025471502",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019634761426432465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya 遇到同类突然就不软弱了，突然想起来自己有脾气了，突然开始有主体性了，突然学会攻击人指点人了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019634750231863296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcvGtea4AAfy1l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2019634761426432465",
+        "created_at": "2026-02-06T07:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019669671025471502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019669671025471502",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019634761426432465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 遇到同类突然就不软弱了，突然想起来自己有脾气了，突然开始有主体性了，突然学会攻击人指点人了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019634750231863296"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019634761426432465",
+        "created_at": "2026-02-06T04:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019634761426432465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBtMmsngf8",
+              "end": 149,
+              "expanded_url": "https://x.com/bghtnya/status/2019634761426432465/photo/1",
+              "media_key": "3_2019634750231863296",
+              "start": 126,
+              "url": "https://t.co/XBtMmsngf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019634761426432465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "必须批评现在的跨圈具有软弱性，（冰主席作出重要指示），换句话说 现在的木桶饭对人太好了 总是作为好人 遇到困难就让步 遇到威胁就妥协。但是这样的性格换来的危害却是巨大的 比如互联网上对跨圈 也就一味的批判 ，不做任何反驳的情况下 这种批判只会越来越重 可以横向对比一下国外，相对来说中国的木桶饭还是太保守了，离武装起义这么遥远 连游行示威都没有过\n\n但事实上确是，好人不长命 王八活千年\n这个好人有必要一直当下去吗？正确的做法应该是哪里有压迫 哪里就该反抗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "必须批评现在的跨圈具有软弱性，（冰主席作出重要指示），换句话说 现在的木桶饭对人太好了 总是作为好人 遇到困难就让步 遇到威胁就妥协。但是这样的性格换来的危害却是巨大的 比如互联网上对跨圈 也就一味的批判 ，不做任何反驳的情况下 这种批判只会越来越重 https://t.co/XBtMmsngf8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000054197207908604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 202,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 520
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009617120817278976/jM7PlR1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8842,
+          "following_count": 2064,
+          "like_count": 172023,
+          "listed_count": 18,
+          "media_count": 3708,
+          "tweet_count": 45143
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

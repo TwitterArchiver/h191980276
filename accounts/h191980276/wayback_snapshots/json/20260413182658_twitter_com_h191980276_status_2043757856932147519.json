@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2043757856932147519",
+    "created_at": "2026-04-13T18:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T19:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043757856932147519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuuuziiijiangg…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/yuuuziiijianggg/status/1912442702291169394",
+          "start": 22,
+          "url": "https://t.co/EnMFFTnjNs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043757856932147519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912442702291169394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家好我就是顶着药娘名义卖屁眼的精神娚人喵 https://t.co/EnMFFTnjNs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2043757856932147519",
+        "created_at": "2026-04-13T18:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T19:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043757856932147519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuuuziiijiangg…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/yuuuziiijianggg/status/1912442702291169394",
+              "start": 22,
+              "url": "https://t.co/EnMFFTnjNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043757856932147519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912442702291169394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家好我就是顶着药娘名义卖屁眼的精神娚人喵 https://t.co/EnMFFTnjNs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746884530198523904",
+        "conversation_id": "1912442702291169394",
+        "created_at": "2025-04-16T09:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T10:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912442702291169394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912442702291169394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1404,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多mtf给我一种不是要真跨性别，吃雌激素是为了顶着药娘的名义卖屁眼，如果有人给他出变性的钱他大概率也是不会去变性的，因为脑子里还是精神男人😂假mtf真男同，诡计多端只为卖屁眼却压榨了真正的mtf的生存空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 427,
+          "like_count": 3459,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1307
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T13:18:36.000Z",
+        "description": "＝Yuko鱼子酱 OD区Twi主🐢@ninis07QaQ丨日记本",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "ninis07QaQ"
+              }
+            ]
+          }
+        },
+        "id": "1746884530198523904",
+        "location": "骂我千刀万剐 我骂的罪有应得",
+        "name": "浓浓de忧桑",
+        "pinned_tweet_id": "1960837181200801858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014805836430987264/5Vm1I2ga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 372,
+          "like_count": 5671,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 4984
+        },
+        "username": "yuuuziiijianggg",
+        "verified": false
+      }
+    ]
+  }
+}

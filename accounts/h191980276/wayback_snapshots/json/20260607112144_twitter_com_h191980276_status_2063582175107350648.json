@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2050950132993339759",
+    "created_at": "2026-06-07T11:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063582175107350648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20629…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2062903779448775093",
+          "start": 0,
+          "url": "https://t.co/SRUMEwrFbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063582175107350648",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062903779448775093",
+        "type": "quoted"
+      },
+      {
+        "id": "2050950132993339759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/SRUMEwrFbY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2050950132993339759",
+        "created_at": "2026-06-07T11:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063582175107350648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20629…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2062903779448775093",
+              "start": 0,
+              "url": "https://t.co/SRUMEwrFbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063582175107350648",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062903779448775093",
+            "type": "quoted"
+          },
+          {
+            "id": "2050950132993339759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/SRUMEwrFbY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062903779448775093",
+        "created_at": "2026-06-05T14:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062903779448775093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/h191980276/status/2062102317475004489",
+              "start": 27,
+              "url": "https://t.co/3hBuDSSGak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062903779448775093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2277,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062102317475004489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我仍然反对任何一种方式把chaser社群说成跨圈 https://t.co/3hBuDSSGak"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2050950132993339759",
+        "created_at": "2026-05-03T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050950132993339759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050950132993339759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3692,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 520,
+          "like_count": 4431,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1918
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

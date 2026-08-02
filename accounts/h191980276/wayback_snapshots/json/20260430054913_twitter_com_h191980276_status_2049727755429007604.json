@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049727755429007604",
+    "created_at": "2026-04-30T05:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049727755429007604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mukdengise/sta…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/mukdengise/status/2047660069865787423",
+          "start": 52,
+          "url": "https://t.co/shXLpDWWkr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049727755429007604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047660069865787423",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为无论是生理性别还是心理性别还是其他各种理由给你派性别，本质都是指派性别，就是用来否定你性别认同用的 https://t.co/shXLpDWWkr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049727755429007604",
+        "created_at": "2026-04-30T05:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049727755429007604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/mukdengise/status/2047660069865787423",
+              "start": 52,
+              "url": "https://t.co/shXLpDWWkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049727755429007604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047660069865787423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为无论是生理性别还是心理性别还是其他各种理由给你派性别，本质都是指派性别，就是用来否定你性别认同用的 https://t.co/shXLpDWWkr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "2047660069865787423",
+        "created_at": "2026-04-24T12:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047660069865787423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/mukdengise/status/2047335770365849972",
+              "start": 39,
+              "url": "https://t.co/Cb0zxS2qHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047660069865787423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6276,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047335770365849972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说“心理性别”的我更觉得无可救药，这个比“生理性别”四个字的社会危害还要更大 https://t.co/Cb0zxS2qHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 507,
+          "like_count": 4167,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1580
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/好诡秘：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "2045520898812481725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021635233884598273/yaJUaGpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10309,
+          "following_count": 763,
+          "like_count": 140055,
+          "listed_count": 53,
+          "media_count": 1876,
+          "tweet_count": 24969
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

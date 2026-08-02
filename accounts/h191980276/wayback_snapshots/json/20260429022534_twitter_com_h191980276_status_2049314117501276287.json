@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049164644431073412",
+    "created_at": "2026-04-29T02:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049314117501276287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383473182854684674",
+          "start": 0,
+          "username": "yuanwangnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049314117501276287",
+    "in_reply_to_user_id": "1383473182854684674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049312299652153557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanwangnan 我就是想障目而已啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049164644431073412",
+        "created_at": "2026-04-29T02:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049314117501276287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049314117501276287",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049312299652153557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan 我就是想障目而已啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383473182854684674",
+        "conversation_id": "2049164644431073412",
+        "created_at": "2026-04-29T02:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049312299652153557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049312299652153557",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049188207317893533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 屏蔽了只是一叶障目而已，看见他们的推文能让我加深对他们曾经做过的事的印象，更加记仇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 501,
+          "like_count": 4094,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1534
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "06",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/14isfourteen",
+                "end": 23,
+                "expanded_url": "http://github.com/14isfourteen",
+                "start": 0,
+                "url": "https://t.co/RbV99qPMjr"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "pinned_tweet_id": "1996625486861185077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 170,
+          "like_count": 53189,
+          "listed_count": 19,
+          "media_count": 2235,
+          "tweet_count": 23425
+        },
+        "url": "https://t.co/RbV99qPMjr",
+        "username": "yuanwangnan",
+        "verified": false
+      }
+    ]
+  }
+}

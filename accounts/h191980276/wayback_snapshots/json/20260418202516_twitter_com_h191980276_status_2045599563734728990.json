@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2045599563734728990",
+    "created_at": "2026-04-18T20:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T21:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045599563734728990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/serdocardu2986…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/serdocardu2986/status/2045242973768585485",
+          "start": 6,
+          "url": "https://t.co/OI4lTJTEbP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045599563734728990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045242973768585485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一模一样啊 https://t.co/OI4lTJTEbP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2045599563734728990",
+        "created_at": "2026-04-18T20:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T21:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045599563734728990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/serdocardu2986…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/serdocardu2986/status/2045242973768585485",
+              "start": 6,
+              "url": "https://t.co/OI4lTJTEbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045599563734728990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045242973768585485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一模一样啊 https://t.co/OI4lTJTEbP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808903457929412608",
+        "conversation_id": "2045242973768585485",
+        "created_at": "2026-04-17T20:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045242973768585485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/serdocardu2986…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/serdocardu2986/status/2045241527782293827",
+              "start": 144,
+              "url": "https://t.co/o7cosXFKN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045242973768585485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 975,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045241527782293827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（题外话）现代中文学院课本、官方研究中已经把女权主义封禁、改为“女性主义”、基本盘也把女权当贬义词。这就是我厌恶说“女性主义”不说女权的根本原因，你的名字为了避别人的讳而被改了，这就代表了你的失权，别再美化了好吗？什么“我是女性主义”……要么你是一个名字被夺的女权主义者，要么你不是女权 https://t.co/o7cosXFKN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 465,
+          "like_count": 3662,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1359
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T16:39:38.000Z",
+        "description": "",
+        "id": "1808903457929412608",
+        "name": "serdocardu",
+        "pinned_tweet_id": "2027479635634598003",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 8,
+          "like_count": 2061,
+          "listed_count": 11,
+          "media_count": 28,
+          "tweet_count": 1754
+        },
+        "username": "serdocardu2986",
+        "verified": false
+      }
+    ]
+  }
+}

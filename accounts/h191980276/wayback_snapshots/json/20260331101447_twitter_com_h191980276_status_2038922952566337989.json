@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2038922952566337989",
+    "created_at": "2026-03-31T10:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038922952566337989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2018268636180529152",
+          "start": 3,
+          "username": "yoyo936713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038922952566337989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038910555453374472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoyo936713: 戒网瘾学校教官：我们也有话说的，我们打孩子，虐待孩子是不对，但我们是要救他，生命比其他都重要，什么虐待，都是可以牺牲的，难道我们要放任他们割自己蛋，自残，吸毒嘛？我们做了这些教育后，绝大多数孩子都不敢了，这就是我们的成果，我们也是救助者😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2038922952566337989",
+        "created_at": "2026-03-31T10:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038922952566337989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018268636180529152",
+              "start": 3,
+              "username": "yoyo936713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038922952566337989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038910555453374472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoyo936713: 戒网瘾学校教官：我们也有话说的，我们打孩子，虐待孩子是不对，但我们是要救他，生命比其他都重要，什么虐待，都是可以牺牲的，难道我们要放任他们割自己蛋，自残，吸毒嘛？我们做了这些教育后，绝大多数孩子都不敢了，这就是我们的成果，我们也是救助者😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018268636180529152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2038910555453374472",
+        "created_at": "2026-03-31T09:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038910555453374472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038910555453374472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "戒网瘾学校教官：我们也有话说的，我们打孩子，虐待孩子是不对，但我们是要救他，生命比其他都重要，什么虐待，都是可以牺牲的，难道我们要放任他们割自己蛋，自残，吸毒嘛？我们做了这些教育后，绝大多数孩子都不敢了，这就是我们的成果，我们也是救助者😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 348,
+          "like_count": 3049,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1108
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T10:22:12.000Z",
+        "description": "😣",
+        "id": "2018268636180529152",
+        "name": "yoyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038287122256302080/T-kolqI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 166,
+          "like_count": 2536,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 212
+        },
+        "username": "yoyo936713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049687058739077415",
+    "created_at": "2026-04-30T03:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049694007106875695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "Ikks0413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049694007106875695",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049687058739077415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikks0413 lgbt开马自达也可以进故宫，无需开大奔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049687058739077415",
+        "created_at": "2026-04-30T03:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049694007106875695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "Ikks0413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049694007106875695",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049687058739077415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikks0413 lgbt开马自达也可以进故宫，无需开大奔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "conversation_id": "2049687058739077415",
+        "created_at": "2026-04-30T03:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049687058739077415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rennord9407/st…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/rennord9407/status/2049358508186107951",
+              "start": 132,
+              "url": "https://t.co/tgu4Fq3oE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049687058739077415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049358508186107951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "LGTB要求的特权如下：\n1.LTGB高考加10分\n2.LTGB的分数线比普通人低几十分\n3.在12的基础上LBgt的人高考试卷比普通人还简单\n4.普通人的退休金是120元每月，Lgbt的人是他们的几十倍\n5. Lgbt可以开车进城，其他人要开进城证才能进\n…. https://t.co/tgu4Fq3oE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 507,
+          "like_count": 4154,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1574
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "07｜MtFree｜Asexual/Agender｜Intel新芽衣滞华汁做题国难长毛人妖垮处 ｜ただ夏の匂いに目を瞑りたい｜◂Ⓘ▸ ｜🐖❤️@Lyrica_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Lyrica_1005"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/gc2SsVwVMA"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "Room 13",
+        "name": "粥白粥粥白🌛🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040262760144175104/Kyeycx3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 990,
+          "like_count": 132879,
+          "listed_count": 17,
+          "media_count": 4638,
+          "tweet_count": 32496
+        },
+        "url": "https://t.co/gc2SsVwVMA",
+        "username": "Ikks0413",
+        "verified": false
+      }
+    ]
+  }
+}

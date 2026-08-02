@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2006441545826971884",
+    "created_at": "2025-12-31T19:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T20:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006447998029754832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990151128605134848",
+          "start": 0,
+          "username": "ethicsofopacity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006447998029754832",
+    "in_reply_to_user_id": "1990151128605134848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006441545826971884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ethicsofopacity 以绝后患"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2006441545826971884].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2006441545826971884",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2006441545826971884"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2006441545826971884",
+        "created_at": "2025-12-31T19:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T20:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006447998029754832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990151128605134848",
+              "start": 0,
+              "username": "ethicsofopacity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006447998029754832",
+        "in_reply_to_user_id": "1990151128605134848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006441545826971884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ethicsofopacity 以绝后患"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 169,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 414
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T20:13:16.000Z",
+        "description": "emetophilia / 请放过我吧求你了",
+        "id": "1990151128605134848",
+        "name": "白",
+        "pinned_tweet_id": "1998609102298095940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990165123680358401/ms0prA5y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 513,
+          "like_count": 1781,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1260
+        },
+        "username": "ethicsofopacity",
+        "verified": true
+      }
+    ]
+  }
+}

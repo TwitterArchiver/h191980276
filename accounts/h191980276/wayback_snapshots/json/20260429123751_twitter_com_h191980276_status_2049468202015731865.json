@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049467218887639072",
+    "created_at": "2026-04-29T12:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049468202015731865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013233628847980544",
+          "start": 0,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049468202015731865",
+    "in_reply_to_user_id": "2013233628847980544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049467218887639072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asukai_Yuki 睁眼看世界之屁眼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049467218887639072",
+        "created_at": "2026-04-29T12:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049468202015731865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049468202015731865",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049467218887639072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki 睁眼看世界之屁眼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013233628847980544",
+        "conversation_id": "2049467218887639072",
+        "created_at": "2026-04-29T12:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049467218887639072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049467218887639072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我受不了了中推真尼玛是互联网人体蜈蚣粪坑最后一环其他平台发烂了我闭着眼都能倒背出来的文案meme在这里炒的正你妈热呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 500,
+          "like_count": 4102,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1537
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈＝郁希/飛鳥井ゆき | enby 泛性恋无浪漫，和我的琴已经结婚 | 06| 双相焦虑 | 🎸🎨 | rock'n'roll | oc | 我见你如于深井中窥飞鸟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "喜欢我请给我打钱❤️",
+        "name": "郁希様",
+        "pinned_tweet_id": "2049466970911949279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567969726840832/5gci_IPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 211,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

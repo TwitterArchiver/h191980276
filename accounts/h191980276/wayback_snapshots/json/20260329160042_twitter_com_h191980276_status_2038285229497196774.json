@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038285229497196774",
+    "created_at": "2026-03-29T16:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038285229497196774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pikaunderlight…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/Pikaunderlight/status/2038279106731868477",
+          "start": 101,
+          "url": "https://t.co/sR0Rrl0ky3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038285229497196774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038279106731868477",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨性别拖累影响了至少六个校区下数以千计的受害者，跨性别怎么不去死啊，让人知道那个学校迫害跨性别上边给奖励了那些受害者都完蛋了，跨性别怎么不去死啊，那么多戒网瘾学校的孩子都被你们跨畜拖累了，怎么不去死啊 https://t.co/sR0Rrl0ky3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038279102499819520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElsC2GakAArkVr.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038285229497196774",
+        "created_at": "2026-03-29T16:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038285229497196774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pikaunderlight…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/Pikaunderlight/status/2038279106731868477",
+              "start": 101,
+              "url": "https://t.co/sR0Rrl0ky3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038285229497196774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038279106731868477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨性别拖累影响了至少六个校区下数以千计的受害者，跨性别怎么不去死啊，让人知道那个学校迫害跨性别上边给奖励了那些受害者都完蛋了，跨性别怎么不去死啊，那么多戒网瘾学校的孩子都被你们跨畜拖累了，怎么不去死啊 https://t.co/sR0Rrl0ky3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038279102499819520"
+          ]
+        },
+        "author_id": "1938295191888400386",
+        "conversation_id": "2038279106731868477",
+        "created_at": "2026-03-29T15:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038279106731868477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooyx2NNhqU",
+              "end": 166,
+              "expanded_url": "https://x.com/Pikaunderlight/status/2038279106731868477/photo/1",
+              "media_key": "3_2038279102499819520",
+              "start": 143,
+              "url": "https://t.co/ooyx2NNhqU"
+            },
+            {
+              "display_url": "x.com/ValeriaEulabei…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/2038257838980817382",
+              "start": 167,
+              "url": "https://t.co/zHp7nQDrGk"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2038279106731868477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 3,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038257838980817382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你以为的：我们就要这样，我们好开心啊\n可实际上是，我们不喜欢这样的环境，但是没办法。\n如果我们说当事人的真实性别认同，很多人的关注就会偏移，这个话题也会被限制传播\n断指存腕，两害相权取其轻，这是基本的理性决策。\n还是你觉得，这个人称代词，比该机构至少六个校区下数以千计的受害者更珍重？ https://t.co/ooyx2NNhqU https://t.co/zHp7nQDrGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 337,
+          "like_count": 2847,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 959
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T17:57:12.000Z",
+        "description": "我吹过你吹过的晚风 是否看过同样风景",
+        "id": "1938295191888400386",
+        "location": "在你意料不到的地方",
+        "name": "暮色前的晨曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938296399868612608/ftdD_yci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 306,
+          "like_count": 3477,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 401
+        },
+        "username": "Pikaunderlight",
+        "verified": false
+      }
+    ]
+  }
+}

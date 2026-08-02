@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063221399054102528",
+        "3_2063221397875499008"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063221401868550563",
+    "created_at": "2026-06-06T11:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063221401868550563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EV7QJ5gtii",
+          "end": 108,
+          "expanded_url": "https://x.com/h191980276/status/2063221401868550563/photo/1",
+          "media_key": "3_2063221399054102528",
+          "start": 85,
+          "url": "https://t.co/EV7QJ5gtii"
+        },
+        {
+          "display_url": "pic.x.com/EV7QJ5gtii",
+          "end": 108,
+          "expanded_url": "https://x.com/h191980276/status/2063221401868550563/photo/1",
+          "media_key": "3_2063221397875499008",
+          "start": 85,
+          "url": "https://t.co/EV7QJ5gtii"
+        },
+        {
+          "display_url": "x.com/h191980276/sta…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/h191980276/status/2062903779448775093",
+          "start": 109,
+          "url": "https://t.co/PvXbcLxxwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063221401868550563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062903779448775093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你看吧，恁tyw搁b站开始交换跨圈跨圈了，人amber在推特叭叭叭跨圈长跨圈短忆峥嵘岁月，你还真屁颠屁颠去互动了，人喊你你去讨论跨圈是为了让你跨性别接屎盆子的你还真去了 https://t.co/EV7QJ5gtii https://t.co/PvXbcLxxwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063221399054102528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKII7leasAAV4qP.jpg",
+        "width": 1207
+      },
+      {
+        "height": 76,
+        "media_key": "3_2063221397875499008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKII7hFaoAA46nS.jpg",
+        "width": 228
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063221399054102528",
+            "3_2063221397875499008"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063221401868550563",
+        "created_at": "2026-06-06T11:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063221401868550563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EV7QJ5gtii",
+              "end": 108,
+              "expanded_url": "https://x.com/h191980276/status/2063221401868550563/photo/1",
+              "media_key": "3_2063221399054102528",
+              "start": 85,
+              "url": "https://t.co/EV7QJ5gtii"
+            },
+            {
+              "display_url": "pic.x.com/EV7QJ5gtii",
+              "end": 108,
+              "expanded_url": "https://x.com/h191980276/status/2063221401868550563/photo/1",
+              "media_key": "3_2063221397875499008",
+              "start": 85,
+              "url": "https://t.co/EV7QJ5gtii"
+            },
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/h191980276/status/2062903779448775093",
+              "start": 109,
+              "url": "https://t.co/PvXbcLxxwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063221401868550563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062903779448775093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看吧，恁tyw搁b站开始交换跨圈跨圈了，人amber在推特叭叭叭跨圈长跨圈短忆峥嵘岁月，你还真屁颠屁颠去互动了，人喊你你去讨论跨圈是为了让你跨性别接屎盆子的你还真去了 https://t.co/EV7QJ5gtii https://t.co/PvXbcLxxwx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062903779448775093",
+        "created_at": "2026-06-05T14:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062903779448775093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/h191980276/status/2062102317475004489",
+              "start": 27,
+              "url": "https://t.co/3hBuDSSGak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062903779448775093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062102317475004489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我仍然反对任何一种方式把chaser社群说成跨圈 https://t.co/3hBuDSSGak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 516,
+          "like_count": 4404,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1899
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

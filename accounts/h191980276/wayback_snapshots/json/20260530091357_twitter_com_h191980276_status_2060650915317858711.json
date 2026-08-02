@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2060650915317858711",
+    "created_at": "2026-05-30T09:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060650915317858711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MGlimpze26770/…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/MGlimpze26770/status/2060388154792923553",
+          "start": 50,
+          "url": "https://t.co/Z8fUAKJyaR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060650915317858711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060388154792923553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又从不含糖可能导致不良行为转成罪犯可能做不良行为，又从莫须有的可能性侵转成什么要求强迫他接受强奸犯 https://t.co/Z8fUAKJyaR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2060650915317858711",
+        "created_at": "2026-05-30T09:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060650915317858711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MGlimpze26770/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/MGlimpze26770/status/2060388154792923553",
+              "start": 50,
+              "url": "https://t.co/Z8fUAKJyaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060650915317858711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060388154792923553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又从不含糖可能导致不良行为转成罪犯可能做不良行为，又从莫须有的可能性侵转成什么要求强迫他接受强奸犯 https://t.co/Z8fUAKJyaR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664627530425352192",
+        "conversation_id": "2060388154792923553",
+        "created_at": "2026-05-29T15:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060388154792923553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060388154792923553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "楽，谈不含糖到底算不算跨的同时唐突提不含糖导致某某不良行为的这种建议去和小学生打辩论赛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 510,
+          "like_count": 4320,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1793
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T13:38:36.000Z",
+        "description": "some shades of grey with burgundy",
+        "id": "1664627530425352192",
+        "location": "yacht in Xi'an",
+        "name": "Mizty_Glimpze",
+        "pinned_tweet_id": "1823045493007810875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664634188371197954/SkghuZI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 400,
+          "like_count": 8803,
+          "listed_count": 3,
+          "media_count": 811,
+          "tweet_count": 7689
+        },
+        "username": "MGlimpze26770",
+        "verified": false
+      }
+    ]
+  }
+}

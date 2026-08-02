@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2016376432616996955",
+    "created_at": "2026-01-28T09:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T10:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016444361706549442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016444361706549442",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016376432616996955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl 这帮人可一点没觉得被冒犯，自己都跟着转发嘲弄扮小丑玩烂梗陪顺直逗乐玩，打扮长相只是“反串”玩的一部分，既不尊重计算机的发展历史，也不尊重性弱势群体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2016376432616996955",
+        "created_at": "2026-01-28T09:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016444361706549442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016444361706549442",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016376432616996955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl 这帮人可一点没觉得被冒犯，自己都跟着转发嘲弄扮小丑玩烂梗陪顺直逗乐玩，打扮长相只是“反串”玩的一部分，既不尊重计算机的发展历史，也不尊重性弱势群体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2016376432616996955",
+        "created_at": "2026-01-28T05:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016376432616996955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/2015711869902950683",
+              "start": 97,
+              "url": "https://t.co/UXh6eyyg94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016376432616996955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 399,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015711869902950683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经了解了事情的全貌。我将拒绝撤回对计算机mtf的所有言论。在我眼里，所有选择学计算机ai的mtf都是男人，百分之一百的男人，我不会把你们当作女性或者跨女看待，你们和男人没有任何区别。以上。 https://t.co/UXh6eyyg94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 193,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 488
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "985本 QS50硕在读|I'm a Good girl. Please don't hurt me.👧|洪水将至🌈|女诬退散！|喜阴冷潮湿|pass跨妹OK|打舞萌的MTF永远是男人，大部分计算机理工MTF永远是男人。|男娘拯救世界！",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "pinned_tweet_id": "1987920278366941404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977019999081709568/Vs0ILDtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 666,
+          "like_count": 10248,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 5201
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      }
+    ]
+  }
+}

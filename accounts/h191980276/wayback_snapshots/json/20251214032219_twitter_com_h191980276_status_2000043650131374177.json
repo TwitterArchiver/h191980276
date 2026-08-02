@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2000043650131374177",
+    "created_at": "2025-12-14T03:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000043650131374177"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000043650131374177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "恁中推chaser社群天天喜欢打跨，完了喜欢管自己社群叫跨的圈，一说就说是跨的圈干的，打人的时候人家是跨的圈，抹人身上说是跨打的时候恁又成跨的圈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2000043650131374177",
+        "created_at": "2025-12-14T03:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000043650131374177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000043650131374177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恁中推chaser社群天天喜欢打跨，完了喜欢管自己社群叫跨的圈，一说就说是跨的圈干的，打人的时候人家是跨的圈，抹人身上说是跨打的时候恁又成跨的圈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 141,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 289
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2064031255201780213",
+    "created_at": "2026-06-08T17:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064032348208058855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003874583343210496",
+          "start": 0,
+          "username": "changdaobi85143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064032348208058855",
+    "in_reply_to_user_id": "2003874583343210496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064031255201780213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changdaobi85143 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2064031242887274497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTpes2aoAEgsYX.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064031242849550336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTpestbAAAo-XO.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2064031255201780213",
+        "created_at": "2026-06-08T17:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064032348208058855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003874583343210496",
+              "start": 0,
+              "username": "changdaobi85143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064032348208058855",
+        "in_reply_to_user_id": "2003874583343210496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064031255201780213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changdaobi85143 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064031242887274497",
+            "3_2064031242849550336"
+          ]
+        },
+        "author_id": "2003874583343210496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1492215422623490048",
+              "name": "FTX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2064031255201780213",
+        "created_at": "2026-06-08T17:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064031255201780213"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "黑皮"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "白袜"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "直男"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "ftx"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "ftm"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "跨性别"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "直男"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "纯直男"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KW6W2faE58",
+              "end": 70,
+              "expanded_url": "https://x.com/changdaobi85143/status/2064031255201780213/photo/1",
+              "media_key": "3_2064031242887274497",
+              "start": 47,
+              "url": "https://t.co/KW6W2faE58"
+            },
+            {
+              "display_url": "pic.x.com/KW6W2faE58",
+              "end": 70,
+              "expanded_url": "https://x.com/changdaobi85143/status/2064031255201780213/photo/1",
+              "media_key": "3_2064031242849550336",
+              "start": 47,
+              "url": "https://t.co/KW6W2faE58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064031255201780213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发个擦边？（我是直男）#黑皮 #白袜 #直男 #ftx #ftm #跨性别 #直男 #纯直男 https://t.co/KW6W2faE58"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 519,
+          "like_count": 4454,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1940
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T17:05:15.000Z",
+        "description": "可以叫我长岛冰茶/请文明私信/焦虑症最严厉的父亲｜ftx｜凝胶HRT：2026.4.6｜针剂HRT：2026.6.8｜平胸后露脸擦边",
+        "id": "2003874583343210496",
+        "location": "🤪",
+        "name": "来一杯长岛冰茶",
+        "pinned_tweet_id": "2040396852840005791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003875241773465600/4aLJ-_j1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 244,
+          "like_count": 3841,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 525
+        },
+        "username": "changdaobi85143",
+        "verified": false
+      }
+    ]
+  }
+}

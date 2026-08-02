@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038668057816780900",
+    "created_at": "2026-03-30T17:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T18:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038668057816780900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AotraWong/stat…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/AotraWong/status/2038647571435098135",
+          "start": 90,
+          "url": "https://t.co/wKL3h0nzuK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038668057816780900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038647571435098135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天是跨性别深柜人，每个跨女都得是男的，每个跨男都是女的，世界上只有两种性别，你再怎么说都改变不了生理是客观事实，染色体xx就是男的，你的xy染色体就决定你一辈子都是女的后边忘了 https://t.co/wKL3h0nzuK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038668057816780900",
+        "created_at": "2026-03-30T17:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038668057816780900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AotraWong/stat…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/AotraWong/status/2038647571435098135",
+              "start": 90,
+              "url": "https://t.co/wKL3h0nzuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038668057816780900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038647571435098135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是跨性别深柜人，每个跨女都得是男的，每个跨男都是女的，世界上只有两种性别，你再怎么说都改变不了生理是客观事实，染色体xx就是男的，你的xy染色体就决定你一辈子都是女的后边忘了 https://t.co/wKL3h0nzuK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676634704878129152",
+        "conversation_id": "2038647571435098135",
+        "created_at": "2026-03-30T16:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038647571435098135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038647571435098135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1178,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "今天，3.31，跨性别现身日🏳️‍⚧️！\n不论你心目中的自己是男孩子，还是女孩子，或是更多元的自我，今天是属于大家的节日！\n「我们活着，就是对恶意的最大反抗！」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 340,
+          "like_count": 2971,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1050
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "08 May | 🏳️‍⚧️ | 物化政 |\n头像：迎恩门 / 背景：虎门港 | 校心理社前部长 | \nLCNA总管理员 | DPS MC服务器服主 |\nIT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra | An Open Tunnel to Receive Answer",
+        "pinned_tweet_id": "1938617299428323702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782805332924002304/j-PEXjWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 921,
+          "like_count": 18118,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 1560
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051086476897906688"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2051086482434408635",
+    "created_at": "2026-05-03T23:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T00:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051086482434408635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bIXdubv8lG",
+          "end": 85,
+          "expanded_url": "https://x.com/h191980276/status/2051086482434408635/photo/1",
+          "media_key": "3_2051086476897906688",
+          "start": 62,
+          "url": "https://t.co/bIXdubv8lG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051086482434408635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "馋特权之网左版\n\n（但就是这样也只敢说那是“欧美的工会的问题”，也不敢说（中国工人）“要是像欧美工会那样”，“怎么保证”） https://t.co/bIXdubv8lG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_2051086476897906688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbsSJsbcAATOkm.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051086476897906688"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2051086482434408635",
+        "created_at": "2026-05-03T23:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051086482434408635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIXdubv8lG",
+              "end": 85,
+              "expanded_url": "https://x.com/h191980276/status/2051086482434408635/photo/1",
+              "media_key": "3_2051086476897906688",
+              "start": 62,
+              "url": "https://t.co/bIXdubv8lG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051086482434408635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "馋特权之网左版\n\n（但就是这样也只敢说那是“欧美的工会的问题”，也不敢说（中国工人）“要是像欧美工会那样”，“怎么保证”） https://t.co/bIXdubv8lG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 513,
+          "like_count": 4285,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1679
+        },
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

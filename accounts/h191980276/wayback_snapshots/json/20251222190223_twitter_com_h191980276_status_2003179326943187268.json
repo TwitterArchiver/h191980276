@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2003178754777227541",
+    "created_at": "2025-12-22T19:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T20:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003179326943187268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990151128605134848",
+          "start": 0,
+          "username": "ethicsofopacity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003179326943187268",
+    "in_reply_to_user_id": "1990151128605134848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003178754777227541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ethicsofopacity 右壬哪怕把全世界都闹乱也得说是左壬的错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2003178754777227541",
+        "created_at": "2025-12-22T19:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T20:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003179326943187268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990151128605134848",
+              "start": 0,
+              "username": "ethicsofopacity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003179326943187268",
+        "in_reply_to_user_id": "1990151128605134848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003178754777227541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ethicsofopacity 右壬哪怕把全世界都闹乱也得说是左壬的错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990151128605134848",
+        "conversation_id": "2003178754777227541",
+        "created_at": "2025-12-22T19:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T20:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003178754777227541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tuiburen/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/tuiburen/status/1946508335739769156",
+              "start": 3,
+              "url": "https://t.co/GgQsVeg53Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003178754777227541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946508335739769156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挺好 https://t.co/GgQsVeg53Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "decis｜友顺｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "honnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 158,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 370
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T20:13:16.000Z",
+        "description": "emetophilia / 请放过我吧求你了",
+        "id": "1990151128605134848",
+        "location": "蓝粉白+黑灰白紫",
+        "name": "白",
+        "pinned_tweet_id": "1998609102298095940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990165123680358401/ms0prA5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 420,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 752
+        },
+        "username": "ethicsofopacity",
+        "verified": true
+      }
+    ]
+  }
+}

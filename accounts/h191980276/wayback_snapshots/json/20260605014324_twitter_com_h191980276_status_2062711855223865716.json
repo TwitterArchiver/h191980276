@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2062711855223865716",
+    "created_at": "2026-06-05T01:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062711855223865716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1269409906559311872",
+          "start": 3,
+          "username": "tinglespoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062711855223865716",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2916
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062224090304241796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @tinglespoon: transphobia isnt bad because it hurts all women, its bad because it kills trans people. it also sucks that it hurts everyo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2062711855223865716",
+        "created_at": "2026-06-05T01:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062711855223865716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1269409906559311872",
+              "start": 3,
+              "username": "tinglespoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062711855223865716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2916
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062224090304241796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @tinglespoon: transphobia isnt bad because it hurts all women, its bad because it kills trans people. it also sucks that it hurts everyo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1269409906559311872",
+        "conversation_id": "2062224090304241796",
+        "created_at": "2026-06-03T17:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062224090304241796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062224090304241796",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 124529,
+          "like_count": 17936,
+          "quote_count": 39,
+          "reply_count": 74,
+          "retweet_count": 2916
+        },
+        "reply_settings": "following",
+        "text": "transphobia isnt bad because it hurts all women, its bad because it kills trans people. it also sucks that it hurts everyone else but that isnt the core issue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 516,
+          "like_count": 4377,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1871
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-06T23:25:09.000Z",
+        "description": "proud woman, lesbian, leftist, feminist, antifascist, apostate. radically pro-transgender. 20",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "evedevittfund.org",
+                "end": 23,
+                "expanded_url": "https://www.evedevittfund.org/",
+                "start": 0,
+                "url": "https://t.co/D6fneeZzCU"
+              }
+            ]
+          }
+        },
+        "id": "1269409906559311872",
+        "location": "New York, NY",
+        "name": "Eve",
+        "pinned_tweet_id": "1997436878295863573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982274215974756352/X6ZNt7WD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12731,
+          "following_count": 601,
+          "like_count": 275656,
+          "listed_count": 9,
+          "media_count": 1084,
+          "tweet_count": 13758
+        },
+        "url": "https://t.co/D6fneeZzCU",
+        "username": "tinglespoon",
+        "verified": false
+      }
+    ]
+  }
+}

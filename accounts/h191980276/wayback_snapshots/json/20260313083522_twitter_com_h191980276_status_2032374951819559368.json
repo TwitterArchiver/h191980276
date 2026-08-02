@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2032193201420050857",
+    "created_at": "2026-03-13T08:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T09:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032374951819559368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031982761150652416",
+          "start": 0,
+          "username": "Krokodils_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032374951819559368",
+    "in_reply_to_user_id": "2031982761150652416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032374053236064304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krokodils_ 是顺畜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2032193201420050857",
+        "created_at": "2026-03-13T08:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032374951819559368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031982761150652416",
+              "start": 0,
+              "username": "Krokodils_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032374951819559368",
+        "in_reply_to_user_id": "2031982761150652416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032374053236064304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krokodils_ 是顺畜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031982761150652416",
+        "conversation_id": "2032193201420050857",
+        "created_at": "2026-03-13T08:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T09:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032374053236064304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032374053236064304",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032195028345651468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 什么男娘，那叫跨畜😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "monnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920499515146088448/qbUG3lGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 263,
+          "like_count": 2294,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 742
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T06:37:14.000Z",
+        "description": "前身@libertyodeath3 \n前前身@_libertyodeath",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "libertyodeath3"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "_libertyodeath"
+              }
+            ]
+          }
+        },
+        "id": "2031982761150652416",
+        "name": "Детство и В людях",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031986084381589504/vEdDLLIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 77,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "username": "Krokodils_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2046695491803680997",
+    "created_at": "2026-04-21T21:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T22:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046695491803680997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sensu_lato_/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/sensu_lato_/status/2046517663887663138",
+          "start": 9,
+          "url": "https://t.co/Erj5z9iksT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046695491803680997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046517663887663138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“生物学基础”😀 https://t.co/Erj5z9iksT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2046695491803680997",
+        "created_at": "2026-04-21T21:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046695491803680997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sensu_lato_/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/sensu_lato_/status/2046517663887663138",
+              "start": 9,
+              "url": "https://t.co/Erj5z9iksT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046695491803680997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046517663887663138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“生物学基础”😀 https://t.co/Erj5z9iksT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2243051168",
+        "conversation_id": "2046517663887663138",
+        "created_at": "2026-04-21T09:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046517663887663138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soulxcution/st…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/soulxcution/status/2046050822245495212",
+              "start": 146,
+              "url": "https://t.co/G4HS34HAVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046517663887663138",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 302678,
+          "like_count": 17813,
+          "quote_count": 31,
+          "reply_count": 120,
+          "retweet_count": 1164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046050822245495212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Да да, женщины так сидят потому что так \"анатомтчески удобнее\" а не потому что с детства мама талдычила \"сдвинь ноги, а то так неприлично сидеть\" https://t.co/G4HS34HAVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 484,
+          "like_count": 3819,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1398
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-12T23:17:58.000Z",
+        "description": "живу на грани гранжа и кринжа ❌ ем пиццу с ананасами и запиваю томатным соком ❌ забанила 600 человек за одну ночь ❌ фрик из нижнего интернета",
+        "id": "2243051168",
+        "name": "🚩ястребица 🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783909644248780800/rwWiMoOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5875,
+          "following_count": 293,
+          "like_count": 94362,
+          "listed_count": 35,
+          "media_count": 3416,
+          "tweet_count": 57675
+        },
+        "username": "sensu_lato_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2038749579160797533",
+    "created_at": "2026-03-30T22:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T23:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038749579160797533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bunch_1123/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Bunch_1123/status/2038528075613585798",
+          "start": 3,
+          "url": "https://t.co/E1kivbggXT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038749579160797533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038528075613585798",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱 https://t.co/E1kivbggXT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038528070211252224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpOerGasAAisbu.jpg",
+        "width": 1708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2038749579160797533",
+        "created_at": "2026-03-30T22:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T23:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038749579160797533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bunch_1123/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Bunch_1123/status/2038528075613585798",
+              "start": 3,
+              "url": "https://t.co/E1kivbggXT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038749579160797533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038528075613585798",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱 https://t.co/E1kivbggXT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038528070211252224"
+          ]
+        },
+        "author_id": "1414672456804040705",
+        "conversation_id": "2038528075613585798",
+        "created_at": "2026-03-30T08:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038528075613585798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSgZYF3To2",
+              "end": 31,
+              "expanded_url": "https://x.com/Bunch_1123/status/2038528075613585798/photo/1",
+              "media_key": "3_2038528070211252224",
+              "start": 8,
+              "url": "https://t.co/jSgZYF3To2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038528075613585798",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8013,
+          "impression_count": 475031,
+          "like_count": 49502,
+          "quote_count": 33,
+          "reply_count": 80,
+          "retweet_count": 2109
+        },
+        "reply_settings": "everyone",
+        "text": "どっちが好き？ https://t.co/jSgZYF3To2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "顺后后悔decis｜友顺跨娚｜性多数友好｜反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "nonnun",
+        "pinned_tweet_id": "2000282051820589219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035388487365746689/uqKTV8qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 343,
+          "like_count": 2991,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1060
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T19:46:22.000Z",
+        "description": "インターネットらくがきマン 擬人化シリーズ (主に海洋生物) JKシリーズ サキュバス ニャキュバス 悪魔シリーズ等描いてます！ 【skebは非商用利用のみ🙇‍♀️ サムネは🙆‍♂️ 】FANBOX→https://t.co/uWdpGMfCeO 【お仕事はこちらから】buchi5433@gmail.comに",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "otintinn.fanbox.cc",
+                "end": 123,
+                "expanded_url": "http://otintinn.fanbox.cc",
+                "start": 100,
+                "url": "https://t.co/uWdpGMfCeO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@___OTINTIN",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@___OTINTIN",
+                "start": 0,
+                "url": "https://t.co/UgBLIfcX79"
+              }
+            ]
+          }
+        },
+        "id": "1414672456804040705",
+        "location": "強めの幻覚 AI学習禁止    ",
+        "name": "ぶんち",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652306716544106496/blLudldn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550788,
+          "following_count": 640,
+          "like_count": 25463,
+          "listed_count": 2894,
+          "media_count": 247,
+          "tweet_count": 1491
+        },
+        "url": "https://t.co/UgBLIfcX79",
+        "username": "Bunch_1123",
+        "verified": true
+      }
+    ]
+  }
+}

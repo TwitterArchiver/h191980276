@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2049092245236990013",
+    "created_at": "2026-04-28T11:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049092245236990013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1472914116407103498",
+          "start": 3,
+          "username": "caiyilinzi1"
+        },
+        {
+          "end": 28,
+          "id": "1771067636224507904",
+          "start": 17,
+          "username": "conm724223"
+        },
+        {
+          "end": 40,
+          "id": "1851254945984741376",
+          "start": 29,
+          "username": "LastExeX01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049092245236990013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049087701958451336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caiyilinzi1: @conm724223 @LastExeX01 温良相：中国没像欧美迫害过LGBT需要赎罪，所以不需要改善学习。忿怒相：中国自古以来都在迫害LGBT，继续迫害是老祖宗的智慧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2049092245236990013",
+        "created_at": "2026-04-28T11:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049092245236990013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1472914116407103498",
+              "start": 3,
+              "username": "caiyilinzi1"
+            },
+            {
+              "end": 28,
+              "id": "1771067636224507904",
+              "start": 17,
+              "username": "conm724223"
+            },
+            {
+              "end": 40,
+              "id": "1851254945984741376",
+              "start": 29,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049092245236990013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049087701958451336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caiyilinzi1: @conm724223 @LastExeX01 温良相：中国没像欧美迫害过LGBT需要赎罪，所以不需要改善学习。忿怒相：中国自古以来都在迫害LGBT，继续迫害是老祖宗的智慧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472914116407103498",
+        "conversation_id": "2048725638450930052",
+        "created_at": "2026-04-28T11:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049087701958451336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771067636224507904",
+              "start": 0,
+              "username": "conm724223"
+            },
+            {
+              "end": 23,
+              "id": "1851254945984741376",
+              "start": 12,
+              "username": "LastExeX01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049087701958451336",
+        "in_reply_to_user_id": "1771067636224507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049038897670430765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@conm724223 @LastExeX01 温良相：中国没像欧美迫害过LGBT需要赎罪，所以不需要改善学习。忿怒相：中国自古以来都在迫害LGBT，继续迫害是老祖宗的智慧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "🍥Shiori",
+        "pinned_tweet_id": "2039284159794049058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041999460109316097/Ys7XMMC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 495,
+          "like_count": 4041,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1509
+        },
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-20T12:57:56.000Z",
+        "description": "！！",
+        "id": "1472914116407103498",
+        "name": "菜衣淋子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1472914398587273216/uM_7T15j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 5412,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 136
+        },
+        "username": "caiyilinzi1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T06:53:43.000Z",
+        "description": "",
+        "id": "1771067636224507904",
+        "name": "橘子洲头江之怒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047378939736428544/u49uzRzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 91
+        },
+        "username": "conm724223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸│现代化、进步主义和理性│认同“自由的专制主义”│请坚定不移的拥护胡春华路线│时而嘴臭的温家宝梦男/女",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2047530512928198939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951149350907944964/a9pbadi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 364,
+          "like_count": 19875,
+          "listed_count": 5,
+          "media_count": 1087,
+          "tweet_count": 8836
+        },
+        "username": "LastExeX01",
+        "verified": false
+      }
+    ]
+  }
+}
