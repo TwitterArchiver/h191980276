@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2097299944784941212",
+    "created_at": "2026-09-11T07:09:29.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T08:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098307928591880647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902297181157257218",
+          "start": 0,
+          "username": "aoya_toboso_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098307928591880647",
+    "in_reply_to_user_id": "1902297181157257218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097299944784941212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoya_toboso_01 你要睾酮吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 686,
+        "media_key": "3_2097299938409664512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsbLphbUAAfKHc.jpg",
+        "width": 2175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2097299944784941212",
+        "created_at": "2026-09-11T07:09:29.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098307928591880647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902297181157257218",
+              "start": 0,
+              "username": "aoya_toboso_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098307928591880647",
+        "in_reply_to_user_id": "1902297181157257218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097299944784941212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoya_toboso_01 你要睾酮吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097299938409664512"
+          ]
+        },
+        "author_id": "1902297181157257218",
+        "conversation_id": "2097299944784941212",
+        "created_at": "2026-09-08T12:24:07.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097299944784941212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nty9njDOYl",
+              "end": 54,
+              "expanded_url": "https://x.com/aoya_toboso_01/status/2097299944784941212/photo/1",
+              "media_key": "3_2097299938409664512",
+              "start": 31,
+              "url": "https://t.co/nty9njDOYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097299944784941212",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097299938409664512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5419,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 122,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤓👆我学籍恢复了，坐标长沙，同类可见面送雌二醇和几片愈美片。 https://t.co/nty9njDOYl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098307928591880647",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 655,
+          "like_count": 4836,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2094
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "县城穷蛆跨男，理想是当家里蹲，先天染色体异常导致睾丸缺失",
+        "id": "1902297181157257218",
+        "is_identity_verified": false,
+        "location": "长沙",
+        "most_recent_tweet_id": "2098291046144975101",
+        "name": "葵矢枢",
+        "pinned_tweet_id": "2082334556414218461",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902297181157257218/1776186951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987808395265757184/o24pdc04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 66,
+          "like_count": 12727,
+          "listed_count": 5,
+          "media_count": 99,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "aoya_toboso_01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

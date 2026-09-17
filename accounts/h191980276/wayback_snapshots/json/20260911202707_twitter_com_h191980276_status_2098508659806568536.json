@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2098377888198492465",
+    "created_at": "2026-09-11T20:27:07.000Z",
+    "display_text_range": [
+      14,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T21:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098508659806568536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054197521690611712",
+          "start": 0,
+          "username": "AnnaYanamimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098508659806568536",
+    "in_reply_to_user_id": "2054197521690611712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098377888198492465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnnaYanamimi 人家哪个字提lgbt了你搁这lgbt呢，什么玩意了就给lgbt招黑了，怎么不给你妈招黑呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_2098377778299371520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7veMAbgAAPpih.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2098377811472113665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7vgHlbYAEAy8Y.jpg",
+        "width": 1080
+      },
+      {
+        "height": 480,
+        "media_key": "3_2098377861896048640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7vjDbbkAAaeuF.jpg",
+        "width": 855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2098377888198492465",
+        "created_at": "2026-09-11T20:27:07.000Z",
+        "display_text_range": [
+          14,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098508659806568536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054197521690611712",
+              "start": 0,
+              "username": "AnnaYanamimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098508659806568536",
+        "in_reply_to_user_id": "2054197521690611712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098377888198492465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnnaYanamimi 人家哪个字提lgbt了你搁这lgbt呢，什么玩意了就给lgbt招黑了，怎么不给你妈招黑呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098377778299371520",
+            "3_2098377811472113665",
+            "3_2098377861896048640"
+          ]
+        },
+        "author_id": "2054197521690611712",
+        "conversation_id": "2098377888198492465",
+        "created_at": "2026-09-11T11:47:29.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098377888198492465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vQqWEia4W",
+              "end": 179,
+              "expanded_url": "https://x.com/AnnaYanamimi/status/2098377888198492465/photo/1",
+              "media_key": "3_2098377778299371520",
+              "start": 156,
+              "url": "https://t.co/8vQqWEia4W"
+            },
+            {
+              "display_url": "pic.x.com/8vQqWEia4W",
+              "end": 179,
+              "expanded_url": "https://x.com/AnnaYanamimi/status/2098377888198492465/photo/1",
+              "media_key": "3_2098377811472113665",
+              "start": 156,
+              "url": "https://t.co/8vQqWEia4W"
+            },
+            {
+              "display_url": "pic.x.com/8vQqWEia4W",
+              "end": 179,
+              "expanded_url": "https://x.com/AnnaYanamimi/status/2098377888198492465/photo/1",
+              "media_key": "3_2098377861896048640",
+              "start": 156,
+              "url": "https://t.co/8vQqWEia4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098377888198492465",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098377778299371520"
+          },
+          {
+            "media_key": "3_2098377811472113665"
+          },
+          {
+            "media_key": "3_2098377861896048640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 66987,
+          "like_count": 423,
+          "quote_count": 10,
+          "reply_count": 86,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "环状线，请停止造谣😓\n原图比例是852x480 横图算哪门子开屏封面呢\n怎么跟李颖一样 明明有那么多歧视少数群体的例子 你却选择造谣一个\n炒作不计后果 不仅得不到支持还给LGBT群体招黑\n炒作不计后果 打着为LGBT发声实则眼中只有利益的伪君子\n搞不明白就这为什么还能这么多LGBT群体的支持呢 请大家明辨是非 https://t.co/8vQqWEia4W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098508659806568536",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 662,
+          "like_count": 4875,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2106
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-05-12T13:50:57.000Z",
+        "description": "中国几千年来是世界上头一等的强国，我们的文明、进步比各国是领先的。\n当中国顶强盛的时代，正所谓“千邦进贡，万国来朝”。那个时候，中国的文明在世界是第一的，中国是世界上头一等的强国。  ———孙中山（Sun Yat-sen）《孙中山全集·勉励国民》1924.5.30",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.cn",
+                "end": 23,
+                "expanded_url": "https://www.4399.cn",
+                "start": 0,
+                "url": "https://t.co/SLOmgRZx14"
+              }
+            ]
+          }
+        },
+        "id": "2054197521690611712",
+        "is_identity_verified": false,
+        "location": "中華人民共和國香港特別行政區、中華人民共和國台灣省",
+        "most_recent_tweet_id": "2098459692435714488",
+        "name": "八奈见见💜Yanamimi",
+        "pinned_tweet_id": "2086705953081119133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054197521690611712/1780590750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090786187770564608/B6imL5u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 1901,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/SLOmgRZx14",
+        "username": "AnnaYanamimi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

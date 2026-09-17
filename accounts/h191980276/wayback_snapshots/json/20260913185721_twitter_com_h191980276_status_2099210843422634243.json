@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2099170030986698866",
+    "created_at": "2026-09-13T18:57:21.000Z",
+    "display_text_range": [
+      13,
+      164
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T19:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099210843422634243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099210843422634243",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099170030986698866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 此人\n。有完整生育能力\n。46xy\n。冻过精打算代孕\n。目前为止只以疑似dsd开过染色体检查，从来没说过哪里dsd\n。活20多年没发现这个疑似dsd\n\n所以我推测最多就是发育不良男科病几把短之类的啥间性都没有，医生看说不定能查查就给开了，然后就开始脑子有病天天念叨自己是顺女了，毕竟连他自己都没发现异样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2099170030986698866",
+        "created_at": "2026-09-13T18:57:21.000Z",
+        "display_text_range": [
+          13,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099210843422634243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099210843422634243",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099170030986698866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 此人\n。有完整生育能力\n。46xy\n。冻过精打算代孕\n。目前为止只以疑似dsd开过染色体检查，从来没说过哪里dsd\n。活20多年没发现这个疑似dsd\n\n所以我推测最多就是发育不良男科病几把短之类的啥间性都没有，医生看说不定能查查就给开了，然后就开始脑子有病天天念叨自己是顺女了，毕竟连他自己都没发现异样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2099170030986698866",
+        "created_at": "2026-09-13T16:15:10.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:14:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099169779793932499",
+          "2099170030986698866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigure8964a/s…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/shigure8964a/status/2099167447777693903",
+              "start": 116,
+              "url": "https://t.co/Jf6WUzbNOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099170030986698866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099167447777693903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实有病的是它，毕竟它确实是46XY性发育异常，既然它说我作为酷儿是招笑和不符合客观事实的，那我也就反击一下说它是异形喽\n\n哦对了我没有攻击46XY性发育异常患者的意思，我只是借题发挥一下罢了，如果冒犯到除了它之外的人那我挺抱歉的 https://t.co/Jf6WUzbNOr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099210843422634243",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 673,
+          "like_count": 4937,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2123
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2099178472405106733",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 968,
+          "like_count": 7851,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 3217
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

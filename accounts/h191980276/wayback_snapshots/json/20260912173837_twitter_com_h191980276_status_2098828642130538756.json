@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2098425959674531869",
+    "created_at": "2026-09-12T17:38:37.000Z",
+    "display_text_range": [
+      27,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098828642130538756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926327950493790208",
+          "start": 0,
+          "username": "haozhe18169"
+        },
+        {
+          "end": 26,
+          "id": "1844926832967286785",
+          "start": 13,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098828642130538756",
+    "in_reply_to_user_id": "1926327950493790208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098443241289093353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haozhe18169 @ZX65535plus1 您有没有考虑过跨性别群体中实际上有将近半数的男性成员?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2098425959674531869",
+        "created_at": "2026-09-12T17:38:37.000Z",
+        "display_text_range": [
+          27,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098828642130538756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926327950493790208",
+              "start": 0,
+              "username": "haozhe18169"
+            },
+            {
+              "end": 26,
+              "id": "1844926832967286785",
+              "start": 13,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098828642130538756",
+        "in_reply_to_user_id": "1926327950493790208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098443241289093353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haozhe18169 @ZX65535plus1 您有没有考虑过跨性别群体中实际上有将近半数的男性成员?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926327950493790208",
+        "conversation_id": "2098425959674531869",
+        "created_at": "2026-09-11T16:07:10.000Z",
+        "display_text_range": [
+          14,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098443241289093353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098443241289093353",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3502,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098425959674531869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 女的反跨我会依据对方的态度做出合理回复或者对极端的直接骂回去，这的确是因为我觉得她们大部分还是有救的\n至于男的…\n我只希望男的去死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098828642130538756",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 669,
+          "like_count": 4911,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2117
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-24T17:22:49.000Z",
+        "description": "unhuhmomomomo......",
+        "id": "1926327950493790208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098828203653779575",
+        "name": "momomomo...",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089045449353166848/Ahu-tUAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 300,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "haozhe18169",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \nMSCS |\n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营 |\n我族长兴 天佑跨儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "is_identity_verified": false,
+        "location": "万达广场楼下",
+        "most_recent_tweet_id": "2098824849556963728",
+        "name": "笨蛋折筱喵喵🏳️‍⚧️",
+        "pinned_tweet_id": "2096817374087495890",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844926832967286785/1774464267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5221,
+          "following_count": 1446,
+          "like_count": 86488,
+          "listed_count": 12,
+          "media_count": 1276,
+          "tweet_count": 26203
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

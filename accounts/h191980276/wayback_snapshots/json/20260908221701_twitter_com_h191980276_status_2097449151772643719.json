@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2097449151772643719",
+    "created_at": "2026-09-08T22:17:01.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T23:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097449151772643719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1983030791664992256",
+          "start": 3,
+          "username": "sakura_chxrryy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097449151772643719",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097205147210572196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @sakura_chxrryy: why do terf only tweet abt transwoman and never tweet abt their girlfriends"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2097449151772643719",
+        "created_at": "2026-09-08T22:17:01.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T23:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097449151772643719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1983030791664992256",
+              "start": 3,
+              "username": "sakura_chxrryy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097449151772643719",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097205147210572196",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @sakura_chxrryy: why do terf only tweet abt transwoman and never tweet abt their girlfriends"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983030791664992256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2097205147210572196",
+        "created_at": "2026-09-08T06:07:25.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097205147210572196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097205147210572196",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 22591,
+          "like_count": 1497,
+          "quote_count": 33,
+          "reply_count": 35,
+          "retweet_count": 133
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "why do terf only tweet abt transwoman and never tweet abt their girlfriends"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097449151772643719",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 627,
+          "like_count": 4698,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2052
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-28T04:39:30.000Z",
+        "description": "im sakura ˚. ᵎᵎ eng/việt ┆ ♡ any prns 👍\n 𐔌՞ ܸ.ˬ.ܸ՞𐦯 basic dni - ultra multifandom\ni like to draw and play games\nsecond acc: @saku_ranote",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 124,
+                "username": "saku_ranote"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sakurawatanabe.straw.page",
+                "end": 23,
+                "expanded_url": "https://sakurawatanabe.straw.page/",
+                "start": 0,
+                "url": "https://t.co/rmyhPnmIzV"
+              }
+            ]
+          }
+        },
+        "id": "1983030791664992256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097378925190197398",
+        "name": "🌸 sakurachxrry",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983030791664992256/1778861706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055321073122717696/W_3eXghF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 166,
+          "like_count": 37972,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 2336
+        },
+        "url": "https://t.co/rmyhPnmIzV",
+        "username": "sakura_chxrryy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

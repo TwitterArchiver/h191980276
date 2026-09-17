@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2097599395785232779",
+    "created_at": "2026-09-09T09:47:32.000Z",
+    "display_text_range": [
+      17,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097622926963146760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1800782392346783744",
+          "start": 0,
+          "username": "DOUDEMOII_y92z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097622926963146760",
+    "in_reply_to_user_id": "1800782392346783744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097621265800626685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOUDEMOII_y92z0 借性少数壳子跟顺直男老公放狠话呢，完了还要说别人入侵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2097599395785232779",
+        "created_at": "2026-09-09T09:47:32.000Z",
+        "display_text_range": [
+          17,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097622926963146760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1800782392346783744",
+              "start": 0,
+              "username": "DOUDEMOII_y92z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097622926963146760",
+        "in_reply_to_user_id": "1800782392346783744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097621265800626685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOUDEMOII_y92z0 借性少数壳子跟顺直男老公放狠话呢，完了还要说别人入侵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800782392346783744",
+        "conversation_id": "2097599395785232779",
+        "created_at": "2026-09-09T09:40:56.000Z",
+        "display_text_range": [
+          12,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097621265800626685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097621265800626685",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097599395785232779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 這人咋一會無性戀一會女同性戀的，同性戀的前提是能對同性產生性欲，沒有性欲就只是女性浪漫傾向而不是女同性戀。或者說圖上只是愛碰瓷女同和無性戀的低性欲順直"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097622926963146760",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 643,
+          "like_count": 4744,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 2068
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-12T06:49:27.000Z",
+        "description": "人民說毛主席萬歲，本毛擺擺手👋說人民萬歲\n我很難受，叫江青來@lyb1007 @Taffydaisuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "lyb1007"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Taffydaisuki"
+              }
+            ]
+          }
+        },
+        "id": "1800782392346783744",
+        "is_identity_verified": false,
+        "location": "毛澤東紀念堂",
+        "most_recent_tweet_id": "2097621265800626685",
+        "name": "🇨🇳躺在水晶棺材裡的臘圣📕🚩",
+        "pinned_tweet_id": "1800799125124026874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1800782392346783744/1775961577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067455348844511233/OrhMsflw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 156,
+          "like_count": 2468,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "DOUDEMOII_y92z0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098489459440578560"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2098364276067209504",
+    "created_at": "2026-09-11T19:10:52.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098489469896974418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O7DeryaxZT",
+          "end": 49,
+          "expanded_url": "https://x.com/h191980276/status/2098489469896974418/photo/1",
+          "media_key": "3_2098489459440578560",
+          "start": 26,
+          "url": "https://t.co/O7DeryaxZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098489469896974418",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098489459440578560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098364276067209504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 穗应该是忘加引号了 https://t.co/O7DeryaxZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2098489459440578560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9VC4rbcAApzFP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098489459440578560"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2098364276067209504",
+        "created_at": "2026-09-11T19:10:52.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098489469896974418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7DeryaxZT",
+              "end": 49,
+              "expanded_url": "https://x.com/h191980276/status/2098489469896974418/photo/1",
+              "media_key": "3_2098489459440578560",
+              "start": 26,
+              "url": "https://t.co/O7DeryaxZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098489469896974418",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098489459440578560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098364276067209504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 穗应该是忘加引号了 https://t.co/O7DeryaxZT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2098364276067209504",
+        "created_at": "2026-09-11T10:53:23.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098364276067209504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sui_aini/statu…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/sui_aini/status/2098206791289192489",
+              "start": 142,
+              "url": "https://t.co/9VrckH7k9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098364276067209504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 544,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098206791289192489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MtF和MtX幹了壞事的時候怎麼就沒人說「男非二元就這樣」，因為大家都知道生理性別本質主義蠢到家了而且正是我們所竭力反抗的東西，人人都知道跨女被TERF叫男跨的時候被misgender有多難受。但轉頭就用起「女非二元」「女跨性別」這種詞，到底是意欲何為？對FtX的霸凌何時才能停止？ https://t.co/9VrckH7k9F"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098489469896974418",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 661,
+          "like_count": 4871,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2104
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "Ma bien-aimée immortelle, ma minette noire et ma maîtresse vampirique : @irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098488716042055892",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2052366909639647411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489468526826082312/1789086590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098207302235176961/zeakZmjv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 206,
+          "like_count": 18227,
+          "listed_count": 3,
+          "media_count": 556,
+          "tweet_count": 13625
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2094519962769711268",
+    "created_at": "2026-08-31T20:31:27.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T21:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094523482633884039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1811173170600464384",
+          "start": 0,
+          "username": "HateQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094523482633884039",
+    "in_reply_to_user_id": "1811173170600464384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094519962769711268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HateQAQ 我加了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2094519955467427840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRE6zWCaYAAM43W.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2094519962769711268",
+        "created_at": "2026-08-31T20:31:27.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T21:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094523482633884039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1811173170600464384",
+              "start": 0,
+              "username": "HateQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094523482633884039",
+        "in_reply_to_user_id": "1811173170600464384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094519962769711268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HateQAQ 我加了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094519955467427840"
+          ]
+        },
+        "author_id": "1811173170600464384",
+        "conversation_id": "2094519962769711268",
+        "created_at": "2026-08-31T20:17:28.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T21:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094519962769711268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xM1gQ4Zcti",
+              "end": 73,
+              "expanded_url": "https://x.com/HateQAQ/status/2094519962769711268/photo/1",
+              "media_key": "3_2094519955467427840",
+              "start": 50,
+              "url": "https://t.co/xM1gQ4Zcti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094519962769711268",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094519955467427840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝也想建一个鼠鼠碎碎念群啊唉唉唉，并且主包长期找重庆小跨妹合租中….如果可以的话速来私信窝🥺🥺🥺🥺 https://t.co/xM1gQ4Zcti"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094523482633884039",
+        "name": "Shiori",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 544,
+          "like_count": 4463,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1984
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-10T22:58:39.000Z",
+        "description": "碎碎念丧丧属鼠// 酷拉皮卡形态维持中//indie game开发中… //发癫和黄色废料@aldrigfo_kralek//AI大人降临派…完全拥护AI大人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "aldrigfo_kralek"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amoresogno",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amoresogno",
+                "start": 0,
+                "url": "https://t.co/0p8J4Aqpad"
+              }
+            ]
+          }
+        },
+        "id": "1811173170600464384",
+        "is_identity_verified": false,
+        "location": "Oslo, Norway",
+        "most_recent_tweet_id": "2094519962769711268",
+        "name": "囤囤宅鼠",
+        "pinned_tweet_id": "2049600793246834842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811173170600464384/1760313434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911270211241590785/JKLw4tkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 490,
+          "like_count": 52663,
+          "listed_count": 3,
+          "media_count": 1179,
+          "tweet_count": 11903
+        },
+        "url": "https://t.co/0p8J4Aqpad",
+        "username": "HateQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

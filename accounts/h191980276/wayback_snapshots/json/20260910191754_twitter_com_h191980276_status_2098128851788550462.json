@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2098128851788550462",
+    "created_at": "2026-09-10T19:17:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T20:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098128851788550462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906829343480938496",
+          "start": 3,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098128851788550462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097983347062706590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nevernessian: 突发奇想考了个古，豆瓣天空组大概算是早期中文les一大聚集地吧，17年关于transfem相关帖子下面的气氛是这样的。\n当然天空组现在也算是各种les社区里相对包容的那一批，大概可能还是因为00后les普遍不刷豆瓣了，来来回回大体上还是以前那…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 887,
+        "media_key": "3_2097981721719586816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2HQqRbwAA2iJD.png",
+        "width": 717
+      },
+      {
+        "height": 499,
+        "media_key": "3_2097981730728910848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2HRL1bIAAqSkB.png",
+        "width": 731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2098128851788550462",
+        "created_at": "2026-09-10T19:17:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T20:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098128851788550462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906829343480938496",
+              "start": 3,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098128851788550462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097983347062706590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nevernessian: 突发奇想考了个古，豆瓣天空组大概算是早期中文les一大聚集地吧，17年关于transfem相关帖子下面的气氛是这样的。\n当然天空组现在也算是各种les社区里相对包容的那一批，大概可能还是因为00后les普遍不刷豆瓣了，来来回回大体上还是以前那…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097981721719586816",
+            "3_2097981730728910848"
+          ]
+        },
+        "author_id": "906829343480938496",
+        "conversation_id": "2097983347062706590",
+        "created_at": "2026-09-10T09:39:43.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097983347062706590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/weW8xypN9P",
+              "end": 147,
+              "expanded_url": "https://x.com/Nevernessian/status/2097983347062706590/photo/1",
+              "media_key": "3_2097981721719586816",
+              "start": 124,
+              "url": "https://t.co/weW8xypN9P"
+            },
+            {
+              "display_url": "pic.x.com/weW8xypN9P",
+              "end": 147,
+              "expanded_url": "https://x.com/Nevernessian/status/2097983347062706590/photo/1",
+              "media_key": "3_2097981730728910848",
+              "start": 124,
+              "url": "https://t.co/weW8xypN9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097983347062706590",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097981721719586816"
+          },
+          {
+            "media_key": "3_2097981730728910848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3817,
+          "like_count": 142,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "突发奇想考了个古，豆瓣天空组大概算是早期中文les一大聚集地吧，17年关于transfem相关帖子下面的气氛是这样的。\n当然天空组现在也算是各种les社区里相对包容的那一批，大概可能还是因为00后les普遍不刷豆瓣了，来来回回大体上还是以前那些人 https://t.co/weW8xypN9P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098128851788550462",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 654,
+          "like_count": 4830,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 2090
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098068314128097741",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "2058549888393384391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/906829343480938496/1510981599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 94,
+          "like_count": 6411,
+          "listed_count": 7,
+          "media_count": 1001,
+          "tweet_count": 7529
+        },
+        "url": "",
+        "username": "Nevernessian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

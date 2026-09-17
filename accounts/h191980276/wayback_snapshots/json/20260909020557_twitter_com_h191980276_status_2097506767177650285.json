@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2097259008096718957",
+    "created_at": "2026-09-09T02:05:57.000Z",
+    "display_text_range": [
+      29,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T03:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097506767177650285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843183249356640256",
+          "start": 0,
+          "username": "Sunflower718871"
+        },
+        {
+          "end": 28,
+          "id": "1038737380335865856",
+          "start": 17,
+          "username": "Kitsu_Maru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097506767177650285",
+    "in_reply_to_user_id": "1843183249356640256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097504531907219937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunflower718871 @Kitsu_Maru 我觉得terf就是来假装女同性恋威胁她们的丈夫来讨价还价，反跨是向她们的丈夫示好，表明自己不是不可谈判的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2097259008096718957",
+        "created_at": "2026-09-09T02:05:57.000Z",
+        "display_text_range": [
+          29,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097506767177650285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843183249356640256",
+              "start": 0,
+              "username": "Sunflower718871"
+            },
+            {
+              "end": 28,
+              "id": "1038737380335865856",
+              "start": 17,
+              "username": "Kitsu_Maru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097506767177650285",
+        "in_reply_to_user_id": "1843183249356640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097504531907219937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunflower718871 @Kitsu_Maru 我觉得terf就是来假装女同性恋威胁她们的丈夫来讨价还价，反跨是向她们的丈夫示好，表明自己不是不可谈判的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843183249356640256",
+        "conversation_id": "2097259008096718957",
+        "created_at": "2026-09-09T01:57:04.000Z",
+        "display_text_range": [
+          24,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097504531907219937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            },
+            {
+              "end": 23,
+              "id": "1038737380335865856",
+              "start": 12,
+              "username": "Kitsu_Maru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097504531907219937",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097463122399535416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 @Kitsu_Maru 能把歧视和挑剔当荣誉 应该只有她们才能做得出来了.....我作为顺女同都觉得她们完全疯子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097506767177650285",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 637,
+          "like_count": 4726,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2058
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T06:55:17.000Z",
+        "description": "其他国内外平台有同名或相似名字的用户不是我本人",
+        "id": "1843183249356640256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097506632074985776",
+        "name": "向日葵幼稚园小朋友🌻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843183249356640256/1787408017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092981996742152192/2jHDRT90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 28,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "Sunflower718871",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-09T10:34:25.000Z",
+        "description": "(She/Her) || ⚖️ Jurista de la comunidad LGBTIQ+ 🏳️‍🌈🏳️‍⚧️ ||Acrata ||Tejedora de mundos y rolera ✏️📜  Witch Hat Atelier || Absolute DC arc || Furra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alannakitsune.straw.page",
+                "end": 23,
+                "expanded_url": "https://alannakitsune.straw.page",
+                "start": 0,
+                "url": "https://t.co/yAZatjNGpd"
+              }
+            ]
+          }
+        },
+        "id": "1038737380335865856",
+        "is_identity_verified": false,
+        "location": "Sevilla, España",
+        "most_recent_tweet_id": "2097489865117925732",
+        "name": "Lady Alanna ☽◯☾",
+        "pinned_tweet_id": "2013756499420721221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1038737380335865856/1780250808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089157242323099648/sSjIQEI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1256,
+          "like_count": 96247,
+          "listed_count": 4,
+          "media_count": 3807,
+          "tweet_count": 63112
+        },
+        "url": "https://t.co/yAZatjNGpd",
+        "username": "Kitsu_Maru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2083428198923001993",
+    "created_at": "2026-08-02T20:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084010948357247281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887069376031182848",
+          "start": 0,
+          "username": "Mirro_zinuo"
+        },
+        {
+          "end": 26,
+          "id": "2041159531657416704",
+          "start": 13,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084010948357247281",
+    "in_reply_to_user_id": "1887069376031182848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083590660829929682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mirro_zinuo @amber_digit2 那你中计了，人家早八百年就知道“我不混跨圈”了你现在才“我不混跨圈”只会跟原班人马一起混到一个“我不混跨圈”圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2083428198923001993",
+        "created_at": "2026-08-02T20:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084010948357247281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887069376031182848",
+              "start": 0,
+              "username": "Mirro_zinuo"
+            },
+            {
+              "end": 26,
+              "id": "2041159531657416704",
+              "start": 13,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084010948357247281",
+        "in_reply_to_user_id": "1887069376031182848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083590660829929682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mirro_zinuo @amber_digit2 那你中计了，人家早八百年就知道“我不混跨圈”了你现在才“我不混跨圈”只会跟原班人马一起混到一个“我不混跨圈”圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887069376031182848",
+        "conversation_id": "2083428198923001993",
+        "created_at": "2026-08-01T16:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083590660829929682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083590660829929682",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "早在2020年的事情后我就意识到做跨性别权益要和中国目前所谓的跨圈脱离开，至少名义上独立开。\n这也是我后来不再碰救助和末端工作，也注意避免与具体的人反移情和共情失调而刻意保持距离，甚至经常讲“我不混跨圈”的一部分原因。并且转变为如果解决不了根本问题，我没能力、救不了一个个具体的人。\n避免再次卷入简中跨圈纷争，我不再具体提2020年的事情，不过当年骂我吃人血馒头的人似乎现在已经成为精神顺直了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 408,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083428198923001993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 早在2020年的事情后我就意识到做跨性别权益要和中国目前所谓的跨圈脱离开，至少名义上独立开。\n这也是我后来不再碰救助和末端工作，也注意避免与具体的人反移情和共情失调而刻意保持距离，甚至经常讲“我不混跨圈”的一部分原因。并且转变为如果解决不了根本问题，我没能力、救不了一个个具体的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 524,
+          "like_count": 4463,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1960
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "牢糯復活一年了🎉 /愛種哈密瓜🍈❓🇹🇼/永遠懷念舊號@fugu_JUN/脆和推同id/是以前叫源菌的生物/05年老阿姨離異帶倆娃❌/MtF🏳️‍⚧️/hrt 2019/退役oier/退役地偶/占卜神秘學🔮/日常發瘋/想要被世界喜歡/對異性戀我是不贊成也不反對的/焦慮型依戀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "fugu_JUN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamaboko.ngo",
+                "end": 23,
+                "expanded_url": "http://www.kamaboko.ngo",
+                "start": 0,
+                "url": "https://t.co/T24e8vg2iF"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "location": "@KamabokoNGO",
+        "name": "梓糯🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 224,
+          "like_count": 5484,
+          "listed_count": 10,
+          "media_count": 285,
+          "tweet_count": 1658
+        },
+        "url": "https://t.co/T24e8vg2iF",
+        "username": "Mirro_zinuo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 712,
+          "like_count": 2198,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

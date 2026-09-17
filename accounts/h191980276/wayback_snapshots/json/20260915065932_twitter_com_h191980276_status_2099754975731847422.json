@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2078785869079883892",
+    "created_at": "2026-09-15T06:59:32.000Z",
+    "display_text_range": [
+      16,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T07:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099754975731847422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1443439089710092288",
+          "start": 0,
+          "username": "XiaYiGongHeQiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099754975731847422",
+    "in_reply_to_user_id": "1443439089710092288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078785869079883892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@XiaYiGongHeQiu 墙内\"正规跨\"为了显得自己正规讨好，自己都到处传了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2078784518266523648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlTgWfbkAAoIA6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2078785869079883892",
+        "created_at": "2026-09-15T06:59:32.000Z",
+        "display_text_range": [
+          16,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099754975731847422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1443439089710092288",
+              "start": 0,
+              "username": "XiaYiGongHeQiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099754975731847422",
+        "in_reply_to_user_id": "1443439089710092288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078785869079883892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@XiaYiGongHeQiu 墙内\"正规跨\"为了显得自己正规讨好，自己都到处传了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078784518266523648"
+          ]
+        },
+        "author_id": "1443439089710092288",
+        "conversation_id": "2078785869079883892",
+        "created_at": "2026-07-19T10:15:47.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078785869079883892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kOYipjQjZN",
+              "end": 159,
+              "expanded_url": "https://x.com/XiaYiGongHeQiu/status/2078785869079883892/photo/1",
+              "media_key": "3_2078784518266523648",
+              "start": 136,
+              "url": "https://t.co/kOYipjQjZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078785869079883892",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2078784518266523648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10501,
+          "like_count": 117,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "笑点解析：\n这人截了我的推文竝依旧以稻草人谬误和谣传已久的“HRT短命论”来引流炒作，丝毫没看出我的推文是讽刺他们缺乏医学常识的。\n不怪他们，因为：\n⒈义务教育阶段没有医学\n⒉在抖音科普医学比去非洲支教还难\n（医学引用文献 ISBN 978-7-5439-8840-8） https://t.co/kOYipjQjZN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099754975731847422",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 679,
+          "like_count": 4971,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2131
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "A transfeminine student in the Management field | beloved @maplemarate | sub-acct @XiaYGHQiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "maplemarate"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.github.io",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.github.io",
+                "start": 0,
+                "url": "https://t.co/Vqf4BH2GQ4"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "is_identity_verified": false,
+        "location": "山東省煙臺市萊山區",
+        "most_recent_tweet_id": "2099692610327900602",
+        "name": "虾夷共和球🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443439089710092288/1786427728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050800286068088832/y1fHTAAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 773,
+          "like_count": 22798,
+          "listed_count": 5,
+          "media_count": 212,
+          "tweet_count": 4448
+        },
+        "url": "https://t.co/Vqf4BH2GQ4",
+        "username": "XiaYiGongHeQiu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

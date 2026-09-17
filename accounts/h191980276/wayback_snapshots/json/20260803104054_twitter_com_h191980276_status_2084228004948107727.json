@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2084227935624421527",
+    "created_at": "2026-08-03T10:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084228004948107727"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084228004948107727",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084227935624421527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "群里内容鼓励雌竟，自我审美，互相审美，鼓励物化，鼓励男凝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2084227935624421527",
+        "created_at": "2026-08-03T10:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084228004948107727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084228004948107727",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084227935624421527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "群里内容鼓励雌竟，自我审美，互相审美，鼓励物化，鼓励男凝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2084227935624421527",
+        "created_at": "2026-08-03T10:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084227935624421527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h191980276/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/h191980276/status/2080800045390323932",
+              "start": 143,
+              "url": "https://t.co/lbPZxcmlIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084227935624421527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080800045390323932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雌堕坏男娘only群，卡跨性别，卡易性症，只要你觉得男生也能吃糖雌堕身材女性化，雌激素不是那些易性症贱婊子缓解性别焦虑抽动才能专属吃的你就可以来，觉得自己是还是正常男性的就不要来了，贤妻良母就不要来了，只想看不发的也不要来，进群要发两张至少包含上半身的女装照审核一下，（露不露脸都可） https://t.co/lbPZxcmlIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 525,
+          "like_count": 4466,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1961
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false
+      }
+    ]
+  }
+}

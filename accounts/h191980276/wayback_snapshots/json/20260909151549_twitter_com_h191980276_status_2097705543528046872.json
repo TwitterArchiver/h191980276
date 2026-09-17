@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2097694131464392974",
+    "created_at": "2026-09-09T15:15:49.000Z",
+    "display_text_range": [
+      17,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097705543528046872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408751443360710662",
+          "start": 0,
+          "username": "Jellyfi77885103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097705543528046872",
+    "in_reply_to_user_id": "1408751443360710662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097694131464392974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jellyfi77885103 肯定信啊，说保护儿童她们也信，不有那么多主动审查出警(劝人吃糖天打雷劈)就为了防止万一顺性别小孩被影响了怎么办(跨性别小孩被影响就不管了)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2097694131464392974",
+        "created_at": "2026-09-09T15:15:49.000Z",
+        "display_text_range": [
+          17,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097705543528046872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097705543528046872",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097694131464392974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellyfi77885103 肯定信啊，说保护儿童她们也信，不有那么多主动审查出警(劝人吃糖天打雷劈)就为了防止万一顺性别小孩被影响了怎么办(跨性别小孩被影响就不管了)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2097694131464392974",
+        "created_at": "2026-09-09T14:30:28.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097694131464392974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097694131464392974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 545,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得有个问题是，激女同说她们讨厌跨女同是因为讨厌阴茎，听上去是个合理的诉求然后你们还就真的信了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097705543528046872",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 644,
+          "like_count": 4762,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 2076
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "🍥🏳️‍⚧️🏳️‍🌈🇦🇶\nNone of us are here by choice.",
+        "id": "1408751443360710662",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097697814461776338",
+        "name": "果冻鱼",
+        "pinned_tweet_id": "2096203051157921997",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089294945631031296/vooeLn6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 240,
+          "like_count": 10081,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2708
+        },
+        "url": "",
+        "username": "Jellyfi77885103",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

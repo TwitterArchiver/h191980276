@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2094901852886466776",
+    "created_at": "2026-09-02T06:19:46.000Z",
+    "display_text_range": [
+      17,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T07:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095033926930550795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408751443360710662",
+          "start": 0,
+          "username": "Jellyfi77885103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095033926930550795",
+    "in_reply_to_user_id": "1408751443360710662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094901852886466776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jellyfi77885103 我gd才是被教唆诱导出来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2094901852886466776",
+        "created_at": "2026-09-02T06:19:46.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095033926930550795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095033926930550795",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094901852886466776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellyfi77885103 我gd才是被教唆诱导出来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2094901852886466776",
+        "created_at": "2026-09-01T21:34:57.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T22:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094901852886466776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094901852886466776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我很长时间压根没考虑hrt就是因为觉得自己的gd根本没那么严重，而我认识过的跨女都是很早就有了被困在男性身体里的痛苦并寻求改变(我怎么想都太晚了)。我还用各种方式否认自己的想法，比如觉得自己是非二元或酷儿，比如觉得自己是外貌焦虑而非性别焦虑(我不知道我以前怎么PUA自己的，我又不是想当长发男……)。\n\n我开始hrt的一大原因就是有了新的接触，接触到了那些同样gd没那么严重的人，那些很晚才hrt的人，那些被戏称为“友跨翻车”的人。我重新整理了思绪，我意识到不去hrt其实只是一种方便的“安全”想法，于是我逼迫自己做出选择。\n\n开始hrt后，虽然我的gd和ge都挺轻度的，但还是很大层面改变了我的生活。当抛开一切社会规训、寻求自己想要成为的样子时，我发现，原来我是可以如此关心自己的身体的，我是可以为具有女性化形象特征开心的，我是可以照镜子的，我甚至开始考虑健身进行体态重塑。一旦这个枷锁解开，我就发现我以前简直一直在压抑任何关于自身形象的想法。甚至直到前一段时间我还在嘴犟说自己对裙子没兴趣……再之前说自己不想要胸部……\n\n如果说gd严重者可能被gd较轻者轻飘飘的话语、对痛苦的不理解所伤害，那么其实我也是被“跨性别一定要有对身体的强烈痛苦”的认知所伤害了。我觉得我没有必要为了想要的身体形象就去把自己的人生加到地狱难度。直到现在我才发现我错过了什么……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1263,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很长时间压根没考虑hrt就是因为觉得自己的gd根本没那么严重，而我认识过的跨女都是很早就有了被困在男性身体里的痛苦并寻求改变(我怎么想都太晚了)。我还用各种方式否认自己的想法，比如觉得自己是非二元或酷儿，比如觉得自己是外貌焦虑而非性别焦虑(我不知道我以前怎么PUA自己的，我又不是想当长发"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095033926930550795",
+        "name": "Shiori",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 553,
+          "like_count": 4482,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1988
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈\nNone of us are here by choice.",
+        "id": "1408751443360710662",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094914819136905434",
+        "name": "果冻鱼",
+        "pinned_tweet_id": "2088136897340060153",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089294945631031296/vooeLn6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 210,
+          "like_count": 7883,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 2435
+        },
+        "url": "",
+        "username": "Jellyfi77885103",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

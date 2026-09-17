@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2095222290590155119",
+    "created_at": "2026-09-02T18:48:16.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T19:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095222290590155119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoya_toboso_01…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/aoya_toboso_01/status/2086314818584051752",
+          "start": 19,
+          "url": "https://t.co/YjEpXfBafk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095222290590155119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086314818584051752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也喜欢ftm打睾酮长出来的那种几把 https://t.co/YjEpXfBafk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1954,
+        "media_key": "3_2086314785940082689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQUPnmakAEqNyv.jpg",
+        "width": 1632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2095222290590155119",
+        "created_at": "2026-09-02T18:48:16.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095222290590155119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoya_toboso_01…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/aoya_toboso_01/status/2086314818584051752",
+              "start": 19,
+              "url": "https://t.co/YjEpXfBafk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095222290590155119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086314818584051752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也喜欢ftm打睾酮长出来的那种几把 https://t.co/YjEpXfBafk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086314785940082689"
+          ]
+        },
+        "author_id": "1902297181157257218",
+        "conversation_id": "2086314818584051752",
+        "created_at": "2026-08-09T04:53:09.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086314818584051752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4zPS3J0Xo",
+              "end": 168,
+              "expanded_url": "https://x.com/aoya_toboso_01/status/2086314818584051752/photo/1",
+              "media_key": "3_2086314785940082689",
+              "start": 145,
+              "url": "https://t.co/v4zPS3J0Xo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086314818584051752",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086314785940082689"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3763,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "跨男娘从来不是套娃，因为男娘的最终目的不是女人，而是一个拥有漂亮脸蛋、少许男性特征、男性社会身份同时又没有讨厌器官的男人，作为普通男性又有穿女装勇气的男人，是男人中的男人🥰\n而被当成假小子是最恶心的，又要开朗大方又要有女性生理可以艾草生孩子，是女人中的女人🤮\n白是我的理想femboy形象 https://t.co/v4zPS3J0Xo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095222290590155119",
+        "name": "Shiori",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 565,
+          "like_count": 4513,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1998
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "县城穷蛆跨男，理想是当家里蹲，先天染色体异常导致睾丸缺失",
+        "id": "1902297181157257218",
+        "is_identity_verified": false,
+        "location": "长沙",
+        "most_recent_tweet_id": "2094688294638670102",
+        "name": "葵矢枢",
+        "pinned_tweet_id": "2082334556414218461",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902297181157257218/1776186951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987808395265757184/o24pdc04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 65,
+          "like_count": 12642,
+          "listed_count": 5,
+          "media_count": 96,
+          "tweet_count": 1035
+        },
+        "url": "",
+        "username": "aoya_toboso_01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

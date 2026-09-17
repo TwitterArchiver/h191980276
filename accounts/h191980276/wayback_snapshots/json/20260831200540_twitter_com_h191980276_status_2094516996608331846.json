@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094516990128099328"
+      ]
+    },
+    "author_id": "1920490291708243968",
+    "conversation_id": "2094516996608331846",
+    "created_at": "2026-08-31T20:05:40.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T21:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094516996608331846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QT7GM3dv7J",
+          "end": 115,
+          "expanded_url": "https://x.com/h191980276/status/2094516996608331846/photo/1",
+          "media_key": "3_2094516990128099328",
+          "start": 92,
+          "url": "https://t.co/QT7GM3dv7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094516996608331846",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094516990128099328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好，我就是自己根本没有性别焦虑对雌二醇有错误想法私自吃糖吃糖是幻想为了女性化物化女性为了满足自己性幻想未经鉴定为合格跨出偷吃易性症药被联盟党思想影响跟风跨抹黑跨性别群体的假跨坏男娘 https://t.co/QT7GM3dv7J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2094516990128099328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRE4GvSbEAA9Baz.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094516990128099328"
+          ]
+        },
+        "author_id": "1920490291708243968",
+        "conversation_id": "2094516996608331846",
+        "created_at": "2026-08-31T20:05:40.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T21:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094516996608331846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QT7GM3dv7J",
+              "end": 115,
+              "expanded_url": "https://x.com/h191980276/status/2094516996608331846/photo/1",
+              "media_key": "3_2094516990128099328",
+              "start": 92,
+              "url": "https://t.co/QT7GM3dv7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094516996608331846",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094516990128099328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我就是自己根本没有性别焦虑对雌二醇有错误想法私自吃糖吃糖是幻想为了女性化物化女性为了满足自己性幻想未经鉴定为合格跨出偷吃易性症药被联盟党思想影响跟风跨抹黑跨性别群体的假跨坏男娘 https://t.co/QT7GM3dv7J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094516996608331846",
+        "name": "Shiori",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 543,
+          "like_count": 4462,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1983
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

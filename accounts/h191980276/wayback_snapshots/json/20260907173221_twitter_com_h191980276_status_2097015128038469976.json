@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2097015128038469976",
+    "created_at": "2026-09-07T17:32:21.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T18:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097015128038469976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1716793662510940160",
+          "start": 3,
+          "username": "TekeLili222"
+        },
+        {
+          "end": 29,
+          "id": "1432351612182229001",
+          "start": 17,
+          "username": "Merlyn_Void"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097015128038469976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096933793945063694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TekeLili222: @Merlyn_Void 不是早就被污染成“爱女特色时尚单品”了吗？\n以前被顺直当做双倍美色的景观植物\n现在被女权当做爱女人设的政治工具\n女同惨过做鸡啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2097015128038469976",
+        "created_at": "2026-09-07T17:32:21.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097015128038469976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1716793662510940160",
+              "start": 3,
+              "username": "TekeLili222"
+            },
+            {
+              "end": 29,
+              "id": "1432351612182229001",
+              "start": 17,
+              "username": "Merlyn_Void"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097015128038469976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096933793945063694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TekeLili222: @Merlyn_Void 不是早就被污染成“爱女特色时尚单品”了吗？\n以前被顺直当做双倍美色的景观植物\n现在被女权当做爱女人设的政治工具\n女同惨过做鸡啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716793662510940160",
+        "conversation_id": "2096911795374178466",
+        "created_at": "2026-09-07T12:09:10.000Z",
+        "display_text_range": [
+          13,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096933793945063694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432351612182229001",
+              "start": 0,
+              "username": "Merlyn_Void"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096933793945063694",
+        "in_reply_to_user_id": "1432351612182229001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1472,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096911795374178466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merlyn_Void 不是早就被污染成“爱女特色时尚单品”了吗？\n以前被顺直当做双倍美色的景观植物\n现在被女权当做爱女人设的政治工具\n女同惨过做鸡啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097015128038469976",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 604,
+          "like_count": 4623,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2037
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-24T12:28:08.000Z",
+        "description": "幸福的三要素：自私，无知，健康  。\n多锻炼身体，也祝你成为一个幸福的人",
+        "id": "1716793662510940160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096961652126351771",
+        "name": "AAA饼干打孔污师傅",
+        "pinned_tweet_id": "2064710859503665333",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062435608862314496/sZA3daqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 52,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1390
+        },
+        "url": "",
+        "username": "TekeLili222",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。\n喜欢的动物是信天翁\n@Merlyn27781069",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "Merlyn27781069"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/merlyn95513",
+                "end": 23,
+                "expanded_url": "https://ngl.link/merlyn95513",
+                "start": 0,
+                "url": "https://t.co/awjtFHq6Cw"
+              }
+            ]
+          }
+        },
+        "id": "1432351612182229001",
+        "is_identity_verified": false,
+        "location": "🚪288",
+        "most_recent_tweet_id": "2096996844564001005",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "2049105797842665732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432351612182229001/1781599546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25860,
+          "following_count": 284,
+          "like_count": 16831,
+          "listed_count": 51,
+          "media_count": 256,
+          "tweet_count": 5316
+        },
+        "url": "https://t.co/awjtFHq6Cw",
+        "username": "Merlyn_Void",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

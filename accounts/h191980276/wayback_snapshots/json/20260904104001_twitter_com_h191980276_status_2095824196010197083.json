@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2095754960185004463",
+    "created_at": "2026-09-04T10:40:01.000Z",
+    "display_text_range": [
+      11,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T11:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095824196010197083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018306514549972992",
+          "start": 0,
+          "username": "bcfqdtfqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095824196010197083",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095754960185004463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcfqdtfqz 说要不od划手情绪稳定的，其实意思就是想要od划手情绪不稳定的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2095754960185004463",
+        "created_at": "2026-09-04T10:40:01.000Z",
+        "display_text_range": [
+          11,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095824196010197083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095824196010197083",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095754960185004463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz 说要不od划手情绪稳定的，其实意思就是想要od划手情绪不稳定的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2095754960185004463",
+        "created_at": "2026-09-04T06:04:54.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T07:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095754960185004463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095754960185004463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 627,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抛开本身对顺直男天然有严重意见的类amber生物，以及不od不划手还情绪稳定的都快成三好药娘了\n\n那么下个问题来了，为什么会觉得这样的跨女会喜欢你，你有什么吸引人的地方吗🫪？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095824196010197083",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 584,
+          "like_count": 4542,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2007
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2095754960185004463",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 1437,
+          "like_count": 519,
+          "listed_count": 4,
+          "media_count": 902,
+          "tweet_count": 3972
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

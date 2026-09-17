@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2097259008096718957",
+    "created_at": "2026-09-08T23:12:32.000Z",
+    "display_text_range": [
+      12,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T00:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097463122399535416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1038737380335865856",
+          "start": 0,
+          "username": "Kitsu_Maru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bai_yi0515/sta…",
+          "end": 70,
+          "expanded_url": "https://x.com/bai_yi0515/status/2097024195016495436",
+          "start": 47,
+          "url": "https://t.co/0qK3Nexaye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097463122399535416",
+    "in_reply_to_user_id": "1038737380335865856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097024195016495436",
+        "type": "quoted"
+      },
+      {
+        "id": "2097259008096718957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kitsu_Maru 看看她们不演的时候是什么样吧，他们会说我们国家就是镇压你们，并以此自豪https://t.co/0qK3Nexaye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1666,
+        "media_key": "3_2097259001327104000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr18zAXsAAiwKh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2097259008096718957",
+        "created_at": "2026-09-08T23:12:32.000Z",
+        "display_text_range": [
+          12,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T00:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097463122399535416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1038737380335865856",
+              "start": 0,
+              "username": "Kitsu_Maru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bai_yi0515/sta…",
+              "end": 70,
+              "expanded_url": "https://x.com/bai_yi0515/status/2097024195016495436",
+              "start": 47,
+              "url": "https://t.co/0qK3Nexaye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097463122399535416",
+        "in_reply_to_user_id": "1038737380335865856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097024195016495436",
+            "type": "quoted"
+          },
+          {
+            "id": "2097259008096718957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kitsu_Maru 看看她们不演的时候是什么样吧，他们会说我们国家就是镇压你们，并以此自豪https://t.co/0qK3Nexaye"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097259001327104000"
+          ]
+        },
+        "author_id": "1038737380335865856",
+        "conversation_id": "2097259008096718957",
+        "created_at": "2026-09-08T09:41:27.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097259008096718957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vMBx6xnfpI",
+              "end": 187,
+              "expanded_url": "https://x.com/Kitsu_Maru/status/2097259008096718957/photo/1",
+              "media_key": "3_2097259001327104000",
+              "start": 164,
+              "url": "https://t.co/vMBx6xnfpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097259008096718957",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2097259001327104000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1376,
+          "like_count": 113,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Las faltas de respeto tan jodidamente grave e inhuminidad que me esta saliendo desde el día de ayer a mis hermanas trans en China me parte el corazón ñ, de verdad. https://t.co/vMBx6xnfpI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587622781839179779",
+        "conversation_id": "2097023185250336814",
+        "created_at": "2026-09-07T18:08:23.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T19:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097024195016495436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097024195016495436",
+        "in_reply_to_user_id": "1587622781839179779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3952,
+          "like_count": 71,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097023185250336814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺便一提，歧视在中国不犯法，女性特征是中国女同最低的要求，中国女同还会挑剔肚脐眼形状，头发长短等等，西方歧视那套在中国并不管用"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097463122399535416",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 636,
+          "like_count": 4717,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2054
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-09T10:34:25.000Z",
+        "description": "(She/Her) || ⚖️ Jurista de la comunidad LGBTIQ+ 🏳️‍🌈🏳️‍⚧️ ||Acrata ||Tejedora de mundos y rolera ✏️📜  Witch Hat Atelier || Absolute DC arc || Furra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alannakitsune.straw.page",
+                "end": 23,
+                "expanded_url": "https://alannakitsune.straw.page",
+                "start": 0,
+                "url": "https://t.co/yAZatjNGpd"
+              }
+            ]
+          }
+        },
+        "id": "1038737380335865856",
+        "is_identity_verified": false,
+        "location": "Sevilla, España",
+        "most_recent_tweet_id": "2097447570259816754",
+        "name": "Lady Alanna ☽◯☾",
+        "pinned_tweet_id": "2013756499420721221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1038737380335865856/1780250808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089157242323099648/sSjIQEI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1256,
+          "like_count": 96228,
+          "listed_count": 4,
+          "media_count": 3807,
+          "tweet_count": 63109
+        },
+        "url": "https://t.co/yAZatjNGpd",
+        "username": "Kitsu_Maru",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-02T01:49:10.000Z",
+        "description": "短发t 1 switch",
+        "id": "1587622781839179779",
+        "is_identity_verified": false,
+        "location": "Liverpool, England",
+        "most_recent_tweet_id": "2097174290215125391",
+        "name": "bo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587622781839179779/1707831692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804631400626442240/2jerk1zQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 68,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "bai_yi0515",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

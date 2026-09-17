@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2096886199814386049",
+    "created_at": "2026-09-07T10:02:35.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096901939858682237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "makinoseiran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096901939858682237",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096886199814386049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makinoseiran 欺负我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2096886199814386049",
+        "created_at": "2026-09-07T10:02:35.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096901939858682237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "makinoseiran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096901939858682237",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096886199814386049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makinoseiran 欺负我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735328474934706176",
+        "conversation_id": "2096886199814386049",
+        "created_at": "2026-09-07T09:00:02.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096886199814386049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096886199814386049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 729,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以及一个更加难绷的。\n我的xp并不能说是单纯的施虐偏好或者受虐偏好，而是我能在其中感到多少刺激，不论这个刺激是直接作用于我自身的，还是其他人给我带来的反馈\n因而会出现一种奇特的现象，如果一个人被我用什么东西电、欺负的时候和个木头一样，我就会觉得很无聊，反之我会很开心……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096901939858682237",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 607,
+          "like_count": 4613,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 2034
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "aka橘猫/橘猫硬件实验室主创/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MakinoSeiran",
+                "end": 23,
+                "expanded_url": "http://t.me/MakinoSeiran",
+                "start": 0,
+                "url": "https://t.co/KjfemPlqZB"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096887170891944129",
+        "name": "牧野セイラン (青嵐)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735328474934706176/1787851719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086870693875200000/cgyHI0ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 770,
+          "like_count": 27089,
+          "listed_count": 1,
+          "media_count": 573,
+          "tweet_count": 5582
+        },
+        "url": "https://t.co/KjfemPlqZB",
+        "username": "makinoseiran",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

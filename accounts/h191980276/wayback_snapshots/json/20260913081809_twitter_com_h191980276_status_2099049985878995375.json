@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2099043271624536217",
+    "created_at": "2026-09-13T08:18:09.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T09:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099049985878995375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032390349688381441",
+          "start": 0,
+          "username": "lilicoe4321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099049985878995375",
+    "in_reply_to_user_id": "2032390349688381441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099043271624536217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilicoe4321 她们真的想当\"第二性\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2099043271624536217",
+        "created_at": "2026-09-13T08:18:09.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099049985878995375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032390349688381441",
+              "start": 0,
+              "username": "lilicoe4321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099049985878995375",
+        "in_reply_to_user_id": "2032390349688381441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099043271624536217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilicoe4321 她们真的想当\"第二性\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032390349688381441",
+        "conversation_id": "2099043271624536217",
+        "created_at": "2026-09-13T07:51:28.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099043271624536217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099043271624536217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国直女经常和儿童，性少数群体去竞争被社会照顾的弱势群体的地位。作为女同里的femme和轻度adhd，我在中国经常会被直女有意无意的雌竞。健全直女仅仅是因为会成为男人的老婆就觉得需要被整个社会包容和宠爱，并且敌视和她们抢地位的人。在中国以外的地方，直女没有权利夺走弱势群体的地位。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099049985878995375",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 670,
+          "like_count": 4918,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2119
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T09:36:50.000Z",
+        "description": "she/her 🏳️‍🌈 cn/eng \n20⬆️ 二次元/友跨/bl/gl 🏳️‍⚧️\n禁：terf，bg婆，顺直，incel",
+        "id": "2032390349688381441",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099043271624536217",
+        "name": "lilicoe",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032390349688381441/1777362133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047325621878247424/frCyQB4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 95,
+          "like_count": 1617,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "lilicoe4321",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

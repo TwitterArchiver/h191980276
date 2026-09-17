@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2094020433179758615",
+    "created_at": "2026-08-30T11:12:30.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094020433179758615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kkggxxyy/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/kkggxxyy/status/2093956610024677545",
+          "start": 49,
+          "url": "https://t.co/hmONbPEySs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094020433179758615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093956610024677545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性别认知障碍就性别认知障碍，还什么跨性别，应该医疗过渡成小吊贫乳药娘栓起来给我操，你也配融入社会 https://t.co/hmONbPEySs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2094020433179758615",
+        "created_at": "2026-08-30T11:12:30.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094020433179758615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkggxxyy/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/kkggxxyy/status/2093956610024677545",
+              "start": 49,
+              "url": "https://t.co/hmONbPEySs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094020433179758615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093956610024677545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别认知障碍就性别认知障碍，还什么跨性别，应该医疗过渡成小吊贫乳药娘栓起来给我操，你也配融入社会 https://t.co/hmONbPEySs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "2093956610024677545",
+        "created_at": "2026-08-30T06:58:54.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093956610024677545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093956610024677545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1969,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别就该是个医疗问题\n就不该混到性别多元议题里\n应该远离 LGBQ\nT 要能在医疗系统里顺利完成过渡，在社会上隐形才是正解"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094020433179758615",
+        "name": "Shiori",
+        "pinned_tweet_id": "2050950132993339759",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058566552581255168/_aDLZmeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 518,
+          "like_count": 4446,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1964
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "🏳️‍⚧️ 不可结缘",
+        "id": "1452537509875834880",
+        "is_identity_verified": false,
+        "location": "大象鼻子",
+        "most_recent_tweet_id": "2093958933664907627",
+        "name": "하나나",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452537509875834880/1734359512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043310679210569728/ph6qicjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 243,
+          "like_count": 7230,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 6831
+        },
+        "url": "",
+        "username": "kkggxxyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

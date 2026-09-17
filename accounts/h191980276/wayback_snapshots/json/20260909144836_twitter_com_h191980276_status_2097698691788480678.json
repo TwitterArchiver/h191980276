@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2097632033208168702",
+    "created_at": "2026-09-09T14:48:36.000Z",
+    "display_text_range": [
+      16,
+      288
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097698691788480678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1873435432404279296",
+          "start": 0,
+          "username": "Alicia__Angela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097698691788480678",
+    "in_reply_to_user_id": "1873435432404279296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097691342709084422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alicia__Angela They co-opt unconventional concepts such as ‘feminism’, ‘lesbianism’ and ‘asexuality’ solely to threaten their husbands and use them as bargaining chips; they oppose transgender people simply because they are conservative, traditional women. They are by no means lesbians."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2097632033208168702",
+        "created_at": "2026-09-09T14:48:36.000Z",
+        "display_text_range": [
+          16,
+          288
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097698691788480678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1873435432404279296",
+              "start": 0,
+              "username": "Alicia__Angela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097698691788480678",
+        "in_reply_to_user_id": "1873435432404279296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097691342709084422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alicia__Angela They co-opt unconventional concepts such as ‘feminism’, ‘lesbianism’ and ‘asexuality’ solely to threaten their husbands and use them as bargaining chips; they oppose transgender people simply because they are conservative, traditional women. They are by no means lesbians."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873435432404279296",
+        "conversation_id": "2097632033208168702",
+        "created_at": "2026-09-09T14:19:23.000Z",
+        "display_text_range": [
+          12,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097691342709084422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097691342709084422",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097632033208168702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 Honestamente a mi me sorprende que hayan lesbianas no terf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097698691788480678",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 644,
+          "like_count": 4756,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 2072
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-29T18:27:15.000Z",
+        "description": "soy una chica trans con autismo por mech eng, tissue eng y bio eng. Lesb. Modo Cynthia activado. I experiment on puppygirls (my GF). 19 yo",
+        "id": "1873435432404279296",
+        "is_identity_verified": false,
+        "location": "nowhere",
+        "most_recent_tweet_id": "2097698471226536143",
+        "name": "Diana🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873435432404279296/1787537540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090820786432978944/bdJaVPUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 497,
+          "like_count": 296065,
+          "listed_count": 2,
+          "media_count": 1001,
+          "tweet_count": 55412
+        },
+        "url": "",
+        "username": "Alicia__Angela",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
