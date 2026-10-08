@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2106211492576260541",
+    "created_at": "2026-10-03T15:03:24.000Z",
+    "display_text_range": [
+      12,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T16:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106399728498045298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1441569879534948363",
+          "start": 0,
+          "username": "ariadotwav"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106399728498045298",
+    "in_reply_to_user_id": "1441569879534948363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106211492576260541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ariadotwav 在警察和官僚的筛选和批准下正规变性，改造成合格性奴给官僚操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2106211492576260541",
+        "created_at": "2026-10-03T15:03:24.000Z",
+        "display_text_range": [
+          12,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106399728498045298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1441569879534948363",
+              "start": 0,
+              "username": "ariadotwav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106399728498045298",
+        "in_reply_to_user_id": "1441569879534948363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106211492576260541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ariadotwav 在警察和官僚的筛选和批准下正规变性，改造成合格性奴给官僚操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441569879534948363",
+        "conversation_id": "2106211492576260541",
+        "created_at": "2026-10-03T02:35:26.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T03:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106211492576260541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106211492576260541",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 11946,
+          "like_count": 2043,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "queer people in 1969 : fuck it im tired of getting hate crimed im gonna firebomb these police officers \n\nqueer people in 2026 : umm actually if youre mediclaly transitioning without a prescription youre transmed and doing dangerous stuff that could kill you..,, its illegal to diy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106399728498045298",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 813,
+          "like_count": 5330,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2218
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-25T01:07:02.000Z",
+        "description": "that one girl thats too green 🍓🌱🪽. femme lesbian angel, 20, canadian https://t.co/DVqPxzsc8H \nbackup : @ariadotflac",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "ariadotflac"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/ariadotwav",
+                "end": 92,
+                "expanded_url": "https://linktr.ee/ariadotwav",
+                "start": 69,
+                "url": "https://t.co/DVqPxzsc8H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/ariadotwav",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/ariadotwav",
+                "start": 0,
+                "url": "https://t.co/rhvYFZAyqW"
+              }
+            ]
+          }
+        },
+        "id": "1441569879534948363",
+        "is_identity_verified": false,
+        "location": "she     |     Support Me →",
+        "most_recent_tweet_id": "2106396721760678348",
+        "name": "aria 🍓",
+        "pinned_tweet_id": "2105465762827685961",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1441569879534948363/1776225978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104493769844277248/4Bce9WbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13500,
+          "following_count": 292,
+          "like_count": 37397,
+          "listed_count": 55,
+          "media_count": 1871,
+          "tweet_count": 13851
+        },
+        "url": "https://t.co/rhvYFZAyqW",
+        "username": "ariadotwav",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

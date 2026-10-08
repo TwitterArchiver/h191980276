@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2101713552113348710",
+    "created_at": "2026-09-21T15:24:10.000Z",
+    "display_text_range": [
+      25,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102056299102163065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2030874589635731456",
+          "start": 0,
+          "username": "leeaua143267"
+        },
+        {
+          "end": 24,
+          "id": "1802228543989878784",
+          "start": 14,
+          "username": "GPCR_1967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102056299102163065",
+    "in_reply_to_user_id": "2030874589635731456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102037525535580620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leeaua143267 @GPCR_1967 在中国，政治上被认为不正确的事情会被骂是搞政治正确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2101713552113348710",
+        "created_at": "2026-09-21T15:24:10.000Z",
+        "display_text_range": [
+          25,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102056299102163065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2030874589635731456",
+              "start": 0,
+              "username": "leeaua143267"
+            },
+            {
+              "end": 24,
+              "id": "1802228543989878784",
+              "start": 14,
+              "username": "GPCR_1967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102056299102163065",
+        "in_reply_to_user_id": "2030874589635731456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102037525535580620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leeaua143267 @GPCR_1967 在中国，政治上被认为不正确的事情会被骂是搞政治正确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030874589635731456",
+        "conversation_id": "2101713552113348710",
+        "created_at": "2026-09-21T14:09:34.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102037525535580620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802228543989878784",
+              "start": 0,
+              "username": "GPCR_1967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102037525535580620",
+        "in_reply_to_user_id": "1802228543989878784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101713552113348710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GPCR_1967 还喜欢骂不政治正确的政治正确"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102056299102163065",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 712,
+          "like_count": 5113,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2163
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-09T05:13:37.000Z",
+        "description": "不欢迎「顺直&男权&女权&激男&激女」\n｜2005｜vers｜182cm｜60kg",
+        "id": "2030874589635731456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102037872412868982",
+        "name": "leeaua🏳️‍🌈",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031263405294927872/IO9HOplR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 335,
+          "like_count": 4880,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1756
+        },
+        "url": "",
+        "username": "leeaua143267",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-16T06:35:55.000Z",
+        "description": "是二次元害了我吗？",
+        "id": "1802228543989878784",
+        "is_identity_verified": false,
+        "location": "朱加什维利格勒",
+        "most_recent_tweet_id": "2102050674032644433",
+        "name": "朱加什维利格勒广播台",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1802228543989878784/1789654465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024491543600545792/lAAy8PL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 306,
+          "like_count": 13708,
+          "listed_count": 2,
+          "media_count": 381,
+          "tweet_count": 4674
+        },
+        "url": "",
+        "username": "GPCR_1967",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

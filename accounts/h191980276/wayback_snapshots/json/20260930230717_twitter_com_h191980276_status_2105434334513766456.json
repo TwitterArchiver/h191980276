@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2105403710377795700",
+    "created_at": "2026-09-30T23:07:17.000Z",
+    "display_text_range": [
+      29,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T00:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105434334513766456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408751443360710662",
+          "start": 0,
+          "username": "Jellyfi77885103"
+        },
+        {
+          "end": 28,
+          "id": "1239849755938865153",
+          "start": 17,
+          "username": "ArezyAlpha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105434334513766456",
+    "in_reply_to_user_id": "1408751443360710662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105420786433691803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Jellyfi77885103 @ArezyAlpha 性别认同是第0性征"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2105403710377795700",
+        "created_at": "2026-09-30T23:07:17.000Z",
+        "display_text_range": [
+          29,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T00:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105434334513766456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            },
+            {
+              "end": 28,
+              "id": "1239849755938865153",
+              "start": 17,
+              "username": "ArezyAlpha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105434334513766456",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105420786433691803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Jellyfi77885103 @ArezyAlpha 性别认同是第0性征"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2105403710377795700",
+        "created_at": "2026-09-30T22:13:26.000Z",
+        "display_text_range": [
+          12,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T23:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105420786433691803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239849755938865153",
+              "start": 0,
+              "username": "ArezyAlpha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105420786433691803",
+        "in_reply_to_user_id": "1239849755938865153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是性别本质主义者。\n\n我认为拉康提出的马克思经济学类比非常棒，即男性剥削了女性的剩余原乐。还有其他很多对父权制的结构的批判，它如何塑造我们性别的文化和规范的，说的都非常好。大部分时候我都是接受的，我也批判说激女对“驴”其实就是在试着复刻男性对女性的结构。\n\n但是，它们很多后来都转向完全通过性别压迫的结构来定义性别，就好像可以完全通过雇佣关系来定义资本家和劳动者。这就是我反对的地方。我认为，经济上可以这样做，但性别不行，性别无法被理性完全定义。\n\n我认为经济是一个理性所创造的系统，它的一切内容仍然在理性的范围内，也能被理性详细解释。而性别不是，性别从一开始就有非理性的成分，即使性别秩序基本是理性塑造出来压制性别的。\n\n这是元框架不同，大部分哲学应该是把理性看作人类的根本机制，性别以及种族文化什么的则看作理性下的一个具体项目。相反，我认为性别也是一种根本机制，理性与其在同一层面，可能有部分重合。目前的人类理性与男性有一种密切的关系，理性中心主义正是父权制的结果。\n\n拉康可能发现了符号系统和性别之间的一种绑定关系，但既然他还是以完全理性的视角看待这些的，他也就只了解当前这个人类理性结构本身所造成的性别规范。\n\n理性不但能够编码其他一切，它还能反过来对自身做出编码，对自己编码的过程本身进行编码……它可能发现这个循环自指是个矛盾，但它接着就对这个矛盾也进行编码（我想这就是辩证法）。但不论它说了多少，这一点不影响，它对那些非理性的部分其实什么都不知道，也不可能知道。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105411906806956237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ArezyAlpha 我是性别本质主义者。\n\n我认为拉康提出的马克思经济学类比非常棒，即男性剥削了女性的剩余原乐。还有其他很多对父权制的结构的批判，它如何塑造我们性别的文化和规范的，说的都非常好。大部分时候我都是接受的，我也批判说激女对“驴”其实就是在试着复刻男性对女性的结构。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105434334513766456",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 802,
+          "like_count": 5291,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2214
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "🍥🏳️‍⚧️🏳️‍🌈🇦🇶\nMeat is girl, girl is meat.\n\nLet we do a dance for hope in future.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfish43147",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jellyfish43147",
+                "start": 0,
+                "url": "https://t.co/GIVt279Ba7"
+              }
+            ]
+          }
+        },
+        "id": "1408751443360710662",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105427698835468614",
+        "name": "果冻鱼",
+        "pinned_tweet_id": "2096203051157921997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408751443360710662/1789768833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101065346103091200/q1DckZU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 256,
+          "like_count": 15363,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 3374
+        },
+        "url": "https://t.co/GIVt279Ba7",
+        "username": "Jellyfi77885103",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-17T09:44:10.000Z",
+        "description": "She/Her 🍥▪︎☆ Don't know how to find a PhD ☆▪︎中文/English/日本語 \n♡Ask Anything! https://t.co/r9rOKEvltD♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tyyang07129215",
+                "end": 99,
+                "expanded_url": "https://ngl.link/tyyang07129215",
+                "start": 76,
+                "url": "https://t.co/r9rOKEvltD"
+              }
+            ]
+          }
+        },
+        "id": "1239849755938865153",
+        "is_identity_verified": false,
+        "location": "England",
+        "most_recent_tweet_id": "2105428742227075330",
+        "name": "Arezy-02",
+        "pinned_tweet_id": "2066607916984008780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239849755938865153/1788818167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097081502873919488/yd474r_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 163,
+          "like_count": 2548,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "ArezyAlpha",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

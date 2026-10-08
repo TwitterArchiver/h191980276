@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2104854522057154881",
+    "created_at": "2026-09-29T08:43:19.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T09:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104854522057154881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2287445576",
+          "start": 3,
+          "username": "shibari48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104854522057154881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104831574349082793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shibari48: ⚠️昨天发布完《暗黑绳圈起底》后，又有许多人在后台私信我她们自己的故事。\n\n截图里的小姑娘不仅在绑起来后被一步步诱奸，甚至因此而染上了HPV（可能）。\n\n据我所了解，目前有人在专门教授这样的课程：\n1.如何一步步突破女生底线，在模棱两可间发生关系；…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104831065353486336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXcs7qaAAAz8-N.jpg",
+        "width": 1064
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104831065861050368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXcs9ja0AAWx6C.jpg",
+        "width": 1036
+      },
+      {
+        "height": 902,
+        "media_key": "3_2104831065882042368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXcs9obIAA2RdY.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2104854522057154881",
+        "created_at": "2026-09-29T08:43:19.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104854522057154881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2287445576",
+              "start": 3,
+              "username": "shibari48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104854522057154881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104831574349082793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shibari48: ⚠️昨天发布完《暗黑绳圈起底》后，又有许多人在后台私信我她们自己的故事。\n\n截图里的小姑娘不仅在绑起来后被一步步诱奸，甚至因此而染上了HPV（可能）。\n\n据我所了解，目前有人在专门教授这样的课程：\n1.如何一步步突破女生底线，在模棱两可间发生关系；…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104831065353486336",
+            "3_2104831065861050368",
+            "3_2104831065882042368"
+          ]
+        },
+        "author_id": "2287445576",
+        "conversation_id": "2104831574349082793",
+        "created_at": "2026-09-29T07:12:07.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T08:11:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104831302268850375",
+          "2104831574349082793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKWLmxnRyy",
+              "end": 148,
+              "expanded_url": "https://x.com/shibari48/status/2104831574349082793/photo/1",
+              "media_key": "3_2104831065353486336",
+              "start": 125,
+              "url": "https://t.co/yKWLmxnRyy"
+            },
+            {
+              "display_url": "pic.x.com/yKWLmxnRyy",
+              "end": 148,
+              "expanded_url": "https://x.com/shibari48/status/2104831574349082793/photo/1",
+              "media_key": "3_2104831065861050368",
+              "start": 125,
+              "url": "https://t.co/yKWLmxnRyy"
+            },
+            {
+              "display_url": "pic.x.com/yKWLmxnRyy",
+              "end": 148,
+              "expanded_url": "https://x.com/shibari48/status/2104831574349082793/photo/1",
+              "media_key": "3_2104831065882042368",
+              "start": 125,
+              "url": "https://t.co/yKWLmxnRyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104831574349082793",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104831065353486336"
+          },
+          {
+            "media_key": "3_2104831065861050368"
+          },
+          {
+            "media_key": "3_2104831065882042368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "⚠️昨天发布完《暗黑绳圈起底》后，又有许多人在后台私信我她们自己的故事。\n\n截图里的小姑娘不仅在绑起来后被一步步诱奸，甚至因此而染上了HPV（可能）。\n\n据我所了解，目前有人在专门教授这样的课程：\n1.如何一步步突破女生底线，在模棱两可间发生关系；\n2.如何判断女生是不是好欺负的类型，以及如何不让她们明确表达拒绝；\n3.如何在事后防止女生报警，甚至引导她们讲出自己是自愿的。\n截图中的给她做饭，养猫，都是典型的此类手段。问题是一旦接受此种pua，受害者便会开始怀疑自己。\n“为什么在那种情况下我会愿意？” “我好烂！我没有守住自己的底线。”“我是天生的烂货吗？怎么一点经不起诱惑？”\n诸如此类的自我贬低会接踵而至。如果此时对方再借坡下驴，表达“这就是你真实的样子”等等，便会令受害者进入“破罐子破摔”的死亡下坠螺旋。\n\n再次提醒大家：\n1.非必要情况，一律采用SSC原则，对方做任何事之前需要征求你的同意；\n2.对方做出任何商议之外的事情，立刻喊停，不要有任何犹豫和侥幸心理；\n3.不要轻易和人进入私密空间约绳，尽量选择有安全员在场的绳屋；\n4.如果一定要私约，做好充分的背景调查；\n5.如果一定要发生性关系，要提前一起去体检\n\n在此肯请大家转发、评论，让更多人看到这些警告⚠️，我也会在三天后从评论+转发中抽五台【啵啵贝pro】，作为对大家鼓起勇气发声的感谢。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7317,
+          "like_count": 59,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️昨天发布完《暗黑绳圈起底》后，又有许多人在后台私信我她们自己的故事。\n\n截图里的小姑娘不仅在绑起来后被一步步诱奸，甚至因此而染上了HPV（可能）。\n\n据我所了解，目前有人在专门教授这样的课程：\n1.如何一步步突破女生底线，在模棱两可间发生关系； https://t.co/yKWLmxnRyy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104854522057154881",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 788,
+          "like_count": 5246,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2193
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-12T01:34:00.000Z",
+        "description": "在坚持一件很不容易的事。原创bdsm品牌：@wavezjll\nbdsm科普知识发在：@ss48hao3\n购买原创商品：https://t.co/4vYiJ8YpCj\n属性测试链接在下方⬇️（完全免费不收集个人信息）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "wavezjll"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "ss48hao3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zjllus.myshopify.com",
+                "end": 82,
+                "expanded_url": "http://zjllus.myshopify.com",
+                "start": 59,
+                "url": "https://t.co/4vYiJ8YpCj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "test.48haotest.site",
+                "end": 23,
+                "expanded_url": "https://test.48haotest.site",
+                "start": 0,
+                "url": "https://t.co/MxZwU6LQ6T"
+              }
+            ]
+          }
+        },
+        "id": "2287445576",
+        "is_identity_verified": false,
+        "location": "夜之城",
+        "most_recent_tweet_id": "2104847034851422631",
+        "name": "绳师48号",
+        "pinned_tweet_id": "2061382541538656359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2287445576/1657904861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547991296664825856/r7tSeVCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333282,
+          "following_count": 361,
+          "like_count": 819,
+          "listed_count": 482,
+          "media_count": 456,
+          "tweet_count": 1402
+        },
+        "url": "https://t.co/MxZwU6LQ6T",
+        "username": "shibari48",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

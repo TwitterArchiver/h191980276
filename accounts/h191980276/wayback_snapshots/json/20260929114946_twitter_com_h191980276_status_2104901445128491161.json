@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2104901445128491161",
+    "created_at": "2026-09-29T11:49:46.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T12:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104901445128491161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AnnieChorly/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/AnnieChorly/status/2104880077498617877",
+          "start": 12,
+          "url": "https://t.co/k0Jh6GbwSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104901445128491161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104880077498617877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这完全是诱导性的提问， https://t.co/k0Jh6GbwSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104880062076174336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYJQ6raQAAP-Wf.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2104901445128491161",
+        "created_at": "2026-09-29T11:49:46.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104901445128491161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnnieChorly/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/AnnieChorly/status/2104880077498617877",
+              "start": 12,
+              "url": "https://t.co/k0Jh6GbwSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104901445128491161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104880077498617877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这完全是诱导性的提问， https://t.co/k0Jh6GbwSA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104880062076174336"
+          ]
+        },
+        "author_id": "1643126722760679424",
+        "conversation_id": "2104856133496365425",
+        "created_at": "2026-09-29T10:24:51.000Z",
+        "display_text_range": [
+          11,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104880077498617877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1337428792663547905",
+              "start": 0,
+              "username": "9ine_Rong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHIFTR2zbp",
+              "end": 64,
+              "expanded_url": "https://x.com/AnnieChorly/status/2104880077498617877/photo/1",
+              "media_key": "3_2104880062076174336",
+              "start": 41,
+              "url": "https://t.co/qHIFTR2zbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104880077498617877",
+        "in_reply_to_user_id": "1337428792663547905",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104880062076174336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104856133496365425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9ine_Rong 高绿芬那边开hrt之前还有一份好多页的大表格，这是其中一点 https://t.co/qHIFTR2zbp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104901445128491161",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 791,
+          "like_count": 5254,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2197
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-04T05:42:03.000Z",
+        "description": "做好自己手上的事，好好生活",
+        "id": "1643126722760679424",
+        "is_identity_verified": false,
+        "location": "Gangdong, PRC",
+        "most_recent_tweet_id": "2104888030016528807",
+        "name": "是小酥子呀🍢🍰",
+        "pinned_tweet_id": "2099546207811207557",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643126722760679424/1725548472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815608698984710144/IjSAp-oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 159,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 963,
+          "tweet_count": 3293
+        },
+        "url": "",
+        "username": "AnnieChorly",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-11T16:07:42.000Z",
+        "description": "大龄未术MTF🏳️‍⚧️HRT2019🍥等死老药娘🍬绝望老跨妹💣躁郁天残大骨架🤮日常外貌身材身高年龄性别焦虑自我厌恶精神崩溃💊作息紊乱💤榕的养老发癫群669063999✨顺直勿扰",
+        "id": "1337428792663547905",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104872342740463706",
+        "name": "榕",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337428792663547905/1671439460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094884682731249664/U4wzPQN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4188,
+          "following_count": 1576,
+          "like_count": 1915,
+          "listed_count": 9,
+          "media_count": 248,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "9ine_Rong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

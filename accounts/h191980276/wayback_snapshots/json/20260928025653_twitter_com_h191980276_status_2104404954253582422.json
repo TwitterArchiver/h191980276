@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2104383892820316237",
+    "created_at": "2026-09-28T02:56:53.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T03:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104404954253582422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408751443360710662",
+          "start": 0,
+          "username": "Jellyfi77885103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104404954253582422",
+    "in_reply_to_user_id": "1408751443360710662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104383892820316237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Jellyfi77885103 开始无产阶级专政了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2104383892820316237",
+        "created_at": "2026-09-28T02:56:53.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104404954253582422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104404954253582422",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104383892820316237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Jellyfi77885103 开始无产阶级专政了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2104383892820316237",
+        "created_at": "2026-09-28T01:33:12.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:26:49.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104382287668474059",
+          "2104383098503004429",
+          "2104383892820316237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jellyfi7788510…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/jellyfi77885103/status/2104310058679230570",
+              "start": 137,
+              "url": "https://t.co/WzGdt7l4aI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104383892820316237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "性别本质主义个人特别版简介：\n1 性别是一种本体存在。\n2 性别和生理没有任何直接关系。\n3 性别不止男女两性，“女性”和“男性”的称呼也只是一种描述，存在别的描述方法，不存在完美的描述。\n4 父权制本身，是男性占据统治的结果，因此需要反对男性统治（而不是男性本身）。\n5 社会性别规范是父权制规训和性别本身双重作用的结果，但后者的影响微小而隐秘。\n6 因此质疑性别规范、排除父权制规训的干扰，可以帮助理解性别本身。也有时候是反过来，对性别本身的理解有助于摆脱性别规范。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 253,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104310058679230570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "性别本质主义个人特别版简介：\n1 性别是一种本体存在。\n2 性别和生理没有任何直接关系。\n3 性别不止男女两性，“女性”和“男性”的称呼也只是一种描述，存在别的描述方法，不存在完美的描述。\n4 父权制本身，是男性占据统治的结果，因此需要反对男性统治（而不是男性本身）。\n5 https://t.co/WzGdt7l4aI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104404954253582422",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 779,
+          "like_count": 5221,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2188
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "🍥🏳️‍⚧️🏳️‍🌈🇦🇶\nMeat is girl, girl is meat.\n\nLet we do a dance of hope for future.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfish43147",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jellyfish43147",
+                "start": 0,
+                "url": "https://t.co/GIVt2793kz"
+              }
+            ]
+          }
+        },
+        "id": "1408751443360710662",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104383892820316237",
+        "name": "果冻鱼",
+        "pinned_tweet_id": "2096203051157921997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408751443360710662/1789768833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101065346103091200/q1DckZU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 252,
+          "like_count": 14833,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/GIVt2793kz",
+        "username": "Jellyfi77885103",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

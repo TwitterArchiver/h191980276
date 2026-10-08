@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2102421876052287690",
+    "created_at": "2026-09-23T06:31:12.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:31:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102646949602271351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054962114830483456",
+          "start": 0,
+          "username": "PigCCZhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2102337115409260673",
+          "start": 18,
+          "url": "https://t.co/qS1C8ZnGJd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102646949602271351",
+    "in_reply_to_user_id": "2054962114830483456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102337115409260673",
+        "type": "quoted"
+      },
+      {
+        "id": "2102421876052287690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PigCCZhu 知情同意书来了 https://t.co/qS1C8ZnGJd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2102223490485207040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyZIGTaQAA14XW.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2102421876052287690",
+        "created_at": "2026-09-23T06:31:12.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102646949602271351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054962114830483456",
+              "start": 0,
+              "username": "PigCCZhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2102337115409260673",
+              "start": 18,
+              "url": "https://t.co/qS1C8ZnGJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102646949602271351",
+        "in_reply_to_user_id": "2054962114830483456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102337115409260673",
+            "type": "quoted"
+          },
+          {
+            "id": "2102421876052287690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PigCCZhu 知情同意书来了 https://t.co/qS1C8ZnGJd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054962114830483456",
+        "conversation_id": "2102421876052287690",
+        "created_at": "2026-09-22T15:36:51.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102421876052287690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2101529285399818687",
+              "start": 98,
+              "url": "https://t.co/rQOeZcmLKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102421876052287690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5095,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101529285399818687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种待遇中国大陆的跨性别者已经“享受”了几十年了\n没有人认为不合理，基本盘都喜欢在社交媒体说，“应该让家长做决定”\n好，现在办个护照需要通知家属了，而家属并没有决定权，只是通知而已，就有人要叫了 https://t.co/rQOeZcmLKj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102223490485207040"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2102337115409260673",
+        "created_at": "2026-09-22T10:00:02.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102337115409260673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PkdDE47Axu",
+              "end": 171,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2102337115409260673/photo/1",
+              "media_key": "3_2102223490485207040",
+              "start": 148,
+              "url": "https://t.co/PkdDE47Axu"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2101529285399818687",
+              "start": 172,
+              "url": "https://t.co/x7WhDhW7gk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102337115409260673",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102223490485207040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 84880,
+          "like_count": 213,
+          "quote_count": 6,
+          "reply_count": 33,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101529285399818687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9月21日，一名浙江网友发帖称，自己办理港澳通行证时，尽管已经成年，但还被要求给父母打电话确认。\n该网友称办事人员告诉她03年以下的都要给家长打电话。\n\n网友晒出的现场材料显示，她还被要求填写一份《情况说明》，其中写有“给妈妈打电话不同意”“给爸爸打电话同意”“出入境遇到问题后果自负”等内容。 https://t.co/PkdDE47Axu https://t.co/x7WhDhW7gk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102646949602271351",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 719,
+          "like_count": 5140,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2171
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T16:29:14.000Z",
+        "description": "聆听小猪哼哼",
+        "id": "2054962114830483456",
+        "is_identity_verified": false,
+        "location": "Pignic 猪咖",
+        "most_recent_tweet_id": "2102637101384978633",
+        "name": "朱熙熙🐷魔法猪猪",
+        "pinned_tweet_id": "2101328046548717769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054962114830483456/1782890127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084843638706896896/c-1ccgMU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 524,
+          "like_count": 15907,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 3686
+        },
+        "url": "",
+        "username": "PigCCZhu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2102639098330550570",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264343,
+          "following_count": 1084,
+          "like_count": 10520,
+          "listed_count": 8912,
+          "media_count": 54156,
+          "tweet_count": 61499
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

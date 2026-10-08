@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2102600336733278325",
+    "created_at": "2026-09-23T03:25:59.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102600336733278325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054962114830483456",
+          "start": 3,
+          "username": "PigCCZhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102600336733278325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102421876052287690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PigCCZhu: 这种待遇中国大陆的跨性别者已经“享受”了几十年了\n没有人认为不合理，基本盘都喜欢在社交媒体说，“应该让家长做决定”\n好，现在办个护照需要通知家属了，而家属并没有决定权，只是通知而已，就有人要叫了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2102600336733278325",
+        "created_at": "2026-09-23T03:25:59.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102600336733278325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054962114830483456",
+              "start": 3,
+              "username": "PigCCZhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102600336733278325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102421876052287690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PigCCZhu: 这种待遇中国大陆的跨性别者已经“享受”了几十年了\n没有人认为不合理，基本盘都喜欢在社交媒体说，“应该让家长做决定”\n好，现在办个护照需要通知家属了，而家属并没有决定权，只是通知而已，就有人要叫了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054962114830483456",
+        "conversation_id": "2102421876052287690",
+        "created_at": "2026-09-22T15:36:51.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102421876052287690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2101529285399818687",
+              "start": 98,
+              "url": "https://t.co/rQOeZcmLKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102421876052287690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2050,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101529285399818687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种待遇中国大陆的跨性别者已经“享受”了几十年了\n没有人认为不合理，基本盘都喜欢在社交媒体说，“应该让家长做决定”\n好，现在办个护照需要通知家属了，而家属并没有决定权，只是通知而已，就有人要叫了 https://t.co/rQOeZcmLKj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102600336733278325",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 714,
+          "like_count": 5137,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2170
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T16:29:14.000Z",
+        "description": "聆听小猪哼哼",
+        "id": "2054962114830483456",
+        "is_identity_verified": false,
+        "location": "Pignic 猪咖",
+        "most_recent_tweet_id": "2102422599779455425",
+        "name": "朱熙熙🐷魔法猪猪",
+        "pinned_tweet_id": "2101328046548717769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054962114830483456/1782890127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084843638706896896/c-1ccgMU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 525,
+          "like_count": 15835,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 3668
+        },
+        "url": "",
+        "username": "PigCCZhu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

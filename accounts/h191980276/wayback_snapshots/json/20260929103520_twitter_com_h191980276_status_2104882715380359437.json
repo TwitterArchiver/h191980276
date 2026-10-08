@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2104833638315782551",
+    "created_at": "2026-09-29T10:35:20.000Z",
+    "display_text_range": [
+      13,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T11:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104882715380359437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747064134490066944",
+          "start": 0,
+          "username": "JiaRanToday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104882715380359437",
+    "in_reply_to_user_id": "1920490291708243968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104882668018250016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaRanToday 唉，昨天和几个认识多年的老朋友聚餐，当他们把安卓手机随手放在餐桌上时，我看着那些笨重的机身和充满烟火气的介面，心里突然冒出一种很微妙的感觉，那一刻我才惊觉，我们之间好像已经有了某种无形的阶级鸿沟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2104833638315782551",
+        "created_at": "2026-09-29T10:35:20.000Z",
+        "display_text_range": [
+          13,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104882715380359437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747064134490066944",
+              "start": 0,
+              "username": "JiaRanToday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104882715380359437",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104882668018250016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaRanToday 唉，昨天和几个认识多年的老朋友聚餐，当他们把安卓手机随手放在餐桌上时，我看着那些笨重的机身和充满烟火气的介面，心里突然冒出一种很微妙的感觉，那一刻我才惊觉，我们之间好像已经有了某种无形的阶级鸿沟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2104833638315782551",
+        "created_at": "2026-09-29T10:35:09.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104882668018250016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747064134490066944",
+              "start": 0,
+              "username": "JiaRanToday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104882668018250016",
+        "in_reply_to_user_id": "1747064134490066944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104833638315782551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaRanToday 大家换了苹果手机之后，还会和安卓机机主朋友联系吗？还是慢慢就淡了疏远了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104882715380359437",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 788,
+          "like_count": 5249,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2196
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-16T01:12:21.000Z",
+        "description": "📦 𝙋𝙞𝙣𝙠𝙍𝙤𝙗𝙤𝙩\n┣ 😻 168Cm | 49Kg\n┣ 💊 我不是MTF \n┣ 🤖🤖 程序媛 | 接单\n┣ 🫦👀 饥渴 | 💄👠👜🕶️🙈🐔",
+        "id": "1747064134490066944",
+        "is_identity_verified": false,
+        "location": "成都/🚪",
+        "most_recent_tweet_id": "2104879565382525218",
+        "name": "✟艾晚晴✟ 🍥PINK",
+        "pinned_tweet_id": "2074206446317879629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747064134490066944/1777476894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049503080597917697/69QkTC_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 580,
+          "like_count": 1874,
+          "listed_count": 12,
+          "media_count": 158,
+          "tweet_count": 2084
+        },
+        "url": "",
+        "username": "JiaRanToday",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

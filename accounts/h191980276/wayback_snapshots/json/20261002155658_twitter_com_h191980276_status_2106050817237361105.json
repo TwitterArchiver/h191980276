@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2106038063323623566",
+    "created_at": "2026-10-02T15:56:58.000Z",
+    "display_text_range": [
+      11,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106050817237361105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1991445096013918208",
+          "start": 0,
+          "username": "ITN_NekoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106050817237361105",
+    "in_reply_to_user_id": "1991445096013918208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106038063323623566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ITN_NekoY 解释没啥用，因为其实大家都知道是咋回事，只要是搞《跨性别》对《救助者》这两种身份搞亏欠关系，就会有无数个\"被跨跨背刺的救助跨的好心人\"从地里刷新出来管跨跨讨没来头的债"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2106038063323623566",
+        "created_at": "2026-10-02T15:56:58.000Z",
+        "display_text_range": [
+          11,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106050817237361105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1991445096013918208",
+              "start": 0,
+              "username": "ITN_NekoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106050817237361105",
+        "in_reply_to_user_id": "1991445096013918208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106038063323623566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ITN_NekoY 解释没啥用，因为其实大家都知道是咋回事，只要是搞《跨性别》对《救助者》这两种身份搞亏欠关系，就会有无数个\"被跨跨背刺的救助跨的好心人\"从地里刷新出来管跨跨讨没来头的债"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445096013918208",
+        "conversation_id": "2106038063323623566",
+        "created_at": "2026-10-02T15:06:17.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106038063323623566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yueyechunxue/s…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/yueyechunxue/status/2106036821553713492",
+              "start": 131,
+              "url": "https://t.co/pr7FhY5Fo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106038063323623566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106036821553713492",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来，让当事人我来再次解释一次此事\n图二中第一句，就是错的\n是因为温柔junz的一期视频，他在描述死者小言的视频的里面，那时不仅使用“他”，还使用了“一个男孩”，所以我才提出了异议，然后温柔那时候也很快的与我进行了联系，很快的修改了视频而且表示了对跨性别者的尊重 https://t.co/pr7FhY5Fo9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106050817237361105",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 803,
+          "like_count": 5303,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2217
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜以是非定立场而不是以立场定是非｜MTF糖龄2年｜163cm/54kg｜主人&老婆 @KOISHI_IV｜亲妹妹@yueyechunxue｜ 是小猫｜备用号@ITN_Neko_Y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "KOISHI_IV"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "yueyechunxue"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "ITN_Neko_Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ITN_NekoYgroup",
+                "end": 23,
+                "expanded_url": "https://t.me/ITN_NekoYgroup",
+                "start": 0,
+                "url": "https://t.co/MLgSIyrWKx"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "is_identity_verified": false,
+        "location": "距离你-3cm",
+        "most_recent_tweet_id": "2106038863659675815",
+        "name": "英酱猫猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991445096013918208/1783936913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076607976224575488/w3ippncw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 155,
+          "like_count": 10288,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/MLgSIyrWKx",
+        "username": "ITN_NekoY",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

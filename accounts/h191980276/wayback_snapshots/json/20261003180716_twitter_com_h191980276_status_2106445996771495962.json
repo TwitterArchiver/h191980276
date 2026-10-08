@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2106392649280487517",
+    "created_at": "2026-10-03T18:07:16.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106445996771495962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735328474934706176",
+          "start": 0,
+          "username": "makinoseiran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106445996771495962",
+    "in_reply_to_user_id": "1735328474934706176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106392649280487517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makinoseiran 我觉得是假假两性畸形"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2106392649280487517",
+        "created_at": "2026-10-03T18:07:16.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106445996771495962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "makinoseiran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106445996771495962",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106392649280487517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makinoseiran 我觉得是假假两性畸形"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735328474934706176",
+        "conversation_id": "2106392649280487517",
+        "created_at": "2026-10-03T14:35:17.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106392649280487517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yinsuecci/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/yinsuecci/status/2105865046391964149",
+              "start": 145,
+              "url": "https://t.co/flRPr6P1vg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106392649280487517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105865046391964149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有某位言必自称顺女的detrans假两性畸形自己就是个会对人动手动脚的主儿，还好意思在警察面前虚假陈述试图反咬受害人的😁😁😁\n我一直觉得什么人类只要沾上了这个圈子的负面文化，就会不可避免的堕落成一种低能且恶心的，不知廉耻的死妈杂种。那位自称esu老资历却还要掐我下面的小逼崽子就是典型。 https://t.co/flRPr6P1vg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106445996771495962",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 815,
+          "like_count": 5343,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2226
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "aka橘猫/橘猫硬件实验室主创/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MakinoSeiran",
+                "end": 23,
+                "expanded_url": "http://t.me/MakinoSeiran",
+                "start": 0,
+                "url": "https://t.co/KjfemPlqZB"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106443374979129684",
+        "name": "牧野セイラン (青嵐)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735328474934706176/1787851719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086870693875200000/cgyHI0ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 804,
+          "like_count": 27816,
+          "listed_count": 1,
+          "media_count": 578,
+          "tweet_count": 5753
+        },
+        "url": "https://t.co/KjfemPlqZB",
+        "username": "makinoseiran",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

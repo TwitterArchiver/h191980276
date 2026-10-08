@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1920490291708243968",
+    "conversation_id": "2102015824597033343",
+    "created_at": "2026-09-21T12:43:20.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T13:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102015824597033343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/o18i09i1l6oi4l…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/o18i09i1l6oi4l/status/2101703114315419916",
+          "start": 19,
+          "url": "https://t.co/LUYXAFyzqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102015824597033343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101703114315419916",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我曾经也支持lgbt之ftm是真女人 https://t.co/LUYXAFyzqL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920490291708243968",
+        "conversation_id": "2102015824597033343",
+        "created_at": "2026-09-21T12:43:20.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102015824597033343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/o18i09i1l6oi4l…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/o18i09i1l6oi4l/status/2101703114315419916",
+              "start": 19,
+              "url": "https://t.co/LUYXAFyzqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102015824597033343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101703114315419916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我曾经也支持lgbt之ftm是真女人 https://t.co/LUYXAFyzqL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582365228922130433",
+        "conversation_id": "2101703105406816589",
+        "created_at": "2026-09-20T16:00:44.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101703114315419916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101703114315419916",
+        "in_reply_to_user_id": "1582365228922130433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1161,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101703109869461818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3/3\n\n所以，女人们不要再被男权分化各自为营，被洗脑和博爱利用与敌为友，为各种精神/生理/意识形态（包括左右政治倾向、贫富、老年幼年）的“变种男”们争取权力了。\n\n勇敢承认自己的第一性和女本位价值，脱离男本位关系。女人的强大力量，永远只为自己和其她姊妹所用。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-08T14:45:50.000Z",
+        "description": "睾丸卵巢缺失阴蒂肥大｜ 以前是顺性别后来后悔退圈decis｜友顺跨娚｜性多数友好｜友好正常顺反对极端顺｜帮助过很多顺性别者\n关爱chaser群体身心健康，，减少chaser歧视，促进chaser群体融入社会",
+        "id": "1920490291708243968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102015824597033343",
+        "name": "Shiori",
+        "pinned_tweet_id": "2094516996608331846",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094387304303595520/uPbYUJ3P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 712,
+          "like_count": 5108,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 2160
+        },
+        "url": "",
+        "username": "h191980276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-18T13:37:48.000Z",
+        "description": "10bt｜A̶n̶t̶i̶-y̶g̶b̶t̶q｜鉴激大姥｜开放女性转载｜需标明出处｜实践＞理论｜莮发言必暴毙 ｜only Radfem can DM me",
+        "id": "1582365228922130433",
+        "is_identity_verified": false,
+        "location": "XX chromosomal only Island",
+        "most_recent_tweet_id": "2102000746480947228",
+        "name": "☃︎ 小̆̈浣̆̈熊̆̈",
+        "pinned_tweet_id": "1813785953070461236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1582365228922130433/1680665617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739541771443666944/o02uqQQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8562,
+          "following_count": 488,
+          "like_count": 6179,
+          "listed_count": 31,
+          "media_count": 249,
+          "tweet_count": 6798
+        },
+        "url": "",
+        "username": "o18i09i1l6oi4l",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
